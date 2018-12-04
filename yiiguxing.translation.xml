@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiple-cursors" />
       <item value="圆" />
       <item value="sdf" />
       <item value="general" />
@@ -50,11 +51,10 @@
       <item value="supplier" />
       <item value="order" />
       <item value="资金结算记录" />
-      <item value="资金账户" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
+        <entry key="CHINESE" value="46" />
         <entry key="ENGLISH" value="46" />
       </map>
     </option>
