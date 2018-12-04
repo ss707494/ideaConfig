@@ -80,6 +80,13 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/ss_code/css-mode/src/App.vue" timestamp="1543908050282">
+        <mark key="'" line="7" column="18" />
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundList/index.scss" timestamp="1543826801017">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -228,8 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="E:/code/FECodeReview/src/packages/radio/src/index.vue" />
-      <jump line="42" column="11" filename="E:/code/FECodeReview/src/packages/radio/src/index.scss" />
       <jump line="51" column="13" filename="E:/code/FECodeReview/src/packages/radio/src/index.scss" />
       <jump line="52" column="18" filename="E:/code/FECodeReview/src/packages/radio/src/index.scss" />
       <jump line="60" column="6" filename="E:/code/FECodeReview/src/packages/radio/src/index.scss" />
@@ -328,6 +333,8 @@
       <jump line="1" column="15" filename="E:/code/FECodeReview/src/examples/select.vue" />
       <jump line="23" column="26" filename="E:/code/FECodeReview/src/examples/select.vue" />
       <jump line="80" column="10" filename="E:/code/FECodeReview/src/examples/select.vue" />
+      <jump line="6" column="0" filename="E:/ss_code/css-mode/src/App.vue" />
+      <jump line="7" column="18" filename="E:/ss_code/css-mode/src/App.vue" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -346,37 +353,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>sign in</text>
       </register>
       <register name="/" type="4">
         <text>styel</text>
       </register>
-      <register name="0" type="4">
-        <text>switch</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGJ1dHRvbj5zaWduIGluPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0icmFkaW8iCg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7CiAgICBIZWxsb1dvcmxkCiAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0iY2hlY2tib3giCg==</text>
+        <text encoding="base64">aW1wb3J0IEhlbGxvV29ybGQgZnJvbSAnLi9jb21wb25lbnRzL0hlbGxvV29ybGQudnVlJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbWcgYWx0PSJWdWUgbG9nbyIgc3JjPSIuL2Fzc2V0cy9sb2dvLnBuZyI+CiAgICA8SGVsbG9Xb3JsZCBtc2c9IldlbGNvbWUgdG8gWW91ciBWdWUuanMgQXBwIi8+Cg==</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7Cg==</text>
+        <text encoding="base64">I2FwcCB7CiAgZm9udC1mYW1pbHk6ICdBdmVuaXInLCBIZWx2ZXRpY2EsIEFyaWFsLCBzYW5zLXNlcmlmOwogIC13ZWJraXQtZm9udC1zbW9vdGhpbmc6IGFudGlhbGlhc2VkOwogIC1tb3otb3N4LWZvbnQtc21vb3RoaW5nOiBncmF5c2NhbGU7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIGNvbG9yOiAjMmMzZTUwOwogIG1hcmdpbi10b3A6IDYwcHg7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcz0icmFkaW8iCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcz0iY2hlY2tib3giCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9tYWluPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -390,13 +397,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbkxpc3Q6IEFycmF5Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdFR5cGU6IHsKICAgICAgdHlwZTogU3RyaW5nLAogICAgICBkZWZhdWx0OiAncmFkaW8nCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -449,9 +456,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>map</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
