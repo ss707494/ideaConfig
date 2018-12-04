@@ -1,0 +1,12 @@
+<list display="ss">
+  <action id="Vcs.UpdateProject" />
+  <action id="Javascript.Linters.EsLint.Fix" />
+  <action id="OpenEditorInOppositeTabGroup" />
+  <action id="ShowFilePath" />
+  <action id="Cmd.RunCmdShell" />
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
+  <action id="Unsplit" />
+  <action id="NextSplitter" />
+  <action id="RunJsbtTask" />
+  <action id="XDebugger.NewWatch" />
+</list>
