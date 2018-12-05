@@ -122,11 +122,12 @@
         <mark key="]" line="1" column="110" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543980353172">
+      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543980920309">
         <mark key="'" line="3" column="2" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="36" />
+        <mark key="." line="3" column="36" />
+        <mark key="^" line="3" column="36" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/switch/src/index.vue" timestamp="1543902341023">
         <mark key="'" line="5" column="24" />
@@ -135,8 +136,8 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/Module.vue" timestamp="1543975810689">
-        <mark key="'" line="70" column="0" />
+      <file name="E:/ss_code/css-mode/src/components/Module.vue" timestamp="1543980699836">
+        <mark key="'" line="48" column="0" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="78" column="5" />
         <mark key="^" line="46" column="40" />
@@ -172,12 +173,11 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="79" column="17" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1543976178833">
+      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1543981026510">
         <mark key="'" line="52" column="12" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="7" />
-        <mark key="^" line="1" column="6" />
-        <mark key="." line="2" column="7" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1543828610911">
         <mark key="'" line="87" column="22" />
@@ -276,7 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="18" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="18" column="17" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="26" column="27" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="30" column="25" filename="E:/ss_code/css-mode/src/App.vue" />
@@ -376,6 +375,7 @@
       <jump line="118" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="6" column="28" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="4" column="54" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="48" column="0" filename="E:/ss_code/css-mode/src/components/Module.vue" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -394,7 +394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>qqqqq</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RheVw+</text>
@@ -403,25 +403,25 @@
         <text>adminOrder.lastday.paidOrderCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA6aGVpZ2h0PSI2MDAiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0KICAgIAo=</text>
+        <text encoding="base64">ICAgID4gbWFpbiB7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
+        <text encoding="base64">ICAgIGhlaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZ2V0QWRtaW5Qcm9kdWN0c1NlbGwoKS50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgdGhpcy5yZXNwb25zZURhdGEgPSBkYXRhCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -438,13 +438,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -454,7 +454,7 @@
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -497,9 +497,9 @@
         <entry>map</entry>
         <entry>vs</entry>
         <entry>lastda</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
