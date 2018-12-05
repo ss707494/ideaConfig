@@ -57,12 +57,12 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="67" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1543894797259">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1543973481641">
         <mark key="'" line="89" column="45" />
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="27" />
-        <mark key="^" line="79" column="27" />
-        <mark key="." line="79" column="27" />
+        <mark key="[" line="197" column="60" />
+        <mark key="]" line="196" column="40" />
+        <mark key="^" line="196" column="40" />
+        <mark key="." line="196" column="40" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.scss" timestamp="1543804012062">
         <mark key="[" line="73" column="0" />
@@ -373,7 +373,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Module</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOZXdDb21wb25lbnRcPg==</text>
@@ -433,7 +433,7 @@
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
