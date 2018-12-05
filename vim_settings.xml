@@ -35,7 +35,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543979188169">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543979498539">
         <mark key="'" line="4" column="54" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -122,12 +122,11 @@
         <mark key="]" line="1" column="110" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543976304161">
+      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543980353172">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="2" />
-        <mark key="." line="13" column="2" />
-        <mark key="^" line="3" column="6" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/switch/src/index.vue" timestamp="1543902341023">
         <mark key="'" line="5" column="24" />
@@ -161,7 +160,7 @@
         <mark key="." line="62" column="47" />
         <mark key="^" line="62" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1543892797968">
+      <file name="/Dummy.txt" timestamp="1543979292169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -404,25 +403,25 @@
         <text>adminOrder.lastday.paidOrderCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
+        <text encoding="base64">ICAgIH0KICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZ2V0QWRtaW5Qcm9kdWN0c1NlbGwoKS50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgdGhpcy5yZXNwb25zZURhdGEgPSBkYXRhCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0QWRtaW5Qcm9kdWN0c1NlbGwoKS50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgdGhpcy5yZXNwb25zZURhdGEgPSBkYXRhCiAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -439,10 +438,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3V0T2JqLk1vZGUgPSBzdHlsZWQuZGl2YAogICAgd2lkdGg6IDEyMDBweDsKICAgIG1hcmdpbjogMCBhdXRvOwogICAgPiBoZWFkZXIgewogICAgICBoZWlnaHQ6IDQ1MHB4OwogICAgICBiYWNrZ3JvdW5kOiB1cmwoImh0dHBzOi8vYS12Mi5zbmRjZG4uY29tL2Fzc2V0cy9pbWFnZXMvaG9tZS9ocF9pbWFnZS02MTU1ZDZiLmpwZyIpIG5vLXJlcGVhdDsKICAgICAgY29sb3I6ICNmZmY7CiAgICB9CiAgICA+IG1haW4gewogICAgfQpgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
