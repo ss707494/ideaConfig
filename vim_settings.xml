@@ -57,12 +57,12 @@
         <mark key="." line="42" column="57" />
         <mark key="^" line="42" column="67" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1543973481641">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1543973798535">
         <mark key="'" line="89" column="45" />
-        <mark key="[" line="197" column="60" />
-        <mark key="]" line="196" column="40" />
-        <mark key="^" line="196" column="40" />
-        <mark key="." line="196" column="40" />
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.scss" timestamp="1543804012062">
         <mark key="[" line="73" column="0" />
@@ -423,7 +423,7 @@
         <text encoding="base64">ICAgICYtbWFpbiB7CiAgICAgICYtdG9wIHsKICAgICAgICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgICAgICAgbWFyZ2luLXRvcDogNDBweDsKICAgICAgICA+IGlucHV0IHsKICAgICAgICAgIGhlaWdodDogNDZweDsKICAgICAgICAgIGJhY2tncm91bmQ6ICNmMmYyZjI7CiAgICAgICAgICBwYWRkaW5nOiAwIDE2cHg7CiAgICAgICAgICBjb2xvcjogIzY2NjsKICAgICAgICAgIGJvcmRlcjogMDsKICAgICAgICAgIGJvcmRlci1yYWRpdXM6IDRweDsKICAgICAgICAgIHdpZHRoOiA2MDBweDsKICAgICAgICB9CiAgICAgICAgPiBzcGFuIHsKICAgICAgICAgIG1hcmdpbjogMCAxMHB4OwogICAgICAgIH0KICAgICAgICA+IGJ1dHRvbiB7CiAgICAgICAgICBAZXh0ZW5kICVvcmFuZ2UtYnRuOwogICAgICAgICAgcGFkZGluZzogNXB4IDIwcHg7CiAgICAgICAgICBoZWlnaHQ6IDQ2cHg7CiAgICAgICAgfQogICAgICB9CiAgICAgICYtdGl0bGUgewogICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICBtYXJnaW46IDMwcHggYXV0bzsKICAgICAgICBmb250LXNpemU6IDI0cHg7CiAgICAgIH0KICAgICAgJi1saXN0IHsKICAgICAgICBtYXJnaW46IDIwcHg7CiAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICBmbGV4LXdyYXA6IHdyYXA7CiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwogICAgICAgIGRpc3BsYXk6IGdyaWQ7CiAgICAgICAgZ3JpZC10ZW1wbGF0ZS1jb2x1bW5zOiByZXBlYXQoYXV0by1maXQsIDE1JSk7CiAgICAgICAgJi1pdGVtIHsKICAgICAgICAgIGZsZXg6IDAgMCAxNSU7CiAgICAgICAgICBkaXNwbGF5OiBmbGV4OwogICAgICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgICAgICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICAgICAgICA+IGltZyB7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgfQogICAgICAgICAgPiBkaXYgewogICAgICAgICAgICBjb2xvcjogIzMzMzsKICAgICAgICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICAgICAgICBsaW5lLWhlaWdodDogMjhweDsKICAgICAgICAgIH0KICAgICAgICAgID4gc3BhbiB7CiAgICAgICAgICAgIGNvbG9yOiAjOTk5OwogICAgICAgICAgICBmb250LXNpemU6IDEycHg7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -477,8 +477,8 @@
         <entry>map</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
