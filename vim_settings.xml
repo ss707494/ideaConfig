@@ -35,15 +35,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543977553195">
-        <mark key="'" line="6" column="33" />
-        <mark key="[" line="112" column="14" />
-        <mark key="]" line="114" column="19" />
-        <mark key="." line="114" column="19" />
-        <mark key="^" line="114" column="19" />
-      </file>
-      <file name="E:/code/FECodeReview/src/packages/radio/src/img/radio-disabled.svg" timestamp="1543888162875">
-        <mark key="^" line="0" column="89" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543979188169">
+        <mark key="'" line="4" column="54" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="95" column="39" />
       </file>
       <file name="E:/ss_code/css-mode/src/main.js" timestamp="1543916377299">
         <mark key="[" line="1" column="19" />
@@ -218,6 +215,11 @@
         <mark key="." line="24" column="19" />
         <mark key="^" line="24" column="19" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/config/host.js" timestamp="1543978389610">
+        <mark key="'" line="10" column="22" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="10" column="39" />
+      </file>
       <file name="E:/code/FECodeReview/src/packages/radio/src/img/radio-checked.svg" timestamp="1543889688969">
         <mark key="'" line="1" column="11" />
         <mark key="[" line="1" column="11" />
@@ -266,9 +268,6 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/.ideavimrc" timestamp="1543891692888">
-        <mark key="^" line="117" column="0" />
-      </file>
       <file name="E:/code/FECodeReview/src/packages/radio/img/radio-.svg" timestamp="1543832846477">
         <mark key="'" line="5" column="5" />
         <mark key="[" line="0" column="5" />
@@ -278,19 +277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="2" filename="E:/code/FECodeReview/src/packages/switch/src/index.scss" />
-      <jump line="19" column="6" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="68" column="12" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="56" column="11" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="69" column="3" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="34" column="6" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="78" column="25" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="1" column="15" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="23" column="26" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="80" column="10" filename="E:/code/FECodeReview/src/examples/select.vue" />
-      <jump line="6" column="0" filename="E:/ss_code/css-mode/src/App.vue" />
-      <jump line="1" column="23" filename="E:/ss_code/css-mode/src/App.vue" />
-      <jump line="3" column="25" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="14" column="18" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="18" column="17" filename="E:/ss_code/css-mode/src/App.vue" />
       <jump line="26" column="27" filename="E:/ss_code/css-mode/src/App.vue" />
@@ -362,7 +348,6 @@
       <jump line="124" column="46" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="125" column="43" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="126" column="43" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="110" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="112" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="267" column="33" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
       <jump line="266" column="13" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
@@ -374,10 +359,24 @@
       <jump line="14" column="19" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="16" column="92" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="29" column="132" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="17" column="65" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="30" column="112" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="42" column="130" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="6" column="33" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="10" column="22" filename="E:/code/CSHXEventSite/FE/config/host.js" />
+      <jump line="110" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="51" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="43" column="65" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="55" column="87" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="54" column="87" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="59" column="44" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="60" column="54" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="65" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="17" column="78" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="67" column="54" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="72" column="86" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="130" column="36" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="118" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="6" column="28" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="4" column="54" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -396,37 +395,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtaWY9ImFkbWluQ2FwaXRhbC50b2RheSI=</text>
+        <text>qqqqq</text>
       </register>
       <register name="/" type="4">
-        <text>lastda</text>
+        <text encoding="base64">XDx0b2RheVw+</text>
       </register>
       <register name="0" type="4">
-        <text>adminCapital.lastday.totalCapitalAmount | money</text>
+        <text>adminOrder.lastday.paidOrderCount</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZ2V0QWRtaW5Qcm9kdWN0c1NlbGwoKS50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgdGhpcy5yZXNwb25zZURhdGEgPSBkYXRhCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZ2V0QWRtaW5Qcm9kdWN0c1NlbGwoKS50aGVuKChkYXRhKSA9PiB7CiAgICAgICAgdGhpcy5yZXNwb25zZURhdGEgPSBkYXRhCiAgICAgIH0pCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">b3V0T2JqLk1vZGUgPSBzdHlsZWQuZGl2YAogICAgd2lkdGg6IDEyMDBweDsKICAgIG1hcmdpbjogMCBhdXRvOwogICAgPiBoZWFkZXIgewogICAgICBoZWlnaHQ6IDQ1MHB4OwogICAgICBiYWNrZ3JvdW5kOiB1cmwoImh0dHBzOi8vYS12Mi5zbmRjZG4uY29tL2Fzc2V0cy9pbWFnZXMvaG9tZS9ocF9pbWFnZS02MTU1ZDZiLmpwZyIpIG5vLXJlcGVhdDsKICAgICAgY29sb3I6ICNmZmY7CiAgICB9CiAgICA+IG1haW4gewogICAgfQpgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -443,24 +442,23 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA6ZXhwb3IK</text>
+        <text encoding="base64">b3V0T2JqLk1vZGUgPSBzdHlsZWQuZGl2YAogICAgd2lkdGg6IDEyMDBweDsKICAgIG1hcmdpbjogMCBhdXRvOwogICAgPiBoZWFkZXIgewogICAgICBoZWlnaHQ6IDQ1MHB4OwogICAgICBiYWNrZ3JvdW5kOiB1cmwoImh0dHBzOi8vYS12Mi5zbmRjZG4uY29tL2Fzc2V0cy9pbWFnZXMvaG9tZS9ocF9pbWFnZS02MTU1ZDZiLmpwZyIpIG5vLXJlcGVhdDsKICAgICAgY29sb3I6ICNmZmY7CiAgICB9CiAgICA+IG1haW4gewogICAgfQpgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>lastda</last-search>
+      <last-search encoding="base64">XDx0b2RheVw+</last-search>
       <last-offset />
-      <last-pattern>lastda</last-pattern>
+      <last-pattern encoding="base64">XDx0b2RheVw+</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
         <entry encoding="base64">PGltZw==</entry>
         <entry encoding="base64">XDx0b1RyYW5zZmVyTGlzdFw+</entry>
         <entry encoding="base64">XDxnb1RvXD4=</entry>
@@ -480,6 +478,7 @@
         <entry encoding="base64">XDxOZXdDb21wb25lbnRcPg==</entry>
         <entry>this</entry>
         <entry>lastda</entry>
+        <entry encoding="base64">XDx0b2RheVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">YWN0aW9uIEVkaXRvck1hdGNoQnJhY2UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg</entry>
@@ -498,9 +497,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>map</entry>
         <entry>vs</entry>
+        <entry>lastda</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
-        <entry>lastda</entry>
         <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
