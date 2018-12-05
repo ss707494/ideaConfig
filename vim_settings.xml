@@ -35,7 +35,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543979498539">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1543982115945">
         <mark key="'" line="4" column="54" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
@@ -122,11 +122,11 @@
         <mark key="]" line="1" column="110" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543980920309">
+      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1543982397815">
         <mark key="'" line="3" column="2" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="36" />
-        <mark key="." line="3" column="36" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="36" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/switch/src/index.vue" timestamp="1543902341023">
@@ -173,11 +173,11 @@
         <mark key="^" line="73" column="0" />
         <mark key="." line="79" column="17" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1543981026510">
-        <mark key="'" line="52" column="12" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1543982391527">
+        <mark key="'" line="53" column="12" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="8" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1543828610911">
         <mark key="'" line="87" column="22" />
@@ -394,7 +394,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>, {height: Number}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b2RheVw+</text>
@@ -444,7 +444,7 @@
         <text encoding="base64">Ly8gaW1wb3J0IGVjaGFydHMgZnJvbSAnZWNoYXJ0cycK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action ShowBookmarks</text>
       </register>
     </registers>
     <search>
@@ -493,13 +493,13 @@
         <entry>action GotoAction</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>action ToggleBookmark</entry>
-        <entry>action ShowBookmarks</entry>
         <entry>map</entry>
         <entry>vs</entry>
         <entry>lastda</entry>
         <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action ShowBookmarks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
