@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="提现" />
+      <item value="结算" />
       <item value="收支明细" />
       <item value="multiple-cursors" />
       <item value="圆" />
@@ -45,12 +47,10 @@
       <item value="收入" />
       <item value="get Total Data" />
       <item value="结算中" />
-      <item value="结算" />
       <item value="settlement" />
       <item value="settlementing" />
       <item value="settlementimg" />
       <item value="supplier" />
-      <item value="order" />
     </histories>
     <option name="languageScores">
       <map>
