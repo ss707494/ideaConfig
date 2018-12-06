@@ -86,12 +86,12 @@
         <mark key="]" line="1" column="110" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1544063120516">
+      <file name="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" timestamp="1544063155173">
         <mark key="'" line="2" column="6" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="22" />
-        <mark key="." line="5" column="22" />
-        <mark key="^" line="5" column="22" />
+        <mark key="[" line="43" column="16" />
+        <mark key="]" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+        <mark key="^" line="43" column="15" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" timestamp="1544007527915">
         <mark key="'" line="4" column="16" />
@@ -132,8 +132,8 @@
       <file name="/Dummy.txt" timestamp="1544061087787">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1544063009803">
-        <mark key="'" line="9" column="51" />
+      <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1544063666571">
+        <mark key="'" line="13" column="6" />
         <mark key="[" line="9" column="40" />
         <mark key="]" line="9" column="52" />
         <mark key="." line="9" column="40" />
@@ -204,10 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="21" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="41" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="47" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="51" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="34" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="135" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="142" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
@@ -304,6 +300,10 @@
       <jump line="101" column="19" filename="E:/ss_code/css-mode/src/components/Module.vue" />
       <jump line="61" column="0" filename="E:/ss_code/css-mode/src/components/Module.vue" />
       <jump line="2" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" />
+      <jump line="8" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
+      <jump line="3" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
+      <jump line="5" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
+      <jump line="13" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
