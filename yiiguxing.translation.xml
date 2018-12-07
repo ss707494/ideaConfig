@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="income" />
+      <item value="refund" />
+      <item value="总支出金额" />
+      <item value="总收入金额" />
+      <item value="帐户余额" />
+      <item value="账户收支" />
       <item value="提现" />
       <item value="结算" />
       <item value="收支明细" />
@@ -45,17 +51,11 @@
       <item value="间隔" />
       <item value="金额" />
       <item value="收入" />
-      <item value="get Total Data" />
-      <item value="结算中" />
-      <item value="settlement" />
-      <item value="settlementing" />
-      <item value="settlementimg" />
-      <item value="supplier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="49" />
       </map>
     </option>
   </component>
