@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1544597345926">
-        <mark key="[" line="155" column="35" />
-        <mark key="]" line="155" column="36" />
-        <mark key="." line="155" column="36" />
-        <mark key="^" line="155" column="36" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1544604448174">
+        <mark key="'" line="43" column="7" />
+        <mark key="[" line="57" column="8" />
+        <mark key="]" line="57" column="8" />
+        <mark key="." line="57" column="8" />
+        <mark key="^" line="152" column="36" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/category/router.js" timestamp="1544495492151">
         <mark key="'" line="1" column="9" />
@@ -166,7 +167,7 @@
         <mark key="^" line="96" column="37" />
         <mark key="." line="96" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544597430508">
+      <file name="/Dummy.txt" timestamp="1544603289024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -228,7 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="135" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="129" column="23" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="113" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
@@ -328,6 +328,7 @@
       <jump line="5" column="29" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
       <jump line="4" column="22" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
       <jump line="44" column="29" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
+      <jump line="43" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -349,10 +350,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IHYtaWY9ImFkbWluT3JkZXIudG9kYXki</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaG93RmluaXNoVGltZVw+</text>
+        <text>v-if</text>
       </register>
       <register name="0" type="4">
         <text>showBusiness</text>
@@ -403,9 +404,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaG93RmluaXNoVGltZVw+</last-search>
+      <last-search>v-if</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaG93RmluaXNoVGltZVw+</last-pattern>
+      <last-pattern>v-if</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +414,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry>transaction</entry>
         <entry>income</entry>
         <entry encoding="base64">XDxwYXltZW50VHlwZVw+</entry>
@@ -433,6 +433,7 @@
         <entry encoding="base64">XDxTZXR0bGVtZW50TGlzdFw+</entry>
         <entry encoding="base64">XDxkZXRhaWxMaW5rXD4=</entry>
         <entry encoding="base64">XDxzaG93RmluaXNoVGltZVw+</entry>
+        <entry>v-if</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bm1hcCA8c3BhY2U+dyBhOmFjdGlvbiBFZGl0b3JTZWxlY3RXb3JkPGNyPg==</entry>
