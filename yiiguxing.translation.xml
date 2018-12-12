@@ -1,14 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="订单支付" />
+      <item value="支付" />
+      <item value="退款" />
+      <item value="提现" />
       <item value="结算" />
+      <item value="transaction" />
       <item value="income" />
       <item value="refund" />
       <item value="总支出金额" />
       <item value="总收入金额" />
       <item value="帐户余额" />
       <item value="账户收支" />
-      <item value="提现" />
       <item value="收支明细" />
       <item value="multiple-cursors" />
       <item value="圆" />
@@ -47,15 +51,11 @@
       <item value="bottom" />
       <item value="position" />
       <item value="指示器" />
-      <item value="动画" />
-      <item value="间隔" />
-      <item value="金额" />
-      <item value="收入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="55" />
+        <entry key="ENGLISH" value="55" />
       </map>
     </option>
   </component>
