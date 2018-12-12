@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="template" />
+      <item value="templ" />
       <item value="订单支付" />
       <item value="支付" />
       <item value="退款" />
@@ -49,8 +51,6 @@
       <item value="delta" />
       <item value="M Swipe" />
       <item value="bottom" />
-      <item value="position" />
-      <item value="指示器" />
     </histories>
     <option name="languageScores">
       <map>

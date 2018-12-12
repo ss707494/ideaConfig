@@ -118,7 +118,7 @@
         <mark key="^" line="96" column="37" />
         <mark key="." line="96" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544613125076">
+      <file name="/Dummy.txt" timestamp="1544613173813">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -137,12 +137,18 @@
         <mark key="." line="22" column="14" />
         <mark key="^" line="22" column="7" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1544601563636">
-        <mark key="'" line="34" column="34" />
-        <mark key="[" line="67" column="35" />
-        <mark key="]" line="67" column="36" />
-        <mark key="." line="67" column="36" />
-        <mark key="^" line="67" column="34" />
+      <file name="E:/code/CSHXEventSite/FE/src/api/manage/index.js" timestamp="1544613854796">
+        <mark key="'" line="297" column="13" />
+        <mark key="[" line="297" column="13" />
+        <mark key="]" line="297" column="36" />
+        <mark key="." line="297" column="17" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1544614107903">
+        <mark key="'" line="21" column="52" />
+        <mark key="[" line="21" column="18" />
+        <mark key="]" line="21" column="53" />
+        <mark key="." line="21" column="18" />
+        <mark key="^" line="20" column="17" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/utils/money.js" timestamp="1544583662133">
         <mark key="[" line="0" column="132" />
@@ -229,19 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="48" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="223" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="106" column="26" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="131" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="45" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="177" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="178" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="25" column="22" filename="E:/code/CSHXEventSite/FE/src/store/modules/menu.js" />
-      <jump line="14" column="10" filename="E:/code/CSHXEventSite/FE/src/store/modules/menu.js" />
-      <jump line="9" column="55" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="178" column="17" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.scss" />
-      <jump line="129" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="130" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="131" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="155" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="135" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
@@ -282,7 +275,6 @@
       <jump line="32" column="35" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="33" column="31" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="115" column="20" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="116" column="37" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="121" column="23" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="34" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="104" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundList/index.vue" />
@@ -329,6 +321,20 @@
       <jump line="125" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="128" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="17" column="133" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
+      <jump line="66" column="36" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="65" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
+      <jump line="68" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
+      <jump line="296" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
+      <jump line="298" column="54" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
+      <jump line="297" column="13" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
+      <jump line="88" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="116" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="118" column="11" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="110" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="9" column="52" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="16" column="57" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="20" column="30" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="21" column="52" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,13 +356,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JiY=</text>
+        <text>adminSettlementBasics.settledAmount</text>
       </register>
       <register name="/" type="4">
-        <text>totalCapitalAmount</text>
+        <text>132</text>
       </register>
       <register name="0" type="4">
-        <text>this.adminCapital.today</text>
+        <text>adminSettlementBasics.totalAccountBalance</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,13 +430,13 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>reg</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>totalCapitalAmount</last-search>
+      <last-search>132</last-search>
       <last-offset />
-      <last-pattern>totalCapitalAmount</last-pattern>
+      <last-pattern>132</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -438,7 +444,6 @@
     </search>
     <history>
       <history-search>
-        <entry>income</entry>
         <entry encoding="base64">XDxwYXltZW50VHlwZVw+</entry>
         <entry>goToDetail</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblR5cGVcPg==</entry>
@@ -451,13 +456,14 @@
         <entry encoding="base64">XDxsaXN0RGF0YVw+</entry>
         <entry>getsett</entry>
         <entry encoding="base64">XDxnZXRTZXR0bGVtZW50UmVjb3JkTGlzdFw+</entry>
-        <entry>get</entry>
         <entry>getdata</entry>
         <entry encoding="base64">XDxTZXR0bGVtZW50TGlzdFw+</entry>
         <entry encoding="base64">XDxkZXRhaWxMaW5rXD4=</entry>
         <entry encoding="base64">XDxzaG93RmluaXNoVGltZVw+</entry>
         <entry>v-if</entry>
         <entry>totalCapitalAmount</entry>
+        <entry>get</entry>
+        <entry>132</entry>
       </history-search>
       <history-cmd>
         <entry>jumplist</entry>
@@ -475,11 +481,11 @@
         <entry>action ShowBookmarks</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action FindInPath</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
         <entry>regs</entry>
         <entry>reg</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
