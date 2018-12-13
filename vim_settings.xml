@@ -118,7 +118,7 @@
         <mark key="^" line="96" column="37" />
         <mark key="." line="96" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544613173813">
+      <file name="/Dummy.txt" timestamp="1544614317839">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -168,12 +168,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544594095398">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="178" column="3" />
-        <mark key="^" line="178" column="3" />
-        <mark key="." line="178" column="3" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544664159994">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="^" line="190" column="26" />
+        <mark key="." line="188" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544586335059">
         <mark key="'" line="169" column="0" />
@@ -235,13 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="155" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="135" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="18" column="111" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="20" column="84" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="48" column="130" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="154" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="160" column="32" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="156" column="29" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="0" column="17" filename="E:/code/CSHXEventSite/FE/src/store/modules/menu.js" />
@@ -335,6 +328,13 @@
       <jump line="16" column="57" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="20" column="30" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="21" column="52" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="178" column="50" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="177" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="180" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="185" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="184" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="186" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="187" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -356,36 +356,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>adminSettlementBasics.settledAmount</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>132</text>
       </register>
-      <register name="0" type="4">
-        <text>adminSettlementBasics.totalAccountBalance</text>
+      <register name="0" type="2">
+        <text encoding="base64">I3tXaGVlbFVwfTo6Z290byB3aW5MZWZ0Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
-        <keys>
-          <key char="118" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="101" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -409,19 +392,7 @@
         <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIHRoaXMuYWRtaW5DYXBpdGFsLnRvZGF5LnRvdGFsVW5TZXR0bGVkQW1vdW50ID0gJzEyMzQ1NjcnCiAgICAgIH0pCg==</text>
       </register>
       <register name="w" type="4">
-        <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="97" code="0" mods="0" />
-          <key char="32" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="38" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-        </keys>
+        <text />
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgaWYgKHRoaXMuYWRtaW5DYXBpdGFsLnRvZGF5KSB7CiAgICAgICAgfQogICAgICB9LCAyMDAwKQo=</text>
@@ -430,7 +401,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -484,8 +455,8 @@
         <entry>action QuickList.ss</entry>
         <entry>regs</entry>
         <entry>reg</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
