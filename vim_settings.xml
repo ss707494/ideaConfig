@@ -137,7 +137,7 @@
         <mark key="^" line="230" column="72" />
         <mark key="." line="230" column="72" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544670873949">
+      <file name="/Dummy.txt" timestamp="1544680235815">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -148,6 +148,12 @@
         <mark key="]" line="19" column="19" />
         <mark key="." line="19" column="16" />
         <mark key="^" line="12" column="21" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" timestamp="1544686912750">
+        <mark key="[" line="176" column="2" />
+        <mark key="]" line="176" column="2" />
+        <mark key="." line="176" column="2" />
+        <mark key="^" line="176" column="2" />
       </file>
       <file name="E:/ss_code/css-mode/src/components/StyledComponents.vue" timestamp="1544508503797">
         <mark key="'" line="7" column="11" />
@@ -184,12 +190,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544665212619">
-        <mark key="'" line="190" column="0" />
-        <mark key="[" line="190" column="0" />
-        <mark key="]" line="190" column="0" />
-        <mark key="^" line="188" column="0" />
-        <mark key="." line="190" column="0" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544688754037">
+        <mark key="'" line="219" column="14" />
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="11" />
+        <mark key="^" line="13" column="11" />
+        <mark key="." line="13" column="11" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544673273058">
         <mark key="'" line="169" column="0" />
@@ -245,47 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="92" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="49" column="108" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="60" column="122" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="62" column="95" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="66" column="82" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="67" column="94" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="72" column="48" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="73" column="94" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="77" column="82" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="78" column="94" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="107" column="31" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="19" column="110" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="125" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="128" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="17" column="133" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="66" column="36" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="65" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
-      <jump line="68" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
-      <jump line="296" column="0" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
-      <jump line="298" column="54" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
-      <jump line="297" column="13" filename="E:/code/CSHXEventSite/FE/src/api/manage/index.js" />
-      <jump line="88" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="116" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="118" column="11" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="110" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="9" column="52" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="16" column="57" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="20" column="30" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="21" column="52" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="178" column="50" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="177" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="180" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="185" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="184" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="186" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="187" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="147" column="21" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
-      <jump line="140" column="37" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
-      <jump line="144" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
-      <jump line="187" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
-      <jump line="288" column="30" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
       <jump line="55" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
       <jump line="207" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
       <jump line="138" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
@@ -345,6 +310,47 @@
       <jump line="110" column="28" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
       <jump line="200" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
       <jump line="230" column="61" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="24" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="193" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="5" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="91" column="2" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="42" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="194" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="146" column="38" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="192" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="201" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="202" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="199" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="195" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="203" column="36" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="166" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="206" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="209" column="6" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="196" column="5" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="92" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="98" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="118" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="208" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="125" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="168" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="200" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="190" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="11" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="197" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="12" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="13" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="205" column="29" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="204" column="40" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="57" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="114" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="214" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="215" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="216" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="210" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="211" column="19" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="212" column="16" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="213" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="219" column="14" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -366,58 +372,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>150000199410116561</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text>detail</text>
+        <text encoding="base64">XDxvbmVNb3ZlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>/manage/supplier/settlement/detail/</text>
+      <register name="0" type="2">
+        <text encoding="base64">Jzo6TW91c2VDbGljaywgcmlnaHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bjo6CnRvb2x0aXAsIG9uZTolb25lTW92ZSUKc2xlZXAsIDIwMDAKdG9vbHRpcCwKcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6ICcnLAogICAgICAgIGVuZFRpbWU6ICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bW91c2VTcGVlZCA6PSAwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">b25lTW92ZSA6PSAiMTAiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">bW91c2VTdGF0ZSA6PSBmYWxzZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">b25lTW92ZSA6PSAiMTAiCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FyVXNlUnVsZXM6IHsKICAgICAgICBndWVzdElkOiBbCiAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnx+vRodTxvM6x9icsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgXSwKICAgICAgICBjYXJVc2VUeXBlOiBbCiAgICAgICAgICB7IHJlcXVpcmVkOiB0cnVlLCBtZXNzYWdlOiAnx+vRodTx0NCzzMDgsfAnLCB0cmlnZ2VyOiAnYmx1cicgfQogICAgICAgIF0sCiAgICAgICAgY2FyVXNlRGVzY3JpcHRpb246IFsKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfH68rkyOvQ0LPMw+jK9icsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgXSwKICAgICAgICBzdGFydFRpbWU6IFsKICAgICAgICAgIHsgdmFsaWRhdG9yOiBjaGVja1RpbWVTdGFydCwgdHJpZ2dlcjogJ2NoYW5nZScgfSwKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfH69Gh1PHQ0LPMyrG85CcsIHRyaWdnZXI6ICdibHVyJyB9CiAgICAgICAgXSwKICAgICAgICBlbmRUaW1lOiBbCiAgICAgICAgICB7IHZhbGlkYXRvcjogY2hlY2tUaW1lRW5kLCB0cmlnZ2VyOiAnY2hhbmdlJyB9LAogICAgICAgICAgeyByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ8fr0aHU8dDQs8zKsbzkJywgdHJpZ2dlcjogJ2JsdXInIH0KICAgICAgICBdLAogICAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc3RhcnQgPSBuZXcgRGF0ZSh0aGlzLm1vZGVsW3RoaXMuZmllbGRzWzBdXSkKICAgICAgY29uc3QgZW5kID0gbmV3IERhdGUodGhpcy5tb2RlbFt0aGlzLmZpZWxkc1sxXV0pCg==</text>
+        <text encoding="base64">aDo6TW91c2VNb3ZlLCAlIG9uZU1vdmUlLCAwLCAlIG1vdXNlU3BlZWQlLCBSCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action ToggleBookmark</text>
       </register>
     </registers>
     <search>
-      <last-search>detail</last-search>
+      <last-search encoding="base64">XDxvbmVNb3ZlXD4=</last-search>
       <last-offset />
-      <last-pattern>detail</last-pattern>
+      <last-pattern encoding="base64">XDxvbmVNb3ZlXD4=</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -425,16 +431,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getsett</entry>
-        <entry encoding="base64">XDxnZXRTZXR0bGVtZW50UmVjb3JkTGlzdFw+</entry>
-        <entry>getdata</entry>
-        <entry encoding="base64">XDxTZXR0bGVtZW50TGlzdFw+</entry>
-        <entry encoding="base64">XDxkZXRhaWxMaW5rXD4=</entry>
-        <entry encoding="base64">XDxzaG93RmluaXNoVGltZVw+</entry>
-        <entry>v-if</entry>
-        <entry>totalCapitalAmount</entry>
-        <entry>get</entry>
-        <entry>132</entry>
         <entry encoding="base64">XDxjYXJVc2VUeXB1XD4=</entry>
         <entry encoding="base64">XDxwaWNrZXJPcHRpb25zXD4=</entry>
         <entry>pickerop</entry>
@@ -445,6 +441,16 @@
         <entry>checkTimeStart</entry>
         <entry encoding="base64">XDxlZGl0SW5mb1w+</entry>
         <entry>detail</entry>
+        <entry encoding="base64">XDxzaW5nbGVLZXlTdGF0ZVw+</entry>
+        <entry encoding="base64">XDxBX0Foa1BhdGhcPg==</entry>
+        <entry encoding="base64">XDxkaWN0UnVuXD4=</entry>
+        <entry>if</entry>
+        <entry>cap</entry>
+        <entry>_</entry>
+        <entry encoding="base64">XDxNc2dcPg==</entry>
+        <entry encoding="base64">XDxzbGVlcFw+</entry>
+        <entry>idea</entry>
+        <entry encoding="base64">XDxvbmVNb3ZlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>jumplist</entry>
@@ -458,15 +464,15 @@
         <entry>help index</entry>
         <entry>sort</entry>
         <entry>source</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action FindInPath</entry>
         <entry>regs</entry>
         <entry>reg</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action ToggleBookmark</entry>
       </history-cmd>
       <history-expr />
       <history-input />
