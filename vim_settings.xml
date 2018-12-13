@@ -191,12 +191,12 @@
         <mark key="^" line="188" column="0" />
         <mark key="." line="190" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544672483600">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544673273058">
         <mark key="'" line="169" column="0" />
-        <mark key="[" line="171" column="69" />
-        <mark key="]" line="171" column="68" />
-        <mark key="^" line="171" column="68" />
-        <mark key="." line="171" column="68" />
+        <mark key="[" line="171" column="10" />
+        <mark key="]" line="171" column="9" />
+        <mark key="^" line="171" column="9" />
+        <mark key="." line="171" column="9" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundList/index.vue" timestamp="1544600841435">
         <mark key="'" line="96" column="33" />
@@ -411,7 +411,7 @@
         <text encoding="base64">ICAgICAgY29uc3Qgc3RhcnQgPSBuZXcgRGF0ZSh0aGlzLm1vZGVsW3RoaXMuZmllbGRzWzBdXSkKICAgICAgY29uc3QgZW5kID0gbmV3IERhdGUodGhpcy5tb2RlbFt0aGlzLmZpZWxkc1sxXV0pCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -464,9 +464,9 @@
         <entry>action FindInPath</entry>
         <entry>regs</entry>
         <entry>reg</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
