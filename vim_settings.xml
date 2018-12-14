@@ -17,21 +17,6 @@
         <mark key="." line="128" column="10" />
         <mark key="^" line="128" column="10" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/category/router.js" timestamp="1544495492151">
-        <mark key="'" line="1" column="9" />
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="16" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/index.scss" timestamp="1544583582166">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="38" column="7" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/enums/index.js" timestamp="1544516161131">
-        <mark key="'" line="41" column="51" />
-        <mark key="[" line="41" column="51" />
-        <mark key="]" line="41" column="57" />
-      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.scss" timestamp="1544667288235">
         <mark key="'" line="79" column="20" />
         <mark key="[" line="82" column="19" />
@@ -60,11 +45,6 @@
         <mark key="^" line="46" column="79" />
         <mark key="." line="47" column="66" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/enums/settlement.js" timestamp="1544580124265">
-        <mark key="'" line="14" column="16" />
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="33" />
-      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" timestamp="1544691228788">
         <mark key="'" line="298" column="0" />
         <mark key="[" line="298" column="0" />
@@ -76,11 +56,6 @@
         <mark key="'" line="363" column="13" />
         <mark key="[" line="363" column="13" />
         <mark key="]" line="363" column="35" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.scss" timestamp="1544497495955">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="43" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" timestamp="1544598760023">
         <mark key="'" line="24" column="26" />
@@ -96,40 +71,15 @@
         <mark key="." line="17" column="28" />
         <mark key="^" line="17" column="28" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/list/index.vue" timestamp="1544599340711">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="99" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/router.js" timestamp="1544522018621">
-        <mark key="'" line="8" column="13" />
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="25" />
-      </file>
       <file name="E:/code/CSHXEventSite/FE/build/webpack.dev.conf.js" timestamp="1544783637330">
         <mark key="'" line="50" column="31" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/components/TimeSlot/index.vue" timestamp="1544669731789">
-        <mark key="'" line="78" column="21" />
-        <mark key="[" line="78" column="21" />
-        <mark key="]" line="78" column="73" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundList/index.scss" timestamp="1544583368525">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="39" column="5" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/index.vue" timestamp="1544585765531">
-        <mark key="'" line="82" column="76" />
-        <mark key="[" line="82" column="76" />
-        <mark key="]" line="82" column="94" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" timestamp="1544512995356">
-        <mark key="'" line="6" column="18" />
-        <mark key="[" line="11" column="82" />
-        <mark key="]" line="11" column="81" />
-        <mark key="^" line="11" column="81" />
-        <mark key="." line="11" column="81" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" timestamp="1544785464291">
+        <mark key="'" line="16" column="16" />
+        <mark key="[" line="11" column="42" />
+        <mark key="]" line="11" column="41" />
+        <mark key="^" line="11" column="41" />
+        <mark key="." line="11" column="41" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.scss" timestamp="1544586383258">
         <mark key="'" line="0" column="0" />
@@ -243,15 +193,11 @@
         <mark key="." line="56" column="19" />
         <mark key="^" line="56" column="19" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/index.scss" timestamp="1544523143229">
-        <mark key="'" line="66" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="66" column="1" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.scss" timestamp="1544523961377">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="3" column="1" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1544785513103">
+        <mark key="[" line="84" column="20" />
+        <mark key="]" line="84" column="20" />
+        <mark key="^" line="84" column="20" />
+        <mark key="." line="84" column="20" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" timestamp="1544586639507">
         <mark key="'" line="10" column="16" />
@@ -274,8 +220,8 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/config/index.js" timestamp="1544783654572">
-        <mark key="'" line="37" column="14" />
+      <file name="E:/code/CSHXEventSite/FE/config/index.js" timestamp="1544785029131">
+        <mark key="'" line="38" column="16" />
         <mark key="[" line="37" column="8" />
         <mark key="]" line="37" column="15" />
         <mark key="." line="37" column="8" />
@@ -283,9 +229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="304" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="292" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="264" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="294" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="261" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="269" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -383,6 +326,9 @@
       <jump line="77" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="76" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="78" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="38" column="16" filename="E:/code/CSHXEventSite/FE/config/index.js" />
+      <jump line="6" column="18" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" />
+      <jump line="16" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -404,7 +350,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>ntainers/supplier/settlement/components/TransferList'</text>
       </register>
       <register name="/" type="4">
         <text>#ifw</text>
