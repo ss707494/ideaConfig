@@ -106,6 +106,9 @@
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="25" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/build/webpack.dev.conf.js" timestamp="1544783637330">
+        <mark key="'" line="50" column="31" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/components/TimeSlot/index.vue" timestamp="1544669731789">
         <mark key="'" line="78" column="21" />
         <mark key="[" line="78" column="21" />
@@ -142,8 +145,8 @@
         <mark key="^" line="241" column="72" />
         <mark key="." line="230" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544778814509">
-        <mark key="[" line="0" column="8" />
+      <file name="/Dummy.txt" timestamp="1544782877463">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
@@ -161,12 +164,11 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" timestamp="1544776857763">
-        <mark key="'" line="206" column="6" />
-        <mark key="[" line="149" column="2" />
-        <mark key="]" line="149" column="2" />
-        <mark key="." line="149" column="2" />
-        <mark key="^" line="149" column="2" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" timestamp="1544784356032">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="80" column="22" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/utils/exportFile.js" timestamp="1544753658894">
         <mark key="'" line="0" column="25" />
@@ -183,12 +185,6 @@
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1544771824706">
         <mark key="'" line="31" column="8" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/api/manage/index.js" timestamp="1544613854796">
-        <mark key="'" line="297" column="13" />
-        <mark key="[" line="297" column="13" />
-        <mark key="]" line="297" column="36" />
-        <mark key="." line="297" column="17" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1544778747998">
         <mark key="'" line="69" column="37" />
@@ -220,12 +216,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544773488041">
-        <mark key="'" line="13" column="11" />
-        <mark key="[" line="275" column="14" />
-        <mark key="]" line="275" column="14" />
-        <mark key="." line="275" column="14" />
-        <mark key="^" line="275" column="14" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544784640647">
+        <mark key="'" line="78" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="16" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544777766957">
         <mark key="'" line="190" column="8" />
@@ -278,18 +274,15 @@
         <mark key="^" line="27" column="21" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/config/index.js" timestamp="1544783654572">
+        <mark key="'" line="37" column="14" />
+        <mark key="[" line="37" column="8" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="8" />
+        <mark key="^" line="36" column="7" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="277" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="278" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="297" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="313" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="322" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="314" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="311" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="300" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="306" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="302" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="304" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="292" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="264" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -302,7 +295,6 @@
       <jump line="282" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="285" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="286" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="289" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="303" column="40" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="265" column="101" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="305" column="28" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -357,7 +349,6 @@
       <jump line="171" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" />
       <jump line="141" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" />
       <jump line="231" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="13" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="169" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" />
       <jump line="54" column="33" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="1" column="33" filename="E:/code/CSHXEventSite/FE/config/host.local.js" />
@@ -380,6 +371,18 @@
       <jump line="121" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" />
       <jump line="271" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" />
       <jump line="269" column="3" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" />
+      <jump line="50" column="31" filename="E:/code/CSHXEventSite/FE/build/webpack.dev.conf.js" />
+      <jump line="33" column="0" filename="E:/code/CSHXEventSite/FE/config/index.js" />
+      <jump line="37" column="14" filename="E:/code/CSHXEventSite/FE/config/index.js" />
+      <jump line="289" column="14" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="13" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="99" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="79" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="49" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" />
+      <jump line="58" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" />
+      <jump line="77" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="76" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="78" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -401,58 +404,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ILW8s/Y=</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRMaXN0RGF0YVw+</text>
+        <text>#ifw</text>
       </register>
       <register name="0" type="4">
-        <text>getData</text>
+        <text>IfWinActive</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">XmQ6OiBzZW5kIHtQZ0RufQo=</text>
       </register>
       <register name="q" type="4">
         <text>p`]j^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0SW5mbygpCiAgICB0aGlzLmdldExpc3QoKQo=</text>
+        <text encoding="base64">XmQ6OiBzZW5kIHtQZ0RufQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">OyA/Pz8/Pz8/PwpNZW51LCBUcmF5LCBJY29uLCAlQV9TY3JpcHREaXIlXHJlc291cmNlc1xhaGsuaWNvCk1lbnUsIFRyYXksIENsaWNrLCAxCk1lbnUsIFRyYXksIFRpcCwgQUhLIFNjcmlwdCBNYW5hZ2VyCk1lbnUsIFRyYXksIEFkZCwgQUhLIFNjcmlwdCBNYW5hZ2VyLCBNZW51X1Nob3cKTWVudSwgVHJheSwgVG9nZ2xlRW5hYmxlLCBBSEsgU2NyaXB0IE1hbmFnZXIKTWVudSwgVHJheSwgRGVmYXVsdCwgQUhLIFNjcmlwdCBNYW5hZ2VyCk1lbnUsIFRyYXksIEFkZApNZW51LCBUcmF5LCBBZGQsID8/Pz8/Pz+n3z8/KCZBKWB0Q3RybCArIEFsdCArIFNoaWZ0ICsgUSwgdHNrX29wZW5BbGwKTWVudSwgVHJheSwgQWRkLCA/Pz8/Pz8/KCZPKWB0Q3RybCArIEFsdCArIFNoaWZ0ICsgVywgOnNjcmlwdHNfdW5vcGVuCk1lbnUsIFRyYXksIEFkZCwgPz8/Pz8/p98/PygmTClgdEN0cmwgKyBBbHQgKyBTaGlmdCArIEEsIHRza19jbG9zZUFsbApNZW51LCBUcmF5LCBBZGQsID8/Pz8/KCZDKWB0Q3RybCArIEFsdCArIFNoaWZ0ICsgUywgOnNjcmlwdHNfdW5jbG9zZQpNZW51LCBUcmF5LCBBZGQKTWVudSwgVHJheSwgQWRkLCA/Pz8/PygmSSlgdEN0cmwgKyBBbHQgKyBTaGlmdCArIEUsIDpzY3JpcHRzX2VkaXQKTWVudSwgVHJheSwgQWRkLCA/Pz8/Pz8oJlMpYHRDdHJsICsgQWx0ICsgU2hpZnQgKyBELCA6c2NyaXB0c19yZWxvYWQKTWVudSwgVHJheSwgQWRkCk1lbnUsIFRyYXksIEFkZCwgPz8/Pz8/PygmRClgdCVBX1NjcmlwdERpciUsIE1lbnVfVHJheV9PcGVuRGlyCk1lbnUsIFRyYXksIEFkZApNZW51LCBUcmF5LCBBZGQsID8/Pz8/Pz8/KCZSKSwgTWVudV9UcmF5X1JlbG9hZApNZW51LCBUcmF5LCBBZGQKTWVudSwgVHJheSwgQWRkLCA/Pz8/Pz8oJkUpLCBNZW51X1RyYXlfRWRpdApNZW51LCBUcmF5LCBBZGQKTWVudSwgVHJheSwgQWRkLCA/Pz8oJlgpYHRDdHJsICsgQWx0ICsgU2hpZnQgKyBYLCBNZW51X1RyYXlfRXhpdApNZW51LCBUcmF5LCBOb1N0YW5kYXJkCg==</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZ2V0TGlzdERhdGEoKQogICAgdGhpcy5nZXRBZG1pblNldHRsZW1lbnRCYXNpY3MoKQo=</text>
+        <text encoding="base64">I0lmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpzaG93LWRvbmU9ImZhbHNlIgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0SW5mbygpCiAgICB0aGlzLmdldExpc3QoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDpzaG93LXZvdWNoZXI9InRydWUiCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Oz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo7ID8/Pz+nsz8gPz8/CjsgaHR0cDovL3d3d3cuc25vdzUxOC5jbi8KOyA/Pz8/Pz9odHRwOi8vYWhrLjVkNmQuY29tL3RocmVhZC03MDEtMS0zLmh0bWwKOyA/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8KOz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQojUGVyc2lzdGVudAojU2luZ2xlSW5zdGFuY2UgZm9yY2UKClNldFdvcmtpbmdEaXIgJUFfU2NyaXB0RGlyJVxzY3JpcHRzXAoKRGV0ZWN0SGlkZGVuV2luZG93cyBPbiAgOyA/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/PwpTZXRUaXRsZU1hdGNoTW9kZSAyICA7ID8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz8/Pz+hpD8/Pz8KCnNjcmlwdENvdW50ID0gMAoKT25FeGl0IEV4aXRTdWIKCk1lbnUgc2NyaXB0c191bm9wZW4sIEFkZCwgPz8/Pz8/PywgTWVudV9UcmF5X0V4aXQKTWVudSBzY3JpcHRzX3Vub3BlbiwgVG9nZ2xlRW5hYmxlLCA/Pz8/Pz8/Ck1lbnUgc2NyaXB0c191bm9wZW4sIERlZmF1bHQsID8/Pz8/Pz8KTWVudSBzY3JpcHRzX3Vub3BlbiwgQWRkCk1lbnUgc2NyaXB0c191bmNsb3NlLCBBZGQsID8/Pz8/LCBNZW51X1RyYXlfRXhpdApNZW51IHNjcmlwdHNfdW5jbG9zZSwgVG9nZ2xlRW5hYmxlLCA/Pz8/PwpNZW51IHNjcmlwdHNfdW5jbG9zZSwgRGVmYXVsdCwgPz8/Pz8KTWVudSBzY3JpcHRzX3VuY2xvc2UsIEFkZApNZW51IHNjcmlwdHNfZWRpdCwgQWRkLCA/Pz8/PywgTWVudV9UcmF5X0V4aXQKTWVudSBzY3JpcHRzX2VkaXQsIFRvZ2dsZUVuYWJsZSwgPz8/Pz8KTWVudSBzY3JpcHRzX2VkaXQsIERlZmF1bHQsID8/Pz8/Ck1lbnUgc2NyaXB0c19lZGl0LCBBZGQKTWVudSBzY3JpcHRzX3JlbG9hZCwgQWRkLCA/Pz8/Pz8sIE1lbnVfVHJheV9FeGl0Ck1lbnUgc2NyaXB0c19yZWxvYWQsIFRvZ2dsZUVuYWJsZSwgPz8/Pz8/Ck1lbnUgc2NyaXB0c19yZWxvYWQsIERlZmF1bHQsID8/Pz8/PwpNZW51IHNjcmlwdHNfcmVsb2FkLCBBZGQKCjsgPz8/P3NjcmlwdHM/Pz8/P2Foaz8/PwpMb29wLCAlQV9TY3JpcHREaXIlXHNjcmlwdHNcKi5haGsKewogICAgU3RyaW5nUmVQbGFjZSBtZW51TmFtZSwgQV9Mb29wRmlsZU5hbWUsIC5haGsKCiAgICBzY3JpcHRDb3VudCArPSAxCiAgICBzY3JpcHRzJXNjcmlwdENvdW50JTAgOj0gQV9Mb29wRmlsZU5hbWUKCiAgICBJZldpbkV4aXN0ICVBX0xvb3BGaWxlTmFtZSUgLSBBdXRvSG90a2V5ICAgIDsgPz8/Pz8KICAgIHsKICAgICAgICBNZW51IHNjcmlwdHNfdW5jbG9zZSwgYWRkLCAlbWVudU5hbWUlLCB0c2tfY2xvc2UKICAgICAgICBzY3JpcHRzJXNjcmlwdENvdW50JTEgPSAxCiAgICB9CiAgICBlbHNlCiAgICB7CiAgICAgICAgTWVudSBzY3JpcHRzX3Vub3BlbiwgYWRkLCAlbWVudU5hbWUlLCB0c2tfb3BlbgogICAgICAgIHNjcmlwdHMlc2NyaXB0Q291bnQlMSA9IDAKICAgIH0KICAgIE1lbnUgc2NyaXB0c19lZGl0LCBhZGQsICVtZW51TmFtZSUsIHRza19lZGl0CiAgICBNZW51IHNjcmlwdHNfcmVsb2FkLCBhZGQsICVtZW51TmFtZSUsIHRza19yZWxvYWQKfQoKCjsgPz8/Pz8/Pz8KTWVudSwgVHJheSwgSWNvbiwgJUFfU2NyaXB0RGlyJVxyZXNvdXJjZXNcYWhrLmljbwpNZW51LCBUcmF5LCBDbGljaywgMQpNZW51LCBUcmF5LCBUaXAsIEFISyBTY3JpcHQgTWFuYWdlcgpNZW51LCBUcmF5LCBBZGQsIEFISyBTY3JpcHQgTWFuYWdlciwgTWVudV9TaG93Ck1lbnUsIFRyYXksIFRvZ2dsZUVuYWJsZSwgQUhLIFNjcmlwdCBNYW5hZ2VyCk1lbnUsIFRyYXksIERlZmF1bHQsIEFISyBTY3JpcHQgTWFuYWdlcgpNZW51LCBUcmF5LCBBZGQKTWVudSwgVHJheSwgQWRkLCA/Pz8/Pz8/p98/PygmQSlgdEN0cmwgKyBBbHQgKyBTaGlmdCArIFEsIHRza19vcGVuQWxsCk1lbnUsIFRyYXksIEFkZCwgPz8/Pz8/PygmTylgdEN0cmwgKyBBbHQgKyBTaGlmdCArIFcsIDpzY3JpcHRzX3Vub3BlbgpNZW51LCBUcmF5LCBBZGQsID8/Pz8/P6ffPz8oJkwpYHRDdHJsICsgQWx0ICsgU2hpZnQgKyBBLCB0c2tfY2xvc2VBbGwKTWVudSwgVHJheSwgQWRkLCA/Pz8/PygmQylgdEN0cmwgKyBBbHQgKyBTaGlmdCArIFMsIDpzY3JpcHRzX3VuY2xvc2UKTWVudSwgVHJheSwgQWRkCk1lbnUsIFRyYXksIEFkZCwgPz8/Pz8oJkkpYHRDdHJsICsgQWx0ICsgU2hpZnQgKyBFLCA6c2NyaXB0c19lZGl0Ck1lbnUsIFRyYXksIEFkZCwgPz8/Pz8/KCZTKWB0Q3RybCArIEFsdCArIFNoaWZ0ICsgRCwgOnNjcmlwdHNfcmVsb2FkCk1lbnUsIFRyYXksIEFkZApNZW51LCBUcmF5LCBBZGQsID8/Pz8/Pz8oJkQpYHQlQV9TY3JpcHREaXIlLCBNZW51X1RyYXlfT3BlbkRpcgpNZW51LCBUcmF5LCBBZGQKTWVudSwgVHJheSwgQWRkLCA/Pz8/Pz8/PygmUiksIE1lbnVfVHJheV9SZWxvYWQKTWVudSwgVHJheSwgQWRkCk1lbnUsIFRyYXksIEFkZCwgPz8/Pz8/KCZFKSwgTWVudV9UcmF5X0VkaXQKTWVudSwgVHJheSwgQWRkCk1lbnUsIFRyYXksIEFkZCwgPz8/KCZYKWB0Q3RybCArIEFsdCArIFNoaWZ0ICsgWCwgTWVudV9UcmF5X0V4aXQKTWVudSwgVHJheSwgTm9TdGFuZGFyZAoKR29TdWIgdHNrX29wZW5BbGwKClJldHVybgoKdHNrX29wZW5BbGw6Ckxvb3AsICVzY3JpcHRDb3VudCUKewogICAgdGhpc1NjcmlwdCA6PSBzY3JpcHRzJUFfaW5kZXglMAogICAgSWYgIHNjcmlwdHMlQV9pbmRleCUxID0gMCAgICA7Pz8/CiAgICB7CiAgICAgICAgaWZpbnN0cmluZywgdGhpc1NjcmlwdCwgIQoJICAgIGNvbnRpbnVlCiAgICAgICAgSWZXaW5Ob3RFeGlzdCAldGhpc1NjcmlwdCUgLSBBdXRvSG90a2V5ICAgIDsgPz+n1T8KICAgICAgICAgICAgUnVuICVBX1NjcmlwdERpciVcc2NyaXB0c1wldGhpc1NjcmlwdCUKCiAgICAgICAgc2NyaXB0cyVBX2luZGV4JTEgPSAxCgogICAgICAgIFN0cmluZ1JlUGxhY2UgbWVudU5hbWUsIHRoaXNTY3JpcHQsIC5haGsKICAgICAgICBNZW51IHNjcmlwdHNfdW5jbG9zZSwgYWRkLCAlbWVudU5hbWUlLCB0c2tfY2xvc2UKICAgICAgICBNZW51IHNjcmlwdHNfdW5vcGVuLCBkZWxldGUsICVtZW51TmFtZSUKICAgIH0KfQpSZXR1cm4KCnRza19vcGVuOgpMb29wLCAlc2NyaXB0Q291bnQlCnsKICAgIHRoaXNTY3JpcHQgOj0gc2NyaXB0cyVBX2luZGV4JTAKICAgIElmIHRoaXNTY3JpcHQgPSAlQV90aGlzbWVudWl0ZW0lLmFoayAgOyBtYXRjaCBmb3VuZC4KICAgIHsKICAgICAgICBJZldpbk5vdEV4aXN0ICV0aGlzU2NyaXB0JSAtIEF1dG9Ib3RrZXkgICAgOyA/P6fVPwogICAgICAgICAgICBSdW4gJUFfU2NyaXB0RGlyJVxzY3JpcHRzXCV0aGlzU2NyaXB0JQoKICAgICAgICBzY3JpcHRzJUFfaW5kZXglMSA6PSAxCgogICAgICAgIE1lbnUgc2NyaXB0c191bmNsb3NlLCBhZGQsICVBX3RoaXNtZW51aXRlbSUsIHRza19jbG9zZQogICAgICAgIE1lbnUgc2NyaXB0c191bm9wZW4sIGRlbGV0ZSwgJUFfdGhpc21lbnVpdGVtJQoKICAgICAgICBCcmVhawogICAgfQp9ClJldHVybgoKdHNrX2Nsb3NlOgpMb29wLCAlc2NyaXB0Q291bnQlCnsKICAgIHRoaXNTY3JpcHQgOj0gc2NyaXB0cyVBX2luZGV4JTAKICAgIElmIHRoaXNTY3JpcHQgPSAlQV90aGlzbWVudWl0ZW0lLmFoayAgOyBtYXRjaCBmb3VuZC4KICAgIHsKICAgICAgICBXaW5DbG9zZSAldGhpc1NjcmlwdCUgLSBBdXRvSG90a2V5CiAgICAgICAgc2NyaXB0cyVBX2luZGV4JTEgOj0gMAoKICAgICAgICBNZW51IHNjcmlwdHNfdW5vcGVuLCBhZGQsICVBX3RoaXNtZW51aXRlbSUsIHRza19vcGVuCiAgICAgICAgTWVudSBzY3JpcHRzX3VuY2xvc2UsIGRlbGV0ZSwgJUFfdGhpc21lbnVpdGVtJQoKICAgICAgICBCcmVhawogICAgfQp9ClJldHVybgoKdHNrX2Nsb3NlQWxsOgpMb29wLCAlc2NyaXB0Q291bnQlCnsKICAgIHRoaXNTY3JpcHQgOj0gc2NyaXB0cyVBX2luZGV4JTAKICAgIElmIHNjcmlwdHMlQV9pbmRleCUxID0gMSAgOyA/Pz8KICAgIHsKICAgICAgICBXaW5DbG9zZSAldGhpc1NjcmlwdCUgLSBBdXRvSG90a2V5CiAgICAgICAgc2NyaXB0cyVBX2luZGV4JTEgPSAwCgogICAgICAgIFN0cmluZ1JlUGxhY2UgbWVudU5hbWUsIHRoaXNTY3JpcHQsIC5haGsKICAgICAgICBNZW51IHNjcmlwdHNfdW5vcGVuLCBhZGQsICVtZW51TmFtZSUsIHRza19vcGVuCiAgICAgICAgTWVudSBzY3JpcHRzX3VuY2xvc2UsIGRlbGV0ZSwgJW1lbnVOYW1lJQogICAgfQp9ClJldHVybgoKdHNrX2VkaXQ6ClJ1biwgZWRpdCAlQV9TY3JpcHREaXIlXHNjcmlwdHNcJUFfdGhpc21lbnVpdGVtJS5haGsKUmV0dXJuCgp0c2tfcmVsb2FkOgpMb29wLCAlc2NyaXB0Q291bnQlCnsKICAgIHRoaXNTY3JpcHQgOj0gc2NyaXB0cyVBX2luZGV4JTAKICAgIElmIHRoaXNTY3JpcHQgPSAlQV90aGlzbWVudWl0ZW0lLmFoayAgOyBtYXRjaCBmb3VuZC4KICAgIHsKICAgICAgICBXaW5DbG9zZSAldGhpc1NjcmlwdCUgLSBBdXRvSG90a2V5CiAgICAgICAgUnVuICVBX1NjcmlwdERpciVcc2NyaXB0c1wldGhpc1NjcmlwdCUKICAgICAgICBCcmVhawogICAgfQp9ClJldHVybgoKK14jejo6CiAgICBNZW51LCBUcmF5LCBTaG93ClJldHVybgoKOyteIVg6Ogo7CUdvdG8gTWVudV9UcmF5X0V4aXQKO1JldHVybgo7CjsrXiFROjoKOwlHb3RvIHRza19vcGVuQWxsCjtSZXR1cm4KOwo7K14hVzo6CjsJTWVudSwgc2NyaXB0c191bm9wZW4sIFNob3cKO1JldHVybgo7CjsrXiFBOjoKOwlHb3RvIHRza19jbG9zZUFsbAo7UmV0dXJuCgo7K14hUzo6CjsJTWVudSwgc2NyaXB0c191bmNsb3NlLCBTaG93CjtSZXR1cm4KCjsrXiFFOjoKOwlNZW51LCBzY3JpcHRzX2VkaXQsIFNob3cKO1JldHVybgo7CjsrXiFEOjoKOwlNZW51LCBzY3JpcHRzX3JlbG9hZCwgU2hvdwo7UmV0dXJuCgpNZW51X1RyYXlfT3BlbkRpcjoKCVJ1biAlQV9TY3JpcHREaXIlClJldHVybgoKTWVudV9UcmF5X0V4aXQ6CglFeGl0QXBwClJldHVybgoKTWVudV9UcmF5X1JlbG9hZDoKCVJlbG9hZApSZXR1cm4KCk1lbnVfVHJheV9FZGl0OgoJRWRpdApSZXR1cm4KCkV4aXRTdWI6CiAgICBMb29wLCAlc2NyaXB0Q291bnQlCiAgICB7CiAgICAgICAgdGhpc1NjcmlwdCA6PSBzY3JpcHRzJUFfaW5kZXglMAogICAgICAgIElmIHNjcmlwdHMlQV9pbmRleCUxID0gMSAgOyA/Pz8KICAgICAgICB7CiAgICAgICAgICAgIFdpbkNsb3NlICV0aGlzU2NyaXB0JSAtIEF1dG9Ib3RrZXkKICAgICAgICAgICAgc2NyaXB0cyVBX2luZGV4JTEgPSAwCgogICAgICAgICAgICBTdHJpbmdSZVBsYWNlIG1lbnVOYW1lLCB0aGlzU2NyaXB0LCAuYWhrCiAgICAgICAgfQogICAgfQoJTWVudSwgVHJheSwgTm9JY29uCiAgICBFeGl0QXBwClJldHVybgoKTWVudV9TaG93OgogICAgTWVudSwgVHJheSwgU2hvdwpSZXR1cm4K</text>
+        <text encoding="base64">ICAgIHRoaXMuZ2V0TGlzdERhdGEoKQogICAgdGhpcy5nZXRBZG1pblNldHRsZW1lbnRCYXNpY3MoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLm1hcFN0YXRlKCd1c2VyJywgewogICAgICB0b2tlbjogc3RhdGUgPT4gc3RhdGUudG9rZW4KICAgIH0pLAogICAgLi4ubWFwU3RhdGUoewogICAgICBldmVudElkOiAnZXZlbnRJZCcKICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRMaXN0RGF0YVw+</last-search>
+      <last-search>#ifw</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRMaXN0RGF0YVw+</last-pattern>
+      <last-pattern>#ifw</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -460,7 +463,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvYmpzc1w+</entry>
         <entry>current</entry>
         <entry encoding="base64">XDxDbGVhclRvb2x0aXBcPg==</entry>
         <entry encoding="base64">XDxzaG93VG9vbHRpcHNzXD4=</entry>
@@ -480,6 +482,7 @@
         <entry>productTypeInSettlement</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry encoding="base64">XDxnZXRMaXN0RGF0YVw+</entry>
+        <entry>#ifw</entry>
       </history-search>
       <history-cmd>
         <entry>jumplist</entry>
@@ -500,8 +503,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
