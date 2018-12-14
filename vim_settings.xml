@@ -205,12 +205,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544762871083">
-        <mark key="'" line="28" column="48" />
-        <mark key="[" line="28" column="14" />
-        <mark key="]" line="28" column="49" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="25" column="0" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544771459667">
+        <mark key="'" line="233" column="9" />
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544751296152">
         <mark key="'" line="144" column="8" />
@@ -266,57 +266,17 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="0" column="25" filename="E:/code/CSHXEventSite/FE/src/common/utils/exportFile.js" />
-      <jump line="179" column="39" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="46" column="17" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="174" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="23" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="207" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="200" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="189" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" />
-      <jump line="216" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="217" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="219" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="218" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="227" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="237" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="205" column="6" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="213" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="223" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="224" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="225" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="226" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="228" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="229" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="230" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="233" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="234" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="235" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="236" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="220" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="260" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="241" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="143" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="144" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="198" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="13" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="209" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="210" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="211" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="212" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="232" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="231" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="252" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="204" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="238" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="239" column="3" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="21" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="18" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="19" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="17" column="30" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="15" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="16" column="12" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="254" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="246" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="242" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -324,48 +284,88 @@
       <jump line="251" column="13" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="243" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="245" column="19" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="275" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="271" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="270" column="128" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="268" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="248" column="3" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="244" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="278" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="279" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="277" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="250" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="282" column="62" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="25" column="44" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="24" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="29" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="286" column="69" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="27" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="284" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="291" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="276" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="314" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="186" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="311" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="309" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="300" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="299" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="298" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="297" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="295" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="294" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="293" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="292" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="283" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="280" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="274" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="258" column="2" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="191" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="288" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="285" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="287" column="29" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="5" column="25" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="26" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="28" column="48" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="23" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="275" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="274" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="24" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="26" column="14" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="27" column="45" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="291" column="27" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="29" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="30" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="28" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="31" column="36" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="32" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="35" column="36" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="293" column="50" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="287" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="262" column="151" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="296" column="142" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="299" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="277" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="278" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="297" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="313" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="322" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="314" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="311" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="300" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="306" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="302" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="304" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="292" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="264" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="294" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="261" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="269" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="263" column="101" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="266" column="40" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="258" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="282" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="285" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="286" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="289" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="303" column="40" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="265" column="101" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="305" column="28" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="17" column="22" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="225" column="13" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="227" column="90" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="16" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="19" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="229" column="10" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="226" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="319" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="330" column="13" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="267" column="117" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="22" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="18" column="21" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="271" column="51" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="228" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="21" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="268" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="270" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="276" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="308" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="20" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="231" column="1" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="232" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="233" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -387,58 +387,58 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>creatKey([&quot;q&quot;, 1, 1])</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b29sdGlwXD4=</text>
+        <text encoding="base64">XDxiYXNlWFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>{key: arr[0], x: arr[1], y: arr[1]}</text>
+      <register name="0" type="2">
+        <text encoding="base64">YmFzZVggOj0gMApiYXNlWSA6PSAwCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dG9vbHRpcCwgJSBrZXlzTGlzdFtBX0luZGV4LTFdLmtleSwgLCAsIEFfSW5kZXgK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>p`]j^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2xvYmFsCg==</text>
+        <text encoding="base64">YmFzZVkgOj0gMAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O3Rvb2x0aXAsICVBX1NjcmVlbkhlaWdodF9zbWFsbCUgJUFfU2NyZWVuV2lkdGhfc21hbGwlICVBX1NjcmVlbldpZHRoX2JpZyUgJUFfU2NyZWVuSGVpZ2h0X2JpZyUsIEFfU2NyZWVuV2lkdGhfc21hbGwsIEFfU2NyZWVuSGVpZ2h0X3NtYWxsIC0gMTAsIDEK</text>
       </register>
       <register name="s" type="4">
         <text>vi{&quot;ep`]n</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dG9vbHRpcCwga2V5c0xpc3QuTGVuZ3RoKCkK</text>
+        <text encoding="base64">U3lzR2V0LCBBX1NjcmVlbldpZHRoX2JpZywgMTYKU3lzR2V0LCBBX1NjcmVlbkhlaWdodF9iaWcsIDE3Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dG9vbHRpcCwgJUFfU2NyZWVuSGVpZ2h0X3NtYWxsJSAlQV9TY3JlZW5XaWR0aF9zbWFsbCUsIDAsIDUsIDEKcmV0dXJuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">c2hvd1Rvb2x0aXBPbmUoInciLCAzLCAxLCAyKQpzaG93VG9vbHRpcE9uZSgiZSIsIDUsIDEsIDMpCnNob3dUb29sdGlwT25lKCJyIiwgNywgMSwgNCkK</text>
+        <text encoding="base64">b25lV2lkdGggOj0gQV9TY3JlZW5XaWR0aCAvIDgKb25lSGVpZ2h0IDo9IEFfU2NyZWVuSGVpZ2h0IC8gNgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgphOjpNb3VzZU1vdmUsIG9uZVdpZHRoLCBvbmVIZWlnaHQgKiAzCnM6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiAzLCBvbmVIZWlnaHQgKiAzCmQ6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiA1LCBvbmVIZWlnaHQgKiAzCmY6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiA3LCBvbmVIZWlnaHQgKiAzCgp6OjpNb3VzZU1vdmUsIG9uZVdpZHRoLCBvbmVIZWlnaHQgKiA1Cng6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiAzLCBvbmVIZWlnaHQgKiA1CmM6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiA1LCBvbmVIZWlnaHQgKiA1CnY6Ok1vdXNlTW92ZSwgb25lV2lkdGggKiA3LCBvbmVIZWlnaHQgKiA1Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2hvd1Rvb2x0aXBPbmUoInciLCAzLCAxLCAyKQpzaG93VG9vbHRpcE9uZSgiZSIsIDUsIDEsIDMpCnNob3dUb29sdGlwT25lKCJyIiwgNywgMSwgNCkK</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCAyMDAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">a2V5c0xpc3QucHVzaCh7a2V5OiAidyIsIHg6IDMsIHk6IDF9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action ShowBookmarks</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b29sdGlwXD4=</last-search>
+      <last-search encoding="base64">XDxiYXNlWFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b29sdGlwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlWFw+</last-pattern>
       <last-replace>\/</last-replace>
       <last-substitute>\\</last-substitute>
       <last-dir>1</last-dir>
@@ -446,17 +446,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxldmVudElkXD4=</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
-        <entry encoding="base64">XDxtYXBTdGF0ZVw+</entry>
-        <entry>token</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxleHBvcnRGaWxlXD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVFeHBvcnRcPg==</entry>
-        <entry>CoordMode</entry>
-        <entry>a_s</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblR5cGVcPg==</entry>
-        <entry encoding="base64">XDxiYXNlWFw+</entry>
         <entry>Offset</entry>
         <entry encoding="base64">XDxiYXNlWE9mZnNldFw+</entry>
         <entry encoding="base64">XDxvbmVXaWR0aFw+</entry>
@@ -464,8 +454,18 @@
         <entry encoding="base64">XDxtc2dcPg==</entry>
         <entry encoding="base64">XDxjYWxjTW92ZVhZXD4=</entry>
         <entry encoding="base64">XDxtb3ZlWFw+</entry>
-        <entry encoding="base64">XDxrZXlzTGlzdFw+</entry>
         <entry encoding="base64">XDx0b29sdGlwXD4=</entry>
+        <entry encoding="base64">XDxrZXlzTGlzdFw+</entry>
+        <entry encoding="base64">XDxvYmpzc1w+</entry>
+        <entry>current</entry>
+        <entry encoding="base64">XDxDbGVhclRvb2x0aXBcPg==</entry>
+        <entry encoding="base64">XDxzaG93VG9vbHRpcHNzXD4=</entry>
+        <entry>offset</entry>
+        <entry encoding="base64">XDxBX1NjcmVlbkhlaWdodFw+</entry>
+        <entry encoding="base64">XDxvbmVIZWlnaHRcPg==</entry>
+        <entry encoding="base64">XDxBX1NjcmVlbkhlaWdodF9zbWFsbFw+</entry>
+        <entry encoding="base64">XDxBX1NjcmVlbldpZHRoX0xvY2FsXD4=</entry>
+        <entry encoding="base64">XDxiYXNlWFw+</entry>
       </history-search>
       <history-cmd>
         <entry>jumplist</entry>
@@ -479,15 +479,15 @@
         <entry>help index</entry>
         <entry>sort</entry>
         <entry>source</entry>
-        <entry>action ShowBookmarks</entry>
         <entry>action VimVisualSwapSelections</entry>
         <entry>action FindInPath</entry>
         <entry>regs</entry>
         <entry>reg</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action ToggleBookmark</entry>
         <entry>action RecentFiles</entry>
+        <entry>action ToggleBookmark</entry>
+        <entry>action ShowBookmarks</entry>
       </history-cmd>
       <history-expr />
       <history-input />
