@@ -137,7 +137,7 @@
         <mark key="^" line="241" column="72" />
         <mark key="." line="247" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544753409615">
+      <file name="/Dummy.txt" timestamp="1544773673208">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -156,7 +156,8 @@
         <mark key="." line="19" column="16" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" timestamp="1544686912750">
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" timestamp="1544773762335">
+        <mark key="'" line="169" column="15" />
         <mark key="[" line="176" column="2" />
         <mark key="]" line="176" column="2" />
         <mark key="." line="176" column="2" />
@@ -184,8 +185,8 @@
         <mark key="]" line="297" column="36" />
         <mark key="." line="297" column="17" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1544772365338">
-        <mark key="'" line="115" column="0" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1544774272472">
+        <mark key="'" line="54" column="33" />
         <mark key="[" line="115" column="0" />
         <mark key="]" line="122" column="4" />
         <mark key="." line="84" column="0" />
@@ -193,6 +194,12 @@
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/components/Category/List/index.vue" timestamp="1544671091929">
         <mark key="'" line="54" column="36" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/config/host.local.js" timestamp="1544774394558">
+        <mark key="'" line="1" column="33" />
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" timestamp="1544691210833">
         <mark key="'" line="906" column="22" />
@@ -269,8 +276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="5" column="25" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="23" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="275" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="274" column="18" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -337,7 +342,6 @@
       <jump line="20" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="232" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="233" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="54" column="42" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="140" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="246" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="130" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
@@ -369,6 +373,9 @@
       <jump line="141" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" />
       <jump line="231" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="13" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="169" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/AHK Script Manager.ahk" />
+      <jump line="54" column="33" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
+      <jump line="1" column="33" filename="E:/code/CSHXEventSite/FE/config/host.local.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -390,7 +397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>mock/58</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbmVNb3ZlXD4=</text>
@@ -435,7 +442,7 @@
         <text encoding="base64">U3lzR2V0LCBBX1NjcmVlbldpZHRoX2JpZywgMTYKU3lzR2V0LCBBX1NjcmVlbkhlaWdodF9iaWcsIDE3Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -486,11 +493,11 @@
         <entry>action FindInPath</entry>
         <entry>regs</entry>
         <entry>reg</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
