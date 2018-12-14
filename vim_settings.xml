@@ -205,12 +205,12 @@
         <mark key="." line="68" column="38" />
         <mark key="^" line="68" column="38" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544760441347">
-        <mark key="'" line="287" column="16" />
-        <mark key="[" line="287" column="26" />
-        <mark key="]" line="287" column="29" />
-        <mark key="." line="287" column="29" />
-        <mark key="^" line="287" column="29" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544762871083">
+        <mark key="'" line="28" column="48" />
+        <mark key="[" line="28" column="14" />
+        <mark key="]" line="28" column="49" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="25" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1544751296152">
         <mark key="'" line="144" column="8" />
@@ -266,8 +266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
-      <jump line="124" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="173" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="0" column="25" filename="E:/code/CSHXEventSite/FE/src/common/utils/exportFile.js" />
       <jump line="179" column="39" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
@@ -342,7 +340,6 @@
       <jump line="29" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="286" column="69" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="27" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="28" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="284" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="291" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="276" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
@@ -365,7 +362,10 @@
       <jump line="191" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="288" column="9" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="285" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="287" column="16" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="287" column="29" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="5" column="25" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="26" column="11" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="28" column="48" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -387,13 +387,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>creatKey([&quot;q&quot;, 1, 1])</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0b29sdGlwXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>keysList</text>
+        <text>{key: arr[0], x: arr[1], y: arr[1]}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dG9vbHRpcCwgJSBrZXlzTGlzdFtBX0luZGV4LTFdLmtleSwgLCAsIEFfSW5kZXgK</text>
