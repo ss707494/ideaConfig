@@ -142,10 +142,10 @@
         <mark key="^" line="241" column="72" />
         <mark key="." line="230" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544776986050">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1544778814509">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1544777364731">
         <mark key="'" line="153" column="9" />
@@ -401,7 +401,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getList</text>
+        <text encoding="base64">ILW8s/Y=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRMaXN0RGF0YVw+</text>
