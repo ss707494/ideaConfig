@@ -270,7 +270,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/coder/vant/packages/contact-card/demo/index.vue" timestamp="1544240850927" />
       <file name="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.vue" timestamp="1542549136589">
         <mark key="'" line="14" column="12" />
         <mark key="[" line="17" column="43" />
@@ -554,8 +553,8 @@
         <entry>action EditorMatchBrace</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action GotoAction</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
