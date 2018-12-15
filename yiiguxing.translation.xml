@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="APP PATH" />
       <item value="结算" />
       <item value="income" />
       <item value="refund" />
@@ -50,12 +51,11 @@
       <item value="动画" />
       <item value="间隔" />
       <item value="金额" />
-      <item value="收入" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>

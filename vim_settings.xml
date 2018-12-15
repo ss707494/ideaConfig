@@ -265,7 +265,7 @@
         <mark key="." line="39" column="41" />
         <mark key="^" line="38" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544238582200">
+      <file name="/Dummy.txt" timestamp="1544839322167">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -323,6 +323,13 @@
         <mark key="^" line="47" column="27" />
         <mark key="." line="48" column="0" />
       </file>
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1544839315585">
+        <mark key="'" line="213" column="7" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+      </file>
       <file name="D:/coder/ss_code/vueSwipe/demo/src/App.vue" timestamp="1544237367306">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="21" column="17" />
@@ -332,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/.spf13-vim-3/file/.ideavimrc" />
       <jump line="246" column="8" filename="D:/coder/ss_code/essentialFood/app/styles/main.scss" />
       <jump line="250" column="38" filename="D:/coder/ss_code/essentialFood/app/styles/main.scss" />
       <jump line="202" column="38" filename="D:/coder/ss_code/essentialFood/app/index.html" />
@@ -432,6 +438,7 @@
       <jump line="12" column="35" filename="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.vue" />
       <jump line="15" column="12" filename="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.vue" />
       <jump line="15" column="0" filename="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.scss" />
+      <jump line="213" column="7" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
       <register name="e" type="4">
@@ -453,7 +460,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IGlkPSJzbGlkZU91dCI=</text>
+        <text>chrom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xhc3M9Im0tc3dpcGUtaW5kaWNhdG9yIgo=</text>
@@ -500,21 +507,20 @@
         <text encoding="base64">ICAgICAge3t0aGlzLml0ZW1MZW5ndGh9fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IGlkPSJzbGlkZU91dCI=</last-search>
+      <last-search>chrom</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IGlkPSJzbGlkZU91dCI=</last-pattern>
+      <last-pattern>chrom</last-pattern>
       <last-replace>70</last-replace>
       <last-substitute>width</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry>reme</entry>
         <entry encoding="base64">XDxhdXRvTG9naW5cPg==</entry>
         <entry>top</entry>
@@ -534,6 +540,7 @@
         <entry>changLan</entry>
         <entry encoding="base64">XDxoZWFkTmF2XD4=</entry>
         <entry encoding="base64">IGlkPSJzbGlkZU91dCI=</entry>
+        <entry>chrom</entry>
       </history-search>
       <history-cmd>
         <entry>:action ActivateRunToolWindow</entry>
@@ -552,10 +559,10 @@
         <entry>set witchwrap</entry>
         <entry>action EditorMatchBrace</entry>
         <entry>vs</entry>
-        <entry>action RecentFiles</entry>
         <entry>action GotoAction</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
