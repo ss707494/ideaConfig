@@ -8,6 +8,16 @@
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="19" />
       </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" timestamp="1545012799783">
+        <mark key="'" line="30" column="8" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545012899870">
+        <mark key="'" line="3" column="8" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545012990398">
+        <mark key="'" line="17" column="17" />
+      </file>
       <file name="E:/code/N-31Editor/FE/package.json" timestamp="1545010065300" />
       <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545011035487">
         <mark key="'" line="319" column="20" />
@@ -35,6 +45,12 @@
       <jump line="281" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="287" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="319" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="6" column="7" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" />
+      <jump line="30" column="8" filename="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" />
+      <jump line="3" column="8" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" />
+      <jump line="16" column="37" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="51" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="17" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -59,20 +75,20 @@
         <text encoding="base64">ZWxzZQogICAgTW91c2VDbGljaywgbGVmdCwsLCAxLCAwLCBECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
       <register name="-" type="4">
         <text>- 10</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlWFw+</text>
+        <text encoding="base64">XDxUcmVlXD4=</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlWFw+</last-search>
+      <last-search encoding="base64">XDxUcmVlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlWFw+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern encoding="base64">XDxUcmVlXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -81,11 +97,12 @@
         <entry>spa</entry>
         <entry encoding="base64">XDxDb29yZE1vZGVcPg==</entry>
         <entry encoding="base64">XDxiYXNlWFw+</entry>
+        <entry encoding="base64">XDxUcmVlXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -114,6 +131,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
