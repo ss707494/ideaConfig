@@ -8,14 +8,50 @@
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545014042825">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
       </file>
+      <file name="D:/coder/vux/src/components/x-number/index.vue" timestamp="1545015864351">
+        <mark key="'" line="23" column="21" />
+        <mark key="[" line="47" column="4" />
+        <mark key="]" line="47" column="11" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545026134494">
+        <mark key="'" line="141" column="7" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" timestamp="1545015309974">
+        <mark key="'" line="4" column="16" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/config/host.local.js" timestamp="1545028755767">
+        <mark key="'" line="1" column="42" />
+        <mark key="[" line="1" column="43" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="43" />
+        <mark key="^" line="1" column="43" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545025994959">
+        <mark key="'" line="101" column="25" />
+        <mark key="[" line="101" column="37" />
+        <mark key="]" line="101" column="37" />
+        <mark key="." line="101" column="37" />
+        <mark key="^" line="101" column="37" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545026068140">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/store/modules/view.js" timestamp="1545028261968" />
       <file name="E:/code/N-31Editor/FE/src/store/modules/comps.js" timestamp="1545018876977">
         <mark key="'" line="54" column="0" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/api/view/index.js" timestamp="1545028301658">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="38" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/config/host.js" timestamp="1545028379129">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="47" />
       </file>
       <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545017832086">
         <mark key="'" line="275" column="0" />
@@ -24,19 +60,15 @@
         <mark key="." line="275" column="0" />
         <mark key="^" line="259" column="16" />
       </file>
-      <file name="D:/coder/vux/src/components/x-number/index.vue" timestamp="1545015864351">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="11" />
+      <file name="E:/code/CSHXEventSite/FE/config/host.js" timestamp="1545028408730">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="43" />
       </file>
       <file name="D:/coder/vux/package.json" timestamp="1545015881378">
         <mark key="'" line="46" column="5" />
         <mark key="[" line="46" column="5" />
         <mark key="]" line="46" column="10" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" timestamp="1545012799783">
-        <mark key="'" line="30" column="8" />
-        <mark key="." line="12" column="11" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
         <mark key="'" line="73" column="13" />
@@ -44,24 +76,14 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545015338686">
         <mark key="'" line="26" column="17" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" timestamp="1545015309974">
-        <mark key="'" line="4" column="16" />
-      </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/components/ConfirmSave/index.vue" timestamp="1545016192145">
         <mark key="'" line="1" column="3" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/api/design/index.js" timestamp="1545025460602">
+      <file name="E:/code/N-31Editor/FE/src/api/design/index.js" timestamp="1545026181069">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="21" column="4" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545025994959">
-        <mark key="'" line="101" column="25" />
-        <mark key="[" line="101" column="37" />
-        <mark key="]" line="101" column="37" />
-        <mark key="." line="101" column="37" />
-        <mark key="^" line="101" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -120,46 +142,53 @@
       <jump line="18" column="2" filename="E:/code/N-31Editor/FE/src/api/design/index.js" />
       <jump line="97" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="101" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="141" column="7" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
+      <jump line="6" column="14" filename="E:/code/N-31Editor/FE/src/api/view/index.js" />
+      <jump line="8" column="27" filename="E:/code/N-31Editor/FE/config/host.js" />
+      <jump line="2" column="0" filename="E:/code/N-31Editor/FE/config/host.js" />
+      <jump line="10" column="0" filename="E:/code/CSHXEventSite/FE/config/host.js" />
+      <jump line="1" column="2" filename="E:/code/CSHXEventSite/FE/config/host.local.js" />
+      <jump line="1" column="42" filename="E:/code/N-31Editor/FE/config/host.local.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>4</text>
+        <text>https://csmice.31huiyi.com/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2RhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG1pbi13aWR0aD0iMTYwIgo=</text>
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6ICdodHRwczovL2NzbWljZS4zMWh1aXlpLmNvbS8nLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y3VycmVudExldmVsIDo9MQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y3VycmVudExldmVsIDo9MQo=</text>
+        <text encoding="base64">ICAvLyBkZXZTZXJ2ZXI6ICdodHRwOi8vbW9jay4zMWh1aXlpLmNvbS9tb2NrLzU4JywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y3VycmVudExldmVsIDo9MQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VycmVudExldmVsIDo9MQogICAgICAgIGJhc2VYIDo9IDAKICAgICAgICBiYXNlWSA6PSAwCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y3VycmVudExldmVsIDo9MQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+        <text encoding="base64">Y3VycmVudExldmVsIDo9MQogICAgICAgIGJhc2VYIDo9IDAKICAgICAgICBiYXNlWSA6PSAwCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -183,8 +212,8 @@
       <history-cmd>
         <entry>action QuickList.ss</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
