@@ -3,33 +3,75 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545009342660">
-        <mark key="'" line="261" column="0" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="4" />
-        <mark key="." line="261" column="4" />
-        <mark key="^" line="261" column="4" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/router/index.js" timestamp="1545010266271">
+        <mark key="'" line="21" column="14" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="19" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/package.json" timestamp="1545010065300" />
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545011035487">
+        <mark key="'" line="319" column="20" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="43" />
+        <mark key="." line="18" column="43" />
+        <mark key="^" line="275" column="3" />
       </file>
     </filemarks>
     <jumps>
       <jump line="260" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="261" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="21" column="14" filename="E:/code/N-31Editor/FE/src/apps/design/router/index.js" />
+      <jump line="321" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="335" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="267" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="343" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="345" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="276" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="279" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="323" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="275" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="277" column="4" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="278" column="15" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="281" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="287" column="8" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="319" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">dTo6TW91c2VDbGljaywgbGVmdAo=</text>
+      <register name="0" type="4">
+        <text>baseX</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmV0dXJuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZWxzZQogICAgTW91c2VDbGljaywgbGVmdCwsLCAxLCAwLCBECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
+      </register>
+      <register name="-" type="4">
+        <text>- 10</text>
       </register>
       <register name="/" type="4">
-        <text>spa</text>
+        <text encoding="base64">XDxiYXNlWFw+</text>
       </register>
     </registers>
     <search>
-      <last-search>spa</last-search>
+      <last-search encoding="base64">XDxiYXNlWFw+</last-search>
       <last-offset />
-      <last-pattern>spa</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlWFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -37,10 +79,13 @@
       <history-search>
         <entry>space</entry>
         <entry>spa</entry>
+        <entry encoding="base64">XDxDb29yZE1vZGVcPg==</entry>
+        <entry encoding="base64">XDxiYXNlWFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -54,6 +99,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
