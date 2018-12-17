@@ -10,12 +10,11 @@
         <mark key="." line="252" column="107" />
         <mark key="^" line="252" column="94" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545035849930">
-        <mark key="'" line="5" column="43" />
-        <mark key="[" line="119" column="24" />
-        <mark key="]" line="120" column="11" />
-        <mark key="^" line="120" column="11" />
-        <mark key="." line="120" column="11" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545043604689">
+        <mark key="'" line="68" column="0" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
@@ -29,8 +28,8 @@
         <mark key="]" line="14" column="39" />
         <mark key="." line="14" column="27" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" timestamp="1545036009099">
-        <mark key="'" line="74" column="27" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" timestamp="1545043271815">
+        <mark key="'" line="22" column="48" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" timestamp="1545034079111">
         <mark key="'" line="42" column="20" />
@@ -51,8 +50,8 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" timestamp="1545031783304">
         <mark key="'" line="17" column="25" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545035549890">
-        <mark key="'" line="125" column="69" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545043155818">
+        <mark key="'" line="21" column="20" />
         <mark key="[" line="83" column="34" />
         <mark key="]" line="83" column="50" />
       </file>
@@ -87,7 +86,7 @@
         <mark key="." line="101" column="37" />
         <mark key="^" line="101" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545042365550">
+      <file name="/Dummy.txt" timestamp="1545042973142">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1545037518232">
@@ -158,6 +157,9 @@
         <mark key="]" line="250" column="39" />
         <mark key="." line="250" column="21" />
       </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" timestamp="1545043521060">
+        <mark key="'" line="172" column="17" />
+      </file>
       <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
         <mark key="'" line="73" column="13" />
       </file>
@@ -176,11 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
-      <jump line="20" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
-      <jump line="25" column="30" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
-      <jump line="93" column="22" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="98" column="31" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="109" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="71" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="83" column="34" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
@@ -276,59 +273,62 @@
       <jump line="885" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" />
       <jump line="861" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" />
       <jump line="873" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" />
+      <jump line="23" column="7" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
+      <jump line="21" column="20" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="22" column="48" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
+      <jump line="172" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" />
+      <jump line="68" column="0" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>确认取消这条订单么？</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtc2dib3hcPg==</text>
+        <text>debu</text>
       </register>
       <register name="0" type="4">
         <text>确认拒绝这条订单么？</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc3JjLAo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGFnOiAnaW1nJywK</text>
+        <text encoding="base64">ICAgICAgc3JjLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgdGFnOiAnaW1nJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB7CiAgICB0eXBlOiAnbGluaycsCiAgICB0aXRsZTogJ8G0vdMnLAogIH0sCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZW50ZWRpdGFibGU6IHRydWUsCg==</text>
+        <text encoding="base64">ICB7CiAgICB0eXBlOiAnbGluaycsCiAgICB0aXRsZTogJ8G0vdMnLAogIH0sCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfV0K</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50ZWRpdGFibGU6IHRydWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFt7CiAgICAgICAgdGFnOiAnc3BhbicsCiAgICAgICAgYWxsb3dFZGl0OiBmYWxzZSwKICAgICAgICB0ZXh0LAogICAgICAgIHZhbHVlOiB0ZXh0LAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICBjb2xvcjogJyNmZmZmZmYnLAogICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgfV0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFt7CiAgICAgICAgdGFnOiAnc3BhbicsCiAgICAgICAgYWxsb3dFZGl0OiBmYWxzZSwKICAgICAgICB0ZXh0LAogICAgICAgIHZhbHVlOiB0ZXh0LAogICAgICAgIHN0eWxlOiB7CiAgICAgICAgICB3aWR0aDogJzEwMCUnLAogICAgICAgICAgaGVpZ2h0OiAnMTAwJScsCiAgICAgICAgICBkaXNwbGF5OiAnZmxleCcsCiAgICAgICAgICBjb2xvcjogJyNmZmZmZmYnLAogICAgICAgICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcicsCiAgICAgICAgfSwK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICBib3JkZXJSYWRpdXM6IDQsCiAgICAgICAgcGFkZGluZ1RvcDogOCwKICAgICAgICBwYWRkaW5nQm90dG9tOiA4LAogICAgICAgIHBhZGRpbmdMZWZ0OiAxNSwKICAgICAgICBwYWRkaW5nUmlnaHQ6IDE1LAogICAgICAgIGJveFNpemluZzogJ2JvcmRlci1ib3gnLAogICAgICAgIGJhY2tncm91bmQ6IHsKICAgICAgICAgIGNvbG9yOiAnIzJkOGNmMCcsCiAgICAgICAgICAuLi5zdHlsZS5iYWNrZ3JvdW5kLAogICAgICAgIH0s</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtc2dib3hcPg==</last-search>
+      <last-search>debu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtc2dib3hcPg==</last-pattern>
+      <last-pattern>debu</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>verticalTextAlign</entry>
-        <entry encoding="base64">XDx0ZXh0Tm9kZVN0eWxlXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VTZXR0aW5nVHlwZVw+</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry>textno</entry>
@@ -347,6 +347,8 @@
         <entry>hh</entry>
         <entry>settlementCapitalAmount</entry>
         <entry encoding="base64">XDxtc2dib3hcPg==</entry>
+        <entry encoding="base64">XDxzaG93VGV4dEZpZWxkXD4=</entry>
+        <entry>debu</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
