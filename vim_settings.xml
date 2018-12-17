@@ -8,15 +8,11 @@
         <mark key="[" line="21" column="14" />
         <mark key="]" line="21" column="19" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" timestamp="1545012799783">
-        <mark key="'" line="30" column="8" />
-        <mark key="." line="12" column="11" />
+      <file name="/Dummy.txt" timestamp="1545014042825">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545012899870">
         <mark key="'" line="3" column="8" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545012990398">
-        <mark key="'" line="17" column="17" />
       </file>
       <file name="E:/code/N-31Editor/FE/package.json" timestamp="1545010065300" />
       <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545011035487">
@@ -25,6 +21,20 @@
         <mark key="]" line="18" column="43" />
         <mark key="." line="18" column="43" />
         <mark key="^" line="275" column="3" />
+      </file>
+      <file name="D:/coder/vux/src/components/x-number/index.vue" timestamp="1545014376640">
+        <mark key="'" line="35" column="6" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" timestamp="1545012799783">
+        <mark key="'" line="30" column="8" />
+        <mark key="." line="12" column="11" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1545015018335" />
+      <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
+        <mark key="'" line="73" column="13" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545012990398">
+        <mark key="'" line="17" column="17" />
       </file>
     </filemarks>
     <jumps>
@@ -51,6 +61,8 @@
       <jump line="16" column="37" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
       <jump line="51" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
       <jump line="17" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="73" column="13" filename="E:/code/FECodeReview/src/packages/radio/src/index.vue" />
+      <jump line="35" column="6" filename="D:/coder/vux/src/components/x-number/index.vue" />
     </jumps>
     <registers>
       <register name="0" type="4">
@@ -75,20 +87,20 @@
         <text encoding="base64">ZWxzZQogICAgTW91c2VDbGljaywgbGVmdCwsLCAxLCAwLCBECg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
       <register name="-" type="4">
         <text>- 10</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUcmVlXD4=</text>
+        <text encoding="base64">XDx2YWxpZGF0b3JcPg==</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUcmVlXD4=</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0b3JcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUcmVlXD4=</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDx2YWxpZGF0b3JcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -98,11 +110,12 @@
         <entry encoding="base64">XDxDb29yZE1vZGVcPg==</entry>
         <entry encoding="base64">XDxiYXNlWFw+</entry>
         <entry encoding="base64">XDxUcmVlXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
