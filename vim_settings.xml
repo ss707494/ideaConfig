@@ -14,6 +14,9 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
       </file>
+      <file name="E:/code/N-31Editor/FE/src/store/modules/comps.js" timestamp="1545018876977">
+        <mark key="'" line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545017832086">
         <mark key="'" line="275" column="0" />
         <mark key="[" line="275" column="0" />
@@ -46,6 +49,19 @@
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/components/ConfirmSave/index.vue" timestamp="1545016192145">
         <mark key="'" line="1" column="3" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/api/design/index.js" timestamp="1545025460602">
+        <mark key="'" line="18" column="2" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545025994959">
+        <mark key="'" line="101" column="25" />
+        <mark key="[" line="101" column="37" />
+        <mark key="]" line="101" column="37" />
+        <mark key="." line="101" column="37" />
+        <mark key="^" line="101" column="37" />
       </file>
     </filemarks>
     <jumps>
@@ -99,16 +115,21 @@
       <jump line="263" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="270" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
       <jump line="275" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="54" column="0" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
+      <jump line="14" column="0" filename="E:/code/N-31Editor/FE/src/api/design/index.js" />
+      <jump line="18" column="2" filename="E:/code/N-31Editor/FE/src/api/design/index.js" />
+      <jump line="97" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="101" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>2</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNb2RhbFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0Q3VycmVudExldmVsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIG1pbi13aWR0aD0iMTYwIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y3VycmVudExldmVsIDo9MQo=</text>
@@ -161,8 +182,8 @@
       </history-search>
       <history-cmd>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action ShowBookmarks</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
