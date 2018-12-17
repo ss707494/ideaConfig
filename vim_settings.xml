@@ -2,25 +2,59 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
+    <filemarks>
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545009342660">
+        <mark key="'" line="261" column="0" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="4" />
+        <mark key="." line="261" column="4" />
+        <mark key="^" line="261" column="4" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="260" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+      <jump line="261" column="0" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
+    </jumps>
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">dTo6TW91c2VDbGljaywgbGVmdAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
+      </register>
+      <register name="/" type="4">
+        <text>spa</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>spa</last-search>
+      <last-offset />
+      <last-pattern>spa</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>space</entry>
+        <entry>spa</entry>
+      </history-search>
       <history-cmd>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
