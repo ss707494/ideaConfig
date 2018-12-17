@@ -3,21 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/router/index.js" timestamp="1545010266271">
-        <mark key="'" line="21" column="14" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="19" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545031598560">
+        <mark key="'" line="69" column="6" />
+        <mark key="[" line="138" column="9" />
+        <mark key="]" line="138" column="20" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
       </file>
-      <file name="D:/coder/vux/src/components/x-number/index.vue" timestamp="1545015864351">
-        <mark key="'" line="23" column="21" />
-        <mark key="[" line="47" column="4" />
-        <mark key="]" line="47" column="11" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" timestamp="1545030693426">
+        <mark key="'" line="25" column="30" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545026134494">
-        <mark key="'" line="141" column="7" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545030001105">
+        <mark key="'" line="79" column="9" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" timestamp="1545031783304">
+        <mark key="'" line="17" column="25" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545029142012">
+        <mark key="'" line="54" column="13" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545031461506">
+        <mark key="'" line="83" column="34" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="50" />
+      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" timestamp="1545032366522">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="31" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" timestamp="1545015309974">
         <mark key="'" line="4" column="16" />
@@ -40,8 +54,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/store/modules/view.js" timestamp="1545028261968" />
-      <file name="E:/code/N-31Editor/FE/src/store/modules/comps.js" timestamp="1545018876977">
-        <mark key="'" line="54" column="0" />
+      <file name="E:/code/N-31Editor/FE/src/store/modules/comps.js" timestamp="1545032472690">
+        <mark key="'" line="25" column="4" />
+        <mark key="[" line="67" column="14" />
+        <mark key="]" line="68" column="13" />
+        <mark key="^" line="68" column="13" />
+        <mark key="." line="68" column="13" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/api/view/index.js" timestamp="1545028301658">
         <mark key="'" line="6" column="14" />
@@ -65,16 +83,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="43" />
       </file>
-      <file name="D:/coder/vux/package.json" timestamp="1545015881378">
-        <mark key="'" line="46" column="5" />
-        <mark key="[" line="46" column="5" />
-        <mark key="]" line="46" column="10" />
-      </file>
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" timestamp="1545031921962" />
       <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
         <mark key="'" line="73" column="13" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545015338686">
-        <mark key="'" line="26" column="17" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545032220113">
+        <mark key="'" line="23" column="20" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/components/ConfirmSave/index.vue" timestamp="1545016192145">
         <mark key="'" line="1" column="3" />
@@ -149,16 +163,51 @@
       <jump line="10" column="0" filename="E:/code/CSHXEventSite/FE/config/host.js" />
       <jump line="1" column="2" filename="E:/code/CSHXEventSite/FE/config/host.local.js" />
       <jump line="1" column="42" filename="E:/code/N-31Editor/FE/config/host.local.js" />
+      <jump line="54" column="13" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
+      <jump line="145" column="13" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="79" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="142" column="0" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="13" column="18" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="90" column="11" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="26" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="125" column="74" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="20" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
+      <jump line="25" column="30" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
+      <jump line="93" column="22" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="120" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="98" column="31" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="109" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="71" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="83" column="34" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="4" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="133" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="125" column="40" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="129" column="27" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="130" column="27" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="134" column="38" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="138" column="27" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="145" column="60" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="69" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="47" column="38" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
+      <jump line="17" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
+      <jump line="69" column="68" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
+      <jump line="68" column="14" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
+      <jump line="25" column="4" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
+      <jump line="71" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="23" column="20" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="35" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" />
+      <jump line="3" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" />
+      <jump line="2" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>https://csmice.31huiyi.com/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNb2RhbFw+</text>
+        <text encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBkZXZTZXJ2ZXI6ICdodHRwczovL2NzbWljZS4zMWh1aXlpLmNvbS8nLAo=</text>
+      <register name="0" type="4">
+        <text>side-comps__list</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -188,15 +237,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNb2RhbFw+</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNb2RhbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -208,12 +257,22 @@
         <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry>big</entry>
         <entry encoding="base64">XDxNb2RhbFw+</entry>
+        <entry>button</entry>
+        <entry encoding="base64">XDxjcmVhdGVFbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxkZXRhaWxcPg==</entry>
+        <entry encoding="base64">XDxob3Jpem9udGFsVGV4dEFsaWduVHlwZVw+</entry>
+        <entry>verticalTextAlign</entry>
+        <entry encoding="base64">XDx0ZXh0Tm9kZVN0eWxlXD4=</entry>
+        <entry encoding="base64">XDxjaGFuZ2VTZXR0aW5nVHlwZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVDdXJyZW50XD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
+        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action QuickList.ss</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
