@@ -3,10 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545032888450">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="138" column="9" />
-        <mark key="]" line="138" column="20" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545035592014">
+        <mark key="'" line="121" column="9" />
+        <mark key="[" line="119" column="24" />
+        <mark key="]" line="120" column="11" />
+        <mark key="^" line="120" column="11" />
+        <mark key="." line="120" column="11" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
@@ -19,8 +21,8 @@
         <mark key="[" line="42" column="20" />
         <mark key="]" line="42" column="45" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545030001105">
-        <mark key="'" line="79" column="9" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545034978779">
+        <mark key="'" line="86" column="24" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" timestamp="1545031783304">
         <mark key="'" line="17" column="25" />
@@ -32,8 +34,8 @@
         <mark key="." line="238" column="0" />
         <mark key="^" line="225" column="58" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545032863408">
-        <mark key="'" line="125" column="74" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545035549890">
+        <mark key="'" line="125" column="69" />
         <mark key="[" line="83" column="34" />
         <mark key="]" line="83" column="50" />
       </file>
@@ -98,8 +100,8 @@
       <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
         <mark key="'" line="73" column="13" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545032220113">
-        <mark key="'" line="23" column="20" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545035040234">
+        <mark key="'" line="17" column="17" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/components/ConfirmSave/index.vue" timestamp="1545016192145">
         <mark key="'" line="1" column="3" />
@@ -113,20 +115,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="319" column="20" filename="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" />
-      <jump line="6" column="7" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" />
-      <jump line="30" column="8" filename="E:/code/N-31Editor/FE/src/apps/design/components/Pages/index.vue" />
-      <jump line="3" column="8" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" />
-      <jump line="16" column="37" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
-      <jump line="51" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
-      <jump line="17" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
-      <jump line="73" column="13" filename="E:/code/FECodeReview/src/packages/radio/src/index.vue" />
-      <jump line="35" column="6" filename="D:/coder/vux/src/components/x-number/index.vue" />
-      <jump line="4" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" />
-      <jump line="4" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" />
-      <jump line="26" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
-      <jump line="10" column="121" filename="D:/coder/vux/src/components/x-number/index.vue" />
-      <jump line="47" column="4" filename="D:/coder/vux/src/components/x-number/index.vue" />
       <jump line="23" column="21" filename="D:/coder/vux/src/components/x-number/index.vue" />
       <jump line="0" column="0" filename="D:/coder/vux/package.json" />
       <jump line="46" column="5" filename="D:/coder/vux/package.json" />
@@ -170,7 +158,6 @@
       <jump line="20" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
       <jump line="25" column="30" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" />
       <jump line="93" column="22" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="120" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
       <jump line="98" column="31" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="109" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="71" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
@@ -189,7 +176,6 @@
       <jump line="69" column="68" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
       <jump line="68" column="14" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
       <jump line="25" column="4" filename="E:/code/N-31Editor/FE/src/store/modules/comps.js" />
-      <jump line="71" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
       <jump line="23" column="20" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
       <jump line="35" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" />
       <jump line="3" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" />
@@ -197,9 +183,7 @@
       <jump line="9" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/components/Header/index.vue" />
       <jump line="123" column="16" filename="E:/code/N-31Editor/FE/src/store/modules/page.js" />
       <jump line="115" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
-      <jump line="125" column="74" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="2" column="13" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="7" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
       <jump line="135" column="0" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
       <jump line="173" column="0" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
       <jump line="177" column="0" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
@@ -213,13 +197,31 @@
       <jump line="48" column="0" filename="E:/code/N-31Editor/FE/src/api/design/index.js" />
       <jump line="50" column="4" filename="E:/code/N-31Editor/FE/src/api/design/index.js" />
       <jump line="238" column="8" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
+      <jump line="52" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="72" column="11" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="70" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="71" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="64" column="0" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="85" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="86" column="24" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="17" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
+      <jump line="45" column="33" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="115" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="121" column="27" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="7" column="49" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="62" column="6" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="70" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="120" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="0" column="0" filename="E:/code/N-31Editor/FE/node_modules/vuex/dist/vuex.esm.js" />
+      <jump line="97" column="19" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
+      <jump line="125" column="69" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
         <text>Container</text>
       </register>
       <register name="/" type="4">
-        <text>textnode</text>
+        <text encoding="base64">XDxtYXBBY3Rpb25zXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNhc2UgJ2NvbnRhaW5lcic6CiAgICAgIHJldHVybiBuZXcgQ29udGFpbmVyKCkK</text>
@@ -252,23 +254,18 @@
         <text encoding="base64">ICAgICAgICBib3JkZXJSYWRpdXM6IDQsCiAgICAgICAgcGFkZGluZ1RvcDogOCwKICAgICAgICBwYWRkaW5nQm90dG9tOiA4LAogICAgICAgIHBhZGRpbmdMZWZ0OiAxNSwKICAgICAgICBwYWRkaW5nUmlnaHQ6IDE1LAogICAgICAgIGJveFNpemluZzogJ2JvcmRlci1ib3gnLAogICAgICAgIGJhY2tncm91bmQ6IHsKICAgICAgICAgIGNvbG9yOiAnIzJkOGNmMCcsCiAgICAgICAgICAuLi5zdHlsZS5iYWNrZ3JvdW5kLAogICAgICAgIH0s</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>textnode</last-search>
+      <last-search encoding="base64">XDxtYXBBY3Rpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>textnode</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBBY3Rpb25zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>spa</entry>
-        <entry encoding="base64">XDxDb29yZE1vZGVcPg==</entry>
-        <entry encoding="base64">XDxiYXNlWFw+</entry>
-        <entry encoding="base64">XDxUcmVlXD4=</entry>
-        <entry encoding="base64">XDx2YWxpZGF0b3JcPg==</entry>
         <entry>big</entry>
         <entry encoding="base64">XDxNb2RhbFw+</entry>
         <entry>button</entry>
@@ -279,17 +276,22 @@
         <entry encoding="base64">XDx0ZXh0Tm9kZVN0eWxlXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VTZXR0aW5nVHlwZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVDdXJyZW50XD4=</entry>
-        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxjYWNoZUN1cnJlbnRcPg==</entry>
         <entry>textno</entry>
         <entry>textnode</entry>
+        <entry encoding="base64">XDxjdXJyZW50Q29tcFw+</entry>
+        <entry encoding="base64">XDxjaGFuZ2VDdXJyZW50XD4=</entry>
+        <entry encoding="base64">XDxoYW5kbGVDbGlja1w+</entry>
+        <entry>click</entry>
+        <entry encoding="base64">XDx0ZXh0Tm9kZVw+</entry>
+        <entry encoding="base64">XDxtYXBBY3Rpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
