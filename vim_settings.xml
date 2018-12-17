@@ -138,7 +138,7 @@
         <text encoding="base64">ICAgIENvb3JkTW9kZSwgTW91c2UK</text>
       </register>
       <register name=":" type="4">
-        <text>action ShowBookmarks</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -161,9 +161,9 @@
       </history-search>
       <history-cmd>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action ShowBookmarks</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
