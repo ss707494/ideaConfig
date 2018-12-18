@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Emitter" />
       <item value="偏移" />
       <item value="template" />
       <item value="templ" />
@@ -50,12 +51,11 @@
       <item value="array" />
       <item value="arrays" />
       <item value="delta" />
-      <item value="M Swipe" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
       </map>
     </option>
   </component>

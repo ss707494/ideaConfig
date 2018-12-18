@@ -165,7 +165,13 @@
         <mark key="." line="101" column="37" />
         <mark key="^" line="101" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545102497396">
+      <file name="E:/code/FECodeReview/src/router.js" timestamp="1545105648084">
+        <mark key="'" line="64" column="4" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="68" column="6" />
+        <mark key="." line="64" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1545107480507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1545037518232">
@@ -195,6 +201,12 @@
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1545036663571">
         <mark key="'" line="31" column="10" />
+      </file>
+      <file name="E:/code/FECodeReview/src/examples/index.vue" timestamp="1545105634892">
+        <mark key="'" line="12" column="45" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545017832086">
         <mark key="'" line="275" column="0" />
@@ -236,17 +248,11 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545095979077">
         <mark key="'" line="17" column="16" />
       </file>
-      <file name="D:/coder/iview/src/components/input-number/input-number.vue" timestamp="1545103656594">
-        <mark key="'" line="68" column="21" />
+      <file name="D:/coder/iview/src/components/input-number/input-number.vue" timestamp="1545107402069">
+        <mark key="'" line="247" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="48" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
-      <jump line="90" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
-      <jump line="26" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
-      <jump line="91" column="14" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
-      <jump line="30" column="12" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
-      <jump line="99" column="26" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" />
       <jump line="17" column="16" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" />
       <jump line="167" column="18" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
       <jump line="239" column="24" filename="E:/code/N-31Editor/FE/src/api/design/model.js" />
@@ -328,9 +334,7 @@
       <jump line="31" column="4" filename="E:/code/vant/packages/stepper/index.vue" />
       <jump line="340" column="12" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
       <jump line="74" column="12" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
-      <jump line="238" column="61" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
       <jump line="280" column="23" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
-      <jump line="232" column="33" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
       <jump line="68" column="21" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
       <jump line="26" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="10" column="19" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
@@ -341,16 +345,24 @@
       <jump line="4" column="6" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
       <jump line="6" column="7" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
       <jump line="10" column="4" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="11" column="0" filename="E:/code/FECodeReview/src/examples/index.vue" />
+      <jump line="12" column="45" filename="E:/code/FECodeReview/src/examples/index.vue" />
+      <jump line="59" column="0" filename="E:/code/FECodeReview/src/router.js" />
+      <jump line="64" column="4" filename="E:/code/FECodeReview/src/router.js" />
+      <jump line="42" column="13" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
+      <jump line="232" column="28" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
+      <jump line="238" column="28" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
+      <jump line="247" column="26" filename="D:/coder/iview/src/components/input-number/input-number.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Select</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text encoding="base64">XDxhZGROdW1cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>MInputNumber</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgcGF0aDogJy9zZWxlY3QnLAogICAgICBuYW1lOiAnc2VsZWN0JywKICAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJy4vZXhhbXBsZXMvc2VsZWN0LnZ1ZScpCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -380,19 +392,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search encoding="base64">XDxhZGROdW1cPg==</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxhZGROdW1cPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZUN1cnJlbnRcPg==</entry>
         <entry>detail</entry>
         <entry>hh</entry>
         <entry>settlementCapitalAmount</entry>
@@ -412,12 +423,13 @@
         <entry encoding="base64">XDxhc3luY0NoYW5nZVw+</entry>
         <entry encoding="base64">XDxtaW5cPg==</entry>
         <entry>input</entry>
+        <entry encoding="base64">XDxhZGROdW1cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -452,6 +464,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
