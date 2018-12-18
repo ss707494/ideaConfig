@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="精确" />
       <item value="Emitter" />
       <item value="偏移" />
       <item value="template" />
@@ -50,7 +51,6 @@
       <item value="竖" />
       <item value="array" />
       <item value="arrays" />
-      <item value="delta" />
     </histories>
     <option name="languageScores">
       <map>
