@@ -165,11 +165,12 @@
         <mark key="." line="7" column="2" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" timestamp="1545122898215">
-        <mark key="'" line="109" column="24" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" timestamp="1545128813777">
+        <mark key="'" line="120" column="15" />
+        <mark key="[" line="121" column="31" />
+        <mark key="]" line="121" column="44" />
+        <mark key="." line="121" column="44" />
+        <mark key="^" line="121" column="44" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/paymentAccount/index.vue" timestamp="1545126770504" />
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" timestamp="1545126421351">
@@ -208,7 +209,7 @@
         <mark key="]" line="68" column="6" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545127576886">
+      <file name="/Dummy.txt" timestamp="1545127946914">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1545037518232">
@@ -223,12 +224,12 @@
         <mark key="]" line="148" column="32" />
         <mark key="." line="148" column="21" />
       </file>
-      <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545122927006">
-        <mark key="'" line="44" column="6" />
-        <mark key="[" line="46" column="10" />
-        <mark key="]" line="46" column="11" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="46" column="11" />
+      <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545128729852">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="60" column="18" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/store/modules/view.js" timestamp="1545028261968" />
       <file name="E:/code/N-31Editor/FE/src/store/modules/comps.js" timestamp="1545035973908">
@@ -304,14 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="21" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="24" column="27" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="25" column="15" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="34" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
-      <jump line="41" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
-      <jump line="0" column="21" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
-      <jump line="6" column="14" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
-      <jump line="96" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="93" column="6" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="5" column="39" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="81" column="13" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
@@ -355,13 +348,10 @@
       <jump line="118" column="4" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
       <jump line="127" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
       <jump line="8" column="4" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="60" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="51" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
       <jump line="48" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
       <jump line="18" column="24" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="20" column="21" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="111" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="121" column="6" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="102" column="60" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="105" column="37" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="106" column="61" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
@@ -404,46 +394,57 @@
       <jump line="141" column="51" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="82" column="53" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="65" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
+      <jump line="60" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
+      <jump line="123" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
+      <jump line="111" column="8" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
+      <jump line="121" column="20" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
+      <jump line="23" column="0" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="30" column="4" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="120" column="15" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
+      <jump line="32" column="31" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="53" column="0" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="54" column="6" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
+      <jump line="34" column="31" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>200</text>
+        <text>val</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50VmFsdWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAuZWwtdGFibGVfX2hlYWRlci13cmFwcGVyLCAuZWwtdGFibGVfX2JvZHktd3JhcHBlciB7CiAgICBtaW4td2lkdGg6IDE0MDBweDsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text>asyncChange</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGVsLWJ1dHRvbiB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgICAgIDpsb2FkaW5nPSJsb2FkaW5nIgogICAgICAgICAgICAgICAgIEBjbGljaz0ic2F2ZSI+yLcgtqgKICAgICAgPC9lbC1idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZS50YXJnZXQudmFsdWUgPSB0aGlzLmN1cnJlbnRWYWx1ZQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtaW4td2lkdGg9IjE0MCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtaW4td2lkdGg9IjEwMCIK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50VmFsdWUgPSB0aGlzLnJhbmdlKHZhbCkKICAgICAgdGhpcy4kZW1pdCgnaW5wdXQnLCB2YWwpCiAgICAgIHRoaXMuJGVtaXQoJ29uQ2hhbmdlJywgdmFsKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50VmFsdWUgPSB0aGlzLnJhbmdlKHZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgPGVsLWJ1dHRvbiB0eXBlPSJwcmltYXJ5IgogICAgICAgICAgICAgICAgIDpsb2FkaW5nPSJsb2FkaW5nIgogICAgICAgICAgICAgICAgIEBjbGljaz0ic2F2ZSI+yLcgtqgKICAgICAgPC9lbC1idXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50VmFsdWUgPSB0aGlzLnJhbmdlKGFjY3VyYXRlQWRkKHRoaXMuY3VycmVudFZhbHVlLCAtdGhpcy5zdGVwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50VmFsdWUgPSB0aGlzLnJhbmdlKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICBtaW4td2lkdGg9IjE0MCIK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -479,8 +480,8 @@
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
