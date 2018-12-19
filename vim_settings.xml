@@ -157,6 +157,12 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" timestamp="1545043521060">
         <mark key="'" line="172" column="17" />
       </file>
+      <file name="E:/code/FECodeReview/src/examples/swipe.vue" timestamp="1545185752481">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="45" column="13" />
+        <mark key="." line="45" column="13" />
+        <mark key="^" line="45" column="13" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/detail/index.vue" timestamp="1545115854247">
         <mark key="'" line="146" column="30" />
         <mark key="[" line="146" column="21" />
@@ -469,7 +475,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>64</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nVHlwZVw+</text>
@@ -505,7 +511,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -541,8 +547,8 @@
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
