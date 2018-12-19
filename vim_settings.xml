@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545188971912">
-        <mark key="'" line="0" column="57" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545198206982">
+        <mark key="'" line="125" column="9" />
+        <mark key="[" line="125" column="9" />
+        <mark key="]" line="128" column="32" />
+        <mark key="." line="142" column="8" />
+        <mark key="^" line="142" column="7" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
@@ -22,8 +26,11 @@
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="34" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545130976271">
-        <mark key="'" line="103" column="17" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545198215254">
+        <mark key="'" line="45" column="32" />
+        <mark key="[" line="42" column="14" />
+        <mark key="]" line="45" column="33" />
+        <mark key="." line="42" column="14" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" timestamp="1545125849339">
         <mark key="'" line="6" column="2" />
@@ -211,7 +218,7 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="130" column="38" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545191041766">
+      <file name="/Dummy.txt" timestamp="1545191264000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -287,10 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" />
-      <jump line="18" column="24" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="20" column="21" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="102" column="60" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="105" column="37" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="106" column="61" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
       <jump line="109" column="37" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
@@ -387,58 +390,61 @@
       <jump line="8" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
       <jump line="56" column="22" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/components/Base/index.vue" />
       <jump line="0" column="57" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="142" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="125" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
+      <jump line="42" column="14" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
+      <jump line="45" column="32" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>url</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>horizontalTextAlign</text>
+        <text>})</text>
       </register>
       <register name="0" type="4">
-        <text>horizontalTextAlign</text>
+        <text encoding="base64">LnJlcGxhY2UoLzwvZywgJyZsdDsnKQogICAgICAgIC5yZXBsYWNlKC88L2csICcmZ3Q7JykKICAgICAgICAucmVwbGFjZSgvXHI/XG4vZywgJzxici8+JykKICAgICAgICAucmVwbGFjZSgvXHMvZywgJyZuYnNwOycp</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">LnJlcGxhY2UoLyg/Oig8ZGl2Pil8KDxcL2Rpdj4pfCg8YnJccypcLz8+KXwoXHMpfCgmbmJzcDspfCgmbHQ7KXwoJmd0Oyl8KCZhbXA7KSkvbWcsIChhcmcpID0+IHsKICAgICAgICAgICAgICAgIHN3aXRjaCAodHJ1ZSkgewogICAgICAgICAgICAgICAgICBjYXNlIC88ZGl2Pi8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICBjYXNlIC88YnJccypcLz8+PyFccy8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnXHJcbicKICAgICAgICAgICAgICAgICAgY2FzZSAvJm5ic3A7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgIGNhc2UgL1xzLy50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICcgJwogICAgICAgICAgICAgICAgICBjYXNlIC8mbHQ7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICc8JwogICAgICAgICAgICAgICAgICBjYXNlIC8mZ3Q7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICc+JwogICAgICAgICAgICAgICAgICBjYXNlIC8mYW1wOy8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJicKICAgICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9KQ==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">cmVwbGFjZSgvPC9nLCAnJmx0OycpCiAgICAgICAgLnJlcGxhY2UoLzwvZywgJyZndDsnKQogICAgICAgIC5yZXBsYWNlKC9ccj9cbi9nLCAnPGJyLz4nKQogICAgICAgIC5yZXBsYWNlKC9ccy9nLCAnJm5ic3A7Jyk=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3A9ImVuZFRpbWUiCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3A9ImVuZFRpbWUiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZS50YXJnZXQudmFsdWUgPSB0aGlzLmN1cnJlbnRWYWx1ZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZS50YXJnZXQudmFsdWUgPSB0aGlzLmN1cnJlbnRWYWx1ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50VmFsdWUgPSB0aGlzLnJhbmdlKHZhbCkKICAgICAgdGhpcy4kZW1pdCgnaW5wdXQnLCB2YWwpCiAgICAgIHRoaXMuJGVtaXQoJ29uQ2hhbmdlJywgdmFsKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>horizontalTextAlign</last-search>
+      <last-search>})</last-search>
       <last-offset />
-      <last-pattern>horizontalTextAlign</last-pattern>
+      <last-pattern>})</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>blur</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxtc2dib3hcPg==</entry>
         <entry encoding="base64">Zm9ybWF0IA==</entry>
@@ -458,12 +464,13 @@
         <entry encoding="base64">XDxzZXR0aW5nVHlwZVw+</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry>horizontalTextAlign</entry>
+        <entry>})</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
