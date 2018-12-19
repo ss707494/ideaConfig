@@ -267,7 +267,7 @@
         <mark key="]" line="68" column="6" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545127946914">
+      <file name="/Dummy.txt" timestamp="1545184515841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1545037518232">
@@ -345,12 +345,12 @@
       <file name="E:/code/N-31Editor/FE/src/store/modules/page.js" timestamp="1545036103918">
         <mark key="'" line="54" column="4" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1545184502956">
-        <mark key="'" line="46" column="35" />
-        <mark key="[" line="234" column="8" />
-        <mark key="]" line="235" column="5" />
-        <mark key="." line="235" column="5" />
-        <mark key="^" line="235" column="5" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1545185151513">
+        <mark key="'" line="135" column="48" />
+        <mark key="[" line="246" column="41" />
+        <mark key="]" line="247" column="13" />
+        <mark key="." line="247" column="13" />
+        <mark key="^" line="247" column="13" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
         <mark key="'" line="73" column="13" />
@@ -437,7 +437,6 @@
       <jump line="113" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="121" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="128" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="135" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="146" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="177" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="185" column="51" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
@@ -466,10 +465,11 @@
       <jump line="44" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
       <jump line="3" column="31" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
       <jump line="30" column="38" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
+      <jump line="135" column="48" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0aW5nVHlwZVw+</text>
