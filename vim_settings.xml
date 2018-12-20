@@ -6,8 +6,23 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
         <mark key="'" line="27" column="4" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/components/Category/List/components/classCell/index.vue" timestamp="1545301250201">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" timestamp="1545184390166">
         <mark key="'" line="30" column="38" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/manager/index.vue" timestamp="1545208071539">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" timestamp="1545206199887">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" timestamp="1545191165183">
         <mark key="'" line="8" column="29" />
@@ -149,6 +164,11 @@
         <mark key="[" line="43" column="24" />
         <mark key="]" line="43" column="30" />
         <mark key="." line="43" column="24" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/system/containers/costs/fixed/index.vue" timestamp="1545209162315">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545131145040">
         <mark key="'" line="33" column="29" />
@@ -356,11 +376,16 @@
         <mark key="." line="47" column="26" />
         <mark key="^" line="47" column="26" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/role/index.vue" timestamp="1545208146077">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" timestamp="1545015309974">
         <mark key="'" line="4" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545298458688">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545300358033">
+        <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
       </file>
@@ -514,7 +539,7 @@
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>t</text>
+        <text>账户余额</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXR0bGVtZW50U3RhdHVzXD4=</text>
@@ -522,35 +547,35 @@
       <register name="0" type="4">
         <text encoding="base64">ewogICAgICAgIHZhbHVlOiAnMCcsCiAgICAgICAgbGFiZWw6ICfIq7K/vMfCvCcKICAgICAgfSwgLi4uc2V0dGxlbWVudFN0YXR1cy5vcmlnaW4uZmlsdGVyKGUgPT4gW3NldHRsZW1lbnRTdGF0dXMuU0VUVExFTUVOVF9QRU5ESU5HLCBzZXR0bGVtZW50U3RhdHVzLlNFVFRMRU1FTlRfRE9ORSwgc2V0dGxlbWVudFN0YXR1cy5TRVRUTEVNRU5UX0NBTkNFTEVEXS5pbmNsdWRlcyhlLnZhbHVlKSk=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIC8vbHNka2ZqCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ewogICAgICAgIHZhbHVlOiAnMCcsCiAgICAgICAgbGFiZWw6ICfIq7K/vMfCvCcKICAgICAgfSwgLi4uc2V0dGxlbWVudFN0YXR1cy5vcmlnaW4uZmlsdGVyKGUgPT4gZS52YWx1ZSA9PT0gdGhpcy5TRVRUTEVNRU5UX1BFTkRJTkcgfHwgZS52YWx1ZSA9PT0gdGhpcy5TRVRUTEVNRU5UX0RPTkUp</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGUua2V5Q29kZSA9PT0gMTMpIHsKICAgICAgICAgICAgLy8gICAvLyBpbnNlcnQgMiBiciB0YWdzIChpZiBvbmx5IG9uZSBiciB0YWcgaXMgaW5zZXJ0ZWQgdGhlIGN1cnNvciB3b24ndCBnbyB0byB0aGUgbmV4dCBsaW5lKQogICAgICAgICAgICAvLyAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdpbnNlcnRIVE1MJywgZmFsc2UsICc8YnI+PGJyPicpCiAgICAgICAgICAgIC8vICAgLy8gcHJldmVudCB0aGUgZGVmYXVsdCBiZWhhdmlvdXIgb2YgcmV0dXJuIGtleSBwcmVzc2VkCiAgICAgICAgICAgIC8vICAgcmV0dXJuIGZhbHNlCiAgICAgICAgICAgIC8vIH0K</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52YWx1ZSA9IHZhbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGUua2V5Q29kZSA9PT0gMTMpIHsKICAgICAgICAgICAgLy8gICAvLyBpbnNlcnQgMiBiciB0YWdzIChpZiBvbmx5IG9uZSBiciB0YWcgaXMgaW5zZXJ0ZWQgdGhlIGN1cnNvciB3b24ndCBnbyB0byB0aGUgbmV4dCBsaW5lKQogICAgICAgICAgICAvLyAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdpbnNlcnRIVE1MJywgZmFsc2UsICc8YnI+PGJyPicpCiAgICAgICAgICAgIC8vICAgLy8gcHJldmVudCB0aGUgZGVmYXVsdCBiZWhhdmlvdXIgb2YgcmV0dXJuIGtleSBwcmVzc2VkCiAgICAgICAgICAgIC8vICAgcmV0dXJuIGZhbHNlCiAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZGF0YS52YWx1ZSA9IHZhbAogICAgICAgICAgICAvLyAgIC5yZXBsYWNlKC8oPzooPGRpdj4pfCg8XC9kaXY+KXwoPGJyXHMqXC8/Pil8KFxzKXwoJm5ic3A7KXwoJmx0Oyl8KCZndDspfCgmYW1wOykpL21nLCAoYXJnKSA9PiB7CiAgICAgICAgICAgIC8vICAgICBzd2l0Y2ggKHRydWUpIHsKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGRpdj4vLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGJyXHMqXC8/Pj8hXHMvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJ1xyXG4nCiAgICAgICAgICAgIC8vICAgICAgIGNhc2UgLyZuYnNwOy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICBjYXNlIC9ccy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnICcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmx0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPCcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmd0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPicKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmFtcDsvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJyYnCiAgICAgICAgICAgIC8vICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuICcnCiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52YWx1ZSA9IHZhbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGF0YS52YWx1ZSA9IHZhbAogICAgICAgICAgICAvLyAgIC5yZXBsYWNlKC8oPzooPGRpdj4pfCg8XC9kaXY+KXwoPGJyXHMqXC8/Pil8KFxzKXwoJm5ic3A7KXwoJmx0Oyl8KCZndDspfCgmYW1wOykpL21nLCAoYXJnKSA9PiB7CiAgICAgICAgICAgIC8vICAgICBzd2l0Y2ggKHRydWUpIHsKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGRpdj4vLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGJyXHMqXC8/Pj8hXHMvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJ1xyXG4nCiAgICAgICAgICAgIC8vICAgICAgIGNhc2UgLyZuYnNwOy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICBjYXNlIC9ccy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnICcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmx0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPCcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmd0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPicKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmFtcDsvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJyYnCiAgICAgICAgICAgIC8vICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuICcnCiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -587,8 +612,8 @@
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
