@@ -137,8 +137,12 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/all/index.vue" timestamp="1545202691527">
         <mark key="'" line="1" column="20" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545183042360">
+      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545277415126">
         <mark key="'" line="200" column="6" />
+        <mark key="[" line="133" column="27" />
+        <mark key="]" line="133" column="30" />
+        <mark key="." line="133" column="30" />
+        <mark key="^" line="133" column="30" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545272334025">
         <mark key="'" line="43" column="29" />
@@ -205,12 +209,12 @@
       <file name="D:/coder/iview/src/components/input-number/input-number.vue" timestamp="1545107402069">
         <mark key="'" line="247" column="26" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545273711310">
+      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545278313628">
         <mark key="'" line="125" column="9" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
-        <mark key="^" line="123" column="11" />
+        <mark key="[" line="129" column="5" />
+        <mark key="]" line="129" column="5" />
+        <mark key="." line="129" column="5" />
+        <mark key="^" line="130" column="51" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" timestamp="1545272641460">
         <mark key="'" line="17" column="82" />
@@ -224,12 +228,12 @@
         <mark key="^" line="165" column="24" />
         <mark key="." line="165" column="24" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545274019163">
-        <mark key="'" line="45" column="32" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="39" column="19" />
-        <mark key="." line="39" column="19" />
-        <mark key="^" line="39" column="19" />
+      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545278549584">
+        <mark key="'" line="47" column="12" />
+        <mark key="[" line="43" column="27" />
+        <mark key="]" line="43" column="27" />
+        <mark key="." line="43" column="27" />
+        <mark key="^" line="42" column="29" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/router.js" timestamp="1545216813580">
         <mark key="'" line="39" column="57" />
@@ -401,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="96" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="86" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
       <jump line="101" column="26" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
@@ -501,10 +504,11 @@
       <jump line="17" column="82" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
       <jump line="35" column="18" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/detail/index.vue" />
       <jump line="22" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" />
+      <jump line="47" column="12" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>帐户</text>
+        <text encoding="base64">KDxkaXY+KXwoPFwvZGl2Pil8KDxiclxzKlwvPz4pfA==</text>
       </register>
       <register name="/" type="4">
         <text>sear</text>
@@ -513,34 +517,34 @@
         <text>￥</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcXVlcnkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaWYgKGUua2V5Q29kZSA9PT0gMTMpIHsKICAgICAgICAgICAgLy8gICAvLyBpbnNlcnQgMiBiciB0YWdzIChpZiBvbmx5IG9uZSBiciB0YWcgaXMgaW5zZXJ0ZWQgdGhlIGN1cnNvciB3b24ndCBnbyB0byB0aGUgbmV4dCBsaW5lKQogICAgICAgICAgICAvLyAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdpbnNlcnRIVE1MJywgZmFsc2UsICc8YnI+PGJyPicpCiAgICAgICAgICAgIC8vICAgLy8gcHJldmVudCB0aGUgZGVmYXVsdCBiZWhhdmlvdXIgb2YgcmV0dXJuIGtleSBwcmVzc2VkCiAgICAgICAgICAgIC8vICAgcmV0dXJuIGZhbHNlCiAgICAgICAgICAgIC8vIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YS52YWx1ZSA9IHZhbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZGF0YS52YWx1ZSA9IHZhbAogICAgICAgICAgICAvLyAgIC5yZXBsYWNlKC8oPzooPGRpdj4pfCg8XC9kaXY+KXwoPGJyXHMqXC8/Pil8KFxzKXwoJm5ic3A7KXwoJmx0Oyl8KCZndDspfCgmYW1wOykpL21nLCAoYXJnKSA9PiB7CiAgICAgICAgICAgIC8vICAgICBzd2l0Y2ggKHRydWUpIHsKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGRpdj4vLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvPGJyXHMqXC8/Pj8hXHMvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJ1xyXG4nCiAgICAgICAgICAgIC8vICAgICAgIGNhc2UgLyZuYnNwOy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICBjYXNlIC9ccy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnICcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmx0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPCcKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmd0Oy8udGVzdChhcmcpOgogICAgICAgICAgICAvLyAgICAgICAgIHJldHVybiAnPicKICAgICAgICAgICAgLy8gICAgICAgY2FzZSAvJmFtcDsvLnRlc3QoYXJnKToKICAgICAgICAgICAgLy8gICAgICAgICByZXR1cm4gJyYnCiAgICAgICAgICAgIC8vICAgICAgIGRlZmF1bHQ6CiAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuICcnCiAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgIC8vICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpdGhkcmF3U3RhdHVzU3RyaW5nKCkgewogICAgICByZXR1cm4gZGVzY3JpcHRpb24gKyB3aXRoZHJhd1N0YXR1c1tzY29wZS5yb3cud2l0aGRyYXdTdGF0dXNdCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -576,9 +580,9 @@
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
