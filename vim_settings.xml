@@ -240,12 +240,12 @@
       <file name="E:/code/FECodeReview/src/packages/swipe/src/index.vue" timestamp="1545210467647">
         <mark key="'" line="244" column="24" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" timestamp="1545358709922">
-        <mark key="'" line="500" column="54" />
-        <mark key="[" line="500" column="48" />
-        <mark key="]" line="500" column="49" />
-        <mark key="^" line="500" column="49" />
-        <mark key="." line="500" column="49" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" timestamp="1545359948783">
+        <mark key="'" line="187" column="42" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="186" column="43" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" timestamp="1545131262651">
         <mark key="'" line="77" column="6" />
@@ -395,7 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" />
       <jump line="28" column="20" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" />
       <jump line="37" column="17" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" />
       <jump line="73" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" />
@@ -495,58 +494,58 @@
       <jump line="496" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
       <jump line="505" column="22" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
       <jump line="500" column="54" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
+      <jump line="186" column="42" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>上架</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>上架</text>
+        <text>flag</text>
       </register>
       <register name="0" type="4">
         <text>item.status === 100 ? 200 : 100</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5mZXRjaGluZzIpIHsKICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICB0aGlzLmZldGNoaW5nMiA9IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L3RlbXBsYXRlPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWxQcm9kdWN0KHsgaWQ6IGl0ZW0uaWQgfSkudGhlbigoKSA9PiB7CiAgICAgICAgICB0aGlzLmdldFByb2R1Y3RzKCkKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8dGVtcGxhdGU+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZmV0Y2hpbmcyKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgdGhpcy5mZXRjaGluZzIgPSB0cnVlCiAgICAgIGNvbnN0IHN0YXRlID0gaXRlbS5zdGF0dXMgPT09IDEwMCA/IDIwMCA6IDEwMAogICAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgICAgaWQ6IGl0ZW0uaWQsCiAgICAgICAgc3RhdHVzOiBzdGF0ZQogICAgICB9CiAgICAgIHVwZGF0ZVByb2R1Y3RTdGF0dXMocGFyYW1zKQogICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgaXRlbS5zdGF0dXMgPSBzdGF0ZQogICAgICAgIHRoaXMuZmV0Y2hpbmcyID0gZmFsc2UKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5mZXRjaGluZzIpIHsKICAgICAgICAgIHJldHVybgogICAgICAgIH0KICAgICAgICB0aGlzLmZldGNoaW5nMiA9IHRydWUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYXRjaE9mZmxpbmUodGhpcy5zZWxlY3RlZCkudGhlbigoKSA9PiB7CiAgICAgICAgICB0aGlzLnNlbGVjdGVkID0gW10KICAgICAgICAgIHRoaXMuZ2V0UHJvZHVjdHMoKQogICAgICAgICAgdGhpcy4kbWVzc2FnZSh7IG1lc3NhZ2U6ICfPwrzcs8m5picsIHR5cGU6ICdzdWNjZXNzJyB9KQogICAgICAgIH0pCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYmF0Y2hPbmxpbmUodGhpcy5zZWxlY3RlZCkudGhlbigoKSA9PiB7CiAgICAgICAgdGhpcy5zZWxlY3RlZCA9IFtdCiAgICAgICAgdGhpcy5nZXRQcm9kdWN0cygpCiAgICAgICAgdGhpcy4kbWVzc2FnZSh7IG1lc3NhZ2U6ICfJz7zcs8m5picsIHR5cGU6ICdzdWNjZXNzJyB9KQogICAgICB9KQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZWxQcm9kdWN0KHsgaWQ6IGl0ZW0uaWQgfSkudGhlbigoKSA9PiB7CiAgICAgICAgICB0aGlzLmdldFByb2R1Y3RzKCkKICAgICAgICB9KQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHRoaXMuZmV0Y2hpbmcyKSB7CiAgICAgICAgcmV0dXJuCiAgICAgIH0KICAgICAgdGhpcy5mZXRjaGluZzIgPSB0cnVlCiAgICAgIGNvbnN0IHN0YXRlID0gaXRlbS5zdGF0dXMgPT09IDEwMCA/IDIwMCA6IDEwMAogICAgICBjb25zdCBwYXJhbXMgPSB7CiAgICAgICAgaWQ6IGl0ZW0uaWQsCiAgICAgICAgc3RhdHVzOiBzdGF0ZQogICAgICB9CiAgICAgIHVwZGF0ZVByb2R1Y3RTdGF0dXMocGFyYW1zKQogICAgICAudGhlbigoKSA9PiB7CiAgICAgICAgaXRlbS5zdGF0dXMgPSBzdGF0ZQogICAgICAgIHRoaXMuZmV0Y2hpbmcyID0gZmFsc2UKICAgICAgfSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiYXRjaE9mZmxpbmUodGhpcy5zZWxlY3RlZCkudGhlbigoKSA9PiB7CiAgICAgICAgICB0aGlzLnNlbGVjdGVkID0gW10KICAgICAgICAgIHRoaXMuZ2V0UHJvZHVjdHMoKQogICAgICAgICAgdGhpcy4kbWVzc2FnZSh7IG1lc3NhZ2U6ICfPwrzcs8m5picsIHR5cGU6ICdzdWNjZXNzJyB9KQogICAgICAgIH0pCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmF0Y2hPZmZsaW5lKHRoaXMuc2VsZWN0ZWQpLnRoZW4oKCkgPT4gewogICAgICAgIHRoaXMuc2VsZWN0ZWQgPSBbXQogICAgICAgIHRoaXMuZ2V0UHJvZHVjdHMoKQogICAgICAgIHRoaXMuJG1lc3NhZ2UoeyBtZXNzYWdlOiAnz8K83LPJuaYnLCB0eXBlOiAnc3VjY2VzcycgfSkKICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgYmF0Y2hPbmxpbmUodGhpcy5zZWxlY3RlZCkudGhlbigoKSA9PiB7CiAgICAgICAgdGhpcy5zZWxlY3RlZCA9IFtdCiAgICAgICAgdGhpcy5nZXRQcm9kdWN0cygpCiAgICAgICAgdGhpcy4kbWVzc2FnZSh7IG1lc3NhZ2U6ICfJz7zcs8m5picsIHR5cGU6ICdzdWNjZXNzJyB9KQogICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVsLWRpYWxvZwogICAgICAgICAgICAgIHRpdGxlPSLJzMa3seq8xyIKICAgICAgICAgICAgICA6dmlzaWJsZS5zeW5jPSJzaG93RmxhZ01vZGFsIgogICAgICAgICAgICAgIHdpZHRoPSI1MDBweCIKICAgICAgICAgICAgICBjZW50ZXI+CiAgICAgICAgICAgICAgPGVsLWNoZWNrYm94LWdyb3VwIHYtbW9kZWw9ImZsYWciPgogICAgICAgICAgICAgICAgPCEtLTxlbC1jaGVja2JveAogICAgICAgICAgICAgICAgICB2LWZvcj0iaXRlbSBvZiBmbGFncyIKICAgICAgICAgICAgICAgICAgOmtleT0iaXRlbS52YWx1ZSIKICAgICAgICAgICAgICAgICAgOmxhYmVsPSJpdGVtLnZhbHVlIj4KICAgICAgICAgICAgICAgICAge3tpdGVtLmxhYmVsfX0KICAgICAgICAgICAgICAgIDwvZWwtY2hlY2tib3g+LS0+CiAgICAgICAgICAgICAgICA8ZWwtcmFkaW8KICAgICAgICAgICAgICAgICAgdi1mb3I9Iml0ZW0gb2YgZmxhZ3MiCiAgICAgICAgICAgICAgICAgIDprZXk9ImBmbGFnLSR7aXRlbS52YWx1ZX1gIgogICAgICAgICAgICAgICAgICB2LW1vZGVsPSJmbGFnIgogICAgICAgICAgICAgICAgICA6bGFiZWw9Iml0ZW0udmFsdWUiCiAgICAgICAgICAgICAgICA+e3tpdGVtLmxhYmVsfX08L2VsLXJhZGlvPgogICAgICAgICAgICAgIDwvZWwtY2hlY2tib3gtZ3JvdXA+CiAgICAgICAgICAgICAgPHRlbXBsYXRlIHNsb3Q9ImZvb3RlciI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJwcm9kdWN0cy1jb250cm9sc19fZm9vdCI+CiAgICAgICAgICAgICAgICAgIDxlbC1idXR0b24gQGNsaWNrPSJzaG93RmxhZ01vZGFsID0gZmFsc2UiPsihIM/7PC9lbC1idXR0b24+CiAgICAgICAgICAgICAgICAgIDxlbC1idXR0b24gdHlwZT0icHJpbWFyeSIgQGNsaWNrPSJzYXZlRmxhZyI+yLcgtqg8L2VsLWJ1dHRvbj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgIDwvdGVtcGxhdGU+CiAgICAgICAgICAgIDwvZWwtZGlhbG9nPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWxQcm9kdWN0KHsgaWQ6IGl0ZW0uaWQgfSkudGhlbigoKSA9PiB7CiAgICAgICAgICB0aGlzLmdldFByb2R1Y3RzKCkKICAgICAgICB9KQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmF0Y2hPZmZsaW5lKHRoaXMuc2VsZWN0ZWQpLnRoZW4oKCkgPT4gewogICAgICAgIHRoaXMuc2VsZWN0ZWQgPSBbXQogICAgICAgIHRoaXMuZ2V0UHJvZHVjdHMoKQogICAgICAgIHRoaXMuJG1lc3NhZ2UoeyBtZXNzYWdlOiAnz8K83LPJuaYnLCB0eXBlOiAnc3VjY2VzcycgfSkKICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>上架</last-search>
+      <last-search>flag</last-search>
       <last-offset />
-      <last-pattern>上架</last-pattern>
+      <last-pattern>flag</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93Q3JlZGVudGlhbHNcPg==</entry>
         <entry>debu</entry>
         <entry>main</entry>
         <entry encoding="base64">XDx3aXRoZHJhd1N0YXR1c1N0cmluZ1w+</entry>
@@ -566,13 +565,14 @@
         <entry encoding="base64">XDxzaG93RmxhZ01vZGFsXD4=</entry>
         <entry encoding="base64">XDxoYW5kbGVCYXRjaE9ubGluZVw+</entry>
         <entry>上架</entry>
+        <entry>flag</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
