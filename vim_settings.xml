@@ -165,13 +165,6 @@
         <mark key="[" line="395" column="0" />
         <mark key="]" line="398" column="37" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545372915055">
-        <mark key="'" line="34" column="44" />
-        <mark key="[" line="34" column="71" />
-        <mark key="]" line="34" column="77" />
-        <mark key="." line="34" column="77" />
-        <mark key="^" line="34" column="77" />
-      </file>
       <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545131145040">
         <mark key="'" line="33" column="29" />
         <mark key="[" line="61" column="8" />
@@ -457,13 +450,14 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/product/list/index.vue" timestamp="1545362239747">
         <mark key="'" line="1" column="19" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" timestamp="1545378850041">
-        <mark key="'" line="55" column="49" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" timestamp="1545382480511">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+        <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545378131700">
+      <file name="/Dummy.txt" timestamp="1545382744447">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -533,7 +527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="21" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
       <jump line="438" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
       <jump line="544" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
       <jump line="226" column="48" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.vue" />
@@ -633,10 +626,11 @@
       <jump line="2" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/account/orderList/index.vue" />
       <jump line="56" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
       <jump line="55" column="49" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
+      <jump line="66" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>rgba(250, 251, 253, 1)</text>
+        <text>15</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
@@ -645,31 +639,31 @@
         <text encoding="base64">ICAgICAgcGFkZGluZzogMjVweCAyMHB4IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2ZhZmJmZDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMjUwLCAyNTEsIDI1MywgMSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZWwtdXBsb2FkLS10ZXh0ewogICAgICAgICAgLy9iYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1MCwgMjUxLCAyNTMsIDEpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAuZWwtdGFibGUgdGQsIC5lbC10YWJsZSB0aC5pcy1sZWFmCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHJnYmEoMjUwLCAyNTEsIDI1MywgMSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbGFiZWwtd2lkdGg9IjE0MHB4Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGxhYmVsLXdpZHRoPSIxNDAiCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIHRoaXMuJG1zZ2JveCh7CiAgICAgICAgICB0aXRsZTogJ8zhyr4nLAogICAgICAgICAgbWVzc2FnZTogJ8i3tqjSqr2ruMO2qbWlserOqtLR1qe4tsLwo78nLAo=</text>
+        <text encoding="base64">ICAuZWwtdGFibGUgdGQsIC5lbC10YWJsZSB0aC5pcy1sZWFmCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
