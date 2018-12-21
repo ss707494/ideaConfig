@@ -88,6 +88,12 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/all/index.vue" timestamp="1545202691527">
         <mark key="'" line="1" column="20" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/transferList/index.scss" timestamp="1545366490370">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545272334025">
         <mark key="'" line="43" column="29" />
         <mark key="[" line="43" column="24" />
@@ -96,6 +102,13 @@
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1545272209692">
         <mark key="'" line="63" column="10" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" timestamp="1545366421175">
+        <mark key="'" line="2" column="1" />
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="109" column="21" />
+        <mark key="^" line="109" column="21" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/assets/styles/eleme.scss" timestamp="1545204224908">
         <mark key="[" line="318" column="0" />
@@ -165,6 +178,13 @@
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/transferList/index.vue" timestamp="1545366475551">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="1" column="23" />
+        <mark key="]" line="1" column="52" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="1" column="29" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545100425279">
         <mark key="'" line="20" column="32" />
@@ -280,9 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="82" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/home/index.vue" />
-      <jump line="35" column="18" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/detail/index.vue" />
-      <jump line="22" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" />
       <jump line="47" column="12" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
       <jump line="84" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="99" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
@@ -380,6 +397,9 @@
       <jump line="194" column="22" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/publish/components/Products/index.scss" />
       <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
       <jump line="127" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.scss" />
+      <jump line="2" column="1" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
+      <jump line="18" column="22" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/transferList/index.vue" />
+      <jump line="1" column="23" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/transferList/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -389,7 +409,7 @@
         <text>list</text>
       </register>
       <register name="0" type="4">
-        <text>%pagination</text>
+        <text>manage-settlement-transferList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBleHRlbmQgJXBhZ2luYXRpb247Cg==</text>
