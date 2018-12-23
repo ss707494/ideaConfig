@@ -27,8 +27,11 @@
     <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR:CONSOLE" />
     <option name="STRIP_TRAILING_SPACES" value="Whole" />
     <option name="SHOW_INTENTION_BULB" value="false" />
+    <option name="IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
     <option name="SHOW_BREADCRUMBS_ABOVE" value="true" />
-    <option name="IS_WHITESPACES_SHOWN" value="true" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
   </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
