@@ -1,15 +1,27 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="APP PATH" />
+      <item value="Permission denied" />
+      <item value="complete" />
+      <item value="completeTime" />
+      <item value="cmpleteTime" />
+      <item value="精确" />
+      <item value="Emitter" />
+      <item value="偏移" />
+      <item value="template" />
+      <item value="templ" />
+      <item value="订单支付" />
+      <item value="支付" />
+      <item value="退款" />
+      <item value="提现" />
       <item value="结算" />
+      <item value="transaction" />
       <item value="income" />
       <item value="refund" />
       <item value="总支出金额" />
       <item value="总收入金额" />
       <item value="帐户余额" />
       <item value="账户收支" />
-      <item value="提现" />
       <item value="收支明细" />
       <item value="multiple-cursors" />
       <item value="圆" />
@@ -22,7 +34,6 @@
       <item value="商品" />
       <item value="待结算" />
       <item value="取消" />
-      <item value="complete" />
       <item value="完成" />
       <item value="进行中" />
       <item value="到账" />
@@ -40,22 +51,11 @@
       <item value="系统账号" />
       <item value="wraps" />
       <item value="元素" />
-      <item value="竖" />
-      <item value="array" />
-      <item value="arrays" />
-      <item value="delta" />
-      <item value="M Swipe" />
-      <item value="bottom" />
-      <item value="position" />
-      <item value="指示器" />
-      <item value="动画" />
-      <item value="间隔" />
-      <item value="金额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="49" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
       </map>
     </option>
   </component>
