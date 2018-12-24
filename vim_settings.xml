@@ -16,8 +16,8 @@
         <mark key="." line="324" column="40" />
         <mark key="^" line="324" column="40" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" timestamp="1545642250429">
-        <mark key="'" line="459" column="4" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" timestamp="1545642903540">
+        <mark key="'" line="235" column="40" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -429,10 +429,10 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545636588889">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1545643412085">
+        <mark key="[" line="0" column="8" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" timestamp="1545373646896">
         <mark key="'" line="104" column="77" />
@@ -507,9 +507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="42" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" />
-      <jump line="42" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.scss" />
-      <jump line="56" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
       <jump line="55" column="49" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
       <jump line="66" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/components/SupplierForm/index.scss" />
       <jump line="35" column="60" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" />
@@ -607,13 +604,16 @@
       <jump line="129" column="24" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
       <jump line="405" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
       <jump line="460" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
+      <jump line="185" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
+      <jump line="226" column="42" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
+      <jump line="235" column="40" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/reception/car/carUse/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>210</text>
+        <text>样式调整</text>
       </register>
       <register name="/" type="4">
-        <text>open</text>
+        <text>rule</text>
       </register>
       <register name="0" type="4">
         <text>beforeClose</text>
@@ -646,19 +646,18 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>open</last-search>
+      <last-search>rule</last-search>
       <last-offset />
-      <last-pattern>open</last-pattern>
+      <last-pattern>rule</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>img</entry>
         <entry encoding="base64">ICAgICZfX2NvbnRlbnR7ICAgICAgIHBhZGRpbmc6MTVweCAxNXB4IDAgMjBweDs=</entry>
         <entry encoding="base64">XDxhZG1pblByb2R1Y3RzU2VsbFw+</entry>
         <entry>id</entry>
@@ -678,13 +677,14 @@
         <entry encoding="base64">XDxzdGFydFRpbWVcPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVDbG9zZVw+</entry>
         <entry>open</entry>
+        <entry>rule</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />

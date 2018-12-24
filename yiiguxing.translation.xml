@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shelve" />
       <item value="Permission denied" />
       <item value="complete" />
       <item value="completeTime" />
@@ -50,11 +51,10 @@
       <item value="超级管理员" />
       <item value="系统账号" />
       <item value="wraps" />
-      <item value="元素" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="57" />
+        <entry key="CHINESE" value="58" />
         <entry key="ENGLISH" value="58" />
       </map>
     </option>
