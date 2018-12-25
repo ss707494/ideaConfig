@@ -363,7 +363,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545728312635">
+      <file name="/Dummy.txt" timestamp="1545728472345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -575,7 +575,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -612,8 +612,8 @@
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
