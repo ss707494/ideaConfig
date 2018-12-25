@@ -69,6 +69,13 @@
         <mark key="^" line="56" column="20" />
         <mark key="." line="56" column="20" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/common/enums/carUse.js" timestamp="1545716153427">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/system/containers/staffManage/index.vue" timestamp="1545115536498">
         <mark key="'" line="180" column="19" />
         <mark key="[" line="179" column="20" />
@@ -430,7 +437,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545699631947">
+      <file name="/Dummy.txt" timestamp="1545709434381">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -515,9 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
-      <jump line="63" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
-      <jump line="36" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
       <jump line="162" column="40" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="1" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/settlementRT.js" />
       <jump line="19" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/settlementRT.js" />
@@ -615,16 +619,19 @@
       <jump line="48" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
       <jump line="6" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/router.js" />
       <jump line="8" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/router.js" />
+      <jump line="2" column="0" filename="E:/code/CSHXEventSite/FE/src/common/enums/carUse.js" />
+      <jump line="7" column="0" filename="E:/code/CSHXEventSite/FE/src/common/enums/carUse.js" />
+      <jump line="12" column="2" filename="E:/code/CSHXEventSite/FE/src/common/enums/carUse.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>1</text>
+        <text>外</text>
       </register>
       <register name="/" type="4">
         <text>rule</text>
       </register>
-      <register name="0" type="4">
-        <text>supplier/list</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB7CiAgICBjb25zdGFudHM6ICdTSElXQUknLAogICAgbGFiZWw6ICfK0M3i0NCzzCcsCiAgICB2YWx1ZTogMjAKICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGp1c3RpZnktaXRlbXM6IGNlbnRlcjsK</text>
@@ -654,7 +661,7 @@
         <text encoding="base64">ICAgICAgdGhpcy4kcmVmc1t0aGlzLmJhc2VGb3JtTmFtZV0uY2xlYXJWYWxpZGF0ZSgpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -690,9 +697,9 @@
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
