@@ -138,12 +138,12 @@
         <mark key="." line="133" column="30" />
         <mark key="^" line="133" column="30" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545723066896">
-        <mark key="'" line="221" column="74" />
-        <mark key="[" line="221" column="42" />
-        <mark key="]" line="221" column="75" />
-        <mark key="." line="221" column="42" />
-        <mark key="^" line="216" column="19" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545726947372">
+        <mark key="'" line="256" column="6" />
+        <mark key="[" line="252" column="55" />
+        <mark key="]" line="253" column="7" />
+        <mark key="." line="253" column="7" />
+        <mark key="^" line="253" column="7" />
       </file>
       <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545131145040">
         <mark key="'" line="33" column="29" />
@@ -199,7 +199,7 @@
         <mark key="." line="28" column="25" />
         <mark key="^" line="28" column="25" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" timestamp="1545723063819">
+      <file name="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" timestamp="1545725403671">
         <mark key="'" line="43" column="16" />
         <mark key="[" line="43" column="16" />
         <mark key="]" line="43" column="48" />
@@ -363,7 +363,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545709434381">
+      <file name="/Dummy.txt" timestamp="1545728312635">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -408,7 +408,7 @@
         <mark key="]" line="19" column="35" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="E:/ss_code/css-mode/README.md" timestamp="1545721271741">
+      <file name="E:/ss_code/css-mode/README.md" timestamp="1545728461716">
         <mark key="'" line="11" column="13" />
         <mark key="[" line="10" column="32" />
         <mark key="]" line="10" column="40" />
@@ -436,9 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
-      <jump line="122" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" />
-      <jump line="122" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
       <jump line="74" column="33" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="66" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
       <jump line="247" column="73" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
@@ -520,26 +517,29 @@
       <jump line="234" column="64" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="209" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="18" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
-      <jump line="23" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="212" column="130" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="211" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="28" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
-      <jump line="33" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="214" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="36" column="12" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="219" column="19" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="38" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="218" column="76" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="217" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="220" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="41" column="12" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="222" column="21" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="43" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="221" column="74" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="38" column="43" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
+      <jump line="251" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="249" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="252" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="23" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
+      <jump line="33" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
+      <jump line="43" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>TRANSACTION_TYPE_FOR_ADMIN_WITHDRAW</text>
+        <text>tem.transactionType</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUUkFOU0FDVElPTl9UWVBFX0ZPUl9BRE1JTl9QQVlcPg==</text>
@@ -548,31 +548,31 @@
         <text>TRANSACTION_TYPE_FOR_ADMIN_UNPAID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gy/nT0CA9IDAsCi8vICAgICAgICAgveHL4yA9IDEwLAovLyAgICAgICAgIMzhz9YgPSAyMCwKLy8gICAgICAgICDP38nP1qe4tiA9IDMwLAovLyAgICAgICAgIM/fz8LWp7i2ID0gNDAsCi8vICAgICAgICAgz9/Jz83Lv+4gPSA1MCwKLy8gICAgICAgICDP38/Czcu/7iA9IDYwLAovLyAgICAgICAgINbY1sPOqs601qe4tiA9IDcwLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Ly8gy/nT0CA9IDAsCi8vICAgICAgICAgveHL4yA9IDEwLAovLyAgICAgICAgIMzhz9YgPSAyMCwKLy8gICAgICAgICDP38nP1qe4tiA9IDMwLAovLyAgICAgICAgIM/fz8LWp7i2ID0gNDAsCi8vICAgICAgICAgz9/Jz83Lv+4gPSA1MCwKLy8gICAgICAgICDP38/Czcu/7iA9IDYwLAovLyAgICAgICAgINbY1sPOqs601qe4tiA9IDcwLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyMgUHJvamVjdCBzZXR1cApgYGAKeWFybiBpbnN0YWxsCmBgYAoKIyMjIENvbXBpbGVzIGFuZCBob3QtcmVsb2FkcyBmb3IgZGV2ZWxvcG1lbnQKYGBgCnlhcm4gcnVuIHNlcnZlCmBgYAoKIyMjIENvbXBpbGVzIGFuZCBtaW5pZmllcyBmb3IgcHJvZHVjdGlvbgpgYGAKeWFybiBydW4gYnVpbGQKYGBgCgojIyMgTGludHMgYW5kIGZpeGVzIGZpbGVzCmBgYAp5YXJuIHJ1biBsaW50CmBgYAo=</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGp1c3RpZnktaXRlbXM6IGNlbnRlcjsK</text>
+        <text encoding="base64">IyMgUHJvamVjdCBzZXR1cApgYGAKeWFybiBpbnN0YWxsCmBgYAoKIyMjIENvbXBpbGVzIGFuZCBob3QtcmVsb2FkcyBmb3IgZGV2ZWxvcG1lbnQKYGBgCnlhcm4gcnVuIHNlcnZlCmBgYAoKIyMjIENvbXBpbGVzIGFuZCBtaW5pZmllcyBmb3IgcHJvZHVjdGlvbgpgYGAKeWFybiBydW4gYnVpbGQKYGBgCgojIyMgTGludHMgYW5kIGZpeGVzIGZpbGVzCmBgYAp5YXJuIHJ1biBsaW50CmBgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGU6IDsK</text>
+        <text encoding="base64">ICAgIGp1c3RpZnktaXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDAgMCAxNSU7CiAgICBkaXNwbGF5OiBmbGV4OwogICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICA+IGltZyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgfQogICAgPiBkaXYgewogICAgICBjb2xvcjogIzMzMzsKICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICBsaW5lLWhlaWdodDogMjhweDsKICAgIH0KICAgID4gc3BhbiB7CiAgICAgIGNvbG9yOiAjOTk5OwogICAgICBmb250LXNpemU6IDEycHg7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGU6IDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZsZXg6IDAgMCAxNSU7CiAgICBkaXNwbGF5OiBmbGV4OwogICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbjsKICAgIG1hcmdpbi1ib3R0b206IDMwcHg7CiAgICA+IGltZyB7CiAgICAgIHdpZHRoOiAxMDAlOwogICAgfQogICAgPiBkaXYgewogICAgICBjb2xvcjogIzMzMzsKICAgICAgZm9udC1zaXplOiAxNHB4OwogICAgICBsaW5lLWhlaWdodDogMjhweDsKICAgIH0KICAgID4gc3BhbiB7CiAgICAgIGNvbG9yOiAjOTk5OwogICAgICBmb250LXNpemU6IDEycHg7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgQG9wZW5lZD0iYmVmb3JlQ2xvc2UiCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
