@@ -162,6 +162,11 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/all/index.vue" timestamp="1545202691527">
         <mark key="'" line="1" column="20" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/router.js" timestamp="1545707873988">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="25" />
+      </file>
       <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545277415126">
         <mark key="'" line="200" column="6" />
         <mark key="[" line="133" column="27" />
@@ -437,10 +442,10 @@
         <mark key="." line="104" column="60" />
         <mark key="^" line="104" column="60" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/router.js" timestamp="1545619439758">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="33" column="16" />
-        <mark key="]" line="33" column="17" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/router.js" timestamp="1545707791413">
+        <mark key="'" line="6" column="13" />
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="32" />
         <mark key="." line="33" column="17" />
         <mark key="^" line="33" column="17" />
       </file>
@@ -510,8 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="49" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="23" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
       <jump line="62" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
       <jump line="63" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
       <jump line="36" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/index.scss" />
@@ -610,6 +613,8 @@
       <jump line="136" column="4" filename="E:/ss_code/css-mode/src/components/StyledComponentsCss.js" />
       <jump line="44" column="0" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
       <jump line="48" column="6" filename="E:/ss_code/css-mode/src/components/StyledComponents.vue" />
+      <jump line="6" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/router.js" />
+      <jump line="8" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/router.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
@@ -618,8 +623,8 @@
       <register name="/" type="4">
         <text>rule</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgPGRpdj4xMjM8L2Rpdj4KICAgICAgPGRpdj4xMjM8L2Rpdj4K</text>
+      <register name="0" type="4">
+        <text>supplier/list</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGp1c3RpZnktaXRlbXM6IGNlbnRlcjsK</text>
