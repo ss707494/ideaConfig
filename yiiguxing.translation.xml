@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="交易类型" />
+      <item value="撤销" />
+      <item value="Withdrawal" />
+      <item value="撤销付款" />
       <item value="重置为未支付" />
       <item value="offline" />
       <item value="TRANSACTION TYPE FOR ADMIN PAY offline" />
@@ -47,15 +51,11 @@
       <item value="转账" />
       <item value="duration" />
       <item value="background" />
-      <item value="大会内容" />
-      <item value="大会亮点" />
-      <item value="合作" />
-      <item value="供应商" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="60" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="62" />
+        <entry key="ENGLISH" value="62" />
       </map>
     </option>
   </component>
