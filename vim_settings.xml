@@ -179,7 +179,7 @@
         <mark key="." line="24" column="26" />
         <mark key="^" line="24" column="26" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1545890783279">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1545898324386">
         <mark key="'" line="190" column="61" />
         <mark key="[" line="190" column="18" />
         <mark key="]" line="190" column="62" />
@@ -348,8 +348,8 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545895395990">
-        <mark key="[" line="0" column="18" />
+      <file name="/Dummy.txt" timestamp="1545896311828">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
       </file>
@@ -536,7 +536,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -573,9 +573,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
