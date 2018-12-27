@@ -88,12 +88,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="6" column="28" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" timestamp="1545794430204">
-        <mark key="'" line="45" column="33" />
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="45" column="34" />
-        <mark key="." line="45" column="30" />
-        <mark key="^" line="45" column="33" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" timestamp="1545894201820">
+        <mark key="'" line="103" column="37" />
+        <mark key="[" line="103" column="37" />
+        <mark key="]" line="103" column="41" />
+        <mark key="." line="103" column="42" />
+        <mark key="^" line="103" column="42" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/design/index.js" timestamp="1545188196574">
         <mark key="'" line="5" column="15" />
@@ -292,6 +292,12 @@
         <mark key="^" line="152" column="0" />
         <mark key="." line="70" column="33" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.scss" timestamp="1545894240402">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/index.scss" timestamp="1545890122498">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -342,7 +348,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545893519064">
+      <file name="/Dummy.txt" timestamp="1545893600403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
@@ -391,9 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="28" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
-      <jump line="214" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="36" column="12" filename="E:/code/CSHXEventSite/FE/src/common/enums/transaction.js" />
       <jump line="219" column="19" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="218" column="76" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
@@ -470,7 +473,6 @@
       <jump line="133" column="42" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="44" column="20" filename="E:/code/CSHXEventSite/FE/src/common/enums/paymentAccount.js" />
       <jump line="45" column="13" filename="E:/code/CSHXEventSite/FE/src/common/enums/paymentAccount.js" />
-      <jump line="45" column="33" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
       <jump line="152" column="40" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="266" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="31" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" />
@@ -491,58 +493,61 @@
       <jump line="280" column="59" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
       <jump line="199" column="59" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.vue" />
       <jump line="190" column="61" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" />
+      <jump line="45" column="34" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
+      <jump line="128" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
+      <jump line="49" column="23" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
+      <jump line="103" column="37" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>0</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hcPg==</text>
+        <text>操作</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LnN1cHBsaWVyLXNldHRsZW1lbnR7CiAgYmFja2dyb3VuZDogcmdiKDI0NywyNDgsMjQ5KTsKICAmLm1hbmFnZS12aWV3ewogICAgYmFja2dyb3VuZDogcmdiKDI0NywyNDgsMjQ5KTsKICB9CiAgJl9fc2VjdGlvbnsKICAgIHBhZGRpbmc6MTVweCAwOwogICAgbWFyZ2luLWJvdHRvbTogMjBweDsKICAgIGJhY2tncm91bmQ6ICNmZmY7CiAgICBib3JkZXItcmFkaXVzOiA1cHg7CiAgICAmX190aXRsZXsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwogICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICBwYWRkaW5nOiAwIDE1cHggMTVweCAxOXB4OwogICAgICBib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZGRkOwogICAgICBtYXJrewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBwYWRkaW5nLXJpZ2h0OjJweDsKICAgICAgICBtYXJnaW4tYm90dG9tOiAtMXB4OwogICAgICAgIGhlaWdodDoxNHB4OwogICAgICAgIGJhY2tncm91bmQ6IHJnYig1MSwxNTEsMjUwKTsKICAgICAgfQogICAgICBzcGFuewogICAgICAgIGZvbnQtc2l6ZTogMTZweDsKICAgICAgICBmb250LXdlaWdodDogNzAwOwogICAgICAgIHBhZGRpbmctbGVmdDogOXB4OwogICAgICB9CiAgICAgICZfX3RpbWV7CiAgICAgICAgZm9udC1zaXplOiAxMnB4OwogICAgICAgIGNvbG9yOiM4ODg7CiAgICAgICAgJjpiZWZvcmV7CiAgICAgICAgICBjb250ZW50OicnOwogICAgICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgICAgICAgYmFja2dyb3VuZDogcmdiKDcyLDIwMCwxNDQpOwogICAgICAgICAgd2lkdGg6NnB4OwogICAgICAgICAgaGVpZ2h0OjZweDsKICAgICAgICAgIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7CiAgICAgICAgICBtYXJnaW4tdG9wOi0ycHg7CiAgICAgICAgICBib3JkZXItcmFkaXVzOiAzcHggM3B4OwogICAgICAgIH0KICAgICAgfQogICAgICAuZWwtYnV0dG9uewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgICB9CiAgICB9CiAgICAmX19jb250ZW50ewogICAgICBwYWRkaW5nOjE1cHggMTVweCAwIDMzcHg7CiAgICAgID5zcGFuewogICAgICAgIG1hcmdpbi1yaWdodDozMHB4OwogICAgICB9CiAgICAgICYtLWZvbnR7CiAgICAgICAgPnNwYW57CiAgICAgICAgICBmb250LXNpemU6IDE0cHg7CiAgICAgICAgICBjb2xvcjojMDAwOwogICAgICAgICAgPnNwYW57CiAgICAgICAgICAgIGNvbG9yOiM4ODg7CiAgICAgICAgICB9CiAgICAgICAgfQogICAgICB9CiAgICB9CiAgfQp9Cg==</text>
+      <register name="0" type="4">
+        <text>__btn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3Qgc3MgPSBzdHIgPT4gc3RyLnNsaWNlKHN0ci5sYXN0SW5kZXhPZignLycpLCBzdHIubGFzdEluZGV4T2YoJy4nKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
+        <text encoding="base64">Y29uc3Qgc3MgPSBzdHIgPT4gc3RyLnNsaWNlKHN0ci5sYXN0SW5kZXhPZignLycpLCBzdHIubGFzdEluZGV4T2YoJy4nKSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwYXRoOiAndHJhbnNmZXJEZXRhaWwvOmlkJywKICAgICAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCcuLi9zdXBwbGllci9zZXR0bGVtZW50L3RyYW5zZmVyTGlzdC9pbmRleC52dWUnKSwKICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgdGl0bGU6ICfXqtXLz+rH6ScKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIHBhdGg6ICdvcmRlckRldGFpbC86aWQnLAogICAgICAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJy4uL29yZGVyL2RldGFpbC9pbmRleC52dWUnKSwKICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgdGl0bGU6ICe2qbWlz+rH6ScKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRldGFpbC1saW5rPSIvbWFuYWdlL2Z1bmRBY2NvdW50L2Z1bmREZXRhaWwvIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnbGlzdCcsCiAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnLi9mdW5kTGlzdC9pbmRleC52dWUnKSwKICAgICAgICB9LAogICAgICBdCg==</text>
+        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnZnVuZERldGFpbC86aWQnLAogICAgICAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJy4uL3N1cHBsaWVyL3NldHRsZW1lbnQvZGV0YWlsL2luZGV4LnZ1ZScpLAogICAgICAgICAgbWV0YTogewogICAgICAgICAgICB0aXRsZTogJ73hy+PP6sfpJwogICAgICAgICAgfQogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBwYXRoOiAndHJhbnNmZXJEZXRhaWwvOmlkJywKICAgICAgICAgIGNvbXBvbmVudDogKCkgPT4gaW1wb3J0KCcuLi9zdXBwbGllci9zZXR0bGVtZW50L3RyYW5zZmVyTGlzdC9pbmRleC52dWUnKSwKICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgdGl0bGU6ICfXqtXLz+rH6ScKICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIHBhdGg6ICdvcmRlckRldGFpbC86aWQnLAogICAgICAgICAgY29tcG9uZW50OiAoKSA9PiBpbXBvcnQoJy4uL29yZGVyL2RldGFpbC9pbmRleC52dWUnKSwKICAgICAgICAgIG1ldGE6IHsKICAgICAgICAgICAgdGl0bGU6ICe2qbWlz+rH6ScKICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0KICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgY2hpbGRyZW46IFsKICAgICAgICB7CiAgICAgICAgICBwYXRoOiAnbGlzdCcsCiAgICAgICAgICBjb21wb25lbnQ6ICgpID0+IGltcG9ydCgnLi9mdW5kTGlzdC9pbmRleC52dWUnKSwKICAgICAgICB9LAogICAgICBdCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hcPg==</last-search>
+      <last-search>操作</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hcPg==</last-pattern>
+      <last-pattern>操作</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVDcmVhdGVcPg==</entry>
         <entry encoding="base64">XDxjbG9zZURpYWxvZ1w+</entry>
         <entry encoding="base64">XDxjbGVhclZhbGlkYXRlXD4=</entry>
         <entry encoding="base64">XDxzdGFydFRpbWVcPg==</entry>
@@ -562,14 +567,15 @@
         <entry>searc</entry>
         <entry>sear</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
+        <entry>操作</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
