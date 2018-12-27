@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/iview/iview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git2.31huiyi.com/git/31Wuhan/N-31Brands.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\coder" />
