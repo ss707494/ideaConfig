@@ -51,11 +51,11 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/system/index.scss" timestamp="1545203168749">
         <mark key="'" line="1" column="28" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/router/index.js" timestamp="1545902786725">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="44" column="4" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/router/index.js" timestamp="1545905335401">
+        <mark key="[" line="3" column="116" />
+        <mark key="]" line="3" column="169" />
+        <mark key="." line="3" column="169" />
+        <mark key="^" line="3" column="169" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/ListTab/index.vue" timestamp="1545632947528">
         <mark key="'" line="50" column="2" />
@@ -640,7 +640,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -678,8 +678,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
