@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="MENU" />
+      <item value="Basic" />
       <item value="布局" />
       <item value="排除" />
       <item value="交易类型" />
@@ -49,13 +51,11 @@
       <item value="到账" />
       <item value="已到账金额" />
       <item value="描述" />
-      <item value="转账记录" />
-      <item value="转账" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="62" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="64" />
+        <entry key="ENGLISH" value="65" />
       </map>
     </option>
   </component>
