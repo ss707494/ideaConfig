@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="报名" />
+      <item value="这是登录页面" />
       <item value="MENU" />
       <item value="Basic" />
       <item value="布局" />
@@ -49,8 +51,6 @@
       <item value="完成" />
       <item value="进行中" />
       <item value="到账" />
-      <item value="已到账金额" />
-      <item value="描述" />
     </histories>
     <option name="languageScores">
       <map>
