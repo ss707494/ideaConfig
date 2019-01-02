@@ -32,7 +32,7 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1546418353141">
+      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1546418381802">
         <mark key="'" line="31" column="28" />
         <mark key="[" line="191" column="30" />
         <mark key="]" line="191" column="30" />
@@ -81,12 +81,12 @@
         <mark key="]" line="13" column="23" />
         <mark key="." line="4" column="17" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.scss" timestamp="1546408431733">
-        <mark key="'" line="81" column="24" />
-        <mark key="[" line="69" column="26" />
-        <mark key="]" line="69" column="35" />
-        <mark key="." line="69" column="35" />
-        <mark key="^" line="69" column="35" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.scss" timestamp="1546419482354">
+        <mark key="'" line="82" column="24" />
+        <mark key="[" line="57" column="24" />
+        <mark key="]" line="58" column="25" />
+        <mark key="." line="58" column="25" />
+        <mark key="^" line="58" column="25" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546417393331">
         <mark key="'" line="27" column="21" />
@@ -313,7 +313,7 @@
         <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidG5zXD4=</text>
+        <text encoding="base64">XDxvcGVyYXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>readonly</text>
@@ -350,15 +350,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidG5zXD4=</last-search>
+      <last-search encoding="base64">XDxvcGVyYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidG5zXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvcGVyYXRlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmlteUNvbG9yXD4=</entry>
         <entry>text</entry>
         <entry encoding="base64">XDxzZGZcPg==</entry>
         <entry encoding="base64">XDxvZmZlclw+</entry>
@@ -378,6 +377,7 @@
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry encoding="base64">XDxzZWN0aW9uXD4=</entry>
         <entry encoding="base64">XDxidG5zXD4=</entry>
+        <entry encoding="base64">XDxvcGVyYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
