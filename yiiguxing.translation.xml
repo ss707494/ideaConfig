@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="operate" />
+      <item value="操作" />
       <item value="数据看板" />
       <item value="取消" />
       <item value="会刊" />
@@ -49,13 +51,11 @@
       <item value="帐户余额" />
       <item value="账户收支" />
       <item value="收支明细" />
-      <item value="multiple-cursors" />
-      <item value="圆" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="70" />
+        <entry key="ENGLISH" value="70" />
       </map>
     </option>
   </component>

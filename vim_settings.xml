@@ -22,6 +22,9 @@
         <mark key="]" line="44" column="20" />
         <mark key="." line="44" column="16" />
       </file>
+      <file name="/a.dummy" timestamp="1546418328586">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" timestamp="1546410471191">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="36" column="16" />
@@ -29,14 +32,13 @@
         <mark key="." line="36" column="19" />
         <mark key="^" line="36" column="19" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1546414476333">
-        <mark key="'" line="182" column="27" />
-        <mark key="[" line="182" column="27" />
-        <mark key="]" line="182" column="38" />
-        <mark key="." line="234" column="17" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1546418353141">
+        <mark key="'" line="31" column="28" />
+        <mark key="[" line="191" column="30" />
+        <mark key="]" line="191" column="30" />
+        <mark key="." line="191" column="30" />
         <mark key="^" line="234" column="17" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/video/router.js" timestamp="1546409073205" />
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/login/index.vue" timestamp="1545968969417">
         <mark key="'" line="3" column="2" />
         <mark key="[" line="2" column="0" />
@@ -86,7 +88,6 @@
         <mark key="." line="69" column="35" />
         <mark key="^" line="69" column="35" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/wall/index.scss" timestamp="1546409328503" />
       <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546417393331">
         <mark key="'" line="27" column="21" />
         <mark key="[" line="27" column="14" />
@@ -119,7 +120,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/story/router.js" timestamp="1546408953646" />
       <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1546401474182">
         <mark key="'" line="73" column="4" />
         <mark key="[" line="73" column="19" />
@@ -161,7 +161,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/wall/router.js" timestamp="1546409318214" />
       <file name="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" timestamp="1546416314301">
         <mark key="'" line="113" column="8" />
         <mark key="[" line="52" column="15" />
@@ -169,8 +168,8 @@
         <mark key="." line="52" column="15" />
         <mark key="^" line="50" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546417644538">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1546417666753">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -208,8 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="14" filename="D:/coder/N-31Brands/FE/src/common/mapping/modules/menu.js" />
-      <jump line="13" column="10" filename="D:/coder/N-31Brands/FE/src/common/mapping/modules/menu.js" />
       <jump line="4" column="19" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/router.js" />
       <jump line="17" column="10" filename="D:/coder/N-31Brands/FE/src/common/mapping/modules/menu.js" />
       <jump line="33" column="0" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
@@ -308,13 +305,15 @@
       <jump line="31" column="13" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
       <jump line="32" column="14" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
       <jump line="27" column="21" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="221" column="3" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="31" column="28" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text encoding="base64">sry+1tH5yr0g</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxidG5zXD4=</text>
       </register>
       <register name="0" type="4">
         <text>readonly</text>
@@ -351,9 +350,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxidG5zXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxidG5zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -376,9 +375,9 @@
         <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
         <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
         <entry>svg</entry>
-        <entry encoding="base64">XDxidG5zXD4=</entry>
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry encoding="base64">XDxzZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxidG5zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
