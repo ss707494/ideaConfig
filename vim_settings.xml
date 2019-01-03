@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.vue" timestamp="1545968637408">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offere/index.scss" timestamp="1546401145982">
         <mark key="'" line="1" column="6" />
         <mark key="[" line="4" column="0" />
@@ -39,12 +46,6 @@
         <mark key="." line="191" column="30" />
         <mark key="^" line="234" column="17" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/login/index.vue" timestamp="1545968969417">
-        <mark key="'" line="3" column="2" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" timestamp="1546410499360">
         <mark key="'" line="37" column="0" />
         <mark key="[" line="45" column="0" />
@@ -56,11 +57,26 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/ss707494/down/Page 1.svg" timestamp="1545959532623">
-        <mark key="'" line="17" column="27" />
-        <mark key="[" line="17" column="49" />
-        <mark key="]" line="17" column="49" />
-        <mark key="." line="17" column="49" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/router/index.js" timestamp="1546069552012">
+        <mark key="'" line="29" column="49" />
+        <mark key="[" line="3" column="64" />
+        <mark key="]" line="3" column="69" />
+        <mark key="." line="3" column="169" />
+        <mark key="^" line="3" column="169" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1546070328660">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="24" />
+        <mark key="^" line="5" column="24" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/companyInformation/router.js" timestamp="1545981467775">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="15" />
+        <mark key="." line="4" column="15" />
+        <mark key="^" line="4" column="15" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1546413017443">
         <mark key="'" line="15" column="2" />
@@ -75,11 +91,26 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/index.vue" timestamp="1546069834588">
-        <mark key="'" line="13" column="7" />
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="23" />
-        <mark key="." line="4" column="17" />
+      <file name="E:/ss_code/fontconversion/sever/drawImg.js" timestamp="1546480847500">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="12" column="26" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/index.vue" timestamp="1545968219545">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545961421289">
+        <mark key="'" line="190" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="15" />
+        <mark key="." line="283" column="9" />
+        <mark key="^" line="283" column="9" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.scss" timestamp="1546419482354">
         <mark key="'" line="82" column="24" />
@@ -95,6 +126,13 @@
         <mark key="^" line="32" column="23" />
         <mark key="." line="27" column="14" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/home/index.vue" timestamp="1545985160884">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="3" column="12" />
+        <mark key="]" line="3" column="12" />
+        <mark key="." line="3" column="12" />
+        <mark key="^" line="5" column="31" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.vue" timestamp="1546416027253">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="25" column="16" />
@@ -108,12 +146,26 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/companyInformation/index.vue" timestamp="1545978014980">
+        <mark key="'" line="11" column="13" />
+        <mark key="[" line="1" column="3" />
+        <mark key="]" line="1" column="12" />
+        <mark key="." line="1" column="12" />
+        <mark key="^" line="1" column="12" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/myTheme.less" timestamp="1546395245045">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="5" column="27" />
         <mark key="]" line="6" column="22" />
         <mark key="^" line="6" column="22" />
         <mark key="." line="6" column="22" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.scss" timestamp="1545967351904">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.scss" timestamp="1546410065855">
         <mark key="[" line="2" column="0" />
@@ -127,11 +179,19 @@
         <mark key="." line="73" column="19" />
         <mark key="^" line="73" column="19" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.scss" timestamp="1546410053928">
-        <mark key="'" line="0" column="5" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/common/mapping/modules/layout.js" timestamp="1545967899023">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="10" column="9" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/mixins/layout.js" timestamp="1545965612574">
+        <mark key="'" line="5" column="18" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/iview.scss" timestamp="1545983357018">
         <mark key="[" line="0" column="0" />
@@ -150,12 +210,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/SignUpLayout/index.vue" timestamp="1545967074530">
-        <mark key="'" line="1" column="20" />
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="21" />
-        <mark key="." line="1" column="14" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/story/index.scss" timestamp="1546410215719">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -173,11 +227,26 @@
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/company/router.js" timestamp="1545981712528">
-        <mark key="'" line="1" column="9" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offere/router.js" timestamp="1546069068331">
+        <mark key="'" line="1" column="14" />
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="15" />
-        <mark key="." line="1" column="16" />
+        <mark key="." line="1" column="9" />
+        <mark key="^" line="1" column="13" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/router.js" timestamp="1545960508720">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="44" column="1" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/view/iview.js" timestamp="1545983466425">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="56" column="24" />
+        <mark key="]" line="56" column="35" />
+        <mark key="." line="56" column="35" />
+        <mark key="^" line="56" column="35" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.scss" timestamp="1546410220855">
         <mark key="[" line="2" column="0" />
@@ -190,6 +259,27 @@
         <mark key="]" line="5" column="31" />
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="11" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/login/index.router.js" timestamp="1545960529192">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1" column="9" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="13" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1546419498224">
+        <mark key="'" line="17" column="14" />
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="32" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/SignUpLayout/index.scss" timestamp="1545967085702">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="^" line="3" column="27" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offere/index.vue" timestamp="1546408300645">
         <mark key="'" line="76" column="8" />
@@ -207,12 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="19" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/router.js" />
-      <jump line="17" column="10" filename="D:/coder/N-31Brands/FE/src/common/mapping/modules/menu.js" />
-      <jump line="33" column="0" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="44" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="37" column="13" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="4" column="7" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
       <jump line="8" column="16" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
       <jump line="49" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
       <jump line="3" column="11" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
@@ -307,16 +391,22 @@
       <jump line="27" column="21" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
       <jump line="221" column="3" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="31" column="28" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="39" column="9" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" />
+      <jump line="17" column="14" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" />
+      <jump line="7" column="52" filename="E:/ss_code/fontconversion/sever/drawImg.js" />
+      <jump line="9" column="42" filename="E:/ss_code/fontconversion/sever/drawImg.js" />
+      <jump line="10" column="47" filename="E:/ss_code/fontconversion/sever/drawImg.js" />
+      <jump line="12" column="32" filename="E:/ss_code/fontconversion/sever/drawImg.js" />
     </jumps>
     <registers>
       <register name="-" type="4">
-        <text>i</text>
+        <text>height</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvcGVyYXRlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>readonly</text>
+        <text>lHeight</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIDpkaXNhYmxlZD0iIWlzRWRpdCIK</text>
