@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="package" />
+      <item value="组件" />
       <item value="operate" />
       <item value="操作" />
       <item value="数据看板" />
@@ -49,13 +51,11 @@
       <item value="总支出金额" />
       <item value="总收入金额" />
       <item value="帐户余额" />
-      <item value="账户收支" />
-      <item value="收支明细" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="70" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
       </map>
     </option>
   </component>
