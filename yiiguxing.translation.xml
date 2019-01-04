@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Expected an assignment or function call and instead saw an expression." />
+      <item value="destructuring" />
+      <item value="form Component" />
       <item value="package" />
       <item value="组件" />
       <item value="operate" />
@@ -48,13 +51,10 @@
       <item value="transaction" />
       <item value="income" />
       <item value="refund" />
-      <item value="总支出金额" />
-      <item value="总收入金额" />
-      <item value="帐户余额" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
+        <entry key="CHINESE" value="72" />
         <entry key="ENGLISH" value="72" />
       </map>
     </option>
