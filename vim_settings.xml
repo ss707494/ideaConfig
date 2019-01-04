@@ -46,104 +46,6 @@
         <mark key="." line="64" column="22" />
         <mark key="^" line="64" column="65" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" timestamp="1546410499360">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/api/common/index.js" timestamp="1546568603428">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.scss" timestamp="1546500078847">
-        <mark key="'" line="1" column="15" />
-        <mark key="[" line="1" column="1" />
-        <mark key="]" line="1" column="16" />
-        <mark key="." line="1" column="1" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/UploadVideo/img/Group 182.svg" timestamp="1546415010658">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/chrome/Surfingkeys.txt" timestamp="1546515169211">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="6" column="3" />
-        <mark key="^" line="1" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1546498886798">
-        <mark key="'" line="9" column="3" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="4" column="3" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/initSpf13Git.cmd" timestamp="1546512408063">
-        <mark key="'" line="5" column="56" />
-        <mark key="[" line="5" column="49" />
-        <mark key="]" line="5" column="57" />
-        <mark key="." line="5" column="49" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/index.scss" timestamp="1546398074169">
-        <mark key="'" line="16" column="8" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/mostCmd" timestamp="1546486347078">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="18" column="19" />
-      </file>
-      <file name="E:/ss_code/fontconversion/sever/drawImg.js" timestamp="1546485133046">
-        <mark key="'" line="13" column="8" />
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1546574047089">
-        <mark key="'" line="4" column="13" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="3" column="3" />
-        <mark key="^" line="3" column="4" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/.eslintrc.js" timestamp="1546566085321">
-        <mark key="[" line="84" column="91" />
-        <mark key="]" line="84" column="91" />
-        <mark key="." line="84" column="91" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/components/Upload/index.vue" timestamp="1546568279531">
-        <mark key="'" line="43" column="37" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.scss" timestamp="1546498195948">
-        <mark key="'" line="25" column="3" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="25" column="3" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1546567915931">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546500016326">
-        <mark key="'" line="55" column="6" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/home/index.vue" timestamp="1546498764789">
         <mark key="'" line="3" column="4" />
         <mark key="[" line="9" column="7" />
@@ -171,6 +73,30 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="12" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" timestamp="1546410499360">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/api/common/index.js" timestamp="1546568603428">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.scss" timestamp="1546500078847">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/UploadVideo/img/Group 182.svg" timestamp="1546415010658">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/myTheme.less" timestamp="1546395245045">
         <mark key="'" line="5" column="12" />
         <mark key="[" line="5" column="27" />
@@ -190,6 +116,13 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/.spf13-vim-3/file/chrome/Surfingkeys.txt" timestamp="1546515169211">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Editor/FE/src/store/modules/site.js" timestamp="1546566150545">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -202,16 +135,47 @@
         <mark key="." line="58" column="0" />
         <mark key="^" line="78" column="19" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1546498886798">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="4" column="3" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/file/initSpf13Git.cmd" timestamp="1546512408063">
+        <mark key="'" line="5" column="56" />
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="5" column="57" />
+        <mark key="." line="5" column="49" />
+      </file>
       <file name="E:/ss_code/graphql/src/server.js" timestamp="1546509311183">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="70" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/index.scss" timestamp="1546398074169">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/iview.scss" timestamp="1545983357018">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/mostCmd" timestamp="1546486347078">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="19" />
+      </file>
+      <file name="E:/ss_code/fontconversion/sever/drawImg.js" timestamp="1546485133046">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/common/mapping/modules/menu.js" timestamp="1546409361694">
         <mark key="'" line="17" column="10" />
@@ -219,6 +183,13 @@
         <mark key="]" line="17" column="15" />
         <mark key="." line="14" column="14" />
         <mark key="^" line="13" column="17" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1546574047089">
+        <mark key="'" line="4" column="13" />
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="4" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/wall/index.vue" timestamp="1546409322902">
         <mark key="'" line="2" column="16" />
@@ -238,10 +209,18 @@
       <file name="/JavaScript Console" timestamp="1546508484740">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/.eslintrc.js" timestamp="1546566085321">
+        <mark key="[" line="84" column="91" />
+        <mark key="]" line="84" column="91" />
+        <mark key="." line="84" column="91" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/story/index.scss" timestamp="1546410215719">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/components/Upload/index.vue" timestamp="1546568279531">
+        <mark key="'" line="43" column="37" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" timestamp="1546500098510">
         <mark key="'" line="153" column="14" />
@@ -249,6 +228,13 @@
         <mark key="]" line="185" column="0" />
         <mark key="." line="185" column="0" />
         <mark key="^" line="1" column="28" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.scss" timestamp="1546498195948">
+        <mark key="'" line="25" column="3" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
+        <mark key="^" line="25" column="3" />
       </file>
       <file name="/Dummy.txt" timestamp="1546515173104">
         <mark key="[" line="0" column="0" />
@@ -259,6 +245,13 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1546567915931">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="43" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
       </file>
       <file name="E:/ss_code/css-mode/README.md" timestamp="1546394107286">
         <mark key="'" line="9" column="3" />
@@ -277,12 +270,25 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="39" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546500016326">
+        <mark key="'" line="55" column="6" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1546498244620">
         <mark key="'" line="14" column="36" />
         <mark key="[" line="59" column="7" />
         <mark key="]" line="59" column="7" />
         <mark key="." line="59" column="7" />
         <mark key="^" line="14" column="31" />
+      </file>
+      <file name="D:/coder/Evma_base/个人中心/03产品策划阶段/PRD/个人中心产品需求文档.html" timestamp="1546577879535">
+        <mark key="[" line="73" column="3" />
+        <mark key="]" line="73" column="2" />
+        <mark key="." line="73" column="2" />
+        <mark key="^" line="73" column="2" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offere/index.vue" timestamp="1546408300645">
         <mark key="'" line="76" column="8" />
@@ -402,8 +408,11 @@
       <jump line="44" column="4" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
+      <register name="&quot;" type="4">
+        <text>a</text>
+      </register>
       <register name="-" type="4">
-        <text>getEnterprise</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2RlXD4=</text>
@@ -447,7 +456,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXRDb2RlXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
