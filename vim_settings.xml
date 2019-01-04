@@ -29,9 +29,6 @@
         <mark key="]" line="44" column="20" />
         <mark key="." line="44" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1546418328586">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" timestamp="1546410471191">
         <mark key="'" line="16" column="8" />
         <mark key="[" line="36" column="16" />
@@ -128,6 +125,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="14" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/List/index.vue" timestamp="1546581850255">
+        <mark key="'" line="60" column="13" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/EditModal/index.vue" timestamp="1546581871009">
+        <mark key="'" line="159" column="41" />
+        <mark key="[" line="159" column="41" />
+        <mark key="]" line="160" column="19" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1546568609549">
         <mark key="'" line="58" column="6" />
         <mark key="[" line="58" column="0" />
@@ -206,8 +211,8 @@
         <mark key="." line="80" column="68" />
         <mark key="^" line="80" column="68" />
       </file>
-      <file name="/JavaScript Console" timestamp="1546508484740">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/paymentAccount/index.vue" timestamp="1546581841983">
+        <mark key="'" line="5" column="78" />
       </file>
       <file name="D:/coder/N-31Brands/FE/.eslintrc.js" timestamp="1546566085321">
         <mark key="[" line="84" column="91" />
@@ -270,12 +275,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="16" column="39" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546500016326">
-        <mark key="'" line="55" column="6" />
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="65" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546581665610">
+        <mark key="'" line="1" column="13" />
+        <mark key="[" line="1" column="13" />
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="60" column="2" />
+        <mark key="." line="60" column="2" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1546498244620">
         <mark key="'" line="14" column="36" />
@@ -297,26 +302,15 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546574278755">
-        <mark key="'" line="44" column="4" />
-        <mark key="[" line="56" column="21" />
-        <mark key="]" line="57" column="32" />
-        <mark key="." line="57" column="32" />
-        <mark key="^" line="57" column="32" />
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546582070081">
+        <mark key="'" line="69" column="10" />
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="37" />
+        <mark key="." line="66" column="37" />
+        <mark key="^" line="66" column="37" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="22" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="176" column="74" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="133" column="16" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="131" column="18" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="130" column="21" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="124" column="18" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="121" column="16" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="119" column="18" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="118" column="21" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="109" column="11" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="98" column="13" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
       <jump line="80" column="11" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
       <jump line="72" column="36" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
       <jump line="55" column="6" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
@@ -363,7 +357,6 @@
       <jump line="4" column="2" filename="D:/coder/N-31Brands/FE/src/components/Form/index.scss" />
       <jump line="11" column="3" filename="D:/coder/N-31Brands/FE/src/components/Form/index.scss" />
       <jump line="55" column="6" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
-      <jump line="3" column="7" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="63" column="18" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="2" column="16" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="1" column="15" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.scss" />
@@ -380,7 +373,6 @@
       <jump line="38" column="9" filename="D:/coder/N-31Brands/FE/.eslintrc.js" />
       <jump line="85" column="25" filename="D:/coder/N-31Brands/FE/.eslintrc.js" />
       <jump line="2" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
-      <jump line="52" column="13" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="0" column="0" filename="E:/code/N-31Editor/FE/src/store/modules/site.js" />
       <jump line="26" column="9" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="1" column="24" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
@@ -406,46 +398,59 @@
       <jump line="35" column="18" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/company/index.vue" />
       <jump line="3" column="31" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/company/index.vue" />
       <jump line="44" column="4" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="52" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="57" column="21" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="35" column="2" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="1" column="13" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="3" column="7" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="7" column="38" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="64" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="5" column="78" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/paymentAccount/index.vue" />
+      <jump line="60" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/List/index.vue" />
+      <jump line="66" column="49" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="159" column="41" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/EditModal/index.vue" />
+      <jump line="53" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="68" column="10" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>va</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDb2RlXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>getDataPromise</text>
+        <text>isLoading</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50ZXJwcmlzZSB9IGZyb20gJ0AvYXBpJwo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZXREZXZpY2VzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICJwcmVmZXItZGVmYXVsdC1leHBvcnQiOiBmYWxzZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5nZXREYXRhUHJvbWlzZSh7IGlkOiAnMTIzJyB9KS50aGVuKHJlcyA9PiB7CiAgICAgICAgY29uc29sZS5sb2cocmVzKQogICAgICB9KQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQge30K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RW50ZXJwcmlzZSB9IGZyb20gJ0AvYXBpJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bWFwKCI+X3ciLCAidyIpOwptYXAoIlIiLCAicSIpOwptYXAoInciLCAiUiIpOwptYXAoInEiLCAiRSIpOwptYXAoIj5fdyIsICI+X3ciKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciBncmFwaHFsSFRUUCA9IHJlcXVpcmUoJ2V4cHJlc3MtZ3JhcGhxbCcpOwp2YXIgeyBidWlsZFNjaGVtYSB9ID0gcmVxdWlyZSgnZ3JhcGhxbCcpOwoKLy8gyrnTwyBHcmFwaFFMIHNjaGVtYSBsYW5ndWFnZSC5ub2o0ru49iBzY2hlbWEKdmFyIHNjaGVtYSA9IGJ1aWxkU2NoZW1hKGAKICB0eXBlIFF1ZXJ5IHsKICAgIHF1b3RlT2ZUaGVEYXk6IFN0cmluZwogICAgcmFuZG9tOiBGbG9hdCEKICAgIHJvbGxUaHJlZURpY2U6IFtJbnRdCiAgfQpgKTsKCi8vIHJvb3Qgvau74czhuanDv7j2IEFQSSDI67/atsu147XEveLO9rqvyv0KdmFyIHJvb3QgPSB7CiAgcXVvdGVPZlRoZURheTogKCkgPT4gewogICAgcmV0dXJuIE1hdGgucmFuZG9tKCkgPCAwLjUgPyAnVGFrZSBpdCBlYXN5JyA6ICdTYWx2YXRpb24gbGllcyB3aXRoaW4nOwogIH0sCiAgcmFuZG9tOiAoKSA9PiB7CiAgICByZXR1cm4gTWF0aC5yYW5kb20oKTsKICB9LAogIHJvbGxUaHJlZURpY2U6ICgpID0+IHsKICAgIHJldHVybiBbMSwgMiwgM10ubWFwKF8gPT4gMSArIE1hdGguZmxvb3IoTWF0aC5yYW5kb20oKSAqIDYpKTsKICB9LAp9OwoKdmFyIGFwcCA9IGV4cHJlc3MoKTsKYXBwLnVzZSgnL2dyYXBocWwnLCBncmFwaHFsSFRUUCh7CiAgc2NoZW1hOiBzY2hlbWEsCiAgcm9vdFZhbHVlOiByb290LAogIGdyYXBoaXFsOiB0cnVlLAp9KSk7CmFwcC5saXN0ZW4oNDAwMCk7CmNvbnNvbGUubG9nKCdSdW5uaW5nIGEgR3JhcGhRTCBBUEkgc2VydmVyIGF0IGxvY2FsaG9zdDo0MDAwL2dyYXBocWwnKTsK</text>
+        <text encoding="base64">ICBnZXREZXZpY2VzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciBncmFwaHFsSFRUUCA9IHJlcXVpcmUoJ2V4cHJlc3MtZ3JhcGhxbCcpOwp2YXIgeyBidWlsZFNjaGVtYSB9ID0gcmVxdWlyZSgnZ3JhcGhxbCcpOwoKLy8gyrnTwyBHcmFwaFFMIFNjaGVtYSBMYW5ndWFnZSC0tL2o0ru49iBzY2hlbWEKdmFyIHNjaGVtYSA9IGJ1aWxkU2NoZW1hKGAKICB0eXBlIFF1ZXJ5IHsKICAgIGhlbGxvOiBTdHJpbmcKICB9CmApOwoKLy8gcm9vdCDM4bmpy/nT0CBBUEkgyOu/2rbLtePP4NOmtcS94s72xve6r8r9CnZhciByb290ID0gewogIGhlbGxvOiAoKSA9PiB7CiAgICByZXR1cm4gJ0hlbGxvIHdvcmxkISc7CiAgfSwKfTsKCnZhciBhcHAgPSBleHByZXNzKCk7CmFwcC51c2UoJy9ncmFwaHFsJywgZ3JhcGhxbEhUVFAoewogIHNjaGVtYTogc2NoZW1hLAogIHJvb3RWYWx1ZTogcm9vdCwKICBncmFwaGlxbDogdHJ1ZSwKfSkpOwphcHAubGlzdGVuKDQwMDApOwpjb25zb2xlLmxvZygnUnVubmluZyBhIEdyYXBoUUwgQVBJIHNlcnZlciBhdCBsb2NhbGhvc3Q6NDAwMC9ncmFwaHFsJyk7Cg==</text>
+        <text encoding="base64">ICAgICJwcmVmZXItZGVmYXVsdC1leHBvcnQiOiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
@@ -456,7 +461,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxnZXRDb2RlXD4=</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -486,8 +491,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
@@ -541,6 +546,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
