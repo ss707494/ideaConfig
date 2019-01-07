@@ -241,7 +241,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546843406837">
+      <file name="/Dummy.txt" timestamp="1546843453239">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -289,16 +289,15 @@
         <mark key="." line="2" column="21" />
         <mark key="^" line="2" column="21" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546843449646">
-        <mark key="'" line="3" column="19" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546844360340">
+        <mark key="'" line="65" column="6" />
+        <mark key="[" line="96" column="25" />
+        <mark key="]" line="97" column="36" />
+        <mark key="." line="97" column="36" />
+        <mark key="^" line="97" column="36" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="E:/code/N-31Editor/FE/.eslintrc.js" />
-      <jump line="85" column="4" filename="D:/coder/N-31Brands/FE/.eslintrc.js" />
       <jump line="80" column="5" filename="E:/code/N-31Editor/FE/.eslintrc.js" />
       <jump line="0" column="0" filename="E:/code/N-31Editor/FE/.eslintrc.js" />
       <jump line="84" column="29" filename="D:/coder/N-31Brands/FE/.eslintrc.js" />
@@ -397,6 +396,8 @@
       <jump line="188" column="0" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="193" column="27" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="192" column="29" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
+      <jump line="74" column="11" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="65" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -409,7 +410,7 @@
         <text>debugg</text>
       </register>
       <register name="0" type="4">
-        <text>onProgress</text>
+        <text>originData</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
