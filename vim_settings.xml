@@ -102,11 +102,11 @@
         <mark key="]" line="5" column="57" />
         <mark key="." line="5" column="49" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1546509311183">
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1546847903518">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="50" column="70" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="47" column="7" />
+        <mark key="]" line="47" column="7" />
+        <mark key="." line="47" column="7" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/index.scss" timestamp="1546398074169">
         <mark key="'" line="16" column="8" />
@@ -193,12 +193,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="1" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546844827626">
-        <mark key="'" line="70" column="40" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="68" column="12" />
-        <mark key="." line="64" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546848758192">
+        <mark key="'" line="7" column="8" />
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="46" />
+        <mark key="^" line="14" column="46" />
+        <mark key="." line="14" column="46" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1546825920086">
         <mark key="'" line="1" column="24" />
@@ -216,7 +216,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="5" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="27" column="14" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="79" column="80" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="8" column="0" filename="D:/coder/N-31Brands/FE/src/assets/styles/variables/_colors.scss" />
@@ -316,16 +315,17 @@
       <jump line="190" column="15" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="282" column="37" filename="D:/coder/N-31Brands/FE/node_modules/iview/src/components/upload/upload.vue" />
       <jump line="191" column="18" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
+      <jump line="7" column="8" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>参展</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>getfile</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="0" type="4">
         <text>percent</text>
@@ -358,19 +358,18 @@
         <text encoding="base64">ICAgICAgICAgICAgYWNjZXB0PSJ2aWRlby9tcDQiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>getfile</last-search>
+      <last-search encoding="base64">JiY=</last-search>
       <last-offset />
-      <last-pattern>getfile</last-pattern>
+      <last-pattern encoding="base64">JiY=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>package</entry>
         <entry>default</entry>
         <entry encoding="base64">XDxnZXRDb2RlXD4=</entry>
@@ -390,15 +389,16 @@
         <entry encoding="base64">XDxwZXJjZW50YWdlXD4=</entry>
         <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
         <entry>getfile</entry>
+        <entry encoding="base64">JiY=</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
