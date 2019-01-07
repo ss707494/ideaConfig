@@ -85,8 +85,8 @@
         <mark key="[" line="159" column="41" />
         <mark key="]" line="160" column="19" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1546589897256">
-        <mark key="'" line="58" column="6" />
+      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1546848790094">
+        <mark key="'" line="95" column="18" />
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
@@ -176,6 +176,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/axios.js" timestamp="1546850923347">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="53" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1546833627225">
         <mark key="'" line="2" column="2" />
         <mark key="[" line="2" column="43" />
@@ -207,6 +213,12 @@
         <mark key="." line="15" column="33" />
         <mark key="^" line="2" column="34" />
       </file>
+      <file name="D:/coder/Evma_base/个人中心/03产品策划阶段/PRD/个人中心产品需求文档.html" timestamp="1546577879535">
+        <mark key="[" line="73" column="3" />
+        <mark key="]" line="73" column="2" />
+        <mark key="." line="73" column="2" />
+        <mark key="^" line="73" column="2" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546844360340">
         <mark key="'" line="65" column="6" />
         <mark key="[" line="96" column="25" />
@@ -216,7 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="14" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="79" column="80" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="8" column="0" filename="D:/coder/N-31Brands/FE/src/assets/styles/variables/_colors.scss" />
       <jump line="9" column="0" filename="D:/coder/N-31Brands/FE/src/assets/styles/variables/_colors.scss" />
@@ -316,6 +327,7 @@
       <jump line="282" column="37" filename="D:/coder/N-31Brands/FE/node_modules/iview/src/components/upload/upload.vue" />
       <jump line="191" column="18" filename="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" />
       <jump line="7" column="8" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="95" column="18" filename="D:/coder/N-31Brands/FE/vue.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -331,31 +343,31 @@
         <text>percent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIKICAgICAgY29uc29sZS5sb2coZXZlbnQpCiAgICAgIGNvbnNvbGUubG9nKGZpbGUpCiAgICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KQo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQpCiAgICAgIGNvbnNvbGUubG9nKGZpbGUpCiAgICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIKICAgICAgY29uc29sZS5sb2coZXZlbnQpCiAgICAgIGNvbnNvbGUubG9nKGZpbGUpCiAgICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQpCiAgICAgIGNvbnNvbGUubG9nKGZpbGUpCiAgICAgIGNvbnNvbGUubG9nKGZpbGVMaXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTpvbi1wcm9ncmVzcz0ib25Qcm9ncmVzcyItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgnY2hhbmdlJywgWy4uLmZpbGVMaXN0XSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTpvbi1wcm9ncmVzcz0ib25Qcm9ncmVzcyItLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWYgIHJldHVybiBmYWxzZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy4kZW1pdCgnY2hhbmdlJywgWy4uLmZpbGVMaXN0XSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXB0PSJ2aWRlby9tcDQiCg==</text>
+        <text encoding="base64">ICAgICAgaWYgIHJldHVybiBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
@@ -396,8 +408,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
