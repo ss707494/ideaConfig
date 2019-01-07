@@ -194,12 +194,12 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1546583509068">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546833772785">
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1546835150341">
         <mark key="'" line="55" column="4" />
-        <mark key="[" line="57" column="23" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="15" />
+        <mark key="[" line="73" column="62" />
+        <mark key="]" line="73" column="62" />
+        <mark key="." line="73" column="62" />
+        <mark key="^" line="73" column="63" />
       </file>
     </filemarks>
     <jumps>
@@ -309,7 +309,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>78</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
@@ -345,7 +345,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -384,8 +384,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
