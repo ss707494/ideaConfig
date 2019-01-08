@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="权限" />
+      <item value="auoth" />
+      <item value="auth" />
+      <item value="autho" />
+      <item value="无权限" />
       <item value="省份" />
       <item value="论坛" />
       <item value="origin" />
@@ -46,16 +51,11 @@
       <item value="精确" />
       <item value="Emitter" />
       <item value="偏移" />
-      <item value="template" />
-      <item value="templ" />
-      <item value="订单支付" />
-      <item value="支付" />
-      <item value="退款" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="74" />
+        <entry key="CHINESE" value="74" />
+        <entry key="ENGLISH" value="75" />
       </map>
     </option>
   </component>
