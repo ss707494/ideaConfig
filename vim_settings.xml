@@ -110,11 +110,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="47" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" timestamp="1546918718669">
-        <mark key="'" line="24" column="8" />
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" timestamp="1546919420267">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
         <mark key="^" line="2" column="30" />
       </file>
       <file name="$USER_HOME$/.spf13-vim-3/file/initSpf13Git.cmd" timestamp="1546512408063">
@@ -213,6 +212,12 @@
       </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json" timestamp="1546917962572">
         <mark key="'" line="442" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/components/Echarts/index.vue" timestamp="1546919723826">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="29" column="41" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1546848758192">
         <mark key="'" line="7" column="8" />
@@ -351,34 +356,104 @@
         <text encoding="base64">ICAgICAgICB0aGlzLiRuZXh0VGljaygoKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgogICAgICB0aGlzLm15Q2hhcnQgPSBlY2hhcnRzLmluaXQodGhpcy4kcmVmcy5jaGFydCkKICAgICAgdGhpcy5teUNoYXJ0LmNsZWFyKCkKICAgICAgdGhpcy5teUNoYXJ0LnNldE9wdGlvbih7CiAgICAgICAgdGl0bGU6IHsKICAgICAgICAgIHRleHQ6ICfEs7XYx/jV9Leiwb+6zb21y67BvycsCiAgICAgICAgICBzdWJ0ZXh0OiAntL/K9NDpubknCiAgICAgICAgfSwKICAgICAgICB0b29sdGlwOiB7CiAgICAgICAgICB0cmlnZ2VyOiAnYXhpcycKICAgICAgICB9LAogICAgICAgIGxlZ2VuZDogewogICAgICAgICAgZGF0YTogWyfV9Leiwb8nLCAnvbXLrsG/J10KICAgICAgICB9LAogICAgICAgIHRvb2xib3g6IHsKICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICBmZWF0dXJlOiB7CiAgICAgICAgICAgIGRhdGFWaWV3OiB7IHNob3c6IHRydWUsIHJlYWRPbmx5OiBmYWxzZSB9LAogICAgICAgICAgICBtYWdpY1R5cGU6IHsgc2hvdzogdHJ1ZSwgdHlwZTogWydsaW5lJywgJ2JhciddIH0sCiAgICAgICAgICAgIHJlc3RvcmU6IHsgc2hvdzogdHJ1ZSB9LAogICAgICAgICAgICBzYXZlQXNJbWFnZTogeyBzaG93OiB0cnVlIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGNhbGN1bGFibGU6IHRydWUsCiAgICAgICAgeEF4aXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ2NhdGVnb3J5JywKICAgICAgICAgICAgZGF0YTogWycx1MInLCAnMtTCJywgJzPUwicsICc01MInLCAnNdTCJywgJzbUwicsICc31MInLCAnONTCJywgJznUwicsICcxMNTCJywgJzEx1MInLCAnMTLUwiddCiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICB5QXhpczogWwogICAgICAgICAgewogICAgICAgICAgICB0eXBlOiAndmFsdWUnCiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogJ9X0t6LBvycsCiAgICAgICAgICAgIHR5cGU6ICdiYXInLAogICAgICAgICAgICBkYXRhOiBbMi4wLCA0LjksIDcuMCwgMjMuMiwgMjUuNiwgNzYuNywgMTM1LjYsIDE2Mi4yLCAzMi42LCAyMC4wLCA2LjQsIDMuM10sCiAgICAgICAgICAgIG1hcmtQb2ludDogewogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsgdHlwZTogJ21heCcsIG5hbWU6ICfX7rTz1rUnIH0sCiAgICAgICAgICAgICAgICB7IHR5cGU6ICdtaW4nLCBuYW1lOiAn1+7Qoda1JyB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICBtYXJrTGluZTogewogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsgdHlwZTogJ2F2ZXJhZ2UnLCBuYW1lOiAnxr2++da1JyB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBuYW1lOiAnvbXLrsG/JywKICAgICAgICAgICAgdHlwZTogJ2JhcicsCiAgICAgICAgICAgIGRhdGE6IFsyLjYsIDUuOSwgOS4wLCAyNi40LCAyOC43LCA3MC43LCAxNzUuNiwgMTgyLjIsIDQ4LjcsIDE4LjgsIDYuMCwgMi4zXSwKICAgICAgICAgICAgbWFya1BvaW50OiB7CiAgICAgICAgICAgICAgZGF0YTogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBuYW1lOiAnxOrX7rjfJywgdmFsdWU6IDE4Mi4yLCB4QXhpczogNywgeUF4aXM6IDE4MwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbmFtZTogJ8Tq1+61zScsIHZhbHVlOiAyLjMsIHhBeGlzOiAxMSwgeUF4aXM6IDMKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG1hcmtMaW5lOiB7CiAgICAgICAgICAgICAgZGF0YTogWwogICAgICAgICAgICAgICAgeyB0eXBlOiAnYXZlcmFnZScsIG5hbWU6ICfGvb751rUnIH0KICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgIHNyYz0iLi9pbmRleC5zY3NzIgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+          title: {
+            text: '某地区蒸发量和降水量',
+            subtext: '纯属虚构'
+          },
+          tooltip: {
+            trigger: 'axis'
+          },
+          legend: {
+            data: ['蒸发量', '降水量']
+          },
+          toolbox: {
+            show: true,
+            feature: {
+              dataView: { show: true, readOnly: false },
+              magicType: { show: true, type: ['line', 'bar'] },
+              restore: { show: true },
+              saveAsImage: { show: true }
+            }
+          },
+          calculable: true,
+          xAxis: [
+            {
+              type: 'category',
+              data: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月']
+            }
+          ],
+          yAxis: [
+            {
+              type: 'value'
+            }
+          ],
+          series: [
+            {
+              name: '蒸发量',
+              type: 'bar',
+              data: [2.0, 4.9, 7.0, 23.2, 25.6, 76.7, 135.6, 162.2, 32.6, 20.0, 6.4, 3.3],
+              markPoint: {
+                data: [
+                  { type: 'max', name: '最大值' },
+                  { type: 'min', name: '最小值' }
+                ]
+              },
+              markLine: {
+                data: [
+                  { type: 'average', name: '平均值' }
+                ]
+              }
+            },
+            {
+              name: '降水量',
+              type: 'bar',
+              data: [2.6, 5.9, 9.0, 26.4, 28.7, 70.7, 175.6, 182.2, 48.7, 18.8, 6.0, 2.3],
+              markPoint: {
+                data: [
+                  {
+                    name: '年最高', value: 182.2, xAxis: 7, yAxis: 183
+                  },
+                  {
+                    name: '年最低', value: 2.3, xAxis: 11, yAxis: 3
+                  }
+                ]
+              },
+              markLine: {
+                data: [
+                  { type: 'average', name: '平均值' }
+                ]
+              }
+            }
+          ]
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRzOiB7fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb21lbnQK</text>
+        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJkYXRhLWJvYXJkIj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgogICAgICB0aGlzLm15Q2hhcnQgPSBlY2hhcnRzLmluaXQodGhpcy4kcmVmcy5jaGFydCkKICAgICAgdGhpcy5teUNoYXJ0LmNsZWFyKCkKICAgICAgdGhpcy5teUNoYXJ0LnNldE9wdGlvbih7CiAgICAgICAgdGl0bGU6IHsKICAgICAgICAgIHRleHQ6ICfEs7XYx/jV9Leiwb+6zb21y67BvycsCiAgICAgICAgICBzdWJ0ZXh0OiAntL/K9NDpubknCiAgICAgICAgfSwKICAgICAgICB0b29sdGlwOiB7CiAgICAgICAgICB0cmlnZ2VyOiAnYXhpcycKICAgICAgICB9LAogICAgICAgIGxlZ2VuZDogewogICAgICAgICAgZGF0YTogWyfV9Leiwb8nLCAnvbXLrsG/J10KICAgICAgICB9LAogICAgICAgIHRvb2xib3g6IHsKICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICBmZWF0dXJlOiB7CiAgICAgICAgICAgIGRhdGFWaWV3OiB7IHNob3c6IHRydWUsIHJlYWRPbmx5OiBmYWxzZSB9LAogICAgICAgICAgICBtYWdpY1R5cGU6IHsgc2hvdzogdHJ1ZSwgdHlwZTogWydsaW5lJywgJ2JhciddIH0sCiAgICAgICAgICAgIHJlc3RvcmU6IHsgc2hvdzogdHJ1ZSB9LAogICAgICAgICAgICBzYXZlQXNJbWFnZTogeyBzaG93OiB0cnVlIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIGNhbGN1bGFibGU6IHRydWUsCiAgICAgICAgeEF4aXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgdHlwZTogJ2NhdGVnb3J5JywKICAgICAgICAgICAgZGF0YTogWycx1MInLCAnMtTCJywgJzPUwicsICc01MInLCAnNdTCJywgJzbUwicsICc31MInLCAnONTCJywgJznUwicsICcxMNTCJywgJzEx1MInLCAnMTLUwiddCiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICB5QXhpczogWwogICAgICAgICAgewogICAgICAgICAgICB0eXBlOiAndmFsdWUnCiAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICBzZXJpZXM6IFsKICAgICAgICAgIHsKICAgICAgICAgICAgbmFtZTogJ9X0t6LBvycsCiAgICAgICAgICAgIHR5cGU6ICdiYXInLAogICAgICAgICAgICBkYXRhOiBbMi4wLCA0LjksIDcuMCwgMjMuMiwgMjUuNiwgNzYuNywgMTM1LjYsIDE2Mi4yLCAzMi42LCAyMC4wLCA2LjQsIDMuM10sCiAgICAgICAgICAgIG1hcmtQb2ludDogewogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsgdHlwZTogJ21heCcsIG5hbWU6ICfX7rTz1rUnIH0sCiAgICAgICAgICAgICAgICB7IHR5cGU6ICdtaW4nLCBuYW1lOiAn1+7Qoda1JyB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9LAogICAgICAgICAgICBtYXJrTGluZTogewogICAgICAgICAgICAgIGRhdGE6IFsKICAgICAgICAgICAgICAgIHsgdHlwZTogJ2F2ZXJhZ2UnLCBuYW1lOiAnxr2++da1JyB9CiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgewogICAgICAgICAgICBuYW1lOiAnvbXLrsG/JywKICAgICAgICAgICAgdHlwZTogJ2JhcicsCiAgICAgICAgICAgIGRhdGE6IFsyLjYsIDUuOSwgOS4wLCAyNi40LCAyOC43LCA3MC43LCAxNzUuNiwgMTgyLjIsIDQ4LjcsIDE4LjgsIDYuMCwgMi4zXSwKICAgICAgICAgICAgbWFya1BvaW50OiB7CiAgICAgICAgICAgICAgZGF0YTogWwogICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICBuYW1lOiAnxOrX7rjfJywgdmFsdWU6IDE4Mi4yLCB4QXhpczogNywgeUF4aXM6IDE4MwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgbmFtZTogJ8Tq1+61zScsIHZhbHVlOiAyLjMsIHhBeGlzOiAxMSwgeUF4aXM6IDMKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIG1hcmtMaW5lOiB7CiAgICAgICAgICAgICAgZGF0YTogWwogICAgICAgICAgICAgICAgeyB0eXBlOiAnYXZlcmFnZScsIG5hbWU6ICfGvb751rUnIH0KICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0pCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZm9ybVBhcmFtczogW3sKICAgICAgICBsYWJlbDogJ7LO1bnG89K1w/uzxicsCiAgICAgICAgbW9kZWw6ICdOYW1lJywKICAgICAgICBydWxlVmFsaWRhdGU6IFsKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICdUaGUgbmFtZSBjYW5ub3QgYmUgZW1wdHknLCB0cmlnZ2VyOiAnYmx1cicgfQogICAgICAgIF0KICAgICAgfSwgewogICAgICAgIGxhYmVsOiAnwarPtbe9yr0nLAogICAgICAgIG1vZGVsOiAnVGVsZXBob25lJywKICAgICAgfSwgewogICAgICAgIGxhYmVsOiAn06rStda01dUnLAogICAgICAgIG1vZGVsOiAnTGljZW5zZScsCiAgICAgICAgdHlwZTogJ3VwbG9hZCcsCiAgICAgICAgdXBsb2FkT3B0aW9uOiB7CiAgICAgICAgICBzaXplOiAnbGFyZ2UnCiAgICAgICAgfSwKICAgICAgfV0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEJhc2ljRm9ybVBhZ2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -416,9 +491,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
