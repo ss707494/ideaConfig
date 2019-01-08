@@ -28,12 +28,19 @@
         <mark key="." line="9" column="10" />
         <mark key="^" line="9" column="10" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" timestamp="1546951152249">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="21" column="39" />
-        <mark key="]" line="21" column="46" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" timestamp="1546951675175">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="42" />
         <mark key="." line="21" column="46" />
         <mark key="^" line="21" column="46" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.vue" timestamp="1546951848577">
+        <mark key="'" line="26" column="19" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="28" column="78" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.scss" timestamp="1546936593519">
         <mark key="'" line="59" column="22" />
@@ -73,11 +80,11 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1546951004305">
-        <mark key="'" line="32" column="13" />
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="20" />
-        <mark key="." line="32" column="14" />
+      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1546951842344">
+        <mark key="'" line="40" column="13" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="21" />
+        <mark key="." line="40" column="22" />
         <mark key="^" line="3" column="4" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/noPermission/index.scss" timestamp="1546943249746">
@@ -143,12 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="27" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.scss" />
-      <jump line="50" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.scss" />
-      <jump line="42" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
-      <jump line="53" column="12" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
-      <jump line="54" column="32" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
-      <jump line="52" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
       <jump line="63" column="32" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
       <jump line="72" column="24" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
       <jump line="62" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/index.vue" />
@@ -232,7 +233,6 @@
       <jump line="7" column="16" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/noPermission/index.vue" />
       <jump line="19" column="11" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/noPermission/index.scss" />
       <jump line="19" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
-      <jump line="27" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
       <jump line="29" column="27" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
       <jump line="28" column="13" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
       <jump line="31" column="7" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
@@ -240,22 +240,29 @@
       <jump line="32" column="13" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
       <jump line="37" column="24" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="2" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="2" column="17" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
       <jump line="19" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/company/index.vue" />
       <jump line="20" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
+      <jump line="2" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
+      <jump line="2" column="17" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.vue" />
+      <jump line="27" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
+      <jump line="35" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
+      <jump line="37" column="28" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
+      <jump line="36" column="13" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
+      <jump line="40" column="13" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
+      <jump line="26" column="19" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>输入参展企业名称</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>sele</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlVmFsaWRhdGU6IFsKICAgICAgICAgIHsgcmVxdWlyZWQ6IHRydWUsIG1lc3NhZ2U6ICfH68rkyOuyztW5xvPStcP7s8YnLCB0cmlnZ2VyOiAnYmx1cicgfQogICAgICAgIF0K</text>
+      <register name="0" type="4">
+        <text>videoSave</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgfSwgewogICAgICAgIGxhYmVsOiAnuavLvkxPR08nLAogICAgICAgIG1vZGVsOiAnbmFtZScsCiAgICAgICAgdHlwZTogJ3VwbG9hZCcsCiAgICAgIH0sIHsKICAgICAgICBsYWJlbDogJ8a3xca5ysrCzOLEvycsCiAgICAgICAgbW9kZWw6ICduYW1lJywKICAgICAgfSwgewogICAgICAgIGxhYmVsOiAnu+G/r9X3zsQnLAogICAgICAgIG1vZGVsOiAnbmFtZScsCiAgICAgICAgdHlwZTogJ3RleHRhcmVhJywKICAgICAgfSwgewogICAgICAgIGxhYmVsOiAnxrfFxrnKysLF5M28JywKICAgICAgICBtb2RlbDogJ25hbWUnLAo=</text>
