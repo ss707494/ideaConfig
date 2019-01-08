@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="论坛" />
       <item value="origin" />
       <item value="原始" />
       <item value="form Data" />
@@ -50,12 +51,11 @@
       <item value="支付" />
       <item value="退款" />
       <item value="提现" />
-      <item value="结算" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="73" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="ENGLISH" value="74" />
       </map>
     </option>
   </component>
