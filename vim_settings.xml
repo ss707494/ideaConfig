@@ -68,7 +68,7 @@
         <mark key="." line="74" column="27" />
         <mark key="^" line="74" column="27" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" timestamp="1547006411826">
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" timestamp="1547006504938">
         <mark key="'" line="8" column="24" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -356,7 +356,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -394,9 +394,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
