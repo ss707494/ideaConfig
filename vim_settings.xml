@@ -256,12 +256,12 @@
         <mark key="^" line="105" column="15" />
         <mark key="." line="105" column="15" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" timestamp="1547025715305">
-        <mark key="'" line="236" column="8" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="247" column="10" />
-        <mark key="^" line="36" column="40" />
-        <mark key="." line="236" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" timestamp="1547027078851">
+        <mark key="'" line="36" column="34" />
+        <mark key="[" line="207" column="10" />
+        <mark key="]" line="211" column="9" />
+        <mark key="^" line="211" column="9" />
+        <mark key="." line="211" column="9" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1546998607786">
         <mark key="'" line="45" column="0" />
@@ -280,14 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="43" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="49" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="17" column="6" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="23" column="15" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="28" column="28" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="24" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
-      <jump line="27" column="28" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="26" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="30" column="15" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="29" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
@@ -380,21 +372,38 @@
       <jump line="28" column="39" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="196" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="236" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="219" column="35" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="220" column="35" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="251" column="31" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="221" column="35" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="222" column="35" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="223" column="36" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="235" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="36" column="34" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>，请稍候</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>.7</text>
+        <text>option2</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sYm94OiB7CiAgICAgICAgICBzaG93OiB0cnVlLAogICAgICAgICAgZmVhdHVyZTogewogICAgICAgICAgICBkYXRhWm9vbTogewogICAgICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGRhdGFWaWV3OiB7IHNob3c6IHRydWUsIHJlYWRPbmx5OiBmYWxzZSB9LAogICAgICAgICAgICBtYWdpY1R5cGU6IHsgc2hvdzogdHJ1ZSwgdHlwZTogWydsaW5lJywgJ2JhcicsICdwaWUnXSB9LAogICAgICAgICAgICByZXN0b3JlOiB7IHNob3c6IHRydWUgfSwKICAgICAgICAgICAgc2F2ZUFzSW1hZ2U6IHsgc2hvdzogdHJ1ZSB9CiAgICAgICAgICB9CiAgICAgICAgfSwK</text>
+      <register name="0" type="4">
+        <text>搜索引擎</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbVN0eWxlOiB7CiAgICAgICAgICAgICAgZW1waGFzaXM6IHsKICAgICAgICAgICAgICAgIHNoYWRvd0JsdXI6IDEwLAogICAgICAgICAgICAgICAgc2hhZG93T2Zmc2V0WDogMCwKICAgICAgICAgICAgICAgIHNoYWRvd0NvbG9yOiAncmdiYSgwLCAwLCAwLCAwLjUpJwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmFkaXVzOiAnNTUlJywKICAgICAgICAgICAgLy8gY2VudGVyOiBbJzUwJScsICc2MCUnXSwK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgb3B0aW9uMjogewogICAgICAgIHRvb2xib3g6IHsKICAgICAgICAgIHNob3c6IHRydWUsCiAgICAgICAgICBmZWF0dXJlOiB7CiAgICAgICAgICAgIGRhdGFab29tOiB7CiAgICAgICAgICAgICAgc2hvdzogdHJ1ZSwKICAgICAgICAgICAgfSwKICAgICAgICAgICAgZGF0YVZpZXc6IHsgc2hvdzogdHJ1ZSwgcmVhZE9ubHk6IGZhbHNlIH0sCiAgICAgICAgICAgIG1hZ2ljVHlwZTogeyBzaG93OiB0cnVlLCB0eXBlOiBbJ2xpbmUnLCAnYmFyJywgJ3BpZSddIH0sCiAgICAgICAgICAgIHJlc3RvcmU6IHsgc2hvdzogdHJ1ZSB9LAogICAgICAgICAgICBzYXZlQXNJbWFnZTogeyBzaG93OiB0cnVlIH0KICAgICAgICAgIH0KICAgICAgICB9LAogICAgICAgIHhBeGlzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICdjYXRlZ29yeScsCiAgICAgICAgICAgIGRhdGE6IFsn1rG907fDzsonLCAn08q8/tOqz/onLCAnwarDy7njuOYnLCAnytPGtbnjuOYnLCAny9HL99L9x+YnXSwKICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIHlBeGlzOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgIHR5cGU6ICd2YWx1ZScKICAgICAgICAgIH0KICAgICAgICBdLAogICAgICAgIHNlcmllczogWwogICAgICAgICAgewogICAgICAgICAgICBuYW1lOiAn1rG907fDzsonLAogICAgICAgICAgICB0eXBlOiAnYmFyJywKICAgICAgICAgICAgZGF0YTogWzEwLCA1MiwgMjAwLCAzMzQsIDM5MF0KICAgICAgICAgIH0KICAgICAgICBdCiAgICAgIH0K</text>
+      </register>
+      <register name="4" type="4">
         <text>{
         color: ['#3398DB'],
         tooltip: {
@@ -433,44 +442,34 @@
         ]
       }</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICA6cnVsZS12YWxpZGF0ZT0iIgo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAuLi50aGlzLnJ1bGVWYWxpZGF0ZSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgJl9fbG9hZGluZyB7CiAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHN2ZyB2ZXJzaW9uPSIxLjEiCiAgICAgICAgICAgICAgICAgICAgIGlkPSJsb2FkZXItMSIKICAgICAgICAgICAgICAgICAgICAgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIgogICAgICAgICAgICAgICAgICAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKICAgICAgICAgICAgICAgICAgICAgeD0iMHB4IgogICAgICAgICAgICAgICAgICAgICB5PSIwcHgiCiAgICAgICAgICAgICAgICAgICAgIHdpZHRoPSI0MHB4IgogICAgICAgICAgICAgICAgICAgICBoZWlnaHQ9IjQwcHgiCiAgICAgICAgICAgICAgICAgICAgIHZpZXdCb3g9IjAgMCA1MCA1MCIKICAgICAgICAgICAgICAgICAgICAgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTAgNTA7IgogICAgICAgICAgICAgICAgICAgICB4bWw6c3BhY2U9InByZXNlcnZlIgogICAgICAgICAgICAgICAgPgogICAgICAgICAgICAgICAgICA8cGF0aCBmaWxsPSIjMDAwIgogICAgICAgICAgICAgICAgICAgICAgICBkPSJNMjUuMjUxLDYuNDYxYy0xMC4zMTgsMC0xOC42ODMsCiAgICAgICAgICAgICAgICAgICAgICAgIDguMzY1LTE4LjY4MywxOC42ODNoNC4wNjhjMC04LjA3MSwKICAgICAgICAgICAgICAgICAgICAgICAgNi41NDMtMTQuNjE1LDE0LjYxNS0xNC42MTVWNi40NjF6IgogICAgICAgICAgICAgICAgICA+CiAgICAgICAgICAgICAgICAgICAgPGFuaW1hdGVUcmFuc2Zvcm0gYXR0cmlidXRlVHlwZT0ieG1sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGF0dHJpYnV0ZU5hbWU9InRyYW5zZm9ybSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0eXBlPSJyb3RhdGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZnJvbT0iMCAyNSAyNSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0bz0iMzYwIDI1IDI1IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGR1cj0iMC42cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSI+PC9hbmltYXRlVHJhbnNmb3JtPgogICAgICAgICAgICAgICAgICA8L3BhdGg+CiAgICAgICAgICAgICAgICA8L3N2Zz4=</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>.7</last-search>
+      <last-search>option2</last-search>
       <last-offset />
-      <last-pattern>.7</last-pattern>
+      <last-pattern>option2</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bod</entry>
         <entry encoding="base64">XDxnZXRSZWZcPg==</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxlY2hhcnRzXD4=</entry>
@@ -490,6 +489,7 @@
         <entry>table</entry>
         <entry>class</entry>
         <entry>.7</entry>
+        <entry>option2</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
