@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="grey" />
       <item value="权限" />
       <item value="auoth" />
       <item value="auth" />
@@ -50,12 +51,11 @@
       <item value="cmpleteTime" />
       <item value="精确" />
       <item value="Emitter" />
-      <item value="偏移" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="74" />
-        <entry key="ENGLISH" value="75" />
+        <entry key="CHINESE" value="75" />
+        <entry key="ENGLISH" value="76" />
       </map>
     </option>
   </component>
