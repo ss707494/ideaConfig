@@ -94,6 +94,9 @@
     <keyboard-shortcut first-keystroke="alt numpad2" />
   </action>
   <action id="OverrideMethods" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="QuickList.ss">
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
