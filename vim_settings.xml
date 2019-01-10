@@ -133,7 +133,7 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547124058774">
+      <file name="/Dummy.txt" timestamp="1547125205408">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -404,7 +404,7 @@
         <text encoding="base64">ICAgICAgICB7IG5hbWU6ICcxMjMnIH0sCiAgICAgICAgeyBuYW1lOiAnMTIzJyB9LAogICAgICAgIHsgbmFtZTogJzEyMycgfSwKICAgICAgICB7IG5hbWU6ICcxMjMnIH0sCiAgICAgICAgeyBuYW1lOiAnMTIzJyB9LAogICAgICAgIHsgbmFtZTogJzEyMycgfSwKICAgICAgICB7IG5hbWU6ICcxMjMnIH0sCiAgICAgICAgeyBuYW1lOiAnMTIzJyB9LAogICAgICAgIHsgbmFtZTogJzEyMycgfSwKICAgICAgICB7IG5hbWU6ICcxMjMnIH0sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -442,9 +442,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
