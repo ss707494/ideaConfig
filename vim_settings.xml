@@ -73,8 +73,8 @@
         <mark key="." line="86" column="8" />
         <mark key="^" line="86" column="8" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547103712087">
-        <mark key="'" line="54" column="20" />
+      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547103936357">
+        <mark key="'" line="59" column="19" />
         <mark key="[" line="54" column="20" />
         <mark key="]" line="54" column="44" />
         <mark key="." line="54" column="23" />
@@ -92,7 +92,7 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1547103509239">
+      <file name="D:/coder/N-31Brands/FE/src/api/form/index.js" timestamp="1547104552508">
         <mark key="'" line="60" column="13" />
         <mark key="[" line="60" column="13" />
         <mark key="]" line="60" column="30" />
@@ -109,10 +109,10 @@
       <file name="D:/coder/N-31Brands/FE/src/common/utils/createEnum.js" timestamp="1547089123786">
         <mark key="'" line="60" column="23" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/axios.js" timestamp="1547101754674">
-        <mark key="'" line="17" column="6" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
+      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/axios.js" timestamp="1547104153382">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="10" column="42" />
+        <mark key="]" line="10" column="55" />
         <mark key="^" line="16" column="27" />
         <mark key="." line="16" column="27" />
       </file>
@@ -137,16 +137,14 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547103809606">
-        <mark key="'" line="124" column="40" />
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547104564094">
+        <mark key="'" line="87" column="6" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="17" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="20" column="60" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/company/index.vue" />
       <jump line="30" column="71" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/video/index.vue" />
       <jump line="109" column="138" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="134" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
@@ -233,7 +231,6 @@
       <jump line="6" column="49" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="130" column="36" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="52" column="4" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="59" column="19" filename="D:/coder/N-31Brands/FE/vue.config.js" />
       <jump line="1" column="0" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
       <jump line="54" column="20" filename="D:/coder/N-31Brands/FE/vue.config.js" />
       <jump line="2" column="38" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
@@ -245,6 +242,9 @@
       <jump line="18" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="20" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/offer/index.vue" />
       <jump line="15" column="6" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/logo/index.vue" />
+      <jump line="59" column="19" filename="D:/coder/N-31Brands/FE/vue.config.js" />
+      <jump line="10" column="42" filename="D:/coder/N-31Brands/FE/src/common/plugins/injector/axios.js" />
+      <jump line="87" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -254,10 +254,10 @@
         <text>http://192.168.0.116:55848/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWFsUmVxdWlyZVw+</text>
+        <text encoding="base64">XDxkZWFsRm9ybVBhcmFtc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>formParams</text>
+        <text>XMLHttpRequest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuLi5kZWFsUmVxdWlyZSgntee7sCcpLAo=</text>
@@ -289,19 +289,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWFsUmVxdWlyZVw+</last-search>
+      <last-search encoding="base64">XDxkZWFsRm9ybVBhcmFtc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWFsUmVxdWlyZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxkZWFsRm9ybVBhcmFtc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaWRlTWVudVw+</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry>4</entry>
         <entry>9</entry>
@@ -321,6 +320,7 @@
         <entry encoding="base64">XDxmb3JtUGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxnZXREYXRhXD4=</entry>
         <entry encoding="base64">XDxkZWFsUmVxdWlyZVw+</entry>
+        <entry encoding="base64">XDxkZWFsRm9ybVBhcmFtc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
@@ -328,8 +328,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
