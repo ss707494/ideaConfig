@@ -186,17 +186,14 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="15" column="40" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547089782658">
-        <mark key="'" line="121" column="13" />
-        <mark key="[" line="121" column="16" />
-        <mark key="]" line="131" column="8" />
-        <mark key="." line="131" column="8" />
-        <mark key="^" line="131" column="8" />
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547091015785">
+        <mark key="'" line="132" column="6" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="8" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
-      <jump line="67" column="21" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="35" column="20" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="43" column="39" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="105" column="16" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
@@ -295,13 +292,15 @@
       <jump line="109" column="138" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="96" column="25" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
       <jump line="121" column="13" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="134" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="133" column="6" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25zdGFudHNcPg==</text>
@@ -309,7 +308,22 @@
       <register name="0" type="4">
         <text>Fields</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gY29uc3QgZ2V0RGF0YSA9IGFwaT8uW3RoaXMuZ2V0RGF0YVByb21pc2VdIHx8ICgoKSA9PiBQcm9taXNlLnJlc29sdmUoe30pKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLy8K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzMykKICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="6" type="4">
         <text>{
           FieldId: 1566055566,
           FieldName: 'Mobile',
@@ -322,29 +336,14 @@
           FieldValue: ''
         }</text>
       </register>
-      <register name="2" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAge30K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yZXNvbHZlUmVzKHt9KQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fSwgewogIGxhYmVsOiAnyNXG2sqxvOQnLAogIHZhbHVlOiA0LAogIGNvbnN0YW50czogJ0RhdGVUaW1lJwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcmVzb2x2ZVJlcyA9IHJlcyA9PiB7CiAgICAgICAgY29uc3QgZmllbGRzID0gcmVzLkZpZWxkcyB8fCBbXQogICAgICAgIGNvbnNvbGUubG9nKHJlcykKICAgICAgICByZXR1cm4gewogICAgICAgICAgZm9ybURhdGE6IGZpZWxkcy5yZWR1Y2UoKGluaXQsIGl0ZW0pID0+ICh7CiAgICAgICAgICAgIC4uLmluaXQsCiAgICAgICAgICAgIFtpdGVtLkZpZWxkTmFtZV06IGl0ZW0uRmllbGRWYWx1ZQogICAgICAgICAgfSksIHt9KSwKICAgICAgICAgIGRlYWxGb3JtUGFyYW1zOiBmaWVsZHMubWFwKGUgPT4gKHsKICAgICAgICAgICAgbGFiZWw6IGUuRGlzcGxheU5hbWUsCiAgICAgICAgICAgIG1vZGVsOiBlLkZpZWxkTmFtZSwKICAgICAgICAgICAgcnVsZVZhbGlkYXRlOiAhZS5Jc05lZWRlZCA/IFtdIDogWwogICAgICAgICAgICAgIHt9CiAgICAgICAgICAgIF0KICAgICAgICAgIH0pKQogICAgICAgIH0KICAgICAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
