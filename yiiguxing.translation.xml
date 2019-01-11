@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="contrast" />
+      <item value="比较" />
+      <item value="show" />
+      <item value="演示" />
+      <item value="continued" />
+      <item value="持续" />
       <item value="resolve" />
       <item value="分解" />
       <item value="计算" />
@@ -45,17 +51,11 @@
       <item value="Withdrawal" />
       <item value="撤销付款" />
       <item value="重置为未支付" />
-      <item value="offline" />
-      <item value="TRANSACTION TYPE FOR ADMIN PAY offline" />
-      <item value="shelve" />
-      <item value="Permission denied" />
-      <item value="complete" />
-      <item value="completeTime" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="76" />
-        <entry key="ENGLISH" value="76" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="79" />
       </map>
     </option>
   </component>
