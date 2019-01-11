@@ -133,7 +133,7 @@
         <mark key="]" line="2" column="1" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547178483146">
+      <file name="/Dummy.txt" timestamp="1547178749091">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -203,12 +203,12 @@
         <mark key="]" line="97" column="0" />
         <mark key="." line="97" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" timestamp="1547178729532">
-        <mark key="'" line="88" column="37" />
-        <mark key="[" line="182" column="21" />
-        <mark key="]" line="182" column="21" />
-        <mark key="." line="182" column="21" />
-        <mark key="^" line="182" column="21" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" timestamp="1547184488718">
+        <mark key="'" line="82" column="42" />
+        <mark key="[" line="82" column="32" />
+        <mark key="]" line="82" column="43" />
+        <mark key="." line="82" column="32" />
+        <mark key="^" line="82" column="51" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/index.scss" timestamp="1546398074169">
         <mark key="'" line="16" column="8" />
@@ -216,12 +216,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547178646318">
-        <mark key="'" line="72" column="16" />
-        <mark key="[" line="73" column="20" />
-        <mark key="]" line="73" column="20" />
-        <mark key="." line="73" column="20" />
-        <mark key="^" line="73" column="20" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547184732883">
+        <mark key="'" line="75" column="16" />
+        <mark key="[" line="70" column="9" />
+        <mark key="]" line="72" column="24" />
+        <mark key="." line="72" column="24" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1547124400049">
         <mark key="'" line="1" column="24" />
@@ -264,10 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="252" column="14" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
-      <jump line="257" column="25" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
-      <jump line="84" column="30" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
-      <jump line="264" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="268" column="29" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="8" column="17" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="9" column="21" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
@@ -364,19 +360,23 @@
       <jump line="60" column="39" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="57" column="39" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="88" column="37" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="149" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="275" column="4" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="68" column="22" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
+      <jump line="82" column="42" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>@click=&quot;searchClick&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>select</text>
+        <text encoding="base64">XDxzZWFyY2hDbGlja1w+</text>
       </register>
       <register name="0" type="4">
-        <text>item</text>
+        <text>searchClick</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgbWF4SGVpZ2h0PSIxMDAiCg==</text>
@@ -410,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search>select</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hDbGlja1w+</last-search>
       <last-offset />
-      <last-pattern>select</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hDbGlja1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>defaultFileList</entry>
         <entry>val</entry>
         <entry encoding="base64">XDxtZW51TGFiZWxcPg==</entry>
@@ -438,6 +437,7 @@
         <entry encoding="base64">XDxzZWFyY2hQYXJhbXNcPg==</entry>
         <entry>FieldName</entry>
         <entry>select</entry>
+        <entry encoding="base64">XDxzZWFyY2hDbGlja1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
