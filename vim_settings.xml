@@ -248,23 +248,22 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="41" column="43" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" timestamp="1547171203982">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="35" />
-        <mark key="." line="12" column="14" />
+      <file name="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" timestamp="1547173729203">
+        <mark key="'" line="14" column="73" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="14" column="63" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547122247517">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="93" column="7" />
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547173708029">
+        <mark key="'" line="128" column="11" />
+        <mark key="[" line="128" column="11" />
+        <mark key="]" line="128" column="32" />
         <mark key="." line="151" column="15" />
         <mark key="^" line="151" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="2" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.scss" />
-      <jump line="0" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/DataLayout/index.scss" />
       <jump line="20" column="33" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.scss" />
       <jump line="1" column="14" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.vue" />
       <jump line="5" column="30" filename="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.vue" />
@@ -327,7 +326,6 @@
       <jump line="0" column="0" filename="D:/coder/N-31Brands/FE/src/api/form/index.js" />
       <jump line="7" column="0" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
       <jump line="11" column="0" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
-      <jump line="14" column="32" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
       <jump line="12" column="22" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
       <jump line="13" column="13" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
       <jump line="240" column="12" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
@@ -363,6 +361,9 @@
       <jump line="62" column="0" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="65" column="4" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="68" column="4" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
+      <jump line="128" column="11" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="15" column="10" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
+      <jump line="14" column="73" filename="D:/coder/N-31Brands/FE/src/api/dataBoard/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -372,34 +373,34 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wYW55Sm9pbkZpZWxkTGlzdFw+</text>
+        <text>eventid</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC53cmFwcGVyLWNvbnRyYXN0ID4gZGl2Om50aC1jaGlsZCg1KSB7CiAgICAgIGdyaWQtYXJlYTogZTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>1566055538</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXZlbnRJZDogJzE1NjYwNTU1MzgnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJveDEiPmJveDE8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDIiPmJveDI8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDMiPmJveDM8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDQiPjwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJveDEiPmJveDE8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDIiPmJveDI8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDMiPmJveDM8L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDQiPjwvZGl2Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJveDUiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYm94NiI+PC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJib3g3Ij48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDgiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYm94OSI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImJveDUiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYm94NiI+PC9kaXY+CiAgICA8ZGl2IGNsYXNzPSJib3g3Ij48L2Rpdj4KICAgIDxkaXYgY2xhc3M9ImJveDgiPjwvZGl2PgogICAgPGRpdiBjbGFzcz0iYm94OSI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -409,15 +410,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wYW55Sm9pbkZpZWxkTGlzdFw+</last-search>
+      <last-search>eventid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wYW55Sm9pbkZpZWxkTGlzdFw+</last-pattern>
+      <last-pattern>eventid</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydWxlVmFsaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxyZXNvbHZlUmVzXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
         <entry encoding="base64">XDxjaGFuZ2VcPg==</entry>
@@ -437,6 +437,7 @@
         <entry>label</entry>
         <entry encoding="base64">XDxjaGFuZ2VTdGF0aWNPcHRpb25cPg==</entry>
         <entry encoding="base64">XDxjb21wYW55Sm9pbkZpZWxkTGlzdFw+</entry>
+        <entry>eventid</entry>
       </history-search>
       <history-cmd>
         <entry>action ShowBookmarks</entry>
