@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/coder/N-31Brands/FE/src/store/modules/global.js" timestamp="1547458241142">
+        <mark key="'" line="106" column="4" />
+        <mark key="[" line="104" column="21" />
+        <mark key="]" line="104" column="21" />
+        <mark key="." line="104" column="21" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.vue" timestamp="1547191816304">
         <mark key="'" line="1" column="25" />
         <mark key="[" line="8" column="26" />
@@ -44,17 +50,13 @@
         <mark key="." line="409" column="32" />
         <mark key="^" line="150" column="25" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547103936357">
-        <mark key="'" line="54" column="19" />
+      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547457842584">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="82" column="4" />
+        <mark key="]" line="82" column="21" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/plugins/injector/axios.js" timestamp="1547447789780">
         <mark key="'" line="4" column="6" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1547192645224">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547192898703">
         <mark key="'" line="77" column="0" />
@@ -68,8 +70,8 @@
         <mark key="]" line="22" column="30" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547449021135">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1547456040358">
+        <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -121,7 +123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="29" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="92" column="0" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="95" column="4" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="77" column="0" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
@@ -221,19 +222,20 @@
       <jump line="409" column="35" filename="D:/coder/N-31Brands/FE/tests/grid.html" />
       <jump line="37" column="27" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="45" column="25" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="82" column="4" filename="D:/coder/N-31Brands/FE/vue.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>品牌企业类型分析</text>
+        <text>brand.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JtQ29tcG9uZW50XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>self</text>
+        <text>historyApiFallback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgYWxpZ24tc2VsZjogOwogICAgICBhbGlnbi1pdGVtczogY2VudGVyOwogICAgICBqdXN0aWZ5LWl0ZW1zOiBjZW50ZXI7Cg==</text>
@@ -263,7 +265,7 @@
         <text encoding="base64">ICAgIDxzZWN0aW9uPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -302,8 +304,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
