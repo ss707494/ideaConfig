@@ -31,12 +31,12 @@
         <mark key="." line="45" column="10" />
         <mark key="^" line="45" column="10" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1547445017319">
-        <mark key="'" line="12" column="26" />
-        <mark key="[" line="124" column="15" />
-        <mark key="]" line="124" column="15" />
-        <mark key="." line="124" column="15" />
-        <mark key="^" line="124" column="15" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1547446475767">
+        <mark key="'" line="12" column="40" />
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+        <mark key="^" line="12" column="50" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1547432530220">
         <mark key="'" line="6" column="20" />
@@ -179,9 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="11" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
-      <jump line="50" column="12" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
-      <jump line="90" column="28" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="198" column="4" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="204" column="8" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
       <jump line="203" column="0" filename="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" />
@@ -278,20 +275,23 @@
       <jump line="208" column="54" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="211" column="61" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="215" column="4" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
-      <jump line="12" column="26" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="179" column="13" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="103" column="40" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="102" column="59" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="12" column="40" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>/brand</text>
+        <text>${}</text>
       </register>
       <register name="/" type="4">
         <text>action</text>
       </register>
       <register name="0" type="4">
-        <text>column</text>
+        <text>?length=${this.size}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxkaXY+CiAgICAgIMjdxvc6Z3JpZC10ZW1wbGF0ZS1hcmVhcwogICAgPC9kaXY+CiAgICA8ZGl2PgogICAgICDX09Sqy9ggbmFtZTogZ3JpZC1hcmVhCiAgICA8L2Rpdj4K</text>
@@ -321,7 +321,7 @@
         <text encoding="base64">ICAgICAgLypncmlkLWFyZWE6IGFzaWRlOyovCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -359,9 +359,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
