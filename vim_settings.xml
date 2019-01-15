@@ -110,15 +110,21 @@
         <mark key="." line="86" column="8" />
         <mark key="^" line="86" column="8" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547520735100">
+      <file name="D:/coder/N-31Brands/FE/vue.config.js" timestamp="1547523248610">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="54" column="2" />
-        <mark key="]" line="54" column="10" />
-        <mark key="^" line="83" column="14" />
-        <mark key="." line="83" column="14" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="12" />
+        <mark key="^" line="55" column="12" />
+        <mark key="." line="55" column="12" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/plugins/injector/axios.js" timestamp="1547447789780">
         <mark key="'" line="4" column="6" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1547192645224">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547192898703">
         <mark key="'" line="77" column="0" />
@@ -144,7 +150,7 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/index.vue" timestamp="1547522564162">
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/index.vue" timestamp="1547522680651">
         <mark key="[" line="19" column="6" />
         <mark key="]" line="19" column="16" />
         <mark key="." line="19" column="16" />
@@ -162,6 +168,12 @@
       </file>
       <file name="E:/code/N-31Editor/FE/vue.config.js" timestamp="1547520704599" />
       <file name="E:/code/N-31Editor/FE/package.json" timestamp="1547520898452" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/router.js" timestamp="1547462026488">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/menu.js" timestamp="1547112599961">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="9" column="14" />
@@ -414,7 +426,7 @@
         <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iYXV0byIK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -453,8 +465,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
