@@ -82,17 +82,19 @@
         <mark key="." line="54" column="15" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/assets/fonts/iconfont.css" timestamp="1547521683164">
-        <mark key="'" line="3" column="27" />
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
+        <mark key="'" line="2" column="27" />
+        <mark key="[" line="2" column="28" />
+        <mark key="]" line="2" column="28" />
+        <mark key="." line="2" column="28" />
         <mark key="^" line="2" column="12" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/router/index.js" timestamp="1547202575097" />
       <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1547202871276" />
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.scss" timestamp="1547192293616" />
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1547521600491">
-        <mark key="'" line="1" column="29" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1547522546357">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="D:/coder/N-31Brands/FE/tests/grid.html" timestamp="1547452719666">
         <mark key="'" line="409" column="35" />
@@ -118,12 +120,6 @@
       <file name="E:/code/CSHXEventSite/FE/src/common/plugins/injector/axios.js" timestamp="1547447789780">
         <mark key="'" line="4" column="6" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.scss" timestamp="1547192645224">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547192898703">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="77" column="0" />
@@ -148,6 +144,12 @@
         <mark key="." line="14" column="55" />
         <mark key="^" line="14" column="63" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/index.vue" timestamp="1547522564162">
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="16" />
+        <mark key="." line="19" column="16" />
+        <mark key="^" line="19" column="16" />
+      </file>
       <file name="D:/coder/N-31Brands/BE/N-31Brands/N-31Brands.api/dist/brand/index.html" timestamp="1547521435771">
         <mark key="'" line="0" column="146" />
       </file>
@@ -160,12 +162,6 @@
       </file>
       <file name="E:/code/N-31Editor/FE/vue.config.js" timestamp="1547520704599" />
       <file name="E:/code/N-31Editor/FE/package.json" timestamp="1547520898452" />
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/router.js" timestamp="1547462026488">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="29" />
-        <mark key="^" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/menu.js" timestamp="1547112599961">
         <mark key="'" line="8" column="4" />
         <mark key="[" line="9" column="14" />
@@ -391,31 +387,31 @@
         <text>/@/assets/fonts/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IGZpdC1jb250ZW50Owo=</text>
+        <text encoding="base64">QGltcG9ydCAnfkAvYXNzZXRzL2ZvbnRzL2luZGV4LnNjc3MnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iZml0LWNvbnRlbnQiCg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IGZpdC1jb250ZW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iZml0LWNvbnRlbnQiCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iYXV0byIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iZml0LWNvbnRlbnQiCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iZml0LWNvbnRlbnQiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGktaW1nID48L2ktaW1nPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iYXV0byIK</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
