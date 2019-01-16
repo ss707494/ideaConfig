@@ -34,6 +34,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="29" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.js" timestamp="1547623551108">
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="D:/coder/N-31Om/src/apps/containers/company/router.js" timestamp="1547619077258">
         <mark key="'" line="3" column="33" />
         <mark key="[" line="1" column="9" />
@@ -59,6 +65,15 @@
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
         <mark key="^" line="2" column="31" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/vue.config.js" timestamp="1547623652349">
+        <mark key="'" line="97" column="47" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.html" timestamp="1547623587748">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="^" line="8" column="10" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/om/router/index.js" timestamp="1547609459281">
         <mark key="[" line="18" column="16" />
@@ -119,12 +134,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1547621682817">
-        <mark key="'" line="62" column="39" />
-        <mark key="[" line="61" column="59" />
-        <mark key="]" line="61" column="69" />
-        <mark key="." line="61" column="69" />
-        <mark key="^" line="61" column="69" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1547623788208">
+        <mark key="'" line="64" column="39" />
+        <mark key="[" line="58" column="24" />
+        <mark key="]" line="58" column="24" />
+        <mark key="." line="58" column="24" />
+        <mark key="^" line="60" column="69" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/om/components/Head/index.vue" timestamp="1547609573667">
         <mark key="[" line="1" column="38" />
@@ -153,7 +168,6 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/components/SiteMenu/index.vue" timestamp="1547621962006" />
     </filemarks>
     <jumps>
-      <jump line="51" column="35" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="244" column="16" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="5" column="15" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="537" column="16" filename="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc" />
@@ -253,13 +267,14 @@
       <jump line="279" column="46" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="62" column="39" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="253" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
+      <jump line="97" column="47" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>:clearable=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -295,7 +310,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -334,8 +349,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
