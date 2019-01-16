@@ -37,6 +37,9 @@
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1547447270149">
         <mark key="'" line="6" column="20" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/components/form/form.vue" timestamp="1547602674026">
+        <mark key="'" line="96" column="12" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1547534470331">
         <mark key="'" line="75" column="24" />
         <mark key="[" line="76" column="33" />
@@ -150,10 +153,10 @@
         <mark key="]" line="81" column="7" />
         <mark key="." line="22" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547546790354">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1547548339447">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/ionicons.less" timestamp="1547529494191">
         <mark key="'" line="1" column="16" />
@@ -174,8 +177,8 @@
         <mark key="." line="26" column="47" />
         <mark key="^" line="26" column="47" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1547201619044">
-        <mark key="'" line="32" column="16" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1547602551301">
+        <mark key="'" line="8" column="7" />
         <mark key="[" line="72" column="19" />
         <mark key="]" line="72" column="18" />
         <mark key="." line="72" column="18" />
@@ -188,12 +191,12 @@
         <mark key="." line="77" column="48" />
         <mark key="^" line="77" column="48" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1547548296626">
-        <mark key="'" line="287" column="81" />
-        <mark key="[" line="287" column="51" />
-        <mark key="]" line="287" column="51" />
-        <mark key="." line="287" column="51" />
-        <mark key="^" line="287" column="51" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1547602894066">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="51" column="50" />
+        <mark key="]" line="51" column="56" />
+        <mark key="." line="51" column="56" />
+        <mark key="^" line="51" column="56" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1547514912156">
         <mark key="'" line="184" column="61" />
@@ -217,12 +220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="16" filename="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/ionicons.less" />
-      <jump line="6" column="26" filename="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/_ionicons-font.less" />
-      <jump line="127" column="19" filename="D:/coder/N-31Brands/FE/vue.config.js" />
-      <jump line="4" column="12" filename="D:/coder/N-31Brands/FE/vue.config.js" />
-      <jump line="3" column="6" filename="D:/coder/N-31Brands/FE/vue.config.js" />
-      <jump line="146" column="0" filename="D:/coder/N-31Brands/FE/vue.config.js" />
       <jump line="167" column="4" filename="D:/coder/N-31Brands/FE/vue.config.js" />
       <jump line="147" column="19" filename="D:/coder/N-31Brands/FE/vue.config.js" />
       <jump line="148" column="6" filename="D:/coder/N-31Brands/FE/vue.config.js" />
@@ -317,16 +314,22 @@
       <jump line="170" column="6" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="288" column="12" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="287" column="81" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="132" column="0" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="1" column="6" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="8" column="7" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="96" column="12" filename="D:/coder/N-31Brands/FE/node_modules/iview/src/components/form/form.vue" />
+      <jump line="273" column="5" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="11" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>国</text>
+        <text>keyDownEvent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYXNlRGF0YVw+</text>
+        <text>form</text>
       </register>
       <register name="0" type="4">
         <text>this.query[item.prop]</text>
@@ -363,15 +366,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYXNlRGF0YVw+</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYXNlRGF0YVw+</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>outputDir</entry>
         <entry encoding="base64">XDx1dGlsc1w+</entry>
         <entry>path</entry>
         <entry encoding="base64">XDxhc3NldHNQYXRoXD4=</entry>
@@ -385,12 +387,13 @@
         <entry encoding="base64">XDxwcm92aW5jZVw+</entry>
         <entry encoding="base64">XDxwcm92aW5jZUxpc3RcPg==</entry>
         <entry>?</entry>
-        <entry>form</entry>
-        <entry>submit</entry>
         <entry encoding="base64">XDxsb2dpbk91dFw+</entry>
         <entry encoding="base64">XDxnb1RvTG9naW5cPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RQYXJhbXNcPg==</entry>
         <entry encoding="base64">XDxiYXNlRGF0YVw+</entry>
+        <entry>sumbit</entry>
+        <entry>submit</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
