@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="cancel" />
+      <item value="cancle" />
       <item value="manage" />
       <item value="管理" />
       <item value="菜单" />
@@ -49,13 +51,11 @@
       <item value="Basic" />
       <item value="布局" />
       <item value="排除" />
-      <item value="交易类型" />
-      <item value="撤销" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="80" />
-        <entry key="ENGLISH" value="80" />
+        <entry key="CHINESE" value="81" />
+        <entry key="ENGLISH" value="82" />
       </map>
     </option>
   </component>
