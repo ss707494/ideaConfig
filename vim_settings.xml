@@ -40,8 +40,8 @@
       <file name="E:/code/CSHXEventSite/FEOM/src/components/Breadcrumb/index.vue" timestamp="1547688727236">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" timestamp="1547696107063">
-        <mark key="'" line="4" column="36" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" timestamp="1547697221581">
+        <mark key="'" line="1" column="25" />
         <mark key="[" line="4" column="37" />
         <mark key="]" line="4" column="50" />
         <mark key="." line="4" column="50" />
@@ -91,12 +91,12 @@
       <file name="E:/code/CSHXEventSite/FEOM/package.json" timestamp="1547695110657">
         <mark key="'" line="16" column="9" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" timestamp="1547637521566">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="23" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="23" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" timestamp="1547697320758">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="D:/coder/N-31Om/src/apps/router/index.js" timestamp="1547620143505">
         <mark key="'" line="24" column="8" />
@@ -301,7 +301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="279" column="46" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="62" column="39" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="253" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
@@ -312,7 +311,6 @@
       <jump line="99" column="0" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
       <jump line="100" column="51" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
       <jump line="4" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" />
-      <jump line="1" column="25" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" />
       <jump line="2" column="5" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" />
       <jump line="9" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" />
       <jump line="12" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" />
@@ -401,13 +399,15 @@
       <jump line="59" column="21" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="15" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" />
       <jump line="4" column="36" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" />
+      <jump line="1" column="25" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" />
+      <jump line="3" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>routesModule[0].path</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZW1wbGF0ZVw+</text>
@@ -443,7 +443,7 @@
         <text encoding="base64">ICAgICAgICBrZXk6ICcnLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -482,8 +482,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
