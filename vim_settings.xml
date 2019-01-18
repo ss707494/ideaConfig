@@ -3,12 +3,19 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" timestamp="1547780948265">
-        <mark key="'" line="68" column="27" />
-        <mark key="[" line="68" column="16" />
-        <mark key="]" line="68" column="28" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" timestamp="1547789593075">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="66" column="6" />
         <mark key="^" line="60" column="38" />
         <mark key="." line="68" column="16" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/BasicLayout/index.vue" timestamp="1547191816304">
+        <mark key="'" line="1" column="25" />
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+        <mark key="." line="8" column="30" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/components/add/index.vue" timestamp="1547542744248">
         <mark key="'" line="124" column="0" />
@@ -16,6 +23,19 @@
         <mark key="]" line="131" column="13" />
         <mark key="." line="131" column="13" />
         <mark key="^" line="131" column="13" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/assets/styles/variables/_colors.scss" timestamp="1547709101821">
+        <mark key="'" line="192" column="0" />
+        <mark key="[" line="192" column="0" />
+        <mark key="]" line="192" column="14" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/mapping/modules/formType.js" timestamp="1547189536085">
+        <mark key="'" line="55" column="10" />
+        <mark key="[" line="55" column="10" />
+        <mark key="]" line="55" column="20" />
+        <mark key="." line="45" column="10" />
+        <mark key="^" line="45" column="10" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/LoginLayout/index.vue" timestamp="1547707129255">
         <mark key="'" line="18" column="22" />
@@ -31,6 +51,13 @@
         <mark key="]" line="78" column="19" />
         <mark key="." line="78" column="19" />
         <mark key="^" line="78" column="19" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/login/index.vue" timestamp="1547201831657">
+        <mark key="'" line="137" column="11" />
+        <mark key="[" line="128" column="68" />
+        <mark key="]" line="128" column="11" />
+        <mark key="^" line="128" column="11" />
+        <mark key="." line="128" column="11" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.vue" timestamp="1547715751924">
         <mark key="'" line="1" column="14" />
@@ -60,12 +87,26 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.scss" timestamp="1547516735117">
+        <mark key="'" line="50" column="15" />
+        <mark key="[" line="51" column="7" />
+        <mark key="]" line="54" column="15" />
+        <mark key="^" line="54" column="15" />
+        <mark key="." line="54" column="15" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.js" timestamp="1547695904737">
         <mark key="'" line="11" column="16" />
         <mark key="[" line="11" column="16" />
         <mark key="]" line="11" column="21" />
         <mark key="." line="5" column="38" />
         <mark key="^" line="5" column="38" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/tests/grid.html" timestamp="1547452719666">
+        <mark key="'" line="409" column="35" />
+        <mark key="[" line="409" column="32" />
+        <mark key="]" line="409" column="36" />
+        <mark key="." line="409" column="32" />
+        <mark key="^" line="150" column="25" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/common/mapping/modules/common.js" timestamp="1547708690806">
         <mark key="'" line="11" column="14" />
@@ -74,12 +115,11 @@
         <mark key="." line="7" column="19" />
         <mark key="^" line="7" column="18" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" timestamp="1547779916338">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="58" column="21" />
-        <mark key="]" line="58" column="25" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="25" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" timestamp="1547790033641">
+        <mark key="'" line="60" column="14" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/router.js" timestamp="1547774127206">
         <mark key="'" line="1" column="2" />
@@ -88,19 +128,19 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.scss" timestamp="1547784041307">
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.scss" timestamp="1547788700046">
         <mark key="'" line="1" column="13" />
-        <mark key="[" line="17" column="21" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="12" />
+        <mark key="." line="16" column="12" />
+        <mark key="^" line="16" column="12" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/router.js" timestamp="1547717496753">
-        <mark key="'" line="2" column="36" />
-        <mark key="[" line="10" column="26" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/router.js" timestamp="1547790354592">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.scss" timestamp="1547779497074">
         <mark key="'" line="1" column="4" />
@@ -123,12 +163,19 @@
         <mark key="." line="1" column="1" />
         <mark key="^" line="12" column="27" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.scss" timestamp="1547781064382">
-        <mark key="'" line="18" column="4" />
-        <mark key="[" line="17" column="26" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
-        <mark key="^" line="17" column="26" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.scss" timestamp="1547789545355">
+        <mark key="'" line="22" column="3" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="25" column="22" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/assets/fonts/index.scss" timestamp="1547527699636">
+        <mark key="'" line="0" column="29" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="34" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="0" column="34" />
       </file>
       <file name="D:/coder/N-31Om/src/apps/router/index.js" timestamp="1547620143505">
         <mark key="'" line="24" column="8" />
@@ -137,13 +184,45 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1547622111128">
+        <mark key="'" line="253" column="8" />
+        <mark key="[" line="136" column="12" />
+        <mark key="]" line="136" column="12" />
+        <mark key="." line="136" column="12" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/axios.js" timestamp="1547790331065">
+        <mark key="'" line="3" column="9" />
+        <mark key="[" line="12" column="43" />
+        <mark key="]" line="12" column="56" />
+        <mark key="." line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.scss" timestamp="1547724706598" />
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" timestamp="1547783062773">
-        <mark key="'" line="82" column="4" />
-        <mark key="[" line="16" column="37" />
-        <mark key="]" line="16" column="38" />
-        <mark key="." line="16" column="38" />
-        <mark key="^" line="16" column="38" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" timestamp="1547628130755">
+        <mark key="'" line="76" column="5" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="81" column="7" />
+        <mark key="." line="22" column="30" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/axios.js" timestamp="1547446880543">
+        <mark key="'" line="22" column="16" />
+        <mark key="[" line="26" column="6" />
+        <mark key="]" line="26" column="47" />
+        <mark key="." line="26" column="47" />
+        <mark key="^" line="26" column="47" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" timestamp="1547789626328">
+        <mark key="'" line="141" column="27" />
+        <mark key="[" line="141" column="10" />
+        <mark key="]" line="141" column="28" />
+        <mark key="." line="141" column="10" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1547602551301">
+        <mark key="'" line="8" column="7" />
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="18" />
+        <mark key="." line="72" column="18" />
+        <mark key="^" line="72" column="18" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.scss" timestamp="1547781054263">
         <mark key="'" line="17" column="0" />
@@ -153,12 +232,25 @@
         <mark key="^" line="16" column="26" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/components/SiteMenu/index.vue" timestamp="1547621962006" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/assets/styles/variables/_boxShadow.scss" timestamp="1547709710748">
+        <mark key="'" line="0" column="7" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/api/functionManage/index.js" timestamp="1547781204947">
         <mark key="'" line="8" column="8" />
         <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="3" />
         <mark key="^" line="0" column="8" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1547534470331">
+        <mark key="'" line="75" column="24" />
+        <mark key="[" line="76" column="33" />
+        <mark key="]" line="76" column="33" />
+        <mark key="." line="76" column="33" />
+        <mark key="^" line="76" column="33" />
       </file>
       <file name="D:/coder/N-31Om/src/common/plugins/injector/router.js" timestamp="1547618458796">
         <mark key="[" line="8" column="0" />
@@ -179,6 +271,13 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/assets/fonts/iconfont.css" timestamp="1547537429389">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="2" column="8" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/DataLayout/index.scss" timestamp="1547620931441">
         <mark key="'" line="40" column="4" />
         <mark key="[" line="47" column="21" />
@@ -186,10 +285,10 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" timestamp="1547782438645">
-        <mark key="'" line="84" column="8" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" timestamp="1547789624499">
+        <mark key="'" line="85" column="47" />
+        <mark key="[" line="85" column="47" />
+        <mark key="]" line="85" column="64" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="7" />
       </file>
@@ -213,6 +312,13 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.scss" timestamp="1547192898703">
+        <mark key="'" line="77" column="0" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="80" column="9" />
+        <mark key="." line="72" column="24" />
+        <mark key="^" line="72" column="24" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/vue.config.js" timestamp="1547709677724">
         <mark key="'" line="100" column="14" />
@@ -247,24 +353,30 @@
         <mark key="^" line="45" column="2" />
         <mark key="." line="45" column="2" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1547784150747">
-        <mark key="'" line="29" column="54" />
-        <mark key="[" line="29" column="27" />
-        <mark key="]" line="29" column="55" />
-        <mark key="." line="29" column="27" />
-        <mark key="^" line="29" column="19" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1547788771036">
+        <mark key="'" line="30" column="32" />
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="17" />
+        <mark key="." line="94" column="17" />
+        <mark key="^" line="94" column="17" />
+      </file>
+      <file name="D:/coder/N-31Om/src/apps/index.js" timestamp="1547619145162">
+        <mark key="'" line="6" column="19" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1547725216624">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" timestamp="1547779098618">
-        <mark key="'" line="3" column="4" />
-        <mark key="[" line="10" column="2" />
-        <mark key="]" line="10" column="4" />
-        <mark key="." line="10" column="4" />
-        <mark key="^" line="10" column="4" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" timestamp="1547790312729">
+        <mark key="'" line="7" column="13" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="38" />
+        <mark key="." line="7" column="24" />
+        <mark key="^" line="7" column="31" />
       </file>
       <file name="E:/code/N-31Editor/FE/webpack.alias.js" timestamp="1547623910548" />
       <file name="E:/code/CSHXEventSite/FEOM/src/api/common/index.js" timestamp="1547718814724">
@@ -285,6 +397,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="1" column="6" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/containers/dataBoard/data/index.vue" timestamp="1547201346580">
+        <mark key="'" line="78" column="44" />
+        <mark key="[" line="77" column="37" />
+        <mark key="]" line="77" column="48" />
+        <mark key="." line="77" column="48" />
+        <mark key="^" line="77" column="48" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1547708472407">
         <mark key="'" line="88" column="0" />
@@ -307,6 +426,13 @@
         <mark key="." line="1" column="9" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/view/layout/MenuLayout/index.vue" timestamp="1547202800689">
+        <mark key="'" line="64" column="41" />
+        <mark key="[" line="64" column="41" />
+        <mark key="]" line="64" column="45" />
+        <mark key="^" line="64" column="45" />
+        <mark key="." line="64" column="45" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/LoginLayout/index.scss" timestamp="1547707101312">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="4" column="1" />
@@ -314,25 +440,15 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1547542736158">
+        <mark key="'" line="171" column="22" />
+        <mark key="[" line="175" column="13" />
+        <mark key="]" line="175" column="13" />
+        <mark key="." line="175" column="13" />
+        <mark key="^" line="175" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
-      <jump line="34" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
-      <jump line="67" column="9" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
-      <jump line="102" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
-      <jump line="11" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/router.js" />
-      <jump line="91" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
-      <jump line="47" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="49" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="37" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
-      <jump line="10" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="36" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="12" column="47" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="13" column="47" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="58" column="40" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="57" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="50" column="29" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
-      <jump line="58" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
       <jump line="41" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
       <jump line="26" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.vue" />
       <jump line="25" column="9" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.vue" />
@@ -394,7 +510,6 @@
       <jump line="83" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
       <jump line="110" column="36" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
       <jump line="115" column="62" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
-      <jump line="12" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
       <jump line="82" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
       <jump line="142" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="68" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
@@ -403,7 +518,6 @@
       <jump line="82" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="84" column="13" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="85" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="26" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="90" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="117" column="17" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="125" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
@@ -412,66 +526,83 @@
       <jump line="93" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="34" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="95" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="27" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="173" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="30" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="29" column="54" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="26" column="37" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="27" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="29" column="88" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="30" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="58" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
+      <jump line="22" column="3" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.scss" />
+      <jump line="57" column="41" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
+      <jump line="12" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
+      <jump line="123" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
+      <jump line="63" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" />
+      <jump line="82" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="85" column="47" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="141" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/detail/index.vue" />
+      <jump line="49" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
+      <jump line="58" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
+      <jump line="66" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
+      <jump line="10" column="6" filename="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/router.js" />
+      <jump line="60" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" />
+      <jump line="14" column="30" filename="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/router.js" />
+      <jump line="13" column="24" filename="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/router.js" />
+      <jump line="7" column="13" filename="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" />
+      <jump line="3" column="9" filename="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/axios.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>sessionS</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvbnNcPg==</text>
+        <text encoding="base64">XDxnZXRVc2VyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>calcFunctions(row.functions)</text>
+        <text>sessionStorage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90ZW1wbGF0ZT4K</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh1c2VyLmdldFVzZXIoKSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRlbXBsYXRlIHYtZm9yPSJpIGluIHJvdy5mdW5jdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICA6a2V5PSJpLm5hbWUiCg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogNDAwLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlbGxpcHNpczogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgfSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sdGlwOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRpbmcgPSBmYWxzZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7cm93fX0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgcz48L3RlbXBsYXRlPgo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2FkaW5nID0gdHJ1ZQogICAgICBjb25zdCByZXMgPSBhd2FpdCBhcGkub21Mb2dpbih0aGlzLmRhdGEpCiAgICAgIHRoaXMubG9hZGluZyA9IGZhbHNlCiAgICAgIHNldFVzZXIoewogICAgICAgIC4uLnJlcywKICAgICAgICB1c2VybmFtZTogdGhpcy5kYXRhLnVzZXJuYW1lLAogICAgICB9KQogICAgICB0aGlzLiRyb3V0ZXIucHVzaCgnL2hvbWUnKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRVc2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>userty</entry>
-        <entry>toke</entry>
         <entry encoding="base64">XDxzaG93RXJyb3JNc2dcPg==</entry>
         <entry>新增</entry>
         <entry>compu</entry>
@@ -486,19 +617,21 @@
         <entry>debu</entry>
         <entry encoding="base64">XDxwYXJlbmRJZFw+</entry>
         <entry encoding="base64">XDxwYXJlbnRJZFw+</entry>
-        <entry encoding="base64">XDxtZW51RW51bVw+</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>function</entry>
         <entry encoding="base64">XDxmdW5jdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxtZW51RW51bVw+</entry>
+        <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
+        <entry encoding="base64">XDxnZXRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
