@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ambiguously" />
       <item value="cancel" />
       <item value="cancle" />
       <item value="manage" />
@@ -50,11 +51,10 @@
       <item value="MENU" />
       <item value="Basic" />
       <item value="布局" />
-      <item value="排除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="81" />
+        <entry key="CHINESE" value="82" />
         <entry key="ENGLISH" value="82" />
       </map>
     </option>
