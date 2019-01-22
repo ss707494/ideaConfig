@@ -396,12 +396,12 @@
         <mark key="^" line="45" column="2" />
         <mark key="." line="45" column="2" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548123682716">
-        <mark key="'" line="104" column="8" />
-        <mark key="[" line="113" column="15" />
-        <mark key="]" line="113" column="15" />
-        <mark key="." line="113" column="15" />
-        <mark key="^" line="113" column="15" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548128002564">
+        <mark key="'" line="174" column="24" />
+        <mark key="[" line="184" column="12" />
+        <mark key="]" line="184" column="24" />
+        <mark key="." line="184" column="24" />
+        <mark key="^" line="184" column="24" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/build/webpack.dev.conf.js" timestamp="1548070337626">
         <mark key="'" line="59" column="16" />
@@ -425,8 +425,8 @@
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548126700761">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1548126715775">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -491,14 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="179" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="166" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
-      <jump line="276" column="12" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
-      <jump line="56" column="50" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
-      <jump line="298" column="16" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
-      <jump line="179" column="6" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
-      <jump line="223" column="19" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="300" column="76" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="57" column="36" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="59" column="43" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
@@ -591,46 +583,57 @@
       <jump line="185" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="62" column="45" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="151" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="172" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="181" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="166" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="175" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="184" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="154" column="36" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="167" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="174" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>打包配置</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjYWxjRnVuY3Rpb25UeXBlT3BlbmVkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>functionTypeOpened</text>
+        <text>data[element.parentId]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb2xkRnVuY3Rpb25UeXBlOiBbXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC5pdnUtY29sbGFwc2UtY29udGVudCB7CiAgICAgIHBhZGRpbmctdG9wOiAxMHB4OwogICAgfQo=</text>
+      <register name="2" type="4">
+        <text>[
+              ...data[element.parentId].children,
+              element.id
+            ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxpc3QgPSBlbmQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC5pdnUtY29sbGFwc2UtY29udGVudCB7CiAgICAgIHBhZGRpbmctdG9wOiAxMHB4OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbGlzdCA9IGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhW2VsZW1lbnQuaWRdID0gewogICAgICAgICAgLi4uZWxlbWVudCwKICAgICAgICAgIHBhdGg6IFtlbGVtZW50LmlkXQogICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLml2dS1jb2xsYXBzZS1jb250ZW50IHsKICAgICAgICBwYWRkaW5nLXRvcDogMTBweDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgb2xkRnVuY3Rpb25UeXBlOiBbXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8uaXZ1LWNvbGxhcHNlLWhlYWRlciB7CiAgICAgIC8vICBjb2xvcjogJGNvbG9yLWdyZWVuLTkwMDsKICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgIC5pdnUtY29sbGFwc2UtY29udGVudCB7CiAgICAgIHBhZGRpbmctdG9wOiAxMHB4OwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICRjb2xvci1ncmVlbi05MDA7Cg==</text>
+        <text encoding="base64">ICAgIC5pdnUtY29sbGFwc2UtY29udGVudCB7CiAgICAgIHBhZGRpbmctdG9wOiAxMHB4OwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
