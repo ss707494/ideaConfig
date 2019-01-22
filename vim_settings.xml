@@ -408,12 +408,12 @@
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/iview.scss" timestamp="1547518987953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548146180210">
-        <mark key="'" line="204" column="6" />
-        <mark key="[" line="199" column="69" />
-        <mark key="]" line="200" column="45" />
-        <mark key="." line="200" column="45" />
-        <mark key="^" line="200" column="45" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548147722123">
+        <mark key="'" line="95" column="31" />
+        <mark key="[" line="212" column="22" />
+        <mark key="]" line="212" column="22" />
+        <mark key="^" line="212" column="22" />
+        <mark key="." line="212" column="22" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/components/Detail/index.vue" timestamp="1548057496510">
         <mark key="'" line="123" column="8" />
@@ -560,11 +560,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="230" column="43" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="238" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="75" column="35" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="58" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.scss" />
       <jump line="205" column="0" filename="E:/code/CSHXEventSite/FEOM/src/assets/styles/variables/_colors.scss" />
       <jump line="57" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.scss" />
       <jump line="59" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.scss" />
@@ -656,67 +651,69 @@
       <jump line="71" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
       <jump line="1" column="7" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="97" column="40" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="95" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="135" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="204" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="203" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="203" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="205" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="211" column="58" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="141" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="201" column="20" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="39" column="26" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="95" column="31" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>this.allParents =</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxQYXJlbnRzXD4=</text>
+        <text>tree</text>
       </register>
       <register name="0" type="4">
-        <text>ParentSelect</text>
+        <text>selectClick</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWxlY3Qgdi1tb2RlbD0iZGF0YS5wYXJlbnRJZCI+CiAgICAgICAgICAgIDxPcHRpb24gOnZhbHVlPSInMCciPrj5wre+tjwvT3B0aW9uPgogICAgICAgICAgICA8T3B0aW9uIHYtZm9yPSJpIGluIGFsbFBhcmVudHMiCiAgICAgICAgICAgICAgICAgICAgOmtleT0iYGFsbFBhcmVudHMke2kuaWR9YCIKICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImAke2kuaWR9YCIKICAgICAgICAgICAgPnt7aS5uYW1lfX0KICAgICAgICAgICAgPC9PcHRpb24+CiAgICAgICAgICA8L1NlbGVjdD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5hbGxQYXJlbnRzID0gaXRlbXM/LmZpbHRlcihlID0+IGAke2UuaWR9YCAhPT0gdGhpcy5pZAogICAgICAgICYmICF0aGlzLmhlbHBQYXJlbnRMaXN0W3RoaXMuaWRdLmNoaWxkcmVuLmluY2x1ZGVzKGUuaWQpKQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oZWxwUGFyZW50TGlzdCA9IGNhbGNUcmVlTGlzdChpdGVtcykK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJlZGl0RGF0YS5pZCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDp0eXBlPSJlZGl0RGF0YS50eXBlIgogICAgICAgICAgICAgIDpwYXJlbnRJZD0iZWRpdERhdGEucGFyZW50SWQiCiAgICAgICAgICAgICAgOmdvLWJhY2s9ImNsb3NlRWRpdCIKICAgICAgPjwvRGV0YWlsPg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIEBvbi1yb3ctY2xpY2s9InRhYmxlUm93Q2xpY2siCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaGVscFBhcmVudExpc3RbZGF0YS5pZF0uY2hpbGRyZW4ubGVuZ3RoKSB7CiAgICAgICAgICAKICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdldEhlbHBMaXN0KGxpc3REYXRhKSB7CiAgICAgIGxldCBsaXN0ID0gWy4uLmxpc3REYXRhXQogICAgICBjb25zdCBkYXRhID0ge30KICAgICAgd2hpbGUgKGxpc3QubGVuZ3RoID4gMCkgewogICAgICAgIGNvbnN0IFtlbGVtZW50LCAuLi5lbmRdID0gWy4uLmxpc3RdCiAgICAgICAgaWYgKGVsZW1lbnQucGFyZW50SWQgIT09IDApIHsKICAgICAgICAgIGlmIChkYXRhW2VsZW1lbnQucGFyZW50SWRdLnBhdGgpIHsKICAgICAgICAgICAgZGF0YVtlbGVtZW50LnBhcmVudElkXS5pc0V4cGFuZCA9IHRydWUKICAgICAgICAgICAgZGF0YVtlbGVtZW50LnBhcmVudElkXS5jaGlsZHJlbiA9IFsKICAgICAgICAgICAgICAuLi5kYXRhW2VsZW1lbnQucGFyZW50SWRdLmNoaWxkcmVuLAogICAgICAgICAgICAgIGVsZW1lbnQuaWQKICAgICAgICAgICAgXQogICAgICAgICAgICBkYXRhW2VsZW1lbnQuaWRdID0gewogICAgICAgICAgICAgIC4uLmVsZW1lbnQsCiAgICAgICAgICAgICAgcGF0aDogWy4uLmRhdGFbZWxlbWVudC5wYXJlbnRJZF0ucGF0aCwgZGF0YVtlbGVtZW50LnBhcmVudElkXS5pZF0sCiAgICAgICAgICAgICAgY2hpbGRyZW46IFtdLAogICAgICAgICAgICB9CiAgICAgICAgICAgIGxpc3QgPSBlbmQKICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxpc3QgPSBbLi4uZW5kLCBlbGVtZW50XQogICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICBkYXRhW2VsZW1lbnQuaWRdID0gewogICAgICAgICAgICAuLi5lbGVtZW50LAogICAgICAgICAgICBwYXRoOiBbXSwKICAgICAgICAgICAgY2hpbGRyZW46IFtdLAogICAgICAgICAgfQogICAgICAgICAgbGlzdCA9IGVuZAogICAgICAgIH0KICAgICAgICBpZiAoZW5kLmxlbmd0aCA8IDEpIHJldHVybiBkYXRhCiAgICAgIH0KICAgICAgcmV0dXJuIGRhdGEKICAgIH0sCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5hbGxQYXJlbnRzID0gaXRlbXM/LmZpbHRlcihlID0+IGAke2UuaWR9YCAhPT0gdGhpcy5pZAogICAgICAgICYmICF0aGlzLmhlbHBQYXJlbnRMaXN0W3RoaXMuaWRdLmNoaWxkcmVuLmluY2x1ZGVzKGUuaWQpKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5oZWxwUGFyZW50TGlzdCA9IGNhbGNUcmVlTGlzdChpdGVtcykK</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJlZGl0RGF0YS5pZCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDp0eXBlPSJlZGl0RGF0YS50eXBlIgogICAgICAgICAgICAgIDpwYXJlbnRJZD0iZWRpdERhdGEucGFyZW50SWQiCiAgICAgICAgICAgICAgOmdvLWJhY2s9ImNsb3NlRWRpdCIKICAgICAgPjwvRGV0YWlsPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tjYWxjRnVuY3Rpb25zKHJvdy5mdW5jdGlvbnMpfX0K</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="9" type="4">
-        <text>:title=&quot;calcFunctions(row.functions)&quot;
-                   class=&quot;menu-manage-list-function&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIEBvbi1yb3ctY2xpY2s9InRhYmxlUm93Q2xpY2siCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action ToggleBookmark</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxQYXJlbnRzXD4=</last-search>
+      <last-search>tree</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxQYXJlbnRzXD4=</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>tree</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxxdWVyeVw+</entry>
-        <entry encoding="base64">XDxnZXRGdW5jdGlvblR5cGVMaXN0XD4=</entry>
         <entry encoding="base64">XDxmdW5jdGlvbkxpc3RCeVR5cGVcPg==</entry>
         <entry encoding="base64">XDxvbGRGdW5jdGlvblR5cGVcPg==</entry>
         <entry encoding="base64">XDxmdW5jdGlvblR5cGVMaXN0XD4=</entry>
@@ -735,15 +732,17 @@
         <entry>modal</entry>
         <entry encoding="base64">XDxjbGFzc1w+</entry>
         <entry encoding="base64">XDxhbGxQYXJlbnRzXD4=</entry>
+        <entry>showParentSelect</entry>
+        <entry>tree</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
         <entry>action ToggleBookmark</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
