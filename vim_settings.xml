@@ -124,6 +124,12 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/index.less" timestamp="1547529490704">
         <mark key="'" line="1" column="25" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/components/select/select-head.vue" timestamp="1548224974715">
+        <mark key="[" line="7" column="20" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/router.js" timestamp="1548153195039">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="7" column="14" />
@@ -337,6 +343,9 @@
         <mark key="." line="3" column="13" />
         <mark key="^" line="3" column="13" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" timestamp="1548224292376">
+        <mark key="'" line="984" column="4" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/om/containers/index.vue" timestamp="1547610250663">
         <mark key="'" line="4" column="6" />
         <mark key="[" line="2" column="30" />
@@ -425,7 +434,7 @@
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548223218672">
+      <file name="/Dummy.txt" timestamp="1548224254907">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -497,7 +506,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/router/index.js" />
       <jump line="24" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
       <jump line="32" column="22" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
       <jump line="13" column="20" filename="E:/code/CSHXEventSite/FEOM/src/apps/router/index.js" />
@@ -597,16 +605,17 @@
       <jump line="48" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
       <jump line="46" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
       <jump line="49" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="984" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>singleDisplayClasses&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>#B80E28</text>
+        <text encoding="base64">XDxsaW5rRGV0YWlsVGV4dFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogcDJ3KDUwKTsK</text>
@@ -643,15 +652,14 @@
       </register>
     </registers>
     <search>
-      <last-search>#B80E28</last-search>
+      <last-search encoding="base64">XDxsaW5rRGV0YWlsVGV4dFw+</last-search>
       <last-offset />
-      <last-pattern>#B80E28</last-pattern>
+      <last-pattern encoding="base64">XDxsaW5rRGV0YWlsVGV4dFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1aXJlQXV0aFw+</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
         <entry encoding="base64">XDxnb1RvTG9naW5cPg==</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
@@ -671,14 +679,15 @@
         <entry encoding="base64">XDxyZWdpc3Rlclw+</entry>
         <entry encoding="base64">XDwzOHB4XD4=</entry>
         <entry>#B80E28</entry>
+        <entry encoding="base64">XDxsaW5rRGV0YWlsVGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
