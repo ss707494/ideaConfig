@@ -120,11 +120,12 @@
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" timestamp="1548222833620">
         <mark key="'" line="1" column="25" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1548221263163">
-        <mark key="[" line="48" column="4" />
-        <mark key="]" line="48" column="14" />
-        <mark key="^" line="48" column="14" />
-        <mark key="." line="48" column="14" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1548234904043">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="6" column="1" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/index.less" timestamp="1547529490704">
         <mark key="'" line="1" column="25" />
@@ -377,11 +378,11 @@
       <file name="E:/code/CSHXEventSite/FEOM/node_modules/iview/src/components/collapse/panel.vue" timestamp="1547793851643">
         <mark key="'" line="7" column="49" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/DataLayout/index.vue" timestamp="1547620925520">
-        <mark key="'" line="9" column="39" />
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/DataLayout/index.vue" timestamp="1548235246796">
+        <mark key="'" line="8" column="39" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
         <mark key="^" line="3" column="13" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" timestamp="1548229957954">
@@ -425,6 +426,12 @@
         <mark key="]" line="88" column="14" />
         <mark key="." line="88" column="14" />
         <mark key="^" line="90" column="25" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/.gitignore" timestamp="1548234553358">
+        <mark key="[" line="25" column="6" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="D:/coder/N-31Brands/BE/N-31Brands/N-31Brands.api/dist/brand/index.html" timestamp="1547521435771">
         <mark key="'" line="0" column="146" />
@@ -474,8 +481,10 @@
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548234027828">
+      <file name="/Dummy.txt" timestamp="1548234625964">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc" timestamp="1547543685532">
         <mark key="'" line="201" column="14" />
@@ -545,8 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" />
-      <jump line="153" column="6" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.scss" />
       <jump line="2" column="25" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="11" column="13" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="25" column="12" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
@@ -645,13 +652,15 @@
       <jump line="6" column="14" filename="E:/code/CSHXEventSite/FEOM/package.json" />
       <jump line="7" column="28" filename="E:/code/CSHXEventSite/FEOM/package.json" />
       <jump line="11" column="34" filename="E:/code/CSHXEventSite/FEOM/package.json" />
+      <jump line="47" column="14" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
+      <jump line="0" column="26" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWNobyBcImdldEljb25mb250TGlzdEJ5Tm9kZVwiICYmIA==</text>
+        <text>@click=&quot;$router.go(-1)&quot;</text>
       </register>
       <register name="/" type="4">
         <text>pre</text>
@@ -660,31 +669,31 @@
         <text encoding="base64">bnBtIHJ1biBwcmUgJiYg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi9leHBvcnQgZGVmYXVsdCBbImljb24taWYtbmV0d29yay1vZmZsaW5lIiwiaWNvbi1pZi1iZWxsIiwiaWNvbi1pZi1tZW51LWhvbWUiLCJpY29uLWlmLWhvbWVnIiwiaWNvbi1pZi1tZW51LWFjY291bnQiLCJpY29uLWlmLW1lbnUtc3VwcGxpZXIiLCJpY29uLWlmLW1lbnUtbWVldGluZyIsImljb24taWYtbWVudS1zeXN0ZW0iLCJpY29uLWlmLWJpLWhvbWUiLCJpY29uLWlmLW1lbXUtc3RvcmUiLCJpY29uLWlmLW1lbnUtcHJvZHVjdCIsImljb24taWYtYmktb3JkZXIiLCJpY29uLWlmLW1lbnUtY2F0ZWdvcnkiLCJpY29uLWlmLW1lbnUtcGFnZSIsImljb24taWYtbWVudS1vcmRlciIsImljb24taWYtbWVudS1jYXBpdGFsIiwiaWNvbi1pZi1tZW51LXJlY2VwdGlvbiIsImljb24taWYtbWVudS1jaGFydCIsImljb24taWYtbGluayIsImljb24taWYtbWEtcmVmdW5kIiwiaWNvbi1pZi1tYS1zeXN0ZW0tb3JkZXIiLCJpY29uLWlmLW1hLWJ1c2luZXNzLW9yZGVyIiwiaWNvbi1pZi1tYS1iaWxsaW5nIiwiaWNvbi1pZi1tYS1leGhpYml0b3JzIiwiaWNvbi1pZi1tYS1jb250cmFjdG9yIiwiaWNvbi1pZi1tYS1jb25zdHJ1Y3Rpb24iLCJpY29uLWlmLW1hLXJlY2VwdGlvbiIsImljb24taWYtbWEtaW5zcGVjdG9yIiwiaWNvbi1pZi1tYS10cmFuc3BvcnQiLCJpY29uLWlmLW1lbnUtaG9zdCIsImljb24taWYtbWVudS1leGhpYml0aW9uIl0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgZ2xvYiA9IHJlcXVpcmUoJ2dsb2InKQo=</text>
+        <text encoding="base64">c3JjL2FwcHMvY29tcG9uZW50cy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYy9hc3NldHMvZm9udHMvZ2V0SWNvbmZvbnRMaXN0QnlOb2RlLmpzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxTZWxlY3Qgdi1tb2RlbD0iZGF0YS5pY29uIgogICAgICAgICAgPgogICAgICAgICAgICA8T3B0aW9uIHYtZm9yPSJpIGluIGljb25mb250TGlzdCIKICAgICAgICAgICAgICAgICAgICA6a2V5PSJgbWVudUVudW0ke2l9YCIKICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImAke2l9YCIKICAgICAgICAgICAgICAgICAgICA6bGFiZWw9ImkiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZW51LW1hbmFnZS1kZXRhaWwtaWNvblNlbGVjdCI+CiAgICAgICAgICAgICAgICA8aSA6Y2xhc3M9ImkiPjwvaT4KICAgICAgICAgICAgICAgIHt7aX19CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvT3B0aW9uPgogICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
+        <text encoding="base64">c3JjL2FwcHMvY29tcG9uZW50cy8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">L3NyYy9hc3NldHMvZm9udHMvZ2V0SWNvbmZvbnRMaXN0QnlOb2RlLmpzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpIDpjbGFzcz0iaSI+PC9pPgo=</text>
+        <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgKi9leHBvcnQgZGVmYXVsdCBbImljb24taWYtbmV0d29yay1vZmZsaW5lIiwiaWNvbi1pZi1iZWxsIiwiaWNvbi1pZi1tZW51LWhvbWUiLCJpY29uLWlmLWhvbWVnIiwiaWNvbi1pZi1tZW51LWFjY291bnQiLCJpY29uLWlmLW1lbnUtc3VwcGxpZXIiLCJpY29uLWlmLW1lbnUtbWVldGluZyIsImljb24taWYtbWVudS1zeXN0ZW0iLCJpY29uLWlmLWJpLWhvbWUiLCJpY29uLWlmLW1lbXUtc3RvcmUiLCJpY29uLWlmLW1lbnUtcHJvZHVjdCIsImljb24taWYtYmktb3JkZXIiLCJpY29uLWlmLW1lbnUtY2F0ZWdvcnkiLCJpY29uLWlmLW1lbnUtcGFnZSIsImljb24taWYtbWVudS1vcmRlciIsImljb24taWYtbWVudS1jYXBpdGFsIiwiaWNvbi1pZi1tZW51LXJlY2VwdGlvbiIsImljb24taWYtbWVudS1jaGFydCIsImljb24taWYtbGluayIsImljb24taWYtbWEtcmVmdW5kIiwiaWNvbi1pZi1tYS1zeXN0ZW0tb3JkZXIiLCJpY29uLWlmLW1hLWJ1c2luZXNzLW9yZGVyIiwiaWNvbi1pZi1tYS1iaWxsaW5nIiwiaWNvbi1pZi1tYS1leGhpYml0b3JzIiwiaWNvbi1pZi1tYS1jb250cmFjdG9yIiwiaWNvbi1pZi1tYS1jb25zdHJ1Y3Rpb24iLCJpY29uLWlmLW1hLXJlY2VwdGlvbiIsImljb24taWYtbWEtaW5zcGVjdG9yIiwiaWNvbi1pZi1tYS10cmFuc3BvcnQiLCJpY29uLWlmLW1lbnUtaG9zdCIsImljb24taWYtbWVudS1leGhpYml0aW9uIl0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgZ2xvYiA9IHJlcXVpcmUoJ2dsb2InKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e2l9fQogICAgICAgICAgICAgIDxpIDpjbGFzcz0iaSI+PC9pPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SWNvbiA6dHlwZT0iaSI+PC9JY29uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxTZWxlY3Qgdi1tb2RlbD0iZGF0YS5pY29uIgogICAgICAgICAgPgogICAgICAgICAgICA8T3B0aW9uIHYtZm9yPSJpIGluIGljb25mb250TGlzdCIKICAgICAgICAgICAgICAgICAgICA6a2V5PSJgbWVudUVudW0ke2l9YCIKICAgICAgICAgICAgICAgICAgICA6dmFsdWU9ImAke2l9YCIKICAgICAgICAgICAgICAgICAgICA6bGFiZWw9ImkiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZW51LW1hbmFnZS1kZXRhaWwtaWNvblNlbGVjdCI+CiAgICAgICAgICAgICAgICA8aSA6Y2xhc3M9ImkiPjwvaT4KICAgICAgICAgICAgICAgIHt7aX19CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvT3B0aW9uPgogICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
@@ -695,7 +704,7 @@
       <last-offset />
       <last-pattern>pre</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -726,8 +735,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>vs</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
