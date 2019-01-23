@@ -100,6 +100,11 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="5" column="46" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/EmptyCard/index.scss" timestamp="1548223341540">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="22" column="3" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1548211607613">
         <mark key="'" line="12" column="36" />
         <mark key="[" line="14" column="0" />
@@ -107,7 +112,7 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="8" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" timestamp="1548214268024">
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" timestamp="1548222833620">
         <mark key="'" line="1" column="25" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1548221263163">
@@ -420,7 +425,7 @@
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548216403435">
+      <file name="/Dummy.txt" timestamp="1548223218672">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -450,11 +455,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="2" column="14" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" timestamp="1548214501698">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="29" column="15" />
-        <mark key="." line="9" column="0" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" timestamp="1548223456580">
+        <mark key="'" line="48" column="10" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="28" />
+        <mark key="^" line="48" column="28" />
+        <mark key="." line="48" column="28" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1548213051889">
         <mark key="'" line="84" column="54" />
@@ -491,10 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
-      <jump line="0" column="15" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/home/router.js" />
-      <jump line="31" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
-      <jump line="20" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/router/index.js" />
       <jump line="19" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/router/index.js" />
       <jump line="24" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
       <jump line="32" column="22" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
@@ -572,7 +574,6 @@
       <jump line="22" column="21" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="4" column="18" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="4" column="32" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
-      <jump line="1" column="25" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" />
       <jump line="29" column="69" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
       <jump line="11" column="58" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
       <jump line="3" column="18" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
@@ -591,49 +592,54 @@
       <jump line="33" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="32" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="2" column="34" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
+      <jump line="1" column="25" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" />
+      <jump line="19" column="0" filename="D:/coder/N-31Brands/FE/src/components/EmptyCard/index.scss" />
+      <jump line="48" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="46" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="49" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>40</text>
       </register>
       <register name="/" type="4">
         <text>#B80E28</text>
       </register>
-      <register name="0" type="4">
-        <text>primyColor</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogcDJ3KDUwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1heC13aWR0aDogMzIwcHg7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29sb3I6ICRwcmlteUNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5lbXB0eS1jYXJkLWltZyBpbWcgewogICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4LXdpZHRoOiAzMjBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMnB4IHNvbGlkICRwcmlteUNvbG9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMCA0MHB4Owo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICRwcmlteUNvbG9yOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMnB4IHNvbGlkICRwcmlteUNvbG9yOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -671,9 +677,9 @@
         <entry>sp</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
