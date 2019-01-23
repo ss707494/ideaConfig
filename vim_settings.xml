@@ -110,6 +110,12 @@
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" timestamp="1548214268024">
         <mark key="'" line="1" column="25" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1548221263163">
+        <mark key="[" line="48" column="4" />
+        <mark key="]" line="48" column="14" />
+        <mark key="^" line="48" column="14" />
+        <mark key="." line="48" column="14" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/index.less" timestamp="1547529490704">
         <mark key="'" line="1" column="25" />
       </file>
@@ -212,8 +218,8 @@
         <mark key="^" line="29" column="23" />
         <mark key="." line="29" column="23" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" timestamp="1548214682322">
-        <mark key="'" line="11" column="58" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" timestamp="1548220748136">
+        <mark key="'" line="2" column="34" />
         <mark key="[" line="11" column="58" />
         <mark key="]" line="11" column="59" />
         <mark key="." line="11" column="58" />
@@ -363,6 +369,12 @@
         <mark key="." line="88" column="14" />
         <mark key="^" line="90" column="25" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.scss" timestamp="1548221192790">
+        <mark key="[" line="97" column="16" />
+        <mark key="]" line="97" column="16" />
+        <mark key="^" line="97" column="16" />
+        <mark key="." line="97" column="16" />
+      </file>
       <file name="D:/coder/N-31Brands/BE/N-31Brands/N-31Brands.api/dist/brand/index.html" timestamp="1547521435771">
         <mark key="'" line="0" column="146" />
       </file>
@@ -408,8 +420,8 @@
         <mark key="[" line="41" column="21" />
         <mark key="]" line="41" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548213156268">
-        <mark key="[" line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1548216403435">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -479,7 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="4" filename="D:/coder/N-31Brands/FE/src/store/modules/global.js" />
       <jump line="26" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
       <jump line="0" column="15" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/home/router.js" />
       <jump line="31" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" />
@@ -579,13 +590,14 @@
       <jump line="0" column="1" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="33" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
       <jump line="32" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.scss" />
+      <jump line="2" column="34" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>#B80E28</text>
