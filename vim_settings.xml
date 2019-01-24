@@ -380,12 +380,12 @@
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/iview.scss" timestamp="1547518987953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548316956960">
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548322137787">
         <mark key="'" line="280" column="16" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="36" />
-        <mark key="." line="290" column="18" />
-        <mark key="^" line="290" column="44" />
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="33" column="25" />
+        <mark key="." line="33" column="25" />
+        <mark key="^" line="33" column="25" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/components/Detail/index.vue" timestamp="1548151834874">
         <mark key="'" line="83" column="11" />
@@ -444,10 +444,10 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/_ionicons-font.less" timestamp="1547529508271">
         <mark key="'" line="6" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548310334804">
+      <file name="/Dummy.txt" timestamp="1548322109239">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc" timestamp="1547543685532">
         <mark key="'" line="201" column="14" />
@@ -621,7 +621,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHRoaXMuZGV0YWlsLnJlZnVuZC5yZWZ1bmRBbW91bnQp</text>
+        <text encoding="base64">IMztvNO5psTc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzYXZlRnVuY3Rpb25zXD4=</text>
@@ -657,7 +657,7 @@
         <text encoding="base64">ICAgIG1lbnVMaXN0KCkgewogICAgICByZXR1cm4gcm91dGVzTW9kdWxlLmZpbHRlcihlID0+IGUubWV0YS5sYXlvdXQgIT09IGxheW91dFR5cGUuTE9HSU4pCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -696,9 +696,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
