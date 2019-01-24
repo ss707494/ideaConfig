@@ -1,5 +1,5 @@
 <profile version="1.0">
-  <option name="myName" value="Default" />
+  <option name="myName" value="Project Default copy" />
   <inspection_tool class="AbstractBeanReferencesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="AccessStaticViaInstance" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="AddVarianceModifier" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -74,6 +74,7 @@
     <option name="IGNORE_NON_PUBLIC" value="true" />
   </inspection_tool>
   <inspection_tool class="ComponentRegistrationProblems" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="ComposeFileStructure" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="ConflictingAnnotations" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConflictingExtensionProperty" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ConstantConditionalExpression" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -112,6 +113,7 @@
   <inspection_tool class="DialogTitleCapitalization" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DontUsePairConstructor" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DoubleNegation" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="DuplicateAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicateThrows" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="DuplicatedBeanNamesInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="Duplicates" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -119,6 +121,7 @@
   <inspection_tool class="ELMethodSignatureInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ELSpecValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ELValidationInJSP" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="ESLintInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjbClassBasicInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjbClassWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EjbDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
@@ -136,6 +139,7 @@
   <inspection_tool class="EjbSessionHomeInterfaceInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="EjbStaticAccessInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EjbThisExpressionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="EmptyAlternationBranch" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EmptyCatchBlock" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="m_includeComments" value="true" />
     <option name="m_ignoreTestCases" value="true" />
@@ -152,6 +156,8 @@
   <inspection_tool class="EqualsOrHashCode" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EqualsWhichDoesntCheckParameterClass" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="EqualsWithItself" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="EscapedMetaCharacter" enabled="false" level="INFORMATION" enabled_by_default="false" />
+  <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ExtendsAnnotation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExtendsObject" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ExtensionPointBeanClass" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -319,6 +325,30 @@
   <inspection_tool class="HibernateConfigDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="HibernateMappingDatasourceDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="HibernateMappingDomInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="HtmlFormInputWithoutLabel" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="HtmlUnknownAttribute" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myValues">
+      <value>
+        <list size="0" />
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
+  <inspection_tool class="HtmlUnknownTag" enabled="false" level="WARNING" enabled_by_default="false">
+    <option name="myValues">
+      <value>
+        <list size="6">
+          <item index="0" class="java.lang.String" itemvalue="nobr" />
+          <item index="1" class="java.lang.String" itemvalue="noembed" />
+          <item index="2" class="java.lang.String" itemvalue="comment" />
+          <item index="3" class="java.lang.String" itemvalue="noscript" />
+          <item index="4" class="java.lang.String" itemvalue="embed" />
+          <item index="5" class="java.lang.String" itemvalue="script" />
+        </list>
+      </value>
+    </option>
+    <option name="myCustomValuesEnabled" value="true" />
+  </inspection_tool>
   <inspection_tool class="IfCanBeSwitch" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="minimumBranches" value="3" />
     <option name="suggestIntSwitches" value="false" />
@@ -357,6 +387,8 @@
   <inspection_tool class="JBoss" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="JSFieldCanBeLocal" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JSImplicitlyInternalDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedFunction" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+  <inspection_tool class="JSUnresolvedVariable" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="JSUntypedDeclaration" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="JUnit4AnnotatedMethodInJUnit3TestCase" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Java8CollectionsApi" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -435,10 +467,6 @@
   <inspection_tool class="LanguageMismatch" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="CHECK_NON_ANNOTATED_REFERENCES" value="true" />
   </inspection_tool>
-  <inspection_tool class="LoggerInitializedWithForeignClass" enabled="false" level="WARNING" enabled_by_default="false">
-    <option name="loggerClassName" value="org.apache.log4j.Logger,org.slf4j.LoggerFactory,org.apache.commons.logging.LogFactory,java.util.logging.Logger" />
-    <option name="loggerFactoryMethodName" value="getLogger,getLogger,getLog,getLogger" />
-  </inspection_tool>
   <inspection_tool class="LongLiteralsEndingWithLowercaseL" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="LoopStatementsThatDontLoop" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="MVCPathVariableInspection" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -463,6 +491,9 @@
       <value />
     </option>
     <option name="updateNames">
+      <value />
+    </option>
+    <option name="ignoredClasses">
       <value />
     </option>
   </inspection_tool>
@@ -497,6 +528,7 @@
   <inspection_tool class="NumericOverflow" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ObjectEqualsNull" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ObjectLiteralToLambda" enabled="false" level="INFO" enabled_by_default="false" />
+  <inspection_tool class="OctalEscape" enabled="false" level="INFORMATION" enabled_by_default="false" />
   <inspection_tool class="OctalLiteral" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="OneWayWebMethod" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="OptionalGetWithoutIsPresent" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -555,6 +587,7 @@
   <inspection_tool class="RemoveExplicitSuperQualifier" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RemoveExplicitTypeArguments" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="RemoveForLoopIndices" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="RepeatedSpace" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReplaceAllDot" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="ReplaceGetOrSet" enabled="false" level="INFO" enabled_by_default="false" />
   <inspection_tool class="ReplaceWithOperatorAssignment" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
@@ -594,6 +627,7 @@
   <inspection_tool class="SimplifyNegatedBinaryExpression" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SimplifyStreamApiCallChains" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="Since15" enabled="false" level="ERROR" enabled_by_default="false" />
+  <inspection_tool class="SingleCharAlternation" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SingletonInjectsScoped" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SpringAopErrorsInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SpringAopWarningsInspection" enabled="false" level="WARNING" enabled_by_default="false" />
