@@ -68,12 +68,6 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.scss" timestamp="1548242107667">
-        <mark key="'" line="163" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/editFunctions/index.vue" timestamp="1547798862295">
         <mark key="'" line="1" column="14" />
         <mark key="[" line="1" column="14" />
@@ -148,6 +142,13 @@
         <mark key="]" line="1" column="10" />
         <mark key="." line="1" column="10" />
         <mark key="^" line="1" column="13" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.scss" timestamp="1548319683269">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="25" column="26" />
+        <mark key="^" line="25" column="26" />
+        <mark key="." line="25" column="26" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.scss" timestamp="1548053163018">
         <mark key="'" line="1" column="4" />
@@ -423,8 +424,8 @@
         <mark key="^" line="45" column="2" />
         <mark key="." line="45" column="2" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548313416997">
-        <mark key="'" line="98" column="0" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548319662434">
+        <mark key="'" line="49" column="50" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="98" column="23" />
         <mark key="." line="220" column="12" />
@@ -484,12 +485,6 @@
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/router/index.js" timestamp="1548154578414">
         <mark key="'" line="27" column="49" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1548240076341">
-        <mark key="'" line="63" column="44" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
-      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/api/menuManage/index.js" timestamp="1548049159072">
         <mark key="'" line="41" column="13" />
         <mark key="[" line="41" column="13" />
@@ -516,8 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="41" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
-      <jump line="115" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="126" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="118" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="132" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
@@ -616,6 +609,8 @@
       <jump line="11" column="26" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.vue" />
       <jump line="279" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="280" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="49" column="50" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="27" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -630,35 +625,35 @@
       <register name="0" type="4">
         <text>functionManage</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="1" type="4">
+        <text encoding="base64">PiBhIHsKICAgICAgICBwYWRkaW5nLXJpZ2h0OiAxNHB4OwogICAgICB9</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAge3tKU09OLnN0cmluZ2lmeShtZW51TGlzdCl9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbGF5b3V0VHlwZSB9IGZyb20gJ0AvY29tbW9uL21hcHBpbmcnCg==</text>
+        <text encoding="base64">ICAgICAge3tKU09OLnN0cmluZ2lmeShtZW51TGlzdCl9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcm91dGVzTW9kdWxlIH0gZnJvbSAnLi4vLi4vcm91dGVyL2luZGV4Jwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbGF5b3V0VHlwZSB9IGZyb20gJ0AvY29tbW9uL21hcHBpbmcnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcm91dGVzTW9kdWxlLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgcm91dGVzTW9kdWxlIH0gZnJvbSAnLi4vLi4vcm91dGVyL2luZGV4Jwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
+        <text encoding="base64">ICAgICAgcm91dGVzTW9kdWxlLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG1lbnVMaXN0KCkgewogICAgICByZXR1cm4gcm91dGVzTW9kdWxlLmZpbHRlcihlID0+IGUubWV0YS5sYXlvdXQgIT09IGxheW91dFR5cGUuTE9HSU4pCiAgICB9LAo=</text>
+        <text encoding="base64">ICBjb21wdXRlZDogewogIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbXMpCiAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIG1lbnVMaXN0KCkgewogICAgICByZXR1cm4gcm91dGVzTW9kdWxlLmZpbHRlcihlID0+IGUubWV0YS5sYXlvdXQgIT09IGxheW91dFR5cGUuTE9HSU4pCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -698,8 +693,8 @@
         <entry>action ShowBookmarks</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
