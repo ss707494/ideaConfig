@@ -603,6 +603,7 @@
   <inspection_tool class="SameReturnValue" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SameVersion" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SameVersionIDEPlugin" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="SassScssResolvedByNameOnly" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
   <inspection_tool class="SeamAnnotationIncorrectSignatureInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SeamAnnotationsInconsistencyInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="SeamBijectionIllegalScopeParameterInspection" enabled="false" level="ERROR" enabled_by_default="false" />
