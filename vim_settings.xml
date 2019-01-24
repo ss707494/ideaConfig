@@ -375,8 +375,8 @@
       <file name="D:/coder/N-31Brands/FE/src/assets/styles/iview.scss" timestamp="1547518987953">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548314551981">
-        <mark key="'" line="56" column="0" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" timestamp="1548316956960">
+        <mark key="'" line="280" column="16" />
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="36" />
         <mark key="." line="290" column="18" />
@@ -516,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="34" filename="D:/coder/N-31Brands/FE/cache.html" />
-      <jump line="119" column="20" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="114" column="41" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="115" column="10" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
       <jump line="126" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" />
@@ -616,6 +614,8 @@
       <jump line="56" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="2" column="9" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/router.js" />
       <jump line="11" column="26" filename="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.vue" />
+      <jump line="279" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
+      <jump line="280" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -625,7 +625,7 @@
         <text>meta.title</text>
       </register>
       <register name="/" type="4">
-        <text>deb</text>
+        <text encoding="base64">XDxzYXZlRnVuY3Rpb25zXD4=</text>
       </register>
       <register name="0" type="4">
         <text>functionManage</text>
@@ -658,19 +658,18 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbXMpCiAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>deb</last-search>
+      <last-search encoding="base64">XDxzYXZlRnVuY3Rpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>deb</last-pattern>
+      <last-pattern encoding="base64">XDxzYXZlRnVuY3Rpb25zXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQcm92aW5jZVw+</entry>
         <entry encoding="base64">XDxzaG93UGFyZW50U2VsZWN0XD4=</entry>
         <entry encoding="base64">XDxnb1RvRGV0YWlsXD4=</entry>
         <entry encoding="base64">XDxnb1RvRGV0YWlsUm91dGVcPg==</entry>
@@ -690,6 +689,7 @@
         <entry>title</entry>
         <entry encoding="base64">XDxtZW51TGlzdFw+</entry>
         <entry>deb</entry>
+        <entry encoding="base64">XDxzYXZlRnVuY3Rpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
@@ -697,9 +697,9 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
