@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="single" />
       <item value="refresh" />
       <item value="platform" />
       <item value="平台" />
@@ -50,12 +51,11 @@
       <item value="白色" />
       <item value="withe" />
       <item value="orange" />
-      <item value="轻" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="84" />
+        <entry key="ENGLISH" value="85" />
       </map>
     </option>
   </component>
