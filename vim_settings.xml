@@ -6,12 +6,11 @@
       <file name="D:/coder/N-31Brands/FE/src/store/modules/global.js" timestamp="1548237978999">
         <mark key="'" line="8" column="16" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" timestamp="1548639801442">
-        <mark key="'" line="1" column="8" />
-        <mark key="[" line="1" column="39" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/detail/index.vue" timestamp="1548743802711">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+        <mark key="^" line="1" column="6" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/config/host.local.js" timestamp="1548725813185">
         <mark key="'" line="4" column="22" />
@@ -210,12 +209,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548741780087">
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548742961608">
         <mark key="'" line="94" column="20" />
-        <mark key="[" line="263" column="27" />
-        <mark key="]" line="263" column="26" />
-        <mark key="." line="263" column="26" />
-        <mark key="^" line="263" column="26" />
+        <mark key="[" line="262" column="44" />
+        <mark key="]" line="262" column="45" />
+        <mark key="." line="262" column="45" />
+        <mark key="^" line="262" column="45" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.scss" timestamp="1548381675517">
         <mark key="'" line="40" column="6" />
@@ -262,12 +261,24 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/index.less" timestamp="1547529487295">
         <mark key="'" line="2" column="18" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/router.js" timestamp="1548743432360">
+        <mark key="'" line="14" column="19" />
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="7" column="17" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/package.json" timestamp="1548233975556">
         <mark key="'" line="11" column="34" />
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="35" />
         <mark key="." line="11" column="20" />
         <mark key="^" line="6" column="28" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.scss" timestamp="1548743581808">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/store/modules/menuList.js" timestamp="1548387988682">
         <mark key="'" line="19" column="10" />
@@ -300,6 +311,12 @@
         <mark key="]" line="18" column="22" />
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/components/Detail/index.scss" timestamp="1548396754205">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="20" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/fundAccount/settlement/detail/index.vue" timestamp="1548308163260">
         <mark key="'" line="20" column="56" />
@@ -410,6 +427,11 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/components/form/form.vue" timestamp="1547806954200">
         <mark key="'" line="63" column="31" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" timestamp="1548743843664">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/assets/fonts/iconfont.js" timestamp="1548227661973">
         <mark key="'" line="0" column="0" />
       </file>
@@ -447,12 +469,12 @@
         <mark key="^" line="48" column="17" />
         <mark key="." line="48" column="17" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" timestamp="1548401082608">
-        <mark key="'" line="68" column="0" />
-        <mark key="[" line="77" column="16" />
-        <mark key="]" line="77" column="17" />
-        <mark key="." line="77" column="17" />
-        <mark key="^" line="77" column="17" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" timestamp="1548743787361">
+        <mark key="'" line="117" column="30" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="70" column="17" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/node_modules/iview/src/components/collapse/panel.vue" timestamp="1547793851643">
         <mark key="'" line="7" column="49" />
@@ -530,6 +552,12 @@
         <mark key="^" line="7" column="32" />
         <mark key="." line="9" column="15" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/index.vue" timestamp="1548398933953">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.scss" timestamp="1548396158758">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="17" column="10" />
@@ -570,7 +598,7 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/_ionicons-font.less" timestamp="1547529508271">
         <mark key="'" line="6" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548742730148">
+      <file name="/Dummy.txt" timestamp="1548742812067">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -662,18 +690,14 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="4" column="0" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/components/Detail/index.scss" timestamp="1548395144419">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="22" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="80" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="275" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="240" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="277" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="278" column="34" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="280" column="63" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="303" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="295" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="293" column="66" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
-      <jump line="283" column="22" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="289" column="37" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="174" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.vue" />
       <jump line="71" column="42" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.scss" />
@@ -764,57 +788,65 @@
       <jump line="109" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="110" column="21" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="94" column="20" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="7" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/router.js" />
+      <jump line="14" column="19" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/router.js" />
+      <jump line="48" column="7" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="125" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="128" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="107" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="108" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="111" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="115" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
+      <jump line="117" column="30" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/list/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>理</text>
       </register>
       <register name="/" type="4">
-        <text>box</text>
+        <text>detail</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RGdW5jdGlvbnMpCg==</text>
+      <register name="0" type="4">
+        <text>用户类型管理</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJl9fYWN0aXZlIHsKICAgICAgICBiYWNrZ3JvdW5kOiAkY29sb3ItZ3JlZW4tNTAwOwogICAgICAgIGNvbG9yOiAkY29sb3Itd2hpdGU7CiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgJGNvbG9yLWdyZWVuLTkwMDsKICAgICAgfQogICAgICAmX19oYXZlIHsKICAgICAgICBiYWNrZ3JvdW5kOiAkY29sb3ItZ3JlZW4tMjAwOwogICAgICAgIGNvbG9yOiAkY29sb3Itd2hpdGU7CiAgICAgICAgYm9yZGVyOiAxcHggc29saWQgJGNvbG9yLWdyZWVuLTcwMDsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJzaG93RWRpdCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDpkZXRhaWxEYXRhPSJlZGl0RGF0YS5kZXRhaWxEYXRhIgogICAgICAgICAgICAgIDpnby1iYWNrPSJjbG9zZUVkaXQiCiAgICAgID48L0RldGFpbD4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJl9fYm94IHsKICAgICAgICBtYXJnaW4tcmlnaHQ6IDEwcHg7CiAgICAgICAgcGFkZGluZzogNXB4OwogICAgICAgIGJvcmRlcjogMXB4IHNvbGlkICRjb2xvci1ncmF5LTcwMDsKICAgICAgICBib3JkZXItcmFkaXVzOiA0cHg7CiAgICAgICAgY3Vyc29yOiBwb2ludGVyOwogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIERldGFpbCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RGdW5jdGlvbnMpCg==</text>
+        <text encoding="base64">aW1wb3J0IERldGFpbCBmcm9tICcuLi9jb21wb25lbnRzL0RldGFpbCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RGdW5jdGlvbnMpCg==</text>
+        <text encoding="base64">ICAgIERldGFpbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5zZWxlY3RGdW5jdGlvbnMpCg==</text>
+        <text encoding="base64">aW1wb3J0IERldGFpbCBmcm9tICcuLi9jb21wb25lbnRzL0RldGFpbCcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICA8RGV0YWlsIGNsYXNzPSJmdW5jdGlvbi1yb3V0ZS1kZXRhaWwiCiAgICAgICAgICA6aWQ9ImAkeyRyb3V0ZS5wYXJhbXMuaWR9YCIKICAgICAgICAgIDpkZXRhaWxEYXRhPSIkcm91dGUucXVlcnkiCiAgICAgICAgICA6Z28tYmFjaz0iZ29CYWNrIgogID48L0RldGFpbD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-            id: e1
-          }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJzaG93RWRpdCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDpkZXRhaWxEYXRhPSJlZGl0RGF0YS5kZXRhaWxEYXRhIgogICAgICAgICAgICAgIDpnby1iYWNrPSJjbG9zZUVkaXQiCiAgICAgID48L0RldGFpbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNoZWNrRnVuY3Rpb24oZnVuY3Rpb25JdGVtLCBtZW51KSB7CiAgICAgIHJldHVybiB0aGlzLm1vZGlmeURhdGEubWVudXMubWFwKGUgPT4gZS5pZCkuaW5jbHVkZXMobWVudS5pZCkKICAgICAgICAmJiB0aGlzLm1vZGlmeURhdGEubWVudXMuZmluZChlID0+IGUuaWQgPT09IG1lbnUuaWQpLmZ1bmN0aW9ucy5tYXAoZSA9PiBlLmlkKS5pbmNsdWRlcyhmdW5jdGlvbkl0ZW0uaWQpCiAgICB9LAogICAgY2hlY2tNZW51SGlnaGxpZ2h0KG1lbnUpIHsKICAgICAgY29uc3QgY2hlY2sgPSAobWVudXMsIGlkKSA9PiAhIW1lbnVzLmZpbmQoZSA9PiBlLmlkID09PSBpZCkKICAgICAgcmV0dXJuIGNoZWNrKHRoaXMubW9kaWZ5RGF0YS5tZW51cywgbWVudS5pZCkKICAgICAgICB8fCB0aGlzLm1lbnVIZWxwTGlzdFttZW51LmlkXS5jaGlsZHJlbi5zb21lKGUgPT4gY2hlY2sodGhpcy5tb2RpZnlEYXRhLm1lbnVzLCBlKSkKICAgIH0sCiAgICBmdW5jdGlvblNlbGVjdENsaWNrKGZ1bmN0aW9uSXRlbSwgbWVudSkgewogICAgICB0aGlzLm1vZGlmeURhdGEubWVudXMgPSBbCiAgICAgICAgLi4udGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbHRlcihlID0+IGUuaWQgIT09IG1lbnUuaWQpLAogICAgICAgIHsKICAgICAgICAgIGlkOiBtZW51LmlkLAogICAgICAgICAgZnVuY3Rpb25zOiAhdGhpcy5jaGVja0Z1bmN0aW9uKGZ1bmN0aW9uSXRlbSwgbWVudSkKICAgICAgICAgICAgPyBbCiAgICAgICAgICAgICAgLi4uKHRoaXMubW9kaWZ5RGF0YS5tZW51cy5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucyB8fCBbXSksCiAgICAgICAgICAgICAgeyBpZDogZnVuY3Rpb25JdGVtLmlkIH0KICAgICAgICAgICAgXQogICAgICAgICAgICA6IHRoaXMubW9kaWZ5RGF0YS5tZW51cy5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCkuZnVuY3Rpb25zLmZpbHRlcihlID0+IGUuaWQgIT09IGZ1bmN0aW9uSXRlbS5pZCksCiAgICAgICAgfQogICAgICBdCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgIERldGFpbCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1lbnVTZWxlY3RDbGljayhpdGVtKSB7CiAgICAgIHRoaXMubW9kaWZ5RGF0YS5tZW51cyA9IHRoaXMubW9kaWZ5RGF0YS5tZW51cy5tYXAoZSA9PiBlLmlkKS5pbmNsdWRlcyhpdGVtLmlkKQogICAgICAgID8gdGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbHRlcihlID0+IGUuaWQgIT09IGl0ZW0uaWQpCiAgICAgICAgOiBbCiAgICAgICAgICAuLi50aGlzLm1vZGlmeURhdGEubWVudXMsCiAgICAgICAgICB7IGlkOiBpdGVtLmlkLCBmdW5jdGlvbnM6IFtdIH0KICAgICAgICBdCiAgICB9LAogICAgY2FsY0FsbFNlbGVjdENsYXNzKG1lbnUpIHsKICAgICAgaWYgKCEodGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbmQoZSA9PiBlLmlkID09PSBtZW51LmlkKT8uZnVuY3Rpb25zLmxlbmd0aCkpIHsKICAgICAgICByZXR1cm4gYHJvbGUtbWFuYWdlLWxpc3QtbWVudS1zZWxlY3QtbWFpbl9fJHsKICAgICAgICAgICdjbGVhcid9YAogICAgICB9CiAgICAgIHJldHVybiBgcm9sZS1tYW5hZ2UtbGlzdC1tZW51LXNlbGVjdC1tYWluX18kewogICAgICAgIHRoaXMubW9kaWZ5RGF0YS5tZW51cy5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGgKICAgICAgICA9PT0gdGhpcy5tZW51TGlzdC5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGggPyAnYWN0aXZlJyA6ICdoYXZlJ31gCiAgICB9LAogICAgZnVuY3Rpb25BbGxTZWxlY3QobWVudSkgewogICAgICB0aGlzLm1vZGlmeURhdGEubWVudXMgPSBbCiAgICAgICAgLi4udGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbHRlcihlID0+IGUuaWQgIT09IG1lbnUuaWQpLAogICAgICAgIHsKICAgICAgICAgIGlkOiBtZW51LmlkLAogICAgICAgICAgZnVuY3Rpb25zOiB0aGlzLm1vZGlmeURhdGEubWVudXMuZmluZChlID0+IGUuaWQgPT09IG1lbnUuaWQpPy5mdW5jdGlvbnMubGVuZ3RoCiAgICAgICAgICA9PT0gdGhpcy5tZW51TGlzdC5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGgKICAgICAgICAgICAgPyBbXQogICAgICAgICAgICA6IHRoaXMubWVudUxpc3QuZmluZChlID0+IGUuaWQgPT09IG1lbnUuaWQpPy5mdW5jdGlvbnMubWFwKGUgPT4gKHsgaWQ6IGUuaWQgfSkpLAogICAgICAgIH0KICAgICAgXQogICAgfSwK</text>
+        <text encoding="base64">aW1wb3J0IERldGFpbCBmcm9tICcuLi9jb21wb25lbnRzL0RldGFpbCcK</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>box</last-search>
+      <last-search>detail</last-search>
       <last-offset />
-      <last-pattern>box</last-pattern>
+      <last-pattern>detail</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -822,7 +854,6 @@
       <history-search>
         <entry encoding="base64">XDxnZXRBbGxQYXJlbnRzXD4=</entry>
         <entry encoding="base64">XDxwYXJlbnRJZFw+</entry>
-        <entry>detail</entry>
         <entry encoding="base64">XDxwYXJlbnRTZWxlY3RcPg==</entry>
         <entry>selectFunctions</entry>
         <entry encoding="base64">XDxtZW51U2VsZWN0Q2xpY2tcPg==</entry>
@@ -840,6 +871,7 @@
         <entry>log</entry>
         <entry>active</entry>
         <entry>box</entry>
+        <entry>detail</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
