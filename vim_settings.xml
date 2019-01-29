@@ -347,12 +347,12 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="72" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" timestamp="1548750760665">
-        <mark key="'" line="26" column="38" />
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="26" column="40" />
-        <mark key="." line="26" column="40" />
-        <mark key="^" line="32" column="20" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" timestamp="1548751478762">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="31" column="20" />
       </file>
       <file name="D:/coder/N-31Om/vue.config.js" timestamp="1547618576813">
         <mark key="'" line="158" column="7" />
@@ -565,7 +565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="223" column="35" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="30" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/refund/save/index.vue" />
       <jump line="100" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/refund/save/index.vue" />
       <jump line="222" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
@@ -665,6 +664,7 @@
       <jump line="21" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="25" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="26" column="38" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
+      <jump line="22" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -674,34 +674,34 @@
         <text encoding="base64">IHN0eWxlPSJ3aWR0aDoyMDBweCI=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhY3Rpb25cPg==</text>
+        <text encoding="base64">XDxyb2xlTmFtZVw+</text>
       </register>
       <register name="0" type="4">
         <text>row.roleId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFBvcHRpcCBjb25maXJtCiAgICAgICAgICAgICAgICAgICAgdGl0bGU9Isi3yM/JvrP9wvA/IgogICAgICAgICAgICAgICAgICAgIHBsYWNlbWVudD0ibGVmdCIKICAgICAgICAgICAgICAgICAgICBAb24tb2s9ImRlbChyb3cpIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPEJ1dHRvbj7JvrP9PC9CdXR0b24+CiAgICAgICAgICAgIDwvUG9wdGlwPgo=</text>
+        <text encoding="base64">ICAgICAgICBzbG90OiAncm9sZU5hbWUnLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBAY2xpY2s9ImVkaXQocm93KSI+seC8rTwvQnV0dG9uPgogICAgICAgICAgICA8UG9wdGlwIGNvbmZpcm0KICAgICAgICAgICAgICAgICAgICB0aXRsZT0iyLfIz8m+s/3C8D8iCiAgICAgICAgICAgICAgICAgICAgcGxhY2VtZW50PSJsZWZ0IgogICAgICAgICAgICAgICAgICAgIEBvbi1vaz0iZGVsKHJvdykiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8QnV0dG9uPsm+s/08L0J1dHRvbj4KICAgICAgICAgICAgPC9Qb3B0aXA+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAge3tyb3cucm9sZUlkfX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnstnX98Dg0M20+sLrvtu6zycsCiAgICAgICAga2V5OiAnb3BlcmF0aW9uVHlwZUNvZGUnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFBvcHRpcCBjb25maXJtCiAgICAgICAgICAgICAgICAgICAgdGl0bGU9Isi3yM/JvrP9wvA/IgogICAgICAgICAgICAgICAgICAgIHBsYWNlbWVudD0ibGVmdCIKICAgICAgICAgICAgICAgICAgICBAb24tb2s9ImRlbChyb3cpIgogICAgICAgICAgICA+CiAgICAgICAgICAgICAgPEJ1dHRvbj7JvrP9PC9CdXR0b24+CiAgICAgICAgICAgIDwvUG9wdGlwPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8guabE3MDg0M3B0LHtCmV4cG9ydCBjb25zdCBnZXRGdW5jdGlvblR5cGVMaXN0ID0gKGRhdGEgPSB7fSkgPT4KICBheGlvcy5wb3N0KCcvYXBpL29tL2Z1bmN0aW9uL3R5cGVMaXN0JywgZGF0YSkKCi8vILmmxNyy2df3wODQzcHQse0KZXhwb3J0IGNvbnN0IGdldE9wZXJhdGlvbkxpc3QgPSAoZGF0YSA9IHt9KSA9PgogIGF4aW9zLnBvc3QoJy9hcGkvb20vZnVuY3Rpb24vb3BlcmF0aW9uTGlzdCcsIGRhdGEpCgovLyCxo7TmCmV4cG9ydCBjb25zdCBzYXZlRnVuY3Rpb24gPSAoZGF0YSA9IHt9KSA9PgogIGF4aW9zLnBvc3QoJy9hcGkvb20vZnVuY3Rpb24vc2F2ZScsIGRhdGEpCgovLyDJvrP9CmV4cG9ydCBjb25zdCBkZWxldGVGdW5jdGlvbiA9IChkYXRhID0ge30pID0+CiAgYXhpb3MucG9zdCgnL2FwaS9vbS9mdW5jdGlvbi9kZWxldGUnLCBkYXRhKQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEJ1dHRvbiBAY2xpY2s9ImVkaXQocm93KSI+seC8rTwvQnV0dG9uPgogICAgICAgICAgICA8UG9wdGlwIGNvbmZpcm0KICAgICAgICAgICAgICAgICAgICB0aXRsZT0iyLfIz8m+s/3C8D8iCiAgICAgICAgICAgICAgICAgICAgcGxhY2VtZW50PSJsZWZ0IgogICAgICAgICAgICAgICAgICAgIEBvbi1vaz0iZGVsKHJvdykiCiAgICAgICAgICAgID4KICAgICAgICAgICAgICA8QnV0dG9uPsm+s/08L0J1dHRvbj4KICAgICAgICAgICAgPC9Qb3B0aXA+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJzaG93RWRpdCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDpkZXRhaWxEYXRhPSJlZGl0RGF0YS5kZXRhaWxEYXRhIgogICAgICAgICAgICAgIDpnby1iYWNrPSJjbG9zZUVkaXQiCiAgICAgID48L0RldGFpbD4K</text>
+        <text encoding="base64">ICAgICAgfSwgewogICAgICAgIHRpdGxlOiAnstnX98Dg0M20+sLrvtu6zycsCiAgICAgICAga2V5OiAnb3BlcmF0aW9uVHlwZUNvZGUnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIERldGFpbCwK</text>
+        <text encoding="base64">Ly8guabE3MDg0M3B0LHtCmV4cG9ydCBjb25zdCBnZXRGdW5jdGlvblR5cGVMaXN0ID0gKGRhdGEgPSB7fSkgPT4KICBheGlvcy5wb3N0KCcvYXBpL29tL2Z1bmN0aW9uL3R5cGVMaXN0JywgZGF0YSkKCi8vILmmxNyy2df3wODQzcHQse0KZXhwb3J0IGNvbnN0IGdldE9wZXJhdGlvbkxpc3QgPSAoZGF0YSA9IHt9KSA9PgogIGF4aW9zLnBvc3QoJy9hcGkvb20vZnVuY3Rpb24vb3BlcmF0aW9uTGlzdCcsIGRhdGEpCgovLyCxo7TmCmV4cG9ydCBjb25zdCBzYXZlRnVuY3Rpb24gPSAoZGF0YSA9IHt9KSA9PgogIGF4aW9zLnBvc3QoJy9hcGkvb20vZnVuY3Rpb24vc2F2ZScsIGRhdGEpCgovLyDJvrP9CmV4cG9ydCBjb25zdCBkZWxldGVGdW5jdGlvbiA9IChkYXRhID0ge30pID0+CiAgYXhpb3MucG9zdCgnL2FwaS9vbS9mdW5jdGlvbi9kZWxldGUnLCBkYXRhKQoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IERldGFpbCBmcm9tICcuLi9jb21wb25lbnRzL0RldGFpbCcK</text>
+        <text encoding="base64">ICAgICAgPERldGFpbCB2LWlmPSJzaG93RWRpdCIKICAgICAgICAgICAgICA6aWQ9ImVkaXREYXRhLmlkIgogICAgICAgICAgICAgIDpkZXRhaWxEYXRhPSJlZGl0RGF0YS5kZXRhaWxEYXRhIgogICAgICAgICAgICAgIDpnby1iYWNrPSJjbG9zZUVkaXQiCiAgICAgID48L0RldGFpbD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERldGFpbAo=</text>
+        <text encoding="base64">ICAgIERldGFpbCwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IERldGFpbCBmcm9tICcuLi9jb21wb25lbnRzL0RldGFpbCcK</text>
@@ -711,15 +711,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhY3Rpb25cPg==</last-search>
+      <last-search encoding="base64">XDxyb2xlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhY3Rpb25cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyb2xlTmFtZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJlbnRTZWxlY3RcPg==</entry>
         <entry>selectFunctions</entry>
         <entry encoding="base64">XDxtZW51U2VsZWN0Q2xpY2tcPg==</entry>
         <entry encoding="base64">XDxjYWxjQWxsU2VsZWN0Q2xhc3NcPg==</entry>
@@ -739,6 +738,7 @@
         <entry>detail</entry>
         <entry>colu</entry>
         <entry encoding="base64">XDxhY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDxyb2xlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
