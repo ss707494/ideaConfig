@@ -203,12 +203,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548671299837">
-        <mark key="'" line="230" column="11" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="109" column="58" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548724304692">
+        <mark key="'" line="232" column="11" />
+        <mark key="[" line="95" column="32" />
+        <mark key="]" line="95" column="35" />
+        <mark key="." line="95" column="35" />
+        <mark key="^" line="95" column="35" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.scss" timestamp="1548381675517">
         <mark key="'" line="40" column="6" />
@@ -761,7 +761,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWxlY3RGdW5jdGlvbnNcPg==</text>
@@ -770,33 +770,33 @@
         <text>i1.name</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e3NlbGVjdEZ1bmN0aW9uc319Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RGdW5jdGlvbnMgPSBbMywgNCwgNV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7e3NlbGVjdEZ1bmN0aW9uc319Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9IjMiCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RGdW5jdGlvbnMgPSBbMywgNCwgNV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICA6dmFsdWU9IjMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJjaGVja0FsbEdyb3VwQ2hhbmdlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAb24tY2hhbmdlPSJjaGVja0FsbEdyb3VwQ2hhbmdlIgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>{
         
       }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxDaGVja2JveCBsYWJlbD0ixru5+yI+PC9DaGVja2JveD4KICAgICAgICAgICAgICAgIDxDaGVja2JveCBsYWJlbD0izve5zyI+PC9DaGVja2JveD4K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
