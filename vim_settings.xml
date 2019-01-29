@@ -388,11 +388,11 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/Detail/index.scss" timestamp="1548668740001">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
-        <mark key="^" line="92" column="18" />
+        <mark key="'" line="102" column="4" />
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
+        <mark key="^" line="104" column="18" />
       </file>
       <file name="D:/coder/N-31Brands/BE/N-31Brands/N-31Brands.api/dist/static/css/brand/index.58ee961c.css" timestamp="1547536296747">
         <mark key="'" line="0" column="0" />
@@ -570,7 +570,7 @@
       <file name="D:/coder/N-31Brands/FE/node_modules/iview/src/styles/common/iconfont/_ionicons-font.less" timestamp="1547529508271">
         <mark key="'" line="6" column="26" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548741760884">
+      <file name="/Dummy.txt" timestamp="1548742730148">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="7" />
         <mark key="." line="0" column="7" />
@@ -808,7 +808,7 @@
         <text encoding="base64">ICAgIG1lbnVTZWxlY3RDbGljayhpdGVtKSB7CiAgICAgIHRoaXMubW9kaWZ5RGF0YS5tZW51cyA9IHRoaXMubW9kaWZ5RGF0YS5tZW51cy5tYXAoZSA9PiBlLmlkKS5pbmNsdWRlcyhpdGVtLmlkKQogICAgICAgID8gdGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbHRlcihlID0+IGUuaWQgIT09IGl0ZW0uaWQpCiAgICAgICAgOiBbCiAgICAgICAgICAuLi50aGlzLm1vZGlmeURhdGEubWVudXMsCiAgICAgICAgICB7IGlkOiBpdGVtLmlkLCBmdW5jdGlvbnM6IFtdIH0KICAgICAgICBdCiAgICB9LAogICAgY2FsY0FsbFNlbGVjdENsYXNzKG1lbnUpIHsKICAgICAgaWYgKCEodGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbmQoZSA9PiBlLmlkID09PSBtZW51LmlkKT8uZnVuY3Rpb25zLmxlbmd0aCkpIHsKICAgICAgICByZXR1cm4gYHJvbGUtbWFuYWdlLWxpc3QtbWVudS1zZWxlY3QtbWFpbl9fJHsKICAgICAgICAgICdjbGVhcid9YAogICAgICB9CiAgICAgIHJldHVybiBgcm9sZS1tYW5hZ2UtbGlzdC1tZW51LXNlbGVjdC1tYWluX18kewogICAgICAgIHRoaXMubW9kaWZ5RGF0YS5tZW51cy5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGgKICAgICAgICA9PT0gdGhpcy5tZW51TGlzdC5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGggPyAnYWN0aXZlJyA6ICdoYXZlJ31gCiAgICB9LAogICAgZnVuY3Rpb25BbGxTZWxlY3QobWVudSkgewogICAgICB0aGlzLm1vZGlmeURhdGEubWVudXMgPSBbCiAgICAgICAgLi4udGhpcy5tb2RpZnlEYXRhLm1lbnVzLmZpbHRlcihlID0+IGUuaWQgIT09IG1lbnUuaWQpLAogICAgICAgIHsKICAgICAgICAgIGlkOiBtZW51LmlkLAogICAgICAgICAgZnVuY3Rpb25zOiB0aGlzLm1vZGlmeURhdGEubWVudXMuZmluZChlID0+IGUuaWQgPT09IG1lbnUuaWQpPy5mdW5jdGlvbnMubGVuZ3RoCiAgICAgICAgICA9PT0gdGhpcy5tZW51TGlzdC5maW5kKGUgPT4gZS5pZCA9PT0gbWVudS5pZCk/LmZ1bmN0aW9ucy5sZW5ndGgKICAgICAgICAgICAgPyBbXQogICAgICAgICAgICA6IHRoaXMubWVudUxpc3QuZmluZChlID0+IGUuaWQgPT09IG1lbnUuaWQpPy5mdW5jdGlvbnMubWFwKGUgPT4gKHsgaWQ6IGUuaWQgfSkpLAogICAgICAgIH0KICAgICAgXQogICAgfSwK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -848,8 +848,8 @@
         <entry>vs</entry>
         <entry>action ToggleBookmark</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
