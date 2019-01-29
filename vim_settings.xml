@@ -210,12 +210,12 @@
         <mark key="^" line="25" column="26" />
         <mark key="." line="53" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548727759877">
-        <mark key="'" line="230" column="44" />
-        <mark key="[" line="226" column="23" />
-        <mark key="]" line="227" column="13" />
-        <mark key="." line="227" column="13" />
-        <mark key="^" line="227" column="13" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" timestamp="1548730239367">
+        <mark key="'" line="245" column="79" />
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
+        <mark key="^" line="245" column="69" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/MenuLayout/index.scss" timestamp="1548381675517">
         <mark key="'" line="40" column="6" />
@@ -664,11 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/router.js" />
-      <jump line="32" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/router.js" />
-      <jump line="34" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/router.js" />
-      <jump line="143" column="20" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/components/RefundRecodes/index.vue" />
-      <jump line="33" column="19" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/router.js" />
       <jump line="59" column="2" filename="E:/code/CSHXEventSite/FEOM/src/apps/utils/menuTree.js" />
       <jump line="136" column="9" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="188" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
@@ -715,33 +710,24 @@
       <jump line="116" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="121" column="78" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="278" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="237" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="216" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="217" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="218" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="225" column="29" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="181" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="232" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="182" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="109" column="38" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="183" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="238" column="36" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="114" column="34" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="110" column="55" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="180" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="162" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="200" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="230" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="239" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="84" column="34" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="173" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="207" column="29" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="211" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="214" column="34" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="226" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="236" column="13" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="240" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="241" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="244" column="26" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="262" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="261" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
@@ -749,67 +735,78 @@
       <jump line="257" column="24" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="253" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="252" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="224" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="223" column="35" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="30" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/refund/save/index.vue" />
       <jump line="100" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/refund/save/index.vue" />
       <jump line="222" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="97" column="71" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="233" column="38" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="265" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="86" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="264" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="160" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="231" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="227" column="42" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="228" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="229" column="44" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="224" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="225" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="232" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="231" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="235" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="229" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="238" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="237" column="25" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="236" column="16" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="286" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="230" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="233" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="241" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="239" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="240" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="242" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="248" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="249" column="79" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjaGVja01lbnVIaWdobGlnaHRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>selectFunctions.length</text>
+        <text>indeterminate</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        value: true,
-        indeterminate: false,
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS52YWx1ZSkgewogICAgICAgICAgaXRlbS5pbmRldGVybWluYXRlID0gZmFsc2UKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDpjbGFzcz0ieydyb2xlLW1hbmFnZS1saXN0LW1lbnUtc2VsZWN0LW1haW5fX2hpZ2hsaWdodCc6IGNoZWNrTWVudUhpZ2hsaWdodChpKX0iCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hlY2tPbmVNZW51KHRoaXMubWVudUhlbHBMaXN0LCB0aGlzLnNlbGVjdEZ1bmN0aW9ucywgbWVudS5pZCkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBuZXdJdGVtCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tPHNwYW4gdi1mb3I9ImkxIGluIGkuZnVuY3Rpb25zIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS06a2V5PSJgZnVuY3Rpb25zJHtpLmlkfSR7aTEuaWR9YCItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tOmNsYXNzPSJbJ3JvbGUtbWFuYWdlLWxpc3QtbWVudS1zZWxlY3QtbWFpbl9fYm94JywtLT4KICAgICAgICAgICAgICAgICAgICA8IS0teydyb2xlLW1hbmFnZS1saXN0LW1lbnUtc2VsZWN0LW1haW5fX2FjdGl2ZSc6IGNoZWNrRnVuY3Rpb24oaTEsIGkpfV0iLS0+CiAgICAgICAgICAgICAgICAgICAgPCEtLUBjbGljaz0iZnVuY3Rpb25TZWxlY3RDbGljayhpMSwgaSkiLS0+CiAgICAgICAgICAgICAgPCEtLSZndDt7e2kxLm5hbWV9fTwvc3Bhbj4tLT4K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbS52YWx1ZSkgewogICAgICAgICAgaXRlbS5pbmRldGVybWluYXRlID0gZmFsc2UKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tPHNwYW4gdi1pZj0iaS5mdW5jdGlvbnMubGVuZ3RoIi0tPgogICAgICAgICAgICAgICAgICAgIDwhLS06Y2xhc3M9Ilsncm9sZS1tYW5hZ2UtbGlzdC1tZW51LXNlbGVjdC1tYWluX19ib3gnLC0tPgogICAgICAgICAgICAgIDwhLS1jYWxjQWxsU2VsZWN0Q2xhc3MoaSktLT4KICAgICAgICAgICAgICAgICAgICA8IS0tXSItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tQGNsaWNrPSJmdW5jdGlvbkFsbFNlbGVjdChpKSItLT4KICAgICAgICAgICAgICA8IS0tJmd0O8ir0aE8L3NwYW4+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChuZXdJdGVtLnZhbHVlKSB7CiAgICAgICAgICAgIG5ld0l0ZW0uaW5kZXRlcm1pbmF0ZSA9IGZhbHNlCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8IS0tPHNwYW4gOmNsYXNzPSJbJ3JvbGUtbWFuYWdlLWxpc3QtbWVudS1zZWxlY3QtbWFpbl9fYm94JywtLT4KICAgICAgICAgICAgICAgICAgICA8IS0teydyb2xlLW1hbmFnZS1saXN0LW1lbnUtc2VsZWN0LW1haW5fX2FjdGl2ZSc6IG1vZGlmeURhdGEubWVudXMubWFwKGUgPT4gZS5pZCkuaW5jbHVkZXMoaS5pZCl9XSItLT4KICAgICAgICAgICAgICAgICAgICA8IS0tQGNsaWNrPSJtZW51U2VsZWN0Q2xpY2soaSkiLS0+CiAgICAgICAgICAgICAgPCEtLSZndDstLT4KICAgICAgICAgICAgICA8IS0te3tpLm5hbWV9fS0tPgogICAgICAgICAgICAgIDwhLS08L3NwYW4+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChuZXdJdGVtKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7e3NlbGVjdEZ1bmN0aW9uc319Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChpdGVtLnZhbHVlKSB7CiAgICAgICAgICAgIGl0ZW0uaW5kZXRlcm1pbmF0ZSA9IGZhbHNlCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -848,9 +845,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>vs</entry>
         <entry>action ToggleBookmark</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
