@@ -60,6 +60,10 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GuiDesigner.CreateListener" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
@@ -107,6 +111,10 @@
   <action id="SelectNextOccurrence" />
   <action id="ShowLiveRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
+  </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
