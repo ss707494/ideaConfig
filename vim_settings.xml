@@ -255,7 +255,7 @@
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -295,9 +295,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
         <entry>action GotoAction</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action ActivateRunToolWindow</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
