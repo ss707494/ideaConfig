@@ -34,10 +34,6 @@
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="alt minus" />
   </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="EditorGutterToggleGlobalIndentLines">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
