@@ -38,7 +38,7 @@
         <mark key="^" line="9" column="32" />
         <mark key="." line="9" column="72" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1548816210193">
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1548899708011">
         <mark key="'" line="6" column="20" />
         <mark key="[" line="60" column="22" />
         <mark key="]" line="60" column="22" />
@@ -139,12 +139,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/enums/order.js" timestamp="1548414776387">
-        <mark key="'" line="95" column="14" />
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="36" column="23" />
-        <mark key="^" line="36" column="23" />
-        <mark key="." line="36" column="23" />
+      <file name="E:/code/CSHXEventSite/FE/src/common/enums/order.js" timestamp="1548899661227">
+        <mark key="'" line="83" column="11" />
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="86" column="16" />
+        <mark key="." line="86" column="16" />
+        <mark key="^" line="86" column="16" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1548232889446">
         <mark key="'" line="12" column="36" />
@@ -281,12 +281,12 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" timestamp="1548820960507">
-        <mark key="'" line="168" column="18" />
-        <mark key="[" line="167" column="20" />
-        <mark key="]" line="167" column="21" />
-        <mark key="." line="167" column="21" />
-        <mark key="^" line="167" column="21" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" timestamp="1548899816909">
+        <mark key="'" line="139" column="8" />
+        <mark key="[" line="146" column="27" />
+        <mark key="]" line="146" column="42" />
+        <mark key="." line="146" column="42" />
+        <mark key="^" line="146" column="42" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/components/FunctionSelect/index.vue" timestamp="1548324770981">
         <mark key="'" line="59" column="6" />
@@ -419,10 +419,10 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548897773924">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/Dummy.txt" timestamp="1548899672146">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" timestamp="1548215853799">
         <mark key="'" line="30" column="41" />
@@ -519,6 +519,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" timestamp="1548899021470">
+        <mark key="'" line="8" column="11" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/components/SpinComponents/index.vue" timestamp="1548057647093">
         <mark key="'" line="2" column="8" />
         <mark key="[" line="2" column="3" />
@@ -542,14 +545,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="99" column="14" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="109" column="14" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="123" column="14" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="151" column="18" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="35" column="16" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="55" column="15" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="65" column="8" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
-      <jump line="67" column="8" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
       <jump line="72" column="6" filename="E:/code/CSHXEventSite/FE/src/store/modules/user.js" />
       <jump line="4" column="4" filename="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" />
       <jump line="127" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
@@ -642,61 +637,104 @@
       <jump line="175" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="174" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="169" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
+      <jump line="9" column="11" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" />
+      <jump line="8" column="11" filename="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" />
+      <jump line="13" column="15" filename="E:/code/CSHXEventSite/FE/src/common/enums/order.js" />
+      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/common/enums/order.js" />
+      <jump line="36" column="0" filename="E:/code/CSHXEventSite/FE/src/common/enums/order.js" />
+      <jump line="82" column="16" filename="E:/code/CSHXEventSite/FE/src/common/enums/order.js" />
+      <jump line="83" column="11" filename="E:/code/CSHXEventSite/FE/src/common/enums/order.js" />
+      <jump line="139" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>订单 添加过滤条件</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VyVHlwZVR5cGVMaXN0XD4=</text>
+        <text>206</text>
       </register>
       <register name="0" type="4">
-        <text>itemsBig</text>
+        <text>this.data</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="1" type="4">
+        <text>// 订单状态 // 待支付 = 1,
+//         买家提交订单等待商家确认 = 101,
+//         商家确认接单买家待支付 = 102,
+//         买家提交订单待支付 = 103,
+//
+//         // 已支付 = 2,
+//         已支付待使用 = 201,
+//         已支付待收货 = 202, // 针对有物流的商品类型
+//         已支付待商家确认 = 203,
+//         已支付商家确认接单 = 204,
+//         已支付商家超时未确认 = 205,
+//         买家申请退款 = 206,
+//         商家审核通过待退款 = 207,
+//         商家拒绝退款 = 208,  // 只用于记录退款拒绝这个操作，不用在订单状态里
+//         管理员拒绝退款 = 209,
+//         退款处理中 = 210,   //重构后暂停使用
+//         退款失败 = 211,
+//         商家退款处理中 = 212,
+//         管理员线上退款处理中 = 213,
+//         管理员线下退款处理中 = 214,
+//
+//         // 已完成 = 3,
+//         商家确认完成 = 301,
+//         系统自动完成 = 302, // 过了使用日期的最后一天
+//         买家确认完成 = 303,
+//         手工开单完成 = 304,
+//         财务确认完成 = 305,
+//         结算中 = 306,
+//         已结算 = 307,
+//
+//         // 已关闭 = 4,
+//         买家支付超时 = 401,
+//         买家取消订单 = 402,
+//         商家拒绝接单 = 403, // 针对101（买家提交订单等待商家确认）的情况
+//         商家确认超时 = 404, // 针对101（买家提交订单等待商家确认）的情况
+//         退款成功 = 405,
+//         商家取消订单 = 406,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Ly8gtqm1pde0zKwgLy8gtP3Wp7i2ID0gMSwKLy8gICAgICAgICDC8rzSzOG9u7aptaW1yLT9ycy80si3yM8gPSAxMDEsCi8vICAgICAgICAgycy80si3yM+907WlwvK80rT91qe4tiA9IDEwMiwKLy8gICAgICAgICDC8rzSzOG9u7aptaW0/danuLYgPSAxMDMsCi8vCi8vICAgICAgICAgLy8g0tHWp7i2ID0gMiwKLy8gICAgICAgICDS0danuLa0/cq508MgPSAyMDEsCi8vICAgICAgICAg0tHWp7i2tP3K1bv1ID0gMjAyLCAvLyDV67bU09DO78H3tcTJzMa3wODQzQovLyAgICAgICAgINLR1qe4trT9ycy80si3yM8gPSAyMDMsCi8vICAgICAgICAg0tHWp7i2ycy80si3yM+907WlID0gMjA0LAovLyAgICAgICAgINLR1qe4tsnMvNKzrMqxzrTIt8jPID0gMjA1LAovLyAgICAgICAgIMLyvNLJ6sfrzcu/7iA9IDIwNiwKLy8gICAgICAgICDJzLzSyfO6y82ouf20/c3Lv+4gPSAyMDcsCi8vICAgICAgICAgycy80r7cvvjNy7/uID0gMjA4LCAgLy8g1rvTw9PavMfCvM3Lv+6+3L741eK49rLZ1/ejrLK708PU2raptaXXtMyswO8KLy8gICAgICAgICC53MDt1LG+3L74zcu/7iA9IDIwOSwKLy8gICAgICAgICDNy7/utKbA7dbQID0gMjEwLCAgIC8v1ti5ubrz1N3No8q508MKLy8gICAgICAgICDNy7/uyqew3CA9IDIxMSwKLy8gICAgICAgICDJzLzSzcu/7rSmwO3W0CA9IDIxMiwKLy8gICAgICAgICC53MDt1LHP38nPzcu/7rSmwO3W0CA9IDIxMywKLy8gICAgICAgICC53MDt1LHP38/Czcu/7rSmwO3W0CA9IDIxNCwKLy8KLy8gICAgICAgICAvLyDS0c3qs8kgPSAzLAovLyAgICAgICAgIMnMvNLIt8jPzeqzySA9IDMwMSwKLy8gICAgICAgICDPtc2z19S2r83qs8kgPSAzMDIsIC8vILn9wcvKudPDyNXG2rXE1+6689K7zOwKLy8gICAgICAgICDC8rzSyLfIz83qs8kgPSAzMDMsCi8vICAgICAgICAgyta5pL+qtaXN6rPJID0gMzA0LAovLyAgICAgICAgILLGzvHIt8jPzeqzySA9IDMwNSwKLy8gICAgICAgICC94cvj1tAgPSAzMDYsCi8vICAgICAgICAg0tG94cvjID0gMzA3LAovLwovLyAgICAgICAgIC8vINLRudix1SA9IDQsCi8vICAgICAgICAgwvK80tanuLazrMqxID0gNDAxLAovLyAgICAgICAgIMLyvNLIoc/7tqm1pSA9IDQwMiwKLy8gICAgICAgICDJzLzSvty++L3TtaUgPSA0MDMsIC8vINXrttQxMDGjqMLyvNLM4b27tqm1pbXItP3JzLzSyLfIz6OptcTH6b/2Ci8vICAgICAgICAgycy80si3yM+zrMqxID0gNDA0LCAvLyDV67bUMTAxo6jC8rzSzOG9u7aptaW1yLT9ycy80si3yM+jqbXEx+m/9govLyAgICAgICAgIM3Lv+6zybmmID0gNDA1LAovLyAgICAgICAgIMnMvNLIoc/7tqm1pSA9IDQwNiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJvbGVMaXN0QnlUeXBlID0gewogICAgICAgICAgLi4udGhpcy5yb2xlTGlzdEJ5VHlwZSwKICAgICAgICAgIFt0eXBlXTogaXRlbXMKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJvbGVMaXN0QnlUeXBlID0gewogICAgICAgICAgLi4udGhpcy5yb2xlTGlzdEJ5VHlwZSwKICAgICAgICAgIFt0eXBlXTogaXRlbXMKICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHR5cGU6IGAke3RoaXMuZGV0YWlsRGF0YS50eXBlIHx8ICcnfWAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgJGNvbG9yLWdyYXktNjAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHR5cGU6IGAke3RoaXMuZGV0YWlsRGF0YS50eXBlIHx8ICcnfWAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWZsZXg7CiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VyVHlwZVR5cGVMaXN0XD4=</last-search>
+      <last-search>206</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VyVHlwZVR5cGVMaXN0XD4=</last-pattern>
+      <last-pattern>206</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmdW5jdGlvbkxpc3RCeVR5cGVcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVUb2tlblw+</entry>
         <entry encoding="base64">XDxzZXNzaW9uU3RvcmFnZVw+</entry>
         <entry encoding="base64">XDxsb2FkaW5nRnVuY3Rpb25cPg==</entry>
@@ -716,6 +754,7 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>init</entry>
         <entry encoding="base64">XDx1c2VyVHlwZVR5cGVMaXN0XD4=</entry>
+        <entry>206</entry>
       </history-search>
       <history-cmd>
         <entry>action ActivateRunToolWindow</entry>
@@ -724,8 +763,8 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
