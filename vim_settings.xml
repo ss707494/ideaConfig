@@ -278,7 +278,7 @@
         <mark key="." line="1" column="12" />
         <mark key="^" line="1" column="12" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" timestamp="1548913291059">
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" timestamp="1548913370768">
         <mark key="'" line="33" column="61" />
         <mark key="[" line="188" column="13" />
         <mark key="]" line="188" column="28" />
@@ -306,11 +306,11 @@
         <mark key="." line="20" column="6" />
         <mark key="^" line="20" column="6" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" timestamp="1548902001796">
-        <mark key="'" line="97" column="6" />
-        <mark key="[" line="90" column="29" />
-        <mark key="]" line="90" column="29" />
-        <mark key="." line="90" column="29" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" timestamp="1548916577732">
+        <mark key="'" line="98" column="28" />
+        <mark key="[" line="99" column="37" />
+        <mark key="]" line="99" column="38" />
+        <mark key="." line="99" column="38" />
         <mark key="^" line="90" column="29" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/components/Detail/index.vue" timestamp="1548751616169">
@@ -367,12 +367,12 @@
         <mark key="]" line="1" column="24" />
         <mark key="." line="1" column="22" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548903405199">
-        <mark key="'" line="182" column="21" />
-        <mark key="[" line="188" column="62" />
-        <mark key="]" line="188" column="68" />
-        <mark key="." line="188" column="68" />
-        <mark key="^" line="188" column="68" />
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548913898528">
+        <mark key="'" line="76" column="22" />
+        <mark key="[" line="188" column="11" />
+        <mark key="]" line="188" column="10" />
+        <mark key="." line="188" column="10" />
+        <mark key="^" line="188" column="10" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.scss" timestamp="1548906317171">
         <mark key="[" line="19" column="34" />
@@ -549,14 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
-      <jump line="143" column="13" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
-      <jump line="145" column="39" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
-      <jump line="17" column="23" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
-      <jump line="91" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
-      <jump line="144" column="43" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
-      <jump line="124" column="4" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
-      <jump line="142" column="33" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="1" column="3" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.vue" />
       <jump line="28" column="38" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="29" column="29" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
@@ -649,19 +641,27 @@
       <jump line="184" column="67" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="188" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="33" column="61" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
+      <jump line="187" column="72" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="76" column="22" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="72" column="29" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
+      <jump line="89" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
+      <jump line="69" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
+      <jump line="70" column="31" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
+      <jump line="97" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
+      <jump line="98" column="28" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>[]</text>
+        <text>$color-white</text>
       </register>
       <register name="/" type="4">
         <text>删除</text>
       </register>
       <register name="0" type="4">
-        <text>this.selectRole</text>
+        <text>$color-green-500</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyBwYWdlU2l6ZTogMTAsCg==</text>
@@ -731,6 +731,7 @@
         <entry>action ToggleBookmark</entry>
         <entry>action ShowBookmarks</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
