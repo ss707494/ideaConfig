@@ -93,8 +93,8 @@
         <mark key="." line="83" column="17" />
         <mark key="^" line="83" column="17" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo-other/src/index.js" timestamp="1549004393340">
-        <mark key="'" line="31" column="6" />
+      <file name="E:/ss_code/react-hooks-demo-other/src/index.js" timestamp="1549004423060">
+        <mark key="'" line="31" column="14" />
         <mark key="[" line="31" column="14" />
         <mark key="]" line="31" column="33" />
         <mark key="." line="31" column="33" />
@@ -329,7 +329,7 @@
       <jump line="39" column="56" filename="E:/ss_code/react-hooks-demo-other/src/index.js" />
       <jump line="6" column="10" filename="E:/ss_code/react-hooks-demo-other/src/index.js" />
       <jump line="30" column="0" filename="E:/ss_code/react-hooks-demo-other/src/index.js" />
-      <jump line="31" column="6" filename="E:/ss_code/react-hooks-demo-other/src/index.js" />
+      <jump line="31" column="14" filename="E:/ss_code/react-hooks-demo-other/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,7 +339,7 @@
         <text>IS_REACT_SPRING_2_VISIBLE</text>
       </register>
       <register name="/" type="4">
-        <text>hist</text>
+        <text encoding="base64">XDxJU19VU0VfU1RBVEVfVklTSUJMRVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVklTSUJMRS5JU19SRUFDVF9TUFJJTkdfMl9WSVNJQkxFLAo=</text>
@@ -372,19 +372,18 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>hist</last-search>
+      <last-search encoding="base64">XDxJU19VU0VfU1RBVEVfVklTSUJMRVw+</last-search>
       <last-offset />
-      <last-pattern>hist</last-pattern>
+      <last-pattern encoding="base64">XDxJU19VU0VfU1RBVEVfVklTSUJMRVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyVHlwZVR5cGVMaXN0XD4=</entry>
         <entry>206</entry>
         <entry encoding="base64">XDxzZWxlY3RSb2xlXD4=</entry>
         <entry encoding="base64">XDxtZW51TGlzdFw+</entry>
@@ -404,6 +403,7 @@
         <entry>alias</entry>
         <entry>hook</entry>
         <entry>hist</entry>
+        <entry encoding="base64">XDxJU19VU0VfU1RBVEVfVklTSUJMRVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -412,9 +412,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
