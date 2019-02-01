@@ -74,9 +74,13 @@
           <option name="url" value="https://31pd.31huiyi.com/git/All/Evma_base.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/adeelibr/react-hooks-demo.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\coder" />
+    <option name="cloneParentDir" value="E:\ss_code" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
