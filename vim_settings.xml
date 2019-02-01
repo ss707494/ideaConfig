@@ -408,7 +408,7 @@
         <mark key="." line="11" column="58" />
         <mark key="^" line="11" column="58" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548924267122">
+      <file name="/Dummy.txt" timestamp="1548925786823">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -488,6 +488,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/store/modules/menu.js" timestamp="1548927644614">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/api/menuManage/index.js" timestamp="1548328958653">
         <mark key="'" line="17" column="13" />
@@ -644,16 +649,16 @@
         <text encoding="base64">ICAgICAgbG9hZGluZ0RldGFpbDogZmFsc2UsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC78cihb23Ptc2zssu1pQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXRlbXMubGVuZ3RoKSB7CiAgICAgICAgICB0aGlzLmVkaXRNZW51KGl0ZW1zPy5bMF0pCiAgICAgICAgICB0aGlzLmdldE1lbnVGdW5jdGlvbkxpc3QodGhpcy5xdWVyeS50eXBlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICB0aGlzLm1vZGlmeURhdGEgPSB7fQogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNzID0gJycK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaXRlbXMubGVuZ3RoKSB7CiAgICAgICAgICB0aGlzLmVkaXRNZW51KGl0ZW1zPy5bMF0pCiAgICAgICAgICB0aGlzLmdldE1lbnVGdW5jdGlvbkxpc3QodGhpcy5xdWVyeS50eXBlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICB0aGlzLm1vZGlmeURhdGEgPSB7fQogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNzID0gJycK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
@@ -665,13 +670,13 @@
         <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tyb2xlVHlwZU9wZW5lZH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tpLnR5cGV9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge3tyb2xlVHlwZU9wZW5lZH19Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -711,9 +716,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateRunToolWindow</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
