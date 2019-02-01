@@ -159,12 +159,12 @@
       <file name="/JavaScript Console" timestamp="1548987738322">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1548999838632">
-        <mark key="'" line="2" column="23" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="24" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="17" />
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549000855183">
+        <mark key="'" line="0" column="26" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
       </file>
       <file name="E:/ss_code/react-hooks-demo-other/node_modules/react/package.json" timestamp="1548999415911" />
       <file name="/Dummy.txt" timestamp="1548992255073">
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="153" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="94" column="14" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
       <jump line="95" column="15" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" />
@@ -312,6 +311,7 @@
       <jump line="9" column="20" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="2" column="23" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
+      <jump line="0" column="26" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -324,7 +324,7 @@
         <text>hist</text>
       </register>
       <register name="0" type="4">
-        <text>Greeting</text>
+        <text>useEffect</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0ICBmcm9tICdyZWFjdCc7Cg==</text>
