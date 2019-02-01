@@ -175,6 +175,13 @@
         <mark key="." line="33" column="30" />
         <mark key="^" line="33" column="30" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1548988566434">
+        <mark key="'" line="5" column="28" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/router.js" timestamp="1548153195039">
         <mark key="'" line="6" column="4" />
         <mark key="[" line="7" column="14" />
@@ -244,6 +251,9 @@
         <mark key="]" line="0" column="45" />
         <mark key="." line="8" column="27" />
         <mark key="^" line="8" column="27" />
+      </file>
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1548987961402">
+        <mark key="'" line="18" column="6" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/functionManage/components/Detail/index.vue" timestamp="1548924194260">
         <mark key="'" line="2" column="0" />
@@ -360,12 +370,6 @@
         <mark key="." line="188" column="10" />
         <mark key="^" line="188" column="10" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.scss" timestamp="1548906317171">
-        <mark key="[" line="19" column="34" />
-        <mark key="]" line="19" column="34" />
-        <mark key="^" line="19" column="34" />
-        <mark key="." line="19" column="34" />
-      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/layout/BasicLayout/index.scss" timestamp="1547709859486">
         <mark key="'" line="1" column="12" />
         <mark key="[" line="1" column="1" />
@@ -387,12 +391,22 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
+      <file name="/JavaScript Console" timestamp="1548987738322">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/fundAccount/settlement/detail/index.vue" timestamp="1548746588871">
         <mark key="'" line="20" column="63" />
         <mark key="[" line="20" column="38" />
         <mark key="]" line="20" column="64" />
         <mark key="." line="20" column="38" />
         <mark key="^" line="25" column="11" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1548989297761">
+        <mark key="'" line="3" column="16" />
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
       </file>
       <file name="D:/coder/N-31Om/src/apps/router/index.js" timestamp="1547620143505">
         <mark key="'" line="24" column="8" />
@@ -532,18 +546,15 @@
         <mark key="." line="105" column="0" />
         <mark key="^" line="104" column="18" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1548989482075">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="18" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="214" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="291" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="40" column="30" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="344" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="196" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="293" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="345" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="203" column="12" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="204" column="19" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="83" column="35" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="317" column="8" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="347" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
@@ -634,62 +645,70 @@
       <jump line="302" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="143" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
       <jump line="144" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
+      <jump line="5" column="4" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="18" column="6" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="5" column="28" filename="E:/ss_code/react-hooks-demo/package.json" />
+      <jump line="17" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="19" column="22" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="4" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="6" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="3" column="16" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>loading</text>
+        <text>, { Component }</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkaW5nRGV0YWlsXD4=</text>
+        <text encoding="base64">XDxSYW5kb21EaWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9hZGluZ0RldGFpbDogZmFsc2UsCg==</text>
+      <register name="0" type="4">
+        <text>Example</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC78cihb23Ptc2zssu1pQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPEV4YW1wbGUvPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaXRlbXMubGVuZ3RoKSB7CiAgICAgICAgICB0aGlzLmVkaXRNZW51KGl0ZW1zPy5bMF0pCiAgICAgICAgICB0aGlzLmdldE1lbnVGdW5jdGlvbkxpc3QodGhpcy5xdWVyeS50eXBlKQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICB0aGlzLm1vZGlmeURhdGEgPSB7fQogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHNzID0gJycK</text>
+        <text encoding="base64">ZnVuY3Rpb24gRXhhbXBsZSgpIHsKICAvLyBEZWNsYXJlIGEgbmV3IHN0YXRlIHZhcmlhYmxlLCB3aGljaCB3ZSdsbCBjYWxsICJjb3VudCIKICBjb25zdCBbY291bnQsIHNldENvdW50XSA9IHVzZVN0YXRlKDApOwoKICByZXR1cm4gKAogICAgICA8ZGl2PgogICAgICAgIHNkZgogICAgICAgIHsvKjxwPllvdSBjbGlja2VkIHtjb3VudH0gdGltZXM8L3A+Ki99CiAgICAgICAgey8qPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBzZXRDb3VudChjb3VudCArIDEpfT4qL30KICAgICAgICB7LypDbGljayBtZSovfQogICAgICAgIHsvKjwvYnV0dG9uPiovfQogICAgICA8L2Rpdj4KICApOwp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbWcgc3JjPXtsb2dvfSBjbGFzc05hbWU9IkFwcC1sb2dvIiBhbHQ9ImxvZ28iIC8+CiAgICAgICAgICA8cD4KICAgICAgICAgICAgRWRpdCA8Y29kZT5zcmMvQXBwLmpzPC9jb2RlPiBhbmQgc2F2ZSB0byByZWxvYWQuCiAgICAgICAgICA8L3A+CiAgICAgICAgICA8YQogICAgICAgICAgICBjbGFzc05hbWU9IkFwcC1saW5rIgogICAgICAgICAgICBocmVmPSJodHRwczovL3JlYWN0anMub3JnIgogICAgICAgICAgICB0YXJnZXQ9Il9ibGFuayIKICAgICAgICAgICAgcmVsPSJub29wZW5lciBub3JlZmVycmVyIgogICAgICAgICAgPgogICAgICAgICAgICBMZWFybiBSZWFjdAogICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGVzbGludC1kaXNhYmxlLW5leHQtbGluZQo=</text>
+        <text encoding="base64">aW1wb3J0IGxvZ28gZnJvbSAnLi9sb2dvLnN2Zyc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge3tyb2xlVHlwZU9wZW5lZH19Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkaW5nRGV0YWlsXD4=</last-search>
+      <last-search encoding="base64">XDxSYW5kb21EaWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkaW5nRGV0YWlsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxSYW5kb21EaWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>__check</entry>
-        <entry encoding="base64">XDxjaGVja1BsYXRmb3JtXD4=</entry>
         <entry>debu</entry>
         <entry encoding="base64">XDxyb2xlSXRlbUNsaWNrXD4=</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
@@ -708,6 +727,8 @@
         <entry>await</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nRGV0YWlsXD4=</entry>
+        <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
+        <entry encoding="base64">XDxSYW5kb21EaWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
@@ -716,9 +737,9 @@
         <entry>action ShowBookmarks</entry>
         <entry>action GotoAction</entry>
         <entry>action ActivateRunToolWindow</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
