@@ -1,61 +1,61 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="A unified platform for anti-censorship. " />
-      <item value="Permission denied" />
-      <item value="complete" />
-      <item value="completeTime" />
-      <item value="cmpleteTime" />
-      <item value="精确" />
-      <item value="Emitter" />
-      <item value="偏移" />
-      <item value="template" />
-      <item value="templ" />
-      <item value="订单支付" />
-      <item value="支付" />
-      <item value="退款" />
-      <item value="提现" />
-      <item value="结算" />
-      <item value="transaction" />
-      <item value="income" />
-      <item value="refund" />
-      <item value="总支出金额" />
-      <item value="总收入金额" />
-      <item value="帐户余额" />
-      <item value="账户收支" />
-      <item value="收支明细" />
-      <item value="multiple-cursors" />
-      <item value="圆" />
-      <item value="sdf" />
-      <item value="general" />
-      <item value="普通" />
-      <item value="账户" />
-      <item value="资金" />
-      <item value="product" />
-      <item value="商品" />
-      <item value="待结算" />
+      <item value="高亮" />
+      <item value="__highlight" />
+      <item value="ternary" />
+      <item value="single" />
+      <item value="refresh" />
+      <item value="platform" />
+      <item value="平台" />
+      <item value="验证码" />
+      <item value="辅助" />
+      <item value="展开" />
+      <item value="ambiguously" />
+      <item value="cancel" />
+      <item value="cancle" />
+      <item value="manage" />
+      <item value="管理" />
+      <item value="菜单" />
+      <item value="contrast" />
+      <item value="比较" />
+      <item value="show" />
+      <item value="演示" />
+      <item value="continued" />
+      <item value="持续" />
+      <item value="resolve" />
+      <item value="分解" />
+      <item value="计算" />
+      <item value="grey" />
+      <item value="权限" />
+      <item value="auoth" />
+      <item value="auth" />
+      <item value="autho" />
+      <item value="无权限" />
+      <item value="省份" />
+      <item value="论坛" />
+      <item value="origin" />
+      <item value="原始" />
+      <item value="form Data" />
+      <item value="Expected an assignment or function call and instead saw an expression." />
+      <item value="destructuring" />
+      <item value="form Component" />
+      <item value="package" />
+      <item value="组件" />
+      <item value="operate" />
+      <item value="操作" />
+      <item value="数据看板" />
       <item value="取消" />
-      <item value="完成" />
-      <item value="进行中" />
-      <item value="到账" />
-      <item value="已到账金额" />
-      <item value="描述" />
-      <item value="转账记录" />
-      <item value="转账" />
-      <item value="duration" />
-      <item value="background" />
-      <item value="大会内容" />
-      <item value="大会亮点" />
-      <item value="合作" />
-      <item value="供应商" />
-      <item value="超级管理员" />
-      <item value="系统账号" />
-      <item value="wraps" />
+      <item value="会刊" />
+      <item value="offer" />
+      <item value="offere" />
+      <item value="公司信息" />
+      <item value="企业信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="58" />
-        <entry key="ENGLISH" value="58" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
       </map>
     </option>
   </component>
