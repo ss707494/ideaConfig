@@ -109,7 +109,7 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="47" />
       </file>
-      <file name="D:/coder/vux/src/styles/weui/widget/weui_cell/weui_cell_global.less" timestamp="1544960822346">
+      <file name="D:/coder/vux/src/styles/weui/widget/weui_cell/weui_cell_global.less" timestamp="1548473727643">
         <mark key="'" line="47" column="18" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/ListTab/index.vue" timestamp="1545123806951">
@@ -609,13 +609,6 @@
       <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545121241148">
         <mark key="'" line="16" column="16" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1545017832086">
-        <mark key="'" line="275" column="0" />
-        <mark key="[" line="275" column="0" />
-        <mark key="]" line="275" column="17" />
-        <mark key="^" line="259" column="16" />
-        <mark key="." line="275" column="0" />
-      </file>
       <file name="D:/coder/ss_code/vueSwipe/demo/src/App.vue" timestamp="1544237367306">
         <mark key="'" line="53" column="4" />
         <mark key="[" line="21" column="17" />
@@ -793,7 +786,7 @@
         <text encoding="base64">ICAgICAgZS50YXJnZXQudmFsdWUgPSB0aGlzLmN1cnJlbnRWYWx1ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -845,8 +838,8 @@
         <entry>vs</entry>
         <entry>action GotoAction</entry>
         <entry>action RecentFiles</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
