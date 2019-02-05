@@ -3,910 +3,142 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/ss707494/code/gl_CMPHWeb/src/routes/ChineseIdentify/ChineseIdentifyQuery/index.js" timestamp="1535356258717">
-        <mark key="'" line="51" column="47" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Business/style.less" timestamp="1535353720349">
-        <mark key="'" line="51" column="6" />
-        <mark key="[" line="49" column="31" />
-        <mark key="]" line="49" column="31" />
-        <mark key="." line="49" column="31" />
-        <mark key="^" line="49" column="31" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/User/Register.js" timestamp="1535441821724">
-        <mark key="'" line="101" column="18" />
-        <mark key="[" line="101" column="25" />
-        <mark key="]" line="101" column="38" />
-        <mark key="." line="101" column="38" />
-        <mark key="^" line="101" column="38" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/index.vue" timestamp="1545016178440">
-        <mark key="'" line="27" column="4" />
-      </file>
-      <file name="C:/ss707494/code/gl_CMPHWeb/src/utils/utils.js" timestamp="1535422723478">
-        <mark key="'" line="215" column="22" />
-        <mark key="[" line="186" column="0" />
-        <mark key="]" line="186" column="0" />
-        <mark key="^" line="219" column="34" />
-        <mark key="." line="186" column="0" />
-      </file>
-      <file name="D:/coder/ss_code/essentialFood/app/index_en.html" timestamp="1540823844561">
-        <mark key="'" line="70" column="23" />
-        <mark key="[" line="73" column="4" />
-        <mark key="]" line="73" column="9" />
-        <mark key="." line="73" column="9" />
-        <mark key="^" line="73" column="9" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" timestamp="1545184390166">
-        <mark key="'" line="30" column="38" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.vue" timestamp="1545034079111">
-        <mark key="'" line="42" column="20" />
-        <mark key="[" line="42" column="20" />
-        <mark key="]" line="42" column="45" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/utils/Authorized.js" timestamp="1535013372963">
-        <mark key="'" line="7" column="43" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" timestamp="1545191165183">
-        <mark key="'" line="8" column="29" />
-        <mark key="[" line="103" column="17" />
-        <mark key="]" line="103" column="21" />
-        <mark key="." line="103" column="21" />
-        <mark key="^" line="103" column="21" />
-      </file>
-      <file name="C:/ss707494/ss_code/dva-boot-admin/src/decorator/resizeMe.js" timestamp="1535529385782">
-        <mark key="'" line="45" column="105" />
-      </file>
-      <file name="C:/ss707494/code/ant-design-master/components/select/index.tsx" timestamp="1534843533508">
-        <mark key="'" line="76" column="2" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/build/webpack.base.conf.js" timestamp="1545129230970">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="33" column="2" />
-        <mark key="]" line="33" column="8" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Home/index.js" timestamp="1535080137638">
-        <mark key="'" line="54" column="25" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/index.scss" timestamp="1545126678715">
+      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1549375291139" />
+      <file name="F:/ss707494/app/v2ray/custom_ss.json" timestamp="1549376075773">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="145" column="22" />
-        <mark key="]" line="146" column="27" />
-        <mark key="^" line="146" column="27" />
-        <mark key="." line="146" column="27" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/前端计划.md" timestamp="1535694648306">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="26" column="8" />
-        <mark key="^" line="26" column="8" />
-        <mark key="." line="26" column="8" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/User/Register.less" timestamp="1535439705288">
-        <mark key="'" line="102" column="61" />
-        <mark key="[" line="105" column="42" />
-        <mark key="]" line="106" column="22" />
-        <mark key="^" line="106" column="22" />
-        <mark key="." line="106" column="22" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/User/Login.js" timestamp="1535525168924">
-        <mark key="'" line="66" column="18" />
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="66" column="33" />
-        <mark key="^" line="72" column="59" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/models/business.js" timestamp="1535521876893">
-        <mark key="'" line="7" column="14" />
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="^" line="45" column="82" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/config/host.js" timestamp="1545028379129">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="47" />
-      </file>
-      <file name="D:/coder/vux/src/styles/weui/widget/weui_cell/weui_cell_global.less" timestamp="1548473727643">
-        <mark key="'" line="47" column="18" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/ListTab/index.vue" timestamp="1545123806951">
-        <mark key="'" line="73" column="20" />
-        <mark key="[" line="76" column="16" />
-        <mark key="]" line="76" column="46" />
-        <mark key="^" line="76" column="46" />
-        <mark key="." line="76" column="46" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/system/containers/staffManage/index.vue" timestamp="1545115536498">
-        <mark key="'" line="180" column="19" />
-        <mark key="[" line="179" column="20" />
-        <mark key="]" line="179" column="20" />
-        <mark key="." line="179" column="20" />
-        <mark key="^" line="179" column="20" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/EditModal/index.vue" timestamp="1545126799112">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="102" column="34" />
-        <mark key="]" line="102" column="34" />
-        <mark key="." line="102" column="34" />
-        <mark key="^" line="102" column="32" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/router.js" timestamp="1535425478522">
-        <mark key="[" line="23" column="25" />
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" timestamp="1545188418541">
-        <mark key="'" line="16" column="12" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/chrome/bookmarks" timestamp="1535093419296">
-        <mark key="'" line="18" column="18" />
-      </file>
-      <file name="C:/ss707494/code/gl_CMPHWeb/src/utils/request.js" timestamp="1535337363340">
-        <mark key="'" line="52" column="11" />
-      </file>
-      <file name="C:/ss707494/ss_code/essentialFood/app/styles/main.scss" timestamp="1538367675586">
-        <mark key="[" line="64" column="11" />
-        <mark key="]" line="64" column="11" />
-        <mark key="." line="64" column="11" />
-        <mark key="^" line="64" column="11" />
-      </file>
-      <file name="C:/ss707494/ss_code/essentialFood/app/scripts/main.js" timestamp="1538367653027">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="89" column="14" />
-        <mark key="]" line="89" column="36" />
-        <mark key="." line="89" column="36" />
-        <mark key="^" line="89" column="36" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/ConfirmSave/index.vue" timestamp="1545016192145">
-        <mark key="'" line="1" column="3" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/models/email.js" timestamp="1535525530456">
-        <mark key="'" line="73" column="21" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
-        <mark key="^" line="75" column="80" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementList/index.vue" timestamp="1545125555712">
-        <mark key="'" line="252" column="105" />
-        <mark key="[" line="46" column="35" />
-        <mark key="]" line="46" column="36" />
-        <mark key="." line="46" column="36" />
-        <mark key="^" line="36" column="35" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/index.js" timestamp="1545188196574">
-        <mark key="'" line="5" column="15" />
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="5" column="9" />
-        <mark key="." line="5" column="9" />
-        <mark key="^" line="5" column="9" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Business/modal.js" timestamp="1535438932075">
-        <mark key="'" line="72" column="39" />
-        <mark key="[" line="72" column="39" />
-        <mark key="]" line="72" column="55" />
-        <mark key="." line="136" column="108" />
-        <mark key="^" line="136" column="108" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/UserManage/manager/UserManageView.js" timestamp="1535423683324">
-        <mark key="'" line="140" column="64" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/index.scss" timestamp="1545126097649">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="3" />
-        <mark key="^" line="10" column="19" />
-        <mark key="." line="10" column="19" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" timestamp="1545125415138">
-        <mark key="'" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="9" column="3" />
-        <mark key="." line="7" column="2" />
-        <mark key="^" line="8" column="20" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" timestamp="1545126421351">
-        <mark key="'" line="17" column="0" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/ModalPop/index.js" timestamp="1535521201214">
-        <mark key="'" line="16" column="105" />
-        <mark key="[" line="16" column="106" />
-        <mark key="]" line="16" column="109" />
-        <mark key="^" line="16" column="109" />
-        <mark key="." line="16" column="109" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/api/design/model.js" timestamp="1545183042360">
-        <mark key="'" line="200" column="6" />
-      </file>
-      <file name="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.scss" timestamp="1542549199471">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="21" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Email/modal.js" timestamp="1535697771112">
-        <mark key="[" line="171" column="0" />
-        <mark key="]" line="171" column="0" />
-        <mark key="." line="171" column="0" />
-      </file>
-      <file name="C:/ss707494/code/ant-design-master/components/tooltip/index.tsx" timestamp="1535507139197">
-        <mark key="'" line="159" column="2" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" timestamp="1545124878285">
-        <mark key="'" line="148" column="25" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="40" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="130" column="38" />
-      </file>
-      <file name="C:/ss707494/code/gl_CMPHWeb/src/components/StandardTable/index.js" timestamp="1535353427994">
-        <mark key="'" line="66" column="41" />
-      </file>
-      <file name="E:/code/FECodeReview/src/examples/inputNumber.vue" timestamp="1545131145040">
-        <mark key="'" line="33" column="29" />
-        <mark key="[" line="61" column="8" />
-        <mark key="]" line="61" column="19" />
-        <mark key="^" line="61" column="19" />
-        <mark key="." line="61" column="19" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/components/Base/index.vue" timestamp="1545188964487">
-        <mark key="'" line="56" column="22" />
-        <mark key="[" line="56" column="30" />
-        <mark key="]" line="56" column="48" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/api/view/index.js" timestamp="1545028301658">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="38" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/index.vue" timestamp="1545036663571">
-        <mark key="'" line="31" column="10" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" timestamp="1545132078597">
-        <mark key="'" line="0" column="41" />
-        <mark key="[" line="114" column="3" />
-        <mark key="]" line="116" column="19" />
-        <mark key="." line="116" column="19" />
-        <mark key="^" line="116" column="19" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.vue" timestamp="1545121354725">
-        <mark key="'" line="127" column="9" />
-        <mark key="[" line="85" column="12" />
-        <mark key="]" line="85" column="12" />
-        <mark key="." line="85" column="12" />
-        <mark key="^" line="79" column="31" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/NoticeModal/index.js" timestamp="1535089232134">
-        <mark key="'" line="6" column="23" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" timestamp="1545124150685">
-        <mark key="'" line="7" column="43" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/utils/request.js" timestamp="1535337869365">
-        <mark key="'" line="46" column="19" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="47" column="27" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="D:/coder/iview/src/components/input-number/input-number.vue" timestamp="1545107402069">
-        <mark key="'" line="247" column="26" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/Login/index.js" timestamp="1535012616620">
-        <mark key="'" line="84" column="6" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" timestamp="1545199697381">
-        <mark key="'" line="125" column="9" />
-        <mark key="[" line="122" column="24" />
-        <mark key="]" line="123" column="11" />
-        <mark key="." line="123" column="11" />
-        <mark key="^" line="123" column="11" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/SiderMenu/SiderMenu.js" timestamp="1534409218535">
-        <mark key="'" line="79" column="19" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/enums/settlement.js" timestamp="1545038316831">
-        <mark key="'" line="9" column="16" />
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="34" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" timestamp="1545198215254">
-        <mark key="'" line="45" column="32" />
-        <mark key="[" line="42" column="14" />
-        <mark key="]" line="45" column="33" />
-        <mark key="." line="42" column="14" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" timestamp="1545125849339">
-        <mark key="'" line="6" column="2" />
-        <mark key="[" line="153" column="15" />
-        <mark key="]" line="153" column="17" />
-        <mark key="^" line="153" column="17" />
-        <mark key="." line="153" column="17" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/router.js" timestamp="1545036657459">
-        <mark key="'" line="25" column="50" />
-      </file>
-      <file name="E:/ss_code/element/packages/input-number/src/input-number.vue" timestamp="1545132500028">
-        <mark key="'" line="47" column="32" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/models/register.js" timestamp="1535441613249">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="30" column="8" />
-        <mark key="]" line="30" column="14" />
-        <mark key="." line="30" column="14" />
-        <mark key="^" line="30" column="14" />
-      </file>
-      <file name="D:/coder/vux/src/components/x-number/index.vue" timestamp="1545120694020">
-        <mark key="'" line="95" column="18" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="807" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/account/list/index.vue" timestamp="1545115708896">
-        <mark key="'" line="161" column="20" />
-        <mark key="[" line="161" column="20" />
-        <mark key="]" line="161" column="41" />
-      </file>
-      <file name="D:/coder/ss_code/essentialFood/.gitignore" timestamp="1538401868192">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/index.vue" timestamp="1545100425279">
-        <mark key="'" line="20" column="32" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/reachedAmountList/index.vue" timestamp="1545127477944">
-        <mark key="'" line="6" column="13" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/config/host.local.js" timestamp="1545028755767">
-        <mark key="'" line="1" column="42" />
-        <mark key="[" line="1" column="43" />
-        <mark key="]" line="1" column="43" />
-        <mark key="." line="1" column="43" />
-        <mark key="^" line="1" column="43" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/SiderMenu/index.js" timestamp="1534407577189">
-        <mark key="'" line="20" column="6" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/.ideavimrc" timestamp="1542444533590">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/index.less" timestamp="1535522002700">
-        <mark key="'" line="153" column="5" />
-        <mark key="[" line="161" column="38" />
-        <mark key="]" line="161" column="55" />
-        <mark key="^" line="161" column="55" />
-        <mark key="." line="161" column="55" />
-      </file>
-      <file name="C:/ss707494/ss_code/study_record/数组扁平.md" timestamp="1535677862241">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="19" />
-        <mark key="." line="4" column="19" />
-        <mark key="^" line="4" column="19" />
-      </file>
-      <file name="D:/coder/ss_code/essentialFood/app/styles/main.scss" timestamp="1541320050420">
-        <mark key="'" line="100" column="14" />
-        <mark key="[" line="102" column="16" />
-        <mark key="]" line="103" column="24" />
-        <mark key="." line="103" column="24" />
-        <mark key="^" line="103" column="24" />
-      </file>
-      <file name="E:/code/vant/packages/stepper/index.vue" timestamp="1545120892823">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="90" column="6" />
-      </file>
-      <file name="D:/coder/ss_code/essentialFood/app/index.html" timestamp="1540724735754">
-        <mark key="'" line="70" column="24" />
-        <mark key="[" line="70" column="11" />
-        <mark key="]" line="70" column="11" />
-        <mark key="." line="70" column="11" />
-        <mark key="^" line="70" column="24" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/Header/index.vue" timestamp="1545032547497">
-        <mark key="'" line="9" column="25" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/Authorized/CheckPermissions.js" timestamp="1535013906347">
-        <mark key="'" line="1" column="41" />
-      </file>
-      <file name="C:/ss707494/ss_code/react-webpack-server-side-example/server/index.js" timestamp="1535010231541">
-        <mark key="'" line="11" column="26" />
-      </file>
-      <file name="D:/coder/ss_code/essentialFood/app/scripts/main.js" timestamp="1538642623907">
-        <mark key="'" line="88" column="13" />
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="89" column="36" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" timestamp="1545125763766">
-        <mark key="'" line="43" column="53" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/config/host.js" timestamp="1545028408730">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="43" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/List/index.vue" timestamp="1545126780680">
-        <mark key="'" line="60" column="13" />
-      </file>
-      <file name="C:/ss707494/code/gl_CMPHWeb/src/routes/Interaction/TechnicalGuidanceForTeacher/Modal.js" timestamp="1535591986118">
-        <mark key="'" line="513" column="116" />
-        <mark key="[" line="513" column="121" />
-        <mark key="]" line="510" column="38" />
-        <mark key="^" line="510" column="38" />
-        <mark key="." line="510" column="38" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundList/index.vue" timestamp="1545037132795">
-        <mark key="'" line="96" column="46" />
-      </file>
-      <file name="E:/code/FECodeReview/src/examples/swipe.vue" timestamp="1545185752481">
-        <mark key="[" line="45" column="12" />
-        <mark key="]" line="45" column="13" />
-        <mark key="." line="45" column="13" />
-        <mark key="^" line="45" column="13" />
-      </file>
-      <file name="C:/ss707494/code/ant-design-master/components/modal/index.zh-CN.md" timestamp="1534728997737">
-        <mark key="'" line="33" column="25" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/index.ejs" timestamp="1535099039924">
-        <mark key="'" line="7" column="9" />
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="11" column="16" />
-        <mark key="^" line="11" column="16" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Email/index.js" timestamp="1535524958451">
-        <mark key="'" line="26" column="124" />
-        <mark key="[" line="27" column="85" />
-        <mark key="]" line="27" column="86" />
-        <mark key="." line="27" column="86" />
-        <mark key="^" line="27" column="138" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.scss" timestamp="1545098307731">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="4" column="33" />
-      </file>
-      <file name="C:/ss707494/code/gl_BHWeb/src/components/NewLogin/index.js" timestamp="1534313812618">
-        <mark key="'" line="75" column="18" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SPage/index.vue" timestamp="1545030693426">
-        <mark key="'" line="25" column="30" />
-      </file>
-      <file name="E:/code/FECodeReview/src/packages/swipe/src/index.vue" timestamp="1545198953714">
-        <mark key="'" line="103" column="15" />
-      </file>
-      <file name="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" timestamp="1545131262651">
-        <mark key="'" line="77" column="6" />
-        <mark key="[" line="77" column="23" />
-        <mark key="]" line="77" column="24" />
-        <mark key="." line="77" column="24" />
-        <mark key="^" line="77" column="24" />
-      </file>
-      <file name="D:/coder/vux/src/styles/weui/base/mixin/setOnepx.less" timestamp="1544952581042">
-        <mark key="'" line="0" column="1" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/layouts/BasicLayout.js" timestamp="1535505728368">
-        <mark key="'" line="350" column="62" />
-        <mark key="[" line="340" column="26" />
-        <mark key="]" line="340" column="25" />
-        <mark key="." line="340" column="25" />
-        <mark key="^" line="340" column="25" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/.eslintrc.js" timestamp="1534839838831">
-        <mark key="'" line="40" column="9" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/Bookmarks" timestamp="1535102628497">
-        <mark key="'" line="4991" column="22" />
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-      </file>
-      <file name="E:/code/FECodeReview/src/packages/inputNumber/src/index.scss" timestamp="1545182357287">
-        <mark key="'" line="48" column="4" />
-        <mark key="[" line="47" column="18" />
-        <mark key="]" line="47" column="26" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="26" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/components/SideComps/index.vue" timestamp="1545032366522">
-        <mark key="'" line="2" column="16" />
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="31" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/GlobalHeader/index.js" timestamp="1534916799203">
-        <mark key="'" line="71" column="63" />
-      </file>
-      <file name="C:/ss707494/ss_code/react-webpack-server-side-example/node_modules/webpack/lib/Stats.js" timestamp="1535010172591">
-        <mark key="'" line="92" column="8" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Devices/index.vue" timestamp="1545015309974">
-        <mark key="'" line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/mostCmd" timestamp="1540724980980">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="39" column="41" />
-        <mark key="^" line="38" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1545191264000">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="D:/coder/ss_code/vueSwipe/demo/src/components/Swipe/index.vue" timestamp="1542549136589">
-        <mark key="'" line="14" column="12" />
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="17" column="43" />
-        <mark key="." line="17" column="43" />
-        <mark key="^" line="17" column="27" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/Authorized/index.js" timestamp="1535013705978">
-        <mark key="'" line="8" column="19" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/routes/Email/style.less" timestamp="1535523693764">
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="62" column="25" />
-        <mark key="^" line="62" column="25" />
-        <mark key="." line="62" column="25" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/components/Authorized/renderAuthorize.js" timestamp="1535012752694">
-        <mark key="'" line="6" column="6" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/node_modules/_react@16.4.2@react/umd/react.development.js" timestamp="1535599598466">
-        <mark key="'" line="1207" column="9" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/settlementRT.js" timestamp="1545037394331">
-        <mark key="'" line="20" column="38" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/.webpackrc.js" timestamp="1535337862360">
-        <mark key="'" line="5" column="22" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="4" column="5" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/components/Image/index.vue" timestamp="1545100287912">
-        <mark key="'" line="12" column="29" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/store/modules/page.js" timestamp="1545036103918">
-        <mark key="'" line="54" column="4" />
-      </file>
-      <file name="C:/ss707494/code/bigDataPlatform/bigDataPlatform/src/models/login.js" timestamp="1535446835600">
-        <mark key="'" line="0" column="9" />
-        <mark key="[" line="54" column="12" />
-        <mark key="]" line="54" column="12" />
-        <mark key="^" line="54" column="12" />
-        <mark key="." line="54" column="12" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" timestamp="1545187761370">
-        <mark key="'" line="135" column="48" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
-        <mark key="^" line="247" column="13" />
-      </file>
-      <file name="C:/ss707494/ss_code/essentialFood/app/index.html" timestamp="1538367585624">
-        <mark key="'" line="65" column="66" />
-        <mark key="[" line="68" column="62" />
-        <mark key="]" line="68" column="66" />
-        <mark key="." line="68" column="66" />
-        <mark key="^" line="68" column="66" />
-      </file>
-      <file name="E:/code/FECodeReview/src/packages/radio/src/index.vue" timestamp="1545013836911">
-        <mark key="'" line="73" column="13" />
-      </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Preview/index.vue" timestamp="1545121241148">
-        <mark key="'" line="16" column="16" />
-      </file>
-      <file name="D:/coder/ss_code/vueSwipe/demo/src/App.vue" timestamp="1544237367306">
-        <mark key="'" line="53" column="4" />
-        <mark key="[" line="21" column="17" />
-        <mark key="]" line="21" column="16" />
-        <mark key="." line="21" column="16" />
-        <mark key="^" line="21" column="16" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="0" column="670" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="44" column="6" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="73" column="20" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/ListTab/index.vue" />
-      <jump line="7" column="43" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/list/index.vue" />
-      <jump line="36" column="32" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="124" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" />
-      <jump line="125" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
-      <jump line="42" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.scss" />
-      <jump line="30" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.scss" />
-      <jump line="127" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" />
-      <jump line="33" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/fundDetail/index.scss" />
-      <jump line="45" column="8" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/incomeList/components/IncomeDetails/index.scss" />
-      <jump line="101" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="130" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="141" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="148" column="25" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.vue" />
-      <jump line="127" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
-      <jump line="7" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/transactionList/index.scss" />
-      <jump line="146" column="4" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" />
-      <jump line="6" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.scss" />
-      <jump line="66" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="2" column="31" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="43" column="53" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/fundAccount/fundList/index.vue" />
-      <jump line="6" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/fundAccount/index.scss" />
-      <jump line="1" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/capitalAccount/index.scss" />
-      <jump line="3" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
-      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" />
-      <jump line="86" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" />
-      <jump line="17" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/SettlementOrders/index.vue" />
-      <jump line="1" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/detail/index.scss" />
-      <jump line="42" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.scss" />
-      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/apps/business/containers/index.scss" />
-      <jump line="60" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/List/index.vue" />
-      <jump line="100" column="6" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/system/paymentAccount/components/EditModal/index.vue" />
-      <jump line="141" column="51" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="82" column="53" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="65" column="13" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
-      <jump line="60" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="123" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="111" column="8" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="121" column="20" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="23" column="0" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="30" column="4" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="120" column="15" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="32" column="31" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="53" column="0" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="54" column="6" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="34" column="31" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="33" column="2" filename="E:/code/CSHXEventSite/FE/build/webpack.base.conf.js" />
-      <jump line="18" column="12" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="39" column="17" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="113" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="121" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="128" column="16" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="146" column="10" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="177" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="185" column="51" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="1" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
-      <jump line="103" column="17" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
-      <jump line="25" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="33" column="29" filename="E:/code/FECodeReview/src/examples/inputNumber.vue" />
-      <jump line="58" column="4" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="82" column="0" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="78" column="6" filename="E:/code/FECodeReview/src/packages/inputNumber/src/index.vue" />
-      <jump line="99" column="2" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
-      <jump line="0" column="41" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.scss" />
-      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/assets/styles/mixins/_ellipsis.scss" />
-      <jump line="186" column="7" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FE/src/components/UploadVoucher/index.vue" />
-      <jump line="208" column="9" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="199" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="188" column="15" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="199" column="18" filename="E:/ss_code/element/packages/input-number/src/input-number.vue" />
-      <jump line="47" column="32" filename="E:/ss_code/element/packages/input-number/src/input-number.vue" />
-      <jump line="53" column="14" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="43" column="26" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="46" column="35" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="5" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/index.js" />
-      <jump line="31" column="21" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
-      <jump line="44" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
-      <jump line="3" column="31" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
-      <jump line="30" column="38" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/index.vue" />
-      <jump line="135" column="48" filename="E:/code/CSHXEventSite/FE/src/apps/manage/containers/supplier/settlement/components/TransferList/index.vue" />
-      <jump line="16" column="12" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SStyle/index.vue" />
-      <jump line="12" column="26" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="10" column="24" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="17" column="27" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="27" column="28" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="98" column="25" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="8" column="29" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/Background/index.vue" />
-      <jump line="56" column="22" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/SContent/components/Base/index.vue" />
-      <jump line="0" column="57" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="142" column="15" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="125" column="9" filename="E:/code/N-31Editor/FE/src/apps/design/containers/home/components/Setting/components/adapter.js" />
-      <jump line="42" column="14" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
-      <jump line="45" column="32" filename="E:/code/N-31Editor/FE/src/apps/design/components/Element/index.js" />
-      <jump line="242" column="18" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="243" column="15" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="66" column="6" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
-      <jump line="103" column="15" filename="E:/code/FECodeReview/src/packages/swipe/src/index.vue" />
+      <jump line="92" column="0" filename="F:/ss707494/app/v2ray/custom_ss.json" />
     </jumps>
     <registers>
-      <register name="e" type="4">
-        <text>classnames(styles.title_col_4, viewFlag ? '' : 'ant-form-item-required')</text>
-      </register>
-      <register name="+" type="4">
-        <text>classnames(styles.title_col_4, viewFlag ? '' : 'ant-form-item-required')</text>
-      </register>
-      <register name="l" type="4">
-        <keys>
-          <key char="115" code="0" mods="0" />
-          <key char="115" code="0" mods="0" />
-          <key char="100" code="0" mods="0" />
-          <key char="102" code="0" mods="0" />
-          <key char="65535" code="27" mods="0" />
-        </keys>
-      </register>
-      <register name="-" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxpbml0aWFsaXplRmxhZ1w+</text>
-      </register>
-      <register name="0" type="4">
-        <text encoding="base64">LnJlcGxhY2UoLzwvZywgJyZsdDsnKQogICAgICAgIC5yZXBsYWNlKC88L2csICcmZ3Q7JykKICAgICAgICAucmVwbGFjZSgvXHI/XG4vZywgJzxici8+JykKICAgICAgICAucmVwbGFjZSgvXHMvZywgJyZuYnNwOycp</text>
-      </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgIwogICAgsb7AtMO709AKICAgIKOsCiAgICC74bP2z9bOysziCiAgICCjrAogICAgsLTV1cTjw8e1xMzhyr7M7bzTuvMKICAgIKOsCiAgICDSwMi7tObU2s7KzOIK</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">LnJlcGxhY2UoLyg/Oig8ZGl2Pil8KDxcL2Rpdj4pfCg8YnJccypcLz8+KXwoXHMpfCgmbmJzcDspfCgmbHQ7KXwoJmd0Oyl8KCZhbXA7KSkvbWcsIChhcmcpID0+IHsKICAgICAgICAgICAgICAgIHN3aXRjaCAodHJ1ZSkgewogICAgICAgICAgICAgICAgICBjYXNlIC88ZGl2Pi8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICBjYXNlIC88YnJccypcLz8+PyFccy8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnXHJcbicKICAgICAgICAgICAgICAgICAgY2FzZSAvJm5ic3A7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgIGNhc2UgL1xzLy50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICcgJwogICAgICAgICAgICAgICAgICBjYXNlIC8mbHQ7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICc8JwogICAgICAgICAgICAgICAgICBjYXNlIC8mZ3Q7Ly50ZXN0KGFyZyk6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICc+JwogICAgICAgICAgICAgICAgICBjYXNlIC8mYW1wOy8udGVzdChhcmcpOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAnJicKICAgICAgICAgICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgICAgICAgICByZXR1cm4gJycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9KQ==</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">cmVwbGFjZSgvPC9nLCAnJmx0OycpCiAgICAgICAgLnJlcGxhY2UoLzwvZywgJyZndDsnKQogICAgICAgIC5yZXBsYWNlKC9ccj9cbi9nLCAnPGJyLz4nKQogICAgICAgIC5yZXBsYWNlKC9ccy9nLCAnJm5ic3A7Jyk=</text>
-      </register>
-      <register name="s" type="4">
-        <text>vi{&quot;ep`]n</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3A9ImVuZFRpbWUiCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="w" type="4">
-        <keys>
-          <key char="121" code="0" mods="0" />
-          <key char="121" code="0" mods="0" />
-          <key char="112" code="0" mods="0" />
-          <key char="96" code="0" mods="0" />
-          <key char="93" code="0" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="65535" code="65" mods="130" />
-        </keys>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZS50YXJnZXQudmFsdWUgPSB0aGlzLmN1cnJlbnRWYWx1ZQo=</text>
+        <text>{
+  &quot;log&quot;: {
+    &quot;access&quot;: &quot;&quot;,
+    &quot;error&quot;: &quot;&quot;,
+    &quot;loglevel&quot;: &quot;warning&quot;
+  },
+  &quot;inbounds&quot;: [
+    {
+      &quot;port&quot;: 1436,
+      &quot;listen&quot;: &quot;127.0.0.1&quot;,
+      &quot;protocol&quot;: &quot;socks&quot;,
+      &quot;sniffing&quot;: {
+        &quot;enabled&quot;: true,
+        &quot;destOverride&quot;: [
+          &quot;http&quot;,
+          &quot;tls&quot;
+        ]
+      },
+      &quot;settings&quot;: {
+        &quot;auth&quot;: &quot;noauth&quot;,
+        &quot;udp&quot;: true,
+        &quot;ip&quot;: null,
+        &quot;clients&quot;: null
+      },
+      &quot;streamSettings&quot;: null
+    }
+  ],
+  &quot;outbounds&quot;: [
+    {
+      &quot;tag&quot;: &quot;proxy&quot;,
+      &quot;protocol&quot;: &quot;shadowsocks&quot;,
+      &quot;settings&quot;: {
+        &quot;vnext&quot;: null,
+        &quot;servers&quot;: [
+          {
+            &quot;email&quot;: null,
+            &quot;address&quot;: &quot;103.72.146.196&quot;,
+            &quot;method&quot;: &quot;aes-256-gcm&quot;,
+            &quot;ota&quot;: false,
+            &quot;password&quot;: &quot;s924d2cc&quot;,
+            &quot;port&quot;: 4475,
+            &quot;level&quot;: 1
+          }
+        ],
+        &quot;response&quot;: null
+      },
+      &quot;streamSettings&quot;: {
+        &quot;network&quot;: &quot;tcp&quot;,
+        &quot;security&quot;: null,
+        &quot;tlsSettings&quot;: null,
+        &quot;tcpSettings&quot;: null,
+        &quot;kcpSettings&quot;: null,
+        &quot;wsSettings&quot;: null,
+        &quot;httpSettings&quot;: null
+      },
+      &quot;mux&quot;: {
+        &quot;enabled&quot;: false
+      }
+    },
+    {
+      &quot;tag&quot;: &quot;direct&quot;,
+      &quot;protocol&quot;: &quot;freedom&quot;,
+      &quot;settings&quot;: {
+        &quot;vnext&quot;: null,
+        &quot;servers&quot;: null,
+        &quot;response&quot;: null
+      },
+      &quot;streamSettings&quot;: null,
+      &quot;mux&quot;: null
+    },
+    {
+      &quot;tag&quot;: &quot;block&quot;,
+      &quot;protocol&quot;: &quot;blackhole&quot;,
+      &quot;settings&quot;: {
+        &quot;vnext&quot;: null,
+        &quot;servers&quot;: null,
+        &quot;response&quot;: {
+          &quot;type&quot;: &quot;http&quot;
+        }
+      },
+      &quot;streamSettings&quot;: null,
+      &quot;mux&quot;: null
+    }
+  ],
+  &quot;dns&quot;: null,
+  &quot;routing&quot;: {
+    &quot;strategy&quot;: &quot;rules&quot;,
+    &quot;settings&quot;: {
+      &quot;domainStrategy&quot;: &quot;IPIfNonMatch&quot;,
+      &quot;rules&quot;: []
+    }
+  }
+}</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0aWFsaXplRmxhZ1w+</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxpbml0aWFsaXplRmxhZ1w+</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry encoding="base64">XDxhdXRvTG9naW5cPg==</entry>
-        <entry>top</entry>
-        <entry encoding="base64">XDxvblBvcHVwQWxpZ25cPg==</entry>
-        <entry>busi</entry>
-        <entry>width</entry>
-        <entry encoding="base64">XDxUcmFuc2Zlclw+</entry>
-        <entry encoding="base64">XDxmb3JtU3VibWl0XD4=</entry>
-        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
-        <entry>mapCh</entry>
-        <entry>hrf</entry>
-        <entry>提交</entry>
-        <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
-        <entry>p2w</entry>
-        <entry>.our</entry>
-        <entry encoding="base64">XDxoZWlnaHRcPg==</entry>
-        <entry>changLan</entry>
-        <entry encoding="base64">XDxoZWFkTmF2XD4=</entry>
-        <entry encoding="base64">IGlkPSJzbGlkZU91dCI=</entry>
-        <entry>chrom</entry>
-        <entry encoding="base64">XDxzZXRUb3BMaW5lXD4=</entry>
-      </history-search>
+      <history-search />
       <history-cmd>
-        <entry>:action ActivateRunToolWindow</entry>
-        <entry>actionlist run</entry>
-        <entry>wa</entry>
-        <entry>marks</entry>
-        <entry>.action QuickList.ss</entry>
-        <entry>w</entry>
-        <entry>return</entry>
-        <entry>reg</entry>
-        <entry>close</entry>
-        <entry>.,.+7action SelectInProjectView</entry>
-        <entry>action ActivateRunToolWindow</entry>
-        <entry>action match</entry>
-        <entry encoding="base64">JzwsJz5hY3Rpb24gRWRpdG9yTWF0Y2hCcmFjZQ==</entry>
-        <entry>set witchwrap</entry>
-        <entry>action EditorMatchBrace</entry>
-        <entry>vs</entry>
-        <entry>action GotoAction</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed U</text>
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed 2</text>
-      </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed CLOSE_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed O</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed P</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed OPEN_BRACKET</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

@@ -18,6 +18,11 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f9" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="alt quote" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
   <action id="Commit.Button">
     <keyboard-shortcut first-keystroke="ctrl alt 4" />
   </action>
@@ -28,10 +33,6 @@
   <action id="DatabaseView.CloseConnectionAction" />
   <action id="Debugger.AddToWatch">
     <keyboard-shortcut first-keystroke="alt minus" />
-  </action>
-  <action id="EditSource">
-    <keyboard-shortcut first-keystroke="f4" />
-    <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="EditorGutterToggleGlobalIndentLines">
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -59,12 +60,17 @@
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="f3" />
   </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GuiDesigner.CreateListener" />
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="ctrl m" />
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
+  <action id="HippieCompletion" />
   <action id="HtmlTableCellNavigateDown">
     <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
@@ -88,6 +94,9 @@
     <keyboard-shortcut first-keystroke="alt numpad2" />
   </action>
   <action id="OverrideMethods" />
+  <action id="QuickChangeScheme">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
   <action id="QuickList.ss">
     <keyboard-shortcut first-keystroke="ctrl numpad4" />
   </action>
@@ -103,9 +112,14 @@
   <action id="ShowLiveRunConfigurations">
     <keyboard-shortcut first-keystroke="ctrl numpad2" />
   </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
