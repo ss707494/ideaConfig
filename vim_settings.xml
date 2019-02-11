@@ -3,16 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" timestamp="1548924051310">
-        <mark key="'" line="98" column="28" />
-        <mark key="[" line="99" column="37" />
-        <mark key="]" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo-other/config/webpack.base.config.js" timestamp="1548996811622">
-        <mark key="'" line="5" column="6" />
-      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/assets/styles/variables/_colors.scss" timestamp="1548919322432">
         <mark key="'" line="199" column="0" />
         <mark key="[" line="199" column="0" />
@@ -22,20 +12,6 @@
         <mark key="'" line="42" column="0" />
         <mark key="[" line="42" column="0" />
         <mark key="]" line="63" column="1" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.scss" timestamp="1548919324995">
-        <mark key="'" line="30" column="27" />
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="28" />
-        <mark key="." line="30" column="13" />
-        <mark key="^" line="30" column="24" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/api/userTypeManage/index.js" timestamp="1548905580338">
-        <mark key="'" line="9" column="13" />
-        <mark key="[" line="9" column="13" />
-        <mark key="]" line="9" column="28" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="5" column="18" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1548899708011">
         <mark key="'" line="6" column="20" />
@@ -50,23 +26,17 @@
         <mark key="." line="74" column="20" />
         <mark key="^" line="25" column="47" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.vue" timestamp="1548820311104">
-        <mark key="'" line="1" column="3" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="22" />
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray.json" timestamp="1549854051835">
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="60" column="2" />
+        <mark key="." line="60" column="2" />
+        <mark key="^" line="60" column="2" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548913898528">
-        <mark key="'" line="76" column="22" />
-        <mark key="[" line="188" column="11" />
-        <mark key="]" line="188" column="10" />
-        <mark key="." line="188" column="10" />
-        <mark key="^" line="188" column="10" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/assets/styles/myTheme.less" timestamp="1548919151963">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2rayConfig" timestamp="1549853895690">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/components/RefundRecodes/index.vue" timestamp="1548663187304">
         <mark key="'" line="143" column="20" />
@@ -80,32 +50,12 @@
         <mark key="]" line="59" column="13" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549848372274">
-        <mark key="'" line="4" column="35" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="7" column="43" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo-other/node_modules/react/package.json" timestamp="1549004154224">
-        <mark key="'" line="6" column="14" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="27" />
-      </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/enums/order.js" timestamp="1548899661227">
         <mark key="'" line="83" column="11" />
         <mark key="[" line="86" column="14" />
         <mark key="]" line="86" column="16" />
         <mark key="." line="86" column="16" />
         <mark key="^" line="86" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1548992255073">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo-other/config/webpack.prod.config.js" timestamp="1548996792392">
-        <mark key="'" line="36" column="24" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/index.scss" timestamp="1548902057793">
         <mark key="'" line="7" column="0" />
@@ -128,34 +78,12 @@
         <mark key="." line="31" column="33" />
         <mark key="^" line="31" column="33" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" timestamp="1548897771301">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/store/modules/platform.js" timestamp="1548992312257">
-        <mark key="'" line="15" column="10" />
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1548992115511">
         <mark key="'" line="5" column="14" />
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="5" column="14" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1549005096006">
-        <mark key="'" line="459" column="2" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/components/OrderButtons/index.vue" timestamp="1548903875722">
-        <mark key="'" line="84" column="0" />
-        <mark key="[" line="91" column="86" />
-        <mark key="]" line="91" column="90" />
-        <mark key="." line="91" column="90" />
-        <mark key="^" line="91" column="90" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" timestamp="1548746585111">
         <mark key="'" line="270" column="38" />
@@ -179,26 +107,15 @@
       <file name="E:/ss_code/graphql/src/server.js" timestamp="1548987961402">
         <mark key="'" line="18" column="6" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.scss" timestamp="1548753941102">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" timestamp="1548899021470">
-        <mark key="'" line="8" column="11" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/config/webpack.config.js" timestamp="1548996922683">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="267" column="0" />
-        <mark key="]" line="267" column="0" />
-        <mark key="." line="267" column="0" />
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" timestamp="1549854223680">
+        <mark key="'" line="111" column="0" />
+        <mark key="[" line="36" column="20" />
+        <mark key="]" line="36" column="33" />
+        <mark key="." line="36" column="33" />
+        <mark key="^" line="36" column="33" />
       </file>
       <file name="E:/ss_code/react-hooks-demo-other/src/hooks/UseCustomHooks.js" timestamp="1549003425758">
         <mark key="'" line="29" column="16" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo-other/src/hooks/UseEffectExample.js" timestamp="1548999689262">
-        <mark key="'" line="46" column="4" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" timestamp="1548924002379">
         <mark key="'" line="32" column="28" />
@@ -216,6 +133,106 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="14" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.scss" timestamp="1548924051310">
+        <mark key="'" line="98" column="28" />
+        <mark key="[" line="99" column="37" />
+        <mark key="]" line="99" column="37" />
+        <mark key="." line="99" column="37" />
+        <mark key="^" line="99" column="37" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo-other/config/webpack.base.config.js" timestamp="1548996811622">
+        <mark key="'" line="5" column="6" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/index.scss" timestamp="1548919324995">
+        <mark key="'" line="30" column="27" />
+        <mark key="[" line="30" column="13" />
+        <mark key="]" line="30" column="28" />
+        <mark key="." line="30" column="13" />
+        <mark key="^" line="30" column="24" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/api/userTypeManage/index.js" timestamp="1548905580338">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="28" />
+        <mark key="." line="6" column="14" />
+        <mark key="^" line="5" column="18" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.vue" timestamp="1548820311104">
+        <mark key="'" line="1" column="3" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="24" />
+        <mark key="." line="1" column="22" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548913898528">
+        <mark key="'" line="76" column="22" />
+        <mark key="[" line="188" column="11" />
+        <mark key="]" line="188" column="10" />
+        <mark key="." line="188" column="10" />
+        <mark key="^" line="188" column="10" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549848372274">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="7" column="43" />
+        <mark key="." line="7" column="43" />
+        <mark key="^" line="7" column="43" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo-other/node_modules/react/package.json" timestamp="1549004154224">
+        <mark key="'" line="6" column="14" />
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="27" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo-other/config/webpack.prod.config.js" timestamp="1548996792392">
+        <mark key="'" line="36" column="24" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/store/modules/platform.js" timestamp="1548992312257">
+        <mark key="'" line="15" column="10" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="28" />
+        <mark key="." line="17" column="30" />
+        <mark key="^" line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" timestamp="1549854319481">
+        <mark key="[" line="18" column="10" />
+        <mark key="]" line="18" column="10" />
+        <mark key="." line="18" column="10" />
+        <mark key="^" line="18" column="10" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1549005096006">
+        <mark key="'" line="459" column="2" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/components/OrderButtons/index.vue" timestamp="1548903875722">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="91" column="86" />
+        <mark key="]" line="91" column="90" />
+        <mark key="." line="91" column="90" />
+        <mark key="^" line="91" column="90" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/cachetxt" timestamp="1549853868729">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="13" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="63" column="16" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.scss" timestamp="1548753941102">
+        <mark key="'" line="0" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" timestamp="1548899021470">
+        <mark key="'" line="8" column="11" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/config/webpack.config.js" timestamp="1548996922683">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo-other/src/hooks/UseEffectExample.js" timestamp="1548999689262">
+        <mark key="'" line="46" column="4" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1548999836776">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="2" column="9" />
@@ -225,9 +242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="10" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="265" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="184" column="67" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="188" column="27" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="33" column="61" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/components/Detail/index.vue" />
       <jump line="187" column="72" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" />
@@ -325,13 +339,16 @@
       <jump line="1474" column="42" filename="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" />
       <jump line="459" column="2" filename="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" />
       <jump line="4" column="35" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/.spf13-vim-3/cachetxt" />
+      <jump line="0" column="0" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" />
+      <jump line="111" column="0" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>IS_REACT_SPRING_2_VISIBLE</text>
+        <text>1234</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxSZWFjdEN1cnJlbnREaXNwYXRjaGVyXD4=</text>
@@ -339,32 +356,238 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgVklTSUJMRS5JU19SRUFDVF9TUFJJTkdfMl9WSVNJQkxFLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICBmcm9tICdyZWFjdCc7Cg==</text>
+      <register name="1" type="4">
+        <text>{
+  &quot;outbound&quot;: {
+    &quot;streamSettings&quot;: null,
+    &quot;tag&quot;: null,
+    &quot;protocol&quot;: &quot;freedom&quot;,
+    &quot;mux&quot;: null,
+    &quot;settings&quot;: null
+  },
+  &quot;log&quot;: {
+    &quot;access&quot;: &quot;/var/log/v2ray/access.log&quot;,
+    &quot;loglevel&quot;: &quot;info&quot;,
+    &quot;error&quot;: &quot;/var/log/v2ray/error.log&quot;
+  },
+  &quot;outboundDetour&quot;: [{
+    &quot;tag&quot;: &quot;blocked&quot;,
+    &quot;protocol&quot;: &quot;blackhole&quot;,
+    &quot;settings&quot;: null
+  }],
+  &quot;inbound&quot;: [{
+    &quot;streamSettings&quot;: {
+      &quot;network&quot;: &quot;kcp&quot;,
+      &quot;kcpSettings&quot;: {
+        &quot;uplinkCapacity&quot;: 15,
+        &quot;downlinkCapacity&quot;: 100,
+        &quot;readBufferSize&quot;: 2,
+        &quot;mtu&quot;: 1350,
+        &quot;header&quot;: {
+          &quot;request&quot;: null,
+          &quot;type&quot;: &quot;none&quot;,
+          &quot;response&quot;: null
+        },
+        &quot;tti&quot;: 50,
+        &quot;congestion&quot;: false,
+        &quot;writeBufferSize&quot;: 2
+      },
+      &quot;wsSettings&quot;: null,
+      &quot;tcpSettings&quot;: null,
+      &quot;tlsSettings&quot;: {},
+      &quot;security&quot;: &quot;&quot;
+    },
+    &quot;settings&quot;: {
+      &quot;ip&quot;: null,
+      &quot;udp&quot;: true,
+      &quot;clients&quot;: [{
+        &quot;alterId&quot;: 100,
+        &quot;security&quot;: &quot;aes-128-gcm&quot;,
+        &quot;id&quot;: &quot;e2b39869-7e9e-411b-a561-00904419bed9&quot;
+      }],
+      &quot;auth&quot;: null
+    },
+    &quot;protocol&quot;: &quot;vmess&quot;,
+    &quot;port&quot;: 1234,
+    &quot;listen&quot;: null
+  },{
+    &quot;port&quot;: 4474, // SS
+    &quot;protocol&quot;: &quot;shadowsocks&quot;,
+    &quot;settings&quot;: {
+      &quot;method&quot;: &quot;aes-128-gcm&quot;,
+      &quot;password&quot;: &quot;ss123456&quot;
+    }
+  }],
+  &quot;inboundDetour&quot;: null,
+  &quot;routing&quot;: {
+    &quot;settings&quot;: {
+      &quot;rules&quot;: [{
+        &quot;ip&quot;: [
+          &quot;0.0.0.0/8&quot;,
+          &quot;10.0.0.0/8&quot;,
+          &quot;100.64.0.0/10&quot;,
+          &quot;127.0.0.0/8&quot;,
+          &quot;169.254.0.0/16&quot;,
+          &quot;172.16.0.0/12&quot;,
+          &quot;192.0.0.0/24&quot;,
+          &quot;192.0.2.0/24&quot;,
+          &quot;192.168.0.0/16&quot;,
+          &quot;198.18.0.0/15&quot;,
+          &quot;198.51.100.0/24&quot;,
+          &quot;203.0.113.0/24&quot;,
+          &quot;::1/128&quot;,
+          &quot;fc00::/7&quot;,
+          &quot;fe80::/10&quot;
+        ],
+        &quot;domain&quot;: null,
+        &quot;type&quot;: &quot;field&quot;,
+        &quot;port&quot;: null,
+        &quot;outboundTag&quot;: &quot;blocked&quot;
+      }],
+      &quot;domainStrategy&quot;: null
+    },
+    &quot;strategy&quot;: &quot;rules&quot;
+  },
+  &quot;dns&quot;: null
+}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge0V4YW1wbGUoKX0K</text>
+      <register name="2" type="4">
+        <text>{
+    &quot;streamSettings&quot;: {
+      &quot;network&quot;: &quot;kcp&quot;,
+      &quot;kcpSettings&quot;: {
+        &quot;uplinkCapacity&quot;: 15,
+        &quot;downlinkCapacity&quot;: 100,
+        &quot;readBufferSize&quot;: 2,
+        &quot;mtu&quot;: 1350,
+        &quot;header&quot;: {
+          &quot;request&quot;: null,
+          &quot;type&quot;: &quot;none&quot;,
+          &quot;response&quot;: null
+        },
+        &quot;tti&quot;: 50,
+        &quot;congestion&quot;: false,
+        &quot;writeBufferSize&quot;: 2
+      },
+      &quot;wsSettings&quot;: null,
+      &quot;tcpSettings&quot;: null,
+      &quot;tlsSettings&quot;: {},
+      &quot;security&quot;: &quot;&quot;
+    },
+    &quot;settings&quot;: {
+      &quot;ip&quot;: null,
+      &quot;udp&quot;: true,
+      &quot;clients&quot;: [{
+        &quot;alterId&quot;: 100,
+        &quot;security&quot;: &quot;aes-128-gcm&quot;,
+        &quot;id&quot;: &quot;e2b39869-7e9e-411b-a561-00904419bed9&quot;
+      }],
+      &quot;auth&quot;: null
+    },
+    &quot;protocol&quot;: &quot;vmess&quot;,
+    &quot;port&quot;: 1234,
+    &quot;listen&quot;: null
+  }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIEV4YW1wbGUoKSB7CiAgLy8gRGVjbGFyZSBhIG5ldyBzdGF0ZSB2YXJpYWJsZSwgd2hpY2ggd2UnbGwgY2FsbCAiY291bnQiCiAgY29uc3QgW2NvdW50LCBzZXRDb3VudF0gPSB1c2VTdGF0ZSgwKTsKCgogIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAge2NvdW50fQogICAgICAgIHNzCiAgICAgICAgey8qPHA+WW91IGNsaWNrZWQge2NvdW50fSB0aW1lczwvcD4qL30KICAgICAgICB7Lyo8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldENvdW50KGNvdW50ICsgMSl9PiovfQogICAgICAgICAgey8qQ2xpY2sgbWUqL30KICAgICAgICB7Lyo8L2J1dHRvbj4qL30KICAgICAgPC9kaXY+CiAgKTsKfQo=</text>
+      <register name="3" type="4">
+        <text>{
+  &quot;streamSettings&quot;: {
+    &quot;network&quot;: &quot;kcp&quot;,
+    &quot;kcpSettings&quot;: {
+      &quot;uplinkCapacity&quot;: 15,
+      &quot;downlinkCapacity&quot;: 100,
+      &quot;readBufferSize&quot;: 2,
+      &quot;mtu&quot;: 1350,
+      &quot;header&quot;: {
+        &quot;request&quot;: null,
+        &quot;type&quot;: &quot;none&quot;,
+        &quot;response&quot;: null
+      },
+      &quot;tti&quot;: 50,
+      &quot;congestion&quot;: false,
+      &quot;writeBufferSize&quot;: 2
+    },
+    &quot;wsSettings&quot;: null,
+    &quot;tcpSettings&quot;: null,
+    &quot;tlsSettings&quot;: {},
+    &quot;security&quot;: &quot;&quot;
+  },
+  &quot;settings&quot;: {
+    &quot;ip&quot;: null,
+    &quot;udp&quot;: true,
+    &quot;clients&quot;: [{
+      &quot;alterId&quot;: 100,
+      &quot;security&quot;: &quot;aes-128-gcm&quot;,
+      &quot;id&quot;: &quot;e2b39869-7e9e-411b-a561-00904419bed9&quot;
+    }],
+    &quot;auth&quot;: null
+  },
+  &quot;protocol&quot;: &quot;vmess&quot;,
+  &quot;port&quot;: 1234,
+  &quot;listen&quot;: null
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
+      <register name="4" type="4">
+        <text>{
+  &quot;compilerOptions&quot;: {
+    &quot;module&quot;: &quot;commonjs&quot;,
+    &quot;target&quot;: &quot;es5&quot;,
+    &quot;sourceMap&quot;: true
+  },
+  &quot;exclude&quot;: [
+    &quot;node_modules&quot;
+  ]
+}</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
+      <register name="5" type="4">
+        <text>{
+    &quot;streamSettings&quot;: {
+      &quot;network&quot;: &quot;kcp&quot;,
+      &quot;kcpSettings&quot;: {
+        &quot;uplinkCapacity&quot;: 15,
+        &quot;downlinkCapacity&quot;: 100,
+        &quot;readBufferSize&quot;: 2,
+        &quot;mtu&quot;: 1350,
+        &quot;header&quot;: {
+          &quot;request&quot;: null,
+          &quot;type&quot;: &quot;none&quot;,
+          &quot;response&quot;: null
+        },
+        &quot;tti&quot;: 50,
+        &quot;congestion&quot;: false,
+        &quot;writeBufferSize&quot;: 2
+      },
+      &quot;wsSettings&quot;: null,
+      &quot;tcpSettings&quot;: null,
+      &quot;tlsSettings&quot;: {},
+      &quot;security&quot;: &quot;&quot;
+    },
+    &quot;settings&quot;: {
+      &quot;ip&quot;: null,
+      &quot;udp&quot;: true,
+      &quot;clients&quot;: [{
+        &quot;alterId&quot;: 100,
+        &quot;security&quot;: &quot;aes-128-gcm&quot;,
+        &quot;id&quot;: &quot;e2b39869-7e9e-411b-a561-00904419bed9&quot;
+      }],
+      &quot;auth&quot;: null
+    },
+    &quot;protocol&quot;: &quot;vmess&quot;,
+    &quot;port&quot;: 1234,
+    &quot;listen&quot;: null
+  }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhY3QnOiByZXF1aXJlLnJlc29sdmUoInJlYWN0IiksCg==</text>
+        <text encoding="base64">aW1wb3J0ICBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhY3QnOiByZXF1aXJlLnJlc29sdmUoInJlYWN0IikK</text>
+        <text encoding="base64">ICAgICAgICAgICAge0V4YW1wbGUoKX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPEV4YW1wbGUvPgo=</text>
+        <text encoding="base64">ZXhwb3J0IGZ1bmN0aW9uIEV4YW1wbGUoKSB7CiAgLy8gRGVjbGFyZSBhIG5ldyBzdGF0ZSB2YXJpYWJsZSwgd2hpY2ggd2UnbGwgY2FsbCAiY291bnQiCiAgY29uc3QgW2NvdW50LCBzZXRDb3VudF0gPSB1c2VTdGF0ZSgwKTsKCgogIHJldHVybiAoCiAgICAgIDxkaXY+CiAgICAgICAge2NvdW50fQogICAgICAgIHNzCiAgICAgICAgey8qPHA+WW91IGNsaWNrZWQge2NvdW50fSB0aW1lczwvcD4qL30KICAgICAgICB7Lyo8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldENvdW50KGNvdW50ICsgMSl9PiovfQogICAgICAgICAgey8qQ2xpY2sgbWUqL30KICAgICAgICB7Lyo8L2J1dHRvbj4qL30KICAgICAgPC9kaXY+CiAgKTsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgdXNlU3RhdGUgfSBmcm9tICdyZWFjdCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
@@ -407,8 +630,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
