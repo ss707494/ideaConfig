@@ -155,6 +155,12 @@
         <mark key="]" line="5" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="C:/Program Files/MongoDB/Server/4.0/bin/mongod.cfg" timestamp="1549966221729">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="12" />
+        <mark key="." line="22" column="12" />
+        <mark key="^" line="22" column="12" />
+      </file>
       <file name="E:/code/CSHXEventSite/FEOM/vue.config.js" timestamp="1549940704465">
         <mark key="'" line="126" column="23" />
         <mark key="[" line="126" column="23" />
@@ -202,7 +208,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1549962711542">
+      <file name="/JavaScript Console" timestamp="1549962883492">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549957124811">
@@ -399,10 +405,10 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>017</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaHFsRXhwcmVzc1w+</text>
+        <text>input</text>
       </register>
       <register name="0" type="4">
         <text>cors</text>
@@ -439,15 +445,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaHFsRXhwcmVzc1w+</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaHFsRXhwcmVzc1w+</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hook</entry>
         <entry>hist</entry>
         <entry encoding="base64">XDxJU19VU0VfU1RBVEVfVklTSUJMRVw+</entry>
         <entry encoding="base64">XDxSZWFjdEN1cnJlbnREaXNwYXRjaGVyXD4=</entry>
@@ -467,6 +472,7 @@
         <entry encoding="base64">XDxQb3N0c1w+</entry>
         <entry encoding="base64">XDxob21lUGF0aFw+</entry>
         <entry encoding="base64">XDxncmFwaHFsRXhwcmVzc1w+</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
