@@ -8,12 +8,11 @@
         <mark key="[" line="4" column="14" />
         <mark key="]" line="4" column="40" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/.eslintrc.json" timestamp="1549942941990">
-        <mark key="'" line="2" column="4" />
-        <mark key="[" line="4" column="3" />
-        <mark key="]" line="4" column="3" />
-        <mark key="^" line="2" column="3" />
-        <mark key="." line="4" column="3" />
+      <file name="E:/ss_code/react-hooks-demo/.eslintrc.json" timestamp="1549951128939">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="&lt;33172f0a-85ea-4009-8ba6-ab9bb06c0ed9&gt;/var/log/v2ray/access.log" timestamp="1549855991194">
         <mark key="'" line="16553" column="0" />
@@ -24,12 +23,6 @@
         <mark key="]" line="3" column="62" />
         <mark key="^" line="4" column="1" />
         <mark key="." line="3" column="35" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/home/index.vue" timestamp="1548899708011">
-        <mark key="'" line="6" column="20" />
-        <mark key="[" line="60" column="22" />
-        <mark key="]" line="60" column="22" />
-        <mark key="." line="60" column="22" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/list/index.vue" timestamp="1548923638236">
         <mark key="'" line="74" column="8" />
@@ -54,18 +47,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/detail/components/RefundRecodes/index.vue" timestamp="1548663187304">
-        <mark key="'" line="143" column="20" />
-        <mark key="[" line="143" column="20" />
-        <mark key="]" line="143" column="25" />
-        <mark key="." line="151" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/utils/menuTree.js" timestamp="1548663317170">
-        <mark key="'" line="59" column="2" />
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="59" column="13" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/enums/order.js" timestamp="1548899661227">
         <mark key="'" line="83" column="11" />
@@ -110,10 +91,10 @@
       <file name="E:/ss_code/react-hooks-demo/config/webpackDevServer.config.js" timestamp="1549938397202">
         <mark key="'" line="25" column="16" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1549938451499">
-        <mark key="'" line="80" column="2" />
-        <mark key="[" line="80" column="2" />
-        <mark key="]" line="80" column="11" />
+      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1549950880827">
+        <mark key="'" line="76" column="2" />
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="7" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1549942568470">
         <mark key="'" line="21" column="5" />
@@ -121,12 +102,6 @@
         <mark key="]" line="21" column="27" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="5" column="14" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/apps/business/containers/order/components/OrderList/index.vue" timestamp="1548746585111">
-        <mark key="'" line="270" column="38" />
-        <mark key="[" line="270" column="38" />
-        <mark key="]" line="270" column="63" />
-        <mark key="." line="744" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/scripts/start.js" timestamp="1549936919588">
         <mark key="'" line="104" column="8" />
@@ -142,11 +117,11 @@
         <mark key="." line="145" column="0" />
         <mark key="^" line="144" column="5" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/api/index.js" timestamp="1549943982429">
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="2" />
-        <mark key="^" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="E:/ss_code/react-hooks-demo/src/api/index.js" timestamp="1549950944163">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="4" column="15" />
+        <mark key="^" line="4" column="15" />
+        <mark key="." line="4" column="15" />
       </file>
       <file name="E:/ss_code/graphql/src/server.js" timestamp="1548987961402">
         <mark key="'" line="18" column="6" />
@@ -172,17 +147,14 @@
       <file name="$USER_HOME$/.spf13-vim-3/file/.ideavimrc" timestamp="1548920206627">
         <mark key="'" line="146" column="6" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo-other/package.json" timestamp="1549004162543">
-        <mark key="'" line="36" column="27" />
-        <mark key="[" line="36" column="14" />
-        <mark key="]" line="36" column="28" />
-        <mark key="." line="36" column="14" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/src/global.js" timestamp="1549941515249">
         <mark key="[" line="0" column="25" />
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/serviceWorker.js" timestamp="1549951002042">
+        <mark key="'" line="22" column="6" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/vue.config.js" timestamp="1549940704465">
         <mark key="'" line="126" column="23" />
@@ -219,12 +191,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.vue" timestamp="1548820311104">
-        <mark key="'" line="1" column="3" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="24" />
-        <mark key="." line="1" column="22" />
-      </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/menuManage/list/index.vue" timestamp="1548913898528">
         <mark key="'" line="76" column="22" />
         <mark key="[" line="188" column="11" />
@@ -239,12 +205,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="6" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549941257959">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="51" />
-        <mark key="." line="7" column="43" />
-        <mark key="^" line="7" column="43" />
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1549950957203">
+        <mark key="'" line="1" column="21" />
+        <mark key="[" line="7" column="18" />
+        <mark key="]" line="7" column="18" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="18" />
       </file>
       <file name="/Dummy.txt" timestamp="1549933469521">
         <mark key="[" line="0" column="0" />
@@ -304,20 +270,13 @@
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/view/index.scss" timestamp="1549855901557" />
       <file name="E:/ss_code/essentialFood/gulpfile.babel.js" timestamp="1549933759492" />
-      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.scss" timestamp="1548753941102">
-        <mark key="'" line="0" column="8" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/ucenter/order/detail/index.vue" timestamp="1548899021470">
         <mark key="'" line="8" column="11" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/config/webpack.config.js" timestamp="1549942103726">
-        <mark key="'" line="301" column="60" />
-        <mark key="[" line="437" column="21" />
-        <mark key="]" line="437" column="28" />
-        <mark key="." line="437" column="21" />
+      <file name="E:/ss_code/react-hooks-demo/config/webpack.config.js" timestamp="1549951096587">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo-other/src/hooks/UseEffectExample.js" timestamp="1548999689262">
         <mark key="'" line="46" column="4" />
@@ -331,25 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="299" column="17" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="300" column="11" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="302" column="32" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="143" column="0" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="144" column="6" filename="E:/code/CSHXEventSite/FEOM/src/apps/containers/roleManage/list/index.vue" />
-      <jump line="5" column="4" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="18" column="6" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="17" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="19" column="22" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="4" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="6" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="3" column="16" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
-      <jump line="5" column="14" filename="E:/ss_code/react-hooks-demo/package.json" />
-      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
-      <jump line="36" column="24" filename="E:/ss_code/react-hooks-demo-other/config/webpack.prod.config.js" />
-      <jump line="53" column="0" filename="E:/ss_code/react-hooks-demo-other/config/webpack.base.config.js" />
-      <jump line="5" column="6" filename="E:/ss_code/react-hooks-demo-other/config/webpack.base.config.js" />
       <jump line="32" column="9" filename="E:/ss_code/react-hooks-demo-other/package.json" />
       <jump line="19" column="5" filename="E:/ss_code/react-hooks-demo-other/package.json" />
       <jump line="46" column="4" filename="E:/ss_code/react-hooks-demo-other/src/hooks/UseEffectExample.js" />
@@ -402,14 +342,12 @@
       <jump line="80" column="2" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
       <jump line="4" column="14" filename="E:/code/CSHXEventSite/FEOM/config/host.local.js" />
       <jump line="3" column="61" filename="E:/ss_code/react-hooks-demo/src/setupProxy.js" />
-      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
       <jump line="11" column="44" filename="E:/code/CSHXEventSite/FEOM/node_modules/@vue/cli-service/webpack.config.js" />
       <jump line="111" column="22" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
       <jump line="437" column="20" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="125" column="15" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
       <jump line="470" column="4" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="597" column="23" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
-      <jump line="58" column="56" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="560" column="23" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="91" column="10" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="268" column="15" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
@@ -431,64 +369,82 @@
       <jump line="15" column="2" filename="E:/code/CSHXEventSite/FEOM/.eslintrc.js" />
       <jump line="2" column="4" filename="E:/ss_code/react-hooks-demo/.eslintrc.json" />
       <jump line="0" column="0" filename="E:/code/CSHXEventSite/FEOM/src/api/index.js" />
+      <jump line="0" column="0" filename="E:/code/CSHXEventSite/FEOM/vue.config.js" />
+      <jump line="265" column="54" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="53" column="21" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="58" column="31" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="62" column="6" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="75" column="42" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="162" column="6" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="542" column="20" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="48" column="19" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="51" column="8" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="56" column="38" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="3" column="22" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="8" column="57" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="20" column="25" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="34" column="36" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="52" column="6" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="76" column="2" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
+      <jump line="267" column="25" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="1" column="21" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
+      <jump line="22" column="6" filename="E:/ss_code/react-hooks-demo/src/serviceWorker.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>\.\/(?!index)\w+(\/\w+)?</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>eslint</text>
+        <text encoding="base64">XDxwYXRoc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgZmlsZXMgPSByZXF1aXJlLmNvbnRleHQoJy4vJywgdHJ1ZSwgL15cLlwvKD8haW5kZXgpXHcrKFwvXHcrKT9cLmpzJC9pKQo=</text>
+      <register name="0" type="4">
+        <text>appSrc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ewogICJnbG9iYWxzIjogewogICAgImF4aW9zIjogdHJ1ZSwKICAgICJAIjogdHJ1ZQogIH0KfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiYXhpb3MiOiB0cnVlLAogICJAIjogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAnQCc6IHBhdGhzLmFwcFNyYywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnXyInOiB0cnVlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAiYXhpb3MiOiB0cnVlLAogICJAIjogdHJ1ZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnXyInOiB0cnVlCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IHVzZVN0YXRlLCB1c2VFZmZlY3QgfSBmcm9tICdyZWFjdCc7CmltcG9ydCBSZWFjdERPTSBmcm9tICdyZWFjdC1kb20nOwoKd2luZG93LlJlYWN0ID0gUmVhY3QKd2luZG93LlJlYWN0RE9NID0gUmVhY3RET00Kd2luZG93LnVzZVN0YXRlID0gdXNlU3RhdGUKd2luZG93LnVzZUVmZmVjdCA9IHVzZUVmZmVjdAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>import React from 'react';
 import ReactDOM from 'react-dom';</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHsKCiAgICB9LAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgInBvcnQiOiAzMzMzLAogICAgICAicHJvdG9jb2wiOiAidm1lc3MiLAogICAgICAic2V0dGluZ3MiOiB7CiAgICAgICAgImNsaWVudHMiOiBbCiAgICAgICAgICB7CiAgICAgICAgICAgICJpZCI6ICI4ZWYzOWUwZS0zNzA5LTQ3ZmEtODViNS1hYWRmNjk5MDZjYzkiLAogICAgICAgICAgICAiYWx0ZXJJZCI6IDMyCiAgICAgICAgICB9CiAgICAgICAgXQogICAgICB9LAogICAgICAidGFnIjogImluLTAiLAogICAgICAic3RyZWFtU2V0dGluZ3MiOiB7CiAgICAgICAgIm5ldHdvcmsiOiAidGNwIiwKICAgICAgICAic2VjdXJpdHkiOiAibm9uZSIsCiAgICAgICAgInRjcFNldHRpbmdzIjoge30KICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search>eslint</last-search>
+      <last-search encoding="base64">XDxwYXRoc1w+</last-search>
       <last-offset />
-      <last-pattern>eslint</last-pattern>
+      <last-pattern encoding="base64">XDxwYXRoc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>删除</entry>
-        <entry encoding="base64">XDxzcGFjZVw+</entry>
-        <entry>await</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry encoding="base64">XDxsb2FkaW5nRGV0YWlsXD4=</entry>
         <entry encoding="base64">XDxzY2hlbWFcPg==</entry>
@@ -506,6 +462,9 @@ import ReactDOM from 'react-dom';</text>
         <entry>provide</entry>
         <entry>plugins</entry>
         <entry>eslint</entry>
+        <entry encoding="base64">XDxwdWJsaWNQYXRoXD4=</entry>
+        <entry>path</entry>
+        <entry encoding="base64">XDxwYXRoc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
