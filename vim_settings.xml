@@ -35,6 +35,11 @@
         <mark key="." line="60" column="2" />
         <mark key="^" line="60" column="2" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/assets/styles/myTheme.less" timestamp="1548919151963">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/.spf13-vim-3/file/v2rayConfig" timestamp="1549853895690">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="0" />
@@ -193,8 +198,18 @@
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="27" />
       </file>
+      <file name="/Dummy.txt" timestamp="1549933469521">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo-other/config/webpack.prod.config.js" timestamp="1548996792392">
         <mark key="'" line="36" column="24" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/common/utils/user.js" timestamp="1548897771301">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/store/modules/platform.js" timestamp="1548992312257">
         <mark key="'" line="15" column="10" />
@@ -227,6 +242,7 @@
         <mark key="." line="63" column="16" />
       </file>
       <file name="E:/code/N-31Editor/FE/src/apps/view/index.scss" timestamp="1549855901557" />
+      <file name="E:/ss_code/essentialFood/gulpfile.babel.js" timestamp="1549933759492" />
       <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/userTypeManage/detail/index.scss" timestamp="1548753941102">
         <mark key="'" line="0" column="8" />
         <mark key="[" line="1" column="0" />
@@ -637,7 +653,7 @@
   }</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -677,9 +693,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
