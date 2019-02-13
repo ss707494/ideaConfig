@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="fake" />
+      <item value="setup" />
       <item value="高亮" />
       <item value="__highlight" />
       <item value="ternary" />
@@ -49,13 +51,11 @@
       <item value="会刊" />
       <item value="offer" />
       <item value="offere" />
-      <item value="公司信息" />
-      <item value="企业信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="85" />
-        <entry key="ENGLISH" value="86" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
       </map>
     </option>
   </component>
