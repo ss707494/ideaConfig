@@ -53,10 +53,10 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="E:/ss_code/graphql/package.json" timestamp="1550107801109">
-        <mark key="'" line="8" column="36" />
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="36" />
+      <file name="E:/ss_code/graphql/package.json" timestamp="1550124386773">
+        <mark key="'" line="16" column="12" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="21" />
         <mark key="." line="8" column="36" />
         <mark key="^" line="6" column="43" />
       </file>
@@ -85,7 +85,7 @@
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="8" />
       </file>
-      <file name="/fragment.js" timestamp="1550115830306">
+      <file name="/fragment.js" timestamp="1550123725104">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:1692" timestamp="1550109476826">
@@ -159,7 +159,7 @@
         <mark key="[" line="12" column="21" />
         <mark key="]" line="14" column="58" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550123679703">
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550123929109">
         <mark key="'" line="24" column="27" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -199,7 +199,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550123608310">
+      <file name="/JavaScript Console" timestamp="1550124031583">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:342" timestamp="1550027504205">
@@ -218,11 +218,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/.babelrc" timestamp="1550115413251">
-        <mark key="[" line="7" column="9" />
-        <mark key="]" line="7" column="27" />
-        <mark key="^" line="7" column="27" />
-        <mark key="." line="7" column="27" />
+      <file name="E:/ss_code/graphql/.babelrc" timestamp="1550124389503">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/api/common/index.js" timestamp="1549955839165">
         <mark key="'" line="2" column="14" />
@@ -249,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="64" column="8" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="62" column="31" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="31" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="114" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="24" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="28" column="0" filename="E:/ss_code/graphql/src/schema.js" />
@@ -349,43 +346,47 @@
       <jump line="30" column="26" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="36" column="23" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="24" column="27" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="14" column="5" filename="E:/ss_code/graphql/package.json" />
+      <jump line="20" column="5" filename="E:/ss_code/graphql/package.json" />
+      <jump line="16" column="12" filename="E:/ss_code/graphql/package.json" />
+      <jump line="2" column="25" filename="E:/ss_code/graphql/.babelrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>preset-es2017</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlQXBwXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>decoded</text>
+        <text>preset-env</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkiZXMyMDE1IiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkZWNvZGVkKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFRoZXNlIHdpbGwgYmUgZGVmaW5lZCBmb3IgYm90aCBuZXcgb3IgZXhpc3Rpbmcgc2VydmVycwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhkZWNvZGVkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zdCB0ZXN0ID0gKGEsIGIsIGMpID0+IHsKICAgIGRlYnVnZ2VyCiAgfQoKICB0ZXN0KC4uLlsxLDIsM10pCg==</text>
+        <text encoding="base64">ICAgIC8vIFRoZXNlIHdpbGwgYmUgZGVmaW5lZCBmb3IgYm90aCBuZXcgb3IgZXhpc3Rpbmcgc2VydmVycwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCB0eXBlRGVmcyA9IGAKICBgOwoKICBjb25zdCByZXNvbHZlcnMgPSB7CiAgICBRdWVyeTogewogICAgICBwb3N0czogKCkgPT4gKFt7dGl0bGU6ICcxMjMnfV0pCiAgICB9LAogIH07Cg==</text>
+        <text encoding="base64">ICBjb25zdCB0ZXN0ID0gKGEsIGIsIGMpID0+IHsKICAgIGRlYnVnZ2VyCiAgfQoKICB0ZXN0KC4uLlsxLDIsM10pCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdCB1c2VyU2NoZW1hID0gYXdhaXQgaW1wb3J0KCcuL3NjaGVtYS91c2VyJykK</text>
+        <text encoding="base64">ICBjb25zdCB0eXBlRGVmcyA9IGAKICBgOwoKICBjb25zdCByZXNvbHZlcnMgPSB7CiAgICBRdWVyeTogewogICAgICBwb3N0czogKCkgPT4gKFt7dGl0bGU6ICcxMjMnfV0pCiAgICB9LAogIH07Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1c2VyU2NoZW1hID0gYXdhaXQgaW1wb3J0KCcuL3NjaGVtYS91c2VyJykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
