@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Inspect the stack trace of this error to look for the first entry that doesn't mention &quot;@babel/core&quot; or &quot;babel-core&quot; to see what is calling Babel." />
       <item value="control" />
       <item value="controle" />
       <item value="controlar" />
@@ -50,12 +51,11 @@
       <item value="package" />
       <item value="组件" />
       <item value="operate" />
-      <item value="操作" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="ENGLISH" value="89" />
       </map>
     </option>
   </component>
