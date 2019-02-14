@@ -27,12 +27,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="52" column="7" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550106748502">
-        <mark key="'" line="4" column="23" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="5" column="21" />
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550112117431">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="23" column="18" />
       </file>
       <file name="E:/ss_code/graphql-mongodb-example/package.json" timestamp="1550107641208">
         <mark key="'" line="28" column="5" />
@@ -79,34 +79,46 @@
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="8" />
       </file>
-      <file name="/fragment.js" timestamp="1550109009642">
+      <file name="/fragment.js" timestamp="1550109456630">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/src/mongoData.js" timestamp="1550108745781">
-        <mark key="'" line="22" column="2" />
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="15" column="6" />
-        <mark key="^" line="15" column="6" />
+      <file name="vm:1692" timestamp="1550109476826">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="^" line="0" column="2" />
+        <mark key="." line="0" column="2" />
       </file>
-      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550108690830">
-        <mark key="'" line="3" column="3" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="3" column="1" />
-        <mark key="." line="4" column="0" />
+      <file name="E:/ss_code/graphql/src/mongoData.js" timestamp="1550112149561">
+        <mark key="'" line="21" column="2" />
+        <mark key="[" line="12" column="31" />
+        <mark key="]" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+        <mark key="^" line="12" column="33" />
       </file>
-      <file name="E:/ss_code/graphql/src/db/user.js" timestamp="1550108968993">
-        <mark key="'" line="3" column="15" />
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550112028913">
+        <mark key="'" line="0" column="25" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="4" column="14" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql/src/db/user.js" timestamp="1550111957426">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="10" column="19" />
       </file>
       <file name="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" timestamp="1550054331942">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="55" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2rayConfig" timestamp="1549853895690">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="E:/ss_code/express-jwt-example/middlewares/auth.js" timestamp="1550040992368">
         <mark key="'" line="3" column="0" />
@@ -143,12 +155,12 @@
         <mark key="[" line="12" column="21" />
         <mark key="]" line="14" column="58" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550108461834">
-        <mark key="'" line="3" column="7" />
-        <mark key="[" line="19" column="3" />
-        <mark key="]" line="19" column="23" />
-        <mark key="." line="19" column="23" />
-        <mark key="^" line="19" column="23" />
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550112091105">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="23" column="15" />
       </file>
       <file name="vm:1729" timestamp="1550109178397">
         <mark key="[" line="0" column="0" />
@@ -183,7 +195,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550109273340">
+      <file name="/JavaScript Console" timestamp="1550112132041">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:342" timestamp="1550027504205">
@@ -195,6 +207,12 @@
         <mark key="]" line="9" column="7" />
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
+      </file>
+      <file name="vm:341" timestamp="1550027514921">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/api/common/index.js" timestamp="1549955839165">
         <mark key="'" line="2" column="14" />
@@ -223,12 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="31" filename="E:/ss_code/react-hooks-demo/package.json" />
-      <jump line="65" column="33" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
-      <jump line="51" column="45" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="8" column="11" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
-      <jump line="38" column="9" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="33" column="49" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="45" column="1" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="37" column="11" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="1" column="4" filename="E:/ss_code/graphql/src/server.js" />
@@ -237,7 +249,6 @@
       <jump line="7" column="13" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="3" column="0" filename="E:/ss_code/express-jwt-example/middlewares/auth.js" />
       <jump line="14" column="0" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="4" column="6" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="30" column="13" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="48" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="3" column="8" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
@@ -249,8 +260,6 @@
       <jump line="0" column="11" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="31" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="114" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="5" column="0" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="1" column="8" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="24" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="28" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="27" column="2" filename="E:/ss_code/graphql/src/schema.js" />
@@ -263,7 +272,6 @@
       <jump line="50" column="52" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="62" column="10" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="27" column="5" filename="E:/ss_code/graphql-mongodb-example/package.json" />
-      <jump line="7" column="6" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="35" column="2" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="2" column="7" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="99" column="24" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
@@ -289,10 +297,8 @@
       <jump line="21" column="7" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="18" column="33" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="7" column="19" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="10" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="6" column="26" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="9" column="75" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="23" column="8" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="21" column="5" filename="E:/ss_code/graphql/package.json" />
       <jump line="1" column="13" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="3" column="0" filename="E:/ss_code/graphql/src/mongoData.js" />
@@ -306,13 +312,8 @@
       <jump line="69" column="105" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="60" column="28" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="54" column="0" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="2" column="26" filename="E:/ss_code/graphql/src/db/user.js" />
       <jump line="1" column="37" filename="E:/ss_code/graphql/src/db/user.js" />
       <jump line="2" column="7" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="25" column="31" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="0" column="11" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="4" column="23" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="20" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="6" column="0" filename="E:/ss_code/graphql-mongodb-example/package.json" />
       <jump line="28" column="5" filename="E:/ss_code/graphql-mongodb-example/package.json" />
       <jump line="6" column="17" filename="E:/ss_code/graphql/package.json" />
@@ -323,63 +324,77 @@
       <jump line="22" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="0" column="13" filename="E:/ss_code/graphql/src/db/user.js" />
       <jump line="3" column="15" filename="E:/ss_code/graphql/src/db/user.js" />
+      <jump line="5" column="15" filename="E:/ss_code/graphql/src/db/user.js" />
+      <jump line="10" column="18" filename="E:/ss_code/graphql/src/db/user.js" />
+      <jump line="2" column="6" filename="E:/ss_code/graphql/src/db/user.js" />
+      <jump line="0" column="25" filename="E:/ss_code/graphql/src/control/user.js" />
+      <jump line="23" column="8" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="1" column="8" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="4" column="9" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="25" column="6" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="10" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
+      <jump line="11" column="77" filename="E:/ss_code/graphql/src/mongoData.js" />
+      <jump line="7" column="23" filename="E:/ss_code/graphql/src/mongoData.js" />
+      <jump line="20" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
+      <jump line="23" column="18" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="24" column="33" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="5" column="23" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="49" column="25" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="4" column="15" filename="E:/ss_code/graphql/src/schema.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>username</text>
+        <text>...</text>
       </register>
       <register name="/" type="4">
-        <text>ind</text>
+        <text>await</text>
       </register>
       <register name="0" type="4">
-        <text>await getDb()</text>
+        <text>connectDB</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZGIgfSBmcm9tICcuLi9tb25nb0RhdGEnCg==</text>
+        <text encoding="base64">ICBpZiAoIWRiKSB7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXEuYm9keQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRiID0gKGF3YWl0IE1vbmdvQ2xpZW50LmNvbm5lY3QoTU9OR09fVVJMLCB7IHVzZU5ld1VybFBhcnNlcjogdHJ1ZSB9KSkuZGIoJ2dyYXBocWwnKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">Ly8gY29uc3QgZ2V0RGIgPSBhc3luYyAoKSA9PiBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKLy8gICBNb25nb0NsaWVudC5jb25uZWN0KE1PTkdPX1VSTCwgZnVuY3Rpb24oZXJyLCBjbGllbnQpIHsKLy8gICAgIHJlc29sdmUoY2xpZW50LmRiKCdncmFwaHFsJykpCi8vICAgfSkKLy8gfSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYgo=</text>
+        <text encoding="base64">bGV0IGRiID0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBkYgo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>ind</last-search>
+      <last-search>await</last-search>
       <last-offset />
-      <last-pattern>ind</last-pattern>
+      <last-pattern>await</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRoc1w+</entry>
-        <entry encoding="base64">XDxtYWtlRXhlY3V0YWJsZVNjaGVtYVw+</entry>
-        <entry encoding="base64">XDxob21lUGF0aFw+</entry>
         <entry>input</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxMT0dJTl9SRVFVRVNUXD4=</entry>
@@ -397,6 +412,9 @@
         <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
         <entry encoding="base64">XDxCZWFyZXJcPg==</entry>
         <entry>ind</entry>
+        <entry encoding="base64">XDxhd2FpdFw+</entry>
+        <entry>gra</entry>
+        <entry>await</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -406,8 +424,8 @@
         <entry>sp</entry>
         <entry>action QuickList.ss</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
