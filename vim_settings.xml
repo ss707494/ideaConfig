@@ -27,12 +27,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="52" column="7" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550113337719">
-        <mark key="'" line="0" column="42" />
-        <mark key="[" line="26" column="35" />
-        <mark key="]" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="^" line="26" column="35" />
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550114042932">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="7" column="46" />
+        <mark key="]" line="7" column="49" />
+        <mark key="." line="7" column="49" />
+        <mark key="^" line="7" column="49" />
       </file>
       <file name="E:/ss_code/graphql-mongodb-example/package.json" timestamp="1550107641208">
         <mark key="'" line="28" column="5" />
@@ -53,7 +53,6 @@
         <mark key="." line="36" column="33" />
         <mark key="^" line="36" column="33" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/mostCmd" timestamp="1549855785815" />
       <file name="E:/ss_code/graphql/package.json" timestamp="1550107801109">
         <mark key="'" line="8" column="36" />
         <mark key="[" line="8" column="36" />
@@ -68,6 +67,13 @@
         <mark key="'" line="11" column="35" />
         <mark key="[" line="11" column="35" />
         <mark key="]" line="11" column="57" />
+      </file>
+      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1550113433924">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="1" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FEOM/src/common/plugins/injector/axios.js" timestamp="1549954404469">
         <mark key="'" line="100" column="0" />
@@ -133,15 +139,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="44" />
       </file>
-      <file name="E:/ss_code/graphql-mongodb-example/dist/index.js" timestamp="1550047491878" />
-      <file name="E:/ss_code/react-redux-jwt-authentication-example/src/_helpers/fake-backend.js" timestamp="1550025272815" />
       <file name="vm:1680" timestamp="1550109087998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1549950880827">
-        <mark key="'" line="76" column="2" />
-        <mark key="[" line="76" column="2" />
-        <mark key="]" line="76" column="7" />
+      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550113980157">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="76" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550037094259">
         <mark key="'" line="59" column="31" />
@@ -195,7 +199,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550113308505">
+      <file name="/JavaScript Console" timestamp="1550114005642">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:342" timestamp="1550027504205">
@@ -232,8 +236,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/code/N-31Editor/FE/src/apps/view/index.scss" timestamp="1549855901557" />
-      <file name="E:/ss_code/essentialFood/gulpfile.babel.js" timestamp="1549933759492" />
       <file name="E:/code/CSHXEventSite/FEOM/src/api/menuManage/index.js" timestamp="1549955487830">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -241,12 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="11" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="1" column="4" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="36" column="9" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="8" column="13" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="7" column="13" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="3" column="0" filename="E:/ss_code/express-jwt-example/middlewares/auth.js" />
       <jump line="14" column="0" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="30" column="13" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="48" column="0" filename="E:/ss_code/graphql/src/schema.js" />
@@ -336,66 +332,71 @@
       <jump line="24" column="33" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="5" column="23" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="49" column="25" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="4" column="15" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="7" column="31" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="26" column="4" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="1" column="9" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="0" column="42" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="4" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="1" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="44" column="6" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
+      <jump line="69" column="10" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
+      <jump line="8" column="0" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
+      <jump line="3" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="9" column="6" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>ma</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3N0c1w+</text>
+        <text encoding="base64">XDxyZXNvbHZlQXBwXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>makeExecutableSchema</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgYXBwRGlyZWN0b3J5ID0gZnMucmVhbHBhdGhTeW5jKHByb2Nlc3MuY3dkKCkpOwpjb25zdCByZXNvbHZlQXBwID0gcmVsYXRpdmVQYXRoID0+IHBhdGgucmVzb2x2ZShhcHBEaXJlY3RvcnksIHJlbGF0aXZlUGF0aCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvb2tzOiBbQm9va10K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbWFrZUV4ZWN1dGFibGVTY2hlbWEgfSBmcm9tICdncmFwaHFsLXRvb2xzJwo=</text>
+        <text encoding="base64">Y29uc3Qgc2NoZW1hTGlzdCA9IHJlcXVpcmUuY29udGV4dCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgQ29tbWVudHMgaW4gR3JhcGhRTCBhcmUgZGVmaW5lZCB3aXRoIHRoZSBoYXNoICgjKSBzeW1ib2wuCgogIHR5cGUgUG9zdCB7CiAgICB0aXRsZTogU3RyaW5nCiAgICBjb250ZW50OiBTdHJpbmcKICB9CiAgIyBUaGlzICJCb29rIiB0eXBlIGNhbiBiZSB1c2VkIGluIG90aGVyIHR5cGUgZGVjbGFyYXRpb25zLgogIHR5cGUgQm9vayB7CiAgICB0aXRsZTogU3RyaW5nCiAgICBhdXRob3I6IFN0cmluZwogIH0KCiAgIyBUaGUgIlF1ZXJ5IiB0eXBlIGlzIHRoZSByb290IG9mIGFsbCBHcmFwaFFMIHF1ZXJpZXMuCiAgIyAoQSAiTXV0YXRpb24iIHR5cGUgd2lsbCBiZSBjb3ZlcmVkIGxhdGVyIG9uLikKICB0eXBlIFF1ZXJ5IHsKICAgIHBvc3RzOiBbUG9zdF0KICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0RGIgfSBmcm9tICIuL21vbmdvRGF0YSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zdCBkYiA9IGdldERiKCkKICBjb25zdCBwb3N0cyA9IGRiLmNvbGxlY3Rpb24oJ3Bvc3RzJykK</text>
+        <text encoding="base64">ICAgICMgQ29tbWVudHMgaW4gR3JhcGhRTCBhcmUgZGVmaW5lZCB3aXRoIHRoZSBoYXNoICgjKSBzeW1ib2wuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAjIENvbW1lbnRzIGluIEdyYXBoUUwgYXJlIGRlZmluZWQgd2l0aCB0aGUgaGFzaCAoIykgc3ltYm9sLgoKICB0eXBlIFBvc3QgewogICAgdGl0bGU6IFN0cmluZwogICAgY29udGVudDogU3RyaW5nCiAgfQogICMgVGhpcyAiQm9vayIgdHlwZSBjYW4gYmUgdXNlZCBpbiBvdGhlciB0eXBlIGRlY2xhcmF0aW9ucy4KICB0eXBlIEJvb2sgewogICAgdGl0bGU6IFN0cmluZwogICAgYXV0aG9yOiBTdHJpbmcKICB9CgogICMgVGhlICJRdWVyeSIgdHlwZSBpcyB0aGUgcm9vdCBvZiBhbGwgR3JhcGhRTCBxdWVyaWVzLgogICMgKEEgIk11dGF0aW9uIiB0eXBlIHdpbGwgYmUgY292ZXJlZCBsYXRlciBvbi4pCiAgdHlwZSBRdWVyeSB7CiAgICBib29rczogW0Jvb2tdCiAgICBwb3N0czogW1Bvc3RdCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcG9zdHM6IGFzeW5jICgpID0+IGF3YWl0IHBvc3RzLmZpbmQoKS50b0FycmF5KCkK</text>
+        <text encoding="base64">ZXhwb3J0IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gUmVzb2x2ZXJzIGRlZmluZSB0aGUgdGVjaG5pcXVlIGZvciBmZXRjaGluZyB0aGUgdHlwZXMgaW4gdGhlCi8vIHNjaGVtYS4gIFdlJ2xsIHJldHJpZXZlIGJvb2tzIGZyb20gdGhlICJib29rcyIgYXJyYXkgYWJvdmUuCg==</text>
+        <text encoding="base64">ICAgIGJvb2tzOiBbQm9va10K</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3N0c1w+</last-search>
+      <last-search encoding="base64">XDxyZXNvbHZlQXBwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3N0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNvbHZlQXBwXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxMT0dJTl9SRVFVRVNUXD4=</entry>
         <entry encoding="base64">XDxncmFwaHFsSFRUUFw+</entry>
         <entry encoding="base64">XDxBcG9sbG9TZXJ2ZXJcPg==</entry>
@@ -415,6 +416,7 @@
         <entry>gra</entry>
         <entry>await</entry>
         <entry encoding="base64">XDxwb3N0c1w+</entry>
+        <entry encoding="base64">XDxyZXNvbHZlQXBwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
