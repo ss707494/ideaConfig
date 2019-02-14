@@ -27,12 +27,12 @@
         <mark key="[" line="49" column="0" />
         <mark key="]" line="52" column="7" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550112117431">
-        <mark key="'" line="4" column="15" />
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="23" column="18" />
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550113337719">
+        <mark key="'" line="0" column="42" />
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="^" line="26" column="35" />
       </file>
       <file name="E:/ss_code/graphql-mongodb-example/package.json" timestamp="1550107641208">
         <mark key="'" line="28" column="5" />
@@ -195,7 +195,7 @@
         <mark key="." line="1" column="23" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550112132041">
+      <file name="/JavaScript Console" timestamp="1550113308505">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="vm:342" timestamp="1550027504205">
@@ -241,7 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="1" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="37" column="11" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="1" column="4" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="36" column="9" filename="E:/ss_code/graphql/src/server.js" />
@@ -257,7 +256,6 @@
       <jump line="22" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="64" column="8" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="62" column="31" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="0" column="11" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="31" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="114" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
       <jump line="24" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
@@ -296,7 +294,6 @@
       <jump line="20" column="7" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="21" column="7" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="18" column="33" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="7" column="19" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="6" column="26" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="9" column="75" filename="E:/ss_code/graphql/src/mongoData.js" />
       <jump line="21" column="5" filename="E:/ss_code/graphql/package.json" />
@@ -329,7 +326,6 @@
       <jump line="2" column="6" filename="E:/ss_code/graphql/src/db/user.js" />
       <jump line="0" column="25" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="23" column="8" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="1" column="8" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="4" column="9" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="25" column="6" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="10" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
@@ -341,61 +337,64 @@
       <jump line="5" column="23" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="49" column="25" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="4" column="15" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="7" column="31" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="26" column="4" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="1" column="9" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="0" column="42" filename="E:/ss_code/graphql/src/schema.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>...</text>
+        <text>ma</text>
       </register>
       <register name="/" type="4">
-        <text>await</text>
+        <text encoding="base64">XDxwb3N0c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>connectDB</text>
+        <text>makeExecutableSchema</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJvb2tzOiBbQm9va10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZiAoIWRiKSB7CiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbWFrZUV4ZWN1dGFibGVTY2hlbWEgfSBmcm9tICdncmFwaHFsLXRvb2xzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRiID0gKGF3YWl0IE1vbmdvQ2xpZW50LmNvbm5lY3QoTU9OR09fVVJMLCB7IHVzZU5ld1VybFBhcnNlcjogdHJ1ZSB9KSkuZGIoJ2dyYXBocWwnKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0RGIgfSBmcm9tICIuL21vbmdvRGF0YSI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc3QgZ2V0RGIgPSBhc3luYyAoKSA9PiBhd2FpdCBuZXcgUHJvbWlzZShyZXNvbHZlID0+IHsKLy8gICBNb25nb0NsaWVudC5jb25uZWN0KE1PTkdPX1VSTCwgZnVuY3Rpb24oZXJyLCBjbGllbnQpIHsKLy8gICAgIHJlc29sdmUoY2xpZW50LmRiKCdncmFwaHFsJykpCi8vICAgfSkKLy8gfSkK</text>
+        <text encoding="base64">ICBjb25zdCBkYiA9IGdldERiKCkKICBjb25zdCBwb3N0cyA9IGRiLmNvbGxlY3Rpb24oJ3Bvc3RzJykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGRiID0gbnVsbAo=</text>
+        <text encoding="base64">ICAjIENvbW1lbnRzIGluIEdyYXBoUUwgYXJlIGRlZmluZWQgd2l0aCB0aGUgaGFzaCAoIykgc3ltYm9sLgoKICB0eXBlIFBvc3QgewogICAgdGl0bGU6IFN0cmluZwogICAgY29udGVudDogU3RyaW5nCiAgfQogICMgVGhpcyAiQm9vayIgdHlwZSBjYW4gYmUgdXNlZCBpbiBvdGhlciB0eXBlIGRlY2xhcmF0aW9ucy4KICB0eXBlIEJvb2sgewogICAgdGl0bGU6IFN0cmluZwogICAgYXV0aG9yOiBTdHJpbmcKICB9CgogICMgVGhlICJRdWVyeSIgdHlwZSBpcyB0aGUgcm9vdCBvZiBhbGwgR3JhcGhRTCBxdWVyaWVzLgogICMgKEEgIk11dGF0aW9uIiB0eXBlIHdpbGwgYmUgY292ZXJlZCBsYXRlciBvbi4pCiAgdHlwZSBRdWVyeSB7CiAgICBib29rczogW0Jvb2tdCiAgICBwb3N0czogW1Bvc3RdCiAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IAo=</text>
+        <text encoding="base64">ICAgICAgcG9zdHM6IGFzeW5jICgpID0+IGF3YWl0IHBvc3RzLmZpbmQoKS50b0FycmF5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">Ly8gUmVzb2x2ZXJzIGRlZmluZSB0aGUgdGVjaG5pcXVlIGZvciBmZXRjaGluZyB0aGUgdHlwZXMgaW4gdGhlCi8vIHNjaGVtYS4gIFdlJ2xsIHJldHJpZXZlIGJvb2tzIGZyb20gdGhlICJib29rcyIgYXJyYXkgYWJvdmUuCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>await</last-search>
+      <last-search encoding="base64">XDxwb3N0c1w+</last-search>
       <last-offset />
-      <last-pattern>await</last-pattern>
+      <last-pattern encoding="base64">XDxwb3N0c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
         <entry encoding="base64">XDxsb2dpblw+</entry>
         <entry encoding="base64">XDxMT0dJTl9SRVFVRVNUXD4=</entry>
         <entry encoding="base64">XDxncmFwaHFsSFRUUFw+</entry>
@@ -415,6 +414,7 @@
         <entry encoding="base64">XDxhd2FpdFw+</entry>
         <entry>gra</entry>
         <entry>await</entry>
+        <entry encoding="base64">XDxwb3N0c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
