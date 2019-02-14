@@ -169,6 +169,12 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/ss_code/gatsby-hello-world/src/pages/index.js" timestamp="1550135997989">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="2" column="50" />
+        <mark key="^" line="2" column="50" />
+        <mark key="." line="2" column="50" />
+      </file>
       <file name="E:/ss_code/graphql/src/db/user.js" timestamp="1550127938376">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="10" column="2" />
@@ -567,7 +573,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -608,8 +614,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
