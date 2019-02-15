@@ -40,12 +40,12 @@
         <mark key="[" line="123" column="27" />
         <mark key="]" line="123" column="33" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1550216866007">
-        <mark key="'" line="22" column="30" />
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="29" column="51" />
-        <mark key="." line="29" column="51" />
-        <mark key="^" line="29" column="51" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1550224431844">
+        <mark key="'" line="26" column="54" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="55" />
+        <mark key="." line="26" column="42" />
+        <mark key="^" line="26" column="43" />
       </file>
       <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550112028913">
         <mark key="'" line="0" column="25" />
@@ -316,8 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="53" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="9" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="4" column="30" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="25" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
@@ -416,46 +414,48 @@
       <jump line="69" column="11" filename="E:/ss_code/ant-design-pro/package.json" />
       <jump line="75" column="19" filename="E:/ss_code/ant-design-pro/package.json" />
       <jump line="89" column="5" filename="E:/ss_code/ant-design-pro/package.json" />
+      <jump line="30" column="39" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="26" column="54" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>maxLength</text>
+        <text>'2'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmV0dGllclw+</text>
       </register>
       <register name="0" type="4">
-        <text>prettier</text>
+        <text>maxTicketCout</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dHlwZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gY29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Ci8vICAgdXJpOiAnL2FwaScsCi8vICAgaGVhZGVyczogewovLyAgICAgQXV0aG9yaXphdGlvbjogJ0JlYXJlciBleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJakV5TXlJc0ltbGhkQ0k2TVRVMU1EQXpPRFF5TUN3aVpYaHdJam94TlRVd01qRXhNakl3ZlEuNDQyNXlHS0x1OXpoRXZNVGF0Ry02TVVZUFVpc05zYmZIMGIxSWZtQ3lnZycKLy8gICB9Ci8vIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">Ly8gY29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Ci8vICAgdXJpOiAnL2FwaScsCi8vICAgaGVhZGVyczogewovLyAgICAgQXV0aG9yaXphdGlvbjogJ0JlYXJlciBleUpoYkdjaU9pSklVekkxTmlJc0luUjVjQ0k2SWtwWFZDSjkuZXlKcFpDSTZJakV5TXlJc0ltbGhkQ0k2TVRVMU1EQXpPRFF5TUN3aVpYaHdJam94TlRVd01qRXhNakl3ZlEuNDQyNXlHS0x1OXpoRXZNVGF0Ry02TVVZUFVpc05zYmZIMGIxSWZtQ3lnZycKLy8gICB9Ci8vIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm1GaWxlZHMgPSByZXMuRmllbGRzCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXMpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBldmVudElkOiB0aGlzLmV2ZW50SWQsCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZvcm1GaWxlZHMgPSByZXMuRmllbGRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwYWdlQ29kZTogMjAK</text>
+        <text encoding="base64">ICAgICAgICBldmVudElkOiB0aGlzLmV2ZW50SWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWdlQ29kZTogMjAK</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
