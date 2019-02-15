@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="评论" />
+      <item value="翻译" />
       <item value="Inspect the stack trace of this error to look for the first entry that doesn't mention &quot;@babel/core&quot; or &quot;babel-core&quot; to see what is calling Babel." />
       <item value="control" />
       <item value="controle" />
@@ -49,8 +51,6 @@
       <item value="destructuring" />
       <item value="form Component" />
       <item value="package" />
-      <item value="组件" />
-      <item value="operate" />
     </histories>
     <option name="languageScores">
       <map>
