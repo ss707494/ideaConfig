@@ -58,6 +58,13 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1550197590026">
+        <mark key="'" line="24" column="23" />
+        <mark key="[" line="23" column="9" />
+        <mark key="]" line="23" column="11" />
+        <mark key="." line="23" column="11" />
+        <mark key="^" line="23" column="11" />
+      </file>
       <file name="internal/async_hooks.js" timestamp="1550108012569">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,12 +88,11 @@
         <mark key="." line="18" column="10" />
         <mark key="^" line="18" column="10" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550194481237">
-        <mark key="'" line="19" column="20" />
-        <mark key="[" line="19" column="21" />
-        <mark key="]" line="19" column="35" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="35" />
+      <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550196811387">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/fragment.js" timestamp="1550130082957">
         <mark key="[" line="0" column="0" />
@@ -193,12 +199,12 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/index.js" timestamp="1549954826493">
+      <file name="E:/ss_code/react-hooks-demo/src/index.js" timestamp="1550195210604">
         <mark key="'" line="1" column="23" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="/JavaScript Console" timestamp="1550133613691">
         <mark key="[" line="0" column="0" />
@@ -206,12 +212,12 @@
       <file name="vm:342" timestamp="1550027504205">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550194517790">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="6" column="21" />
-        <mark key="^" line="6" column="21" />
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550197266411">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="18" column="190" />
       </file>
       <file name="vm:341" timestamp="1550027514921">
         <mark key="[" line="0" column="0" />
@@ -256,21 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="9" column="75" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="1" column="13" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="3" column="0" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="4" column="11" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="29" column="0" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="27" column="4" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="28" column="15" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="5" column="4" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="59" column="14" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="63" column="109" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="69" column="105" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="60" column="28" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="54" column="0" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="1" column="37" filename="E:/ss_code/graphql/src/db/user.js" />
       <jump line="6" column="0" filename="E:/ss_code/graphql-mongodb-example/package.json" />
       <jump line="28" column="5" filename="E:/ss_code/graphql-mongodb-example/package.json" />
       <jump line="8" column="36" filename="E:/ss_code/graphql/package.json" />
@@ -347,56 +338,70 @@
       <jump line="1" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="6" column="44" filename="E:/ss_code/react-hooks-demo/src/common/plugins/axios.js" />
       <jump line="8" column="169" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="16" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
       <jump line="9" column="0" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
       <jump line="9" column="6" filename="E:/ss_code/react-hooks-demo/src/apollo/demo.js" />
       <jump line="4" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="5" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="7" column="6" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="19" column="20" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="7" column="19" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="6" column="8" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="3" column="37" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="20" column="20" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="26" column="0" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
+      <jump line="29" column="8" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
+      <jump line="10" column="23" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="7" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="17" column="53" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="9" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
+      <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="1" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="4" column="30" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="25" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="23" column="23" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>sdfsf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqc29ud2VidG9rZW5cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>client</text>
+        <text>{ uri: &quot;/sdfsf&quot; }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Cn0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsaW5rLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBsaW5rOiBjcmVhdGVIdHRwTGluayh7IHVyaTogIi9ncmFwaHFsIiB9KSwK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PFF1ZXJ5IHF1ZXJ5PXtncWxgYH0+CiAgICAKICA8L1F1ZXJ5Pg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjYWNoZTogbmV3IEluTWVtb3J5Q2FjaGUoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>(
-  )</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBoZWFkZXJzOiB7CiAgICBBdXRob3JpemF0aW9uOiAnQmVhcmVyIGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqRXlNeUlzSW1saGRDSTZNVFUxTURBek9EUXlNQ3dpWlhod0lqb3hOVFV3TWpFeE1qSXdmUS40NDI1eUdLTHU5emhFdk1UYXRHLTZNVVlQVWlzTnNiZkgwYjFJZm1DeWdnJwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8cD5Zb3UgY2xpY2tlZCB7Y291bnR9IHRpbWVzPC9wPgogICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gc2V0Q291bnQoY291bnQgKyAxKX0+CiAgICAgICAgICBDbGljayBtZQogICAgICAgIDwvYnV0dG9uPgogICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBheGlvcy5wb3N0KCcvYXBpJywgewogICAgcXVlcnk6IGBxdWVyeSB7CiAgICAgIGFsbFVzZXIgewogICAgICAgIG5hbWUKICAgICAgICBpZAogICAgICB9CiAgICB9YAogIH0pLnRoZW4ocmVzID0+IHsKICAgIGNvbnNvbGUubG9nKHJlcykKICB9KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlSHR0cExpbmsgfSBmcm9tICJhcG9sbG8tbGluay1odHRwIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBEZWNsYXJlIGEgbmV3IHN0YXRlIHZhcmlhYmxlLCB3aGljaCB3ZSdsbCBjYWxsICJjb3VudCIKICAvLyBjb25zdCBbY291bnQsIHNldENvdW50XSA9IHVzZVN0YXRlKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1c2VFZmZlY3QoKCkgPT4gewogICAgZG9jdW1lbnQudGl0bGUgPSBgdGhpcyBpcyBjb3VudDogJHtjb3VudH1gCiAgfSkK</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
