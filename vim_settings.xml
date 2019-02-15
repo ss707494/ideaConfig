@@ -3,12 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="E:/code/CSHXEventSite/FEOM/config/host.local.js" timestamp="1549938957730">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="40" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/setupProxy.js" timestamp="1550037500798">
         <mark key="'" line="3" column="82" />
         <mark key="[" line="3" column="35" />
         <mark key="]" line="3" column="55" />
         <mark key="." line="3" column="55" />
         <mark key="^" line="3" column="55" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" timestamp="1550198986737">
+        <mark key="'" line="123" column="27" />
+        <mark key="[" line="123" column="27" />
+        <mark key="]" line="123" column="33" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/apollo/demo.js" timestamp="1550137854236">
         <mark key="'" line="8" column="6" />
@@ -24,11 +34,21 @@
         <mark key="." line="65" column="19" />
         <mark key="^" line="60" column="17" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/apps/containers/login/index.vue" timestamp="1549955834213">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="52" column="7" />
+      </file>
       <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550129386992">
         <mark key="'" line="26" column="6" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql-mongodb-example/package.json" timestamp="1550107641208">
+        <mark key="'" line="28" column="5" />
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="28" column="11" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/api/index.js" timestamp="1549953935852">
         <mark key="'" line="10" column="11" />
@@ -52,21 +72,20 @@
         <mark key="." line="8" column="36" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/global.js" timestamp="1549941515249">
-        <mark key="[" line="0" column="25" />
-        <mark key="]" line="2" column="19" />
-        <mark key="." line="2" column="19" />
-        <mark key="^" line="2" column="19" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1550197590026">
-        <mark key="'" line="24" column="23" />
-        <mark key="[" line="23" column="9" />
-        <mark key="]" line="23" column="11" />
-        <mark key="." line="23" column="11" />
-        <mark key="^" line="23" column="11" />
+      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1550200167486">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="13" column="9" />
       </file>
       <file name="internal/async_hooks.js" timestamp="1550108012569">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql/node_modules/mongodb/package.json" timestamp="1550047640263">
+        <mark key="'" line="11" column="35" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="11" column="57" />
       </file>
       <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1550133776456">
         <mark key="'" line="8" column="7" />
@@ -82,11 +101,10 @@
         <mark key="^" line="12" column="25" />
         <mark key="." line="12" column="25" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" timestamp="1549854319481">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="10" />
-        <mark key="." line="18" column="10" />
-        <mark key="^" line="18" column="10" />
+      <file name="E:/code/CSHXEventSite/FEOM/.eslintrc.js" timestamp="1549942924718">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="8" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550196811387">
         <mark key="'" line="9" column="0" />
@@ -102,18 +120,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/.eslintrc.json" timestamp="1549952263058">
-        <mark key="[" line="1" column="9" />
-        <mark key="]" line="1" column="9" />
-        <mark key="^" line="2" column="25" />
-        <mark key="." line="1" column="9" />
-      </file>
-      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray.json" timestamp="1549854051835">
-        <mark key="[" line="53" column="3" />
-        <mark key="]" line="60" column="2" />
-        <mark key="." line="60" column="2" />
-        <mark key="^" line="60" column="2" />
       </file>
       <file name="E:/ss_code/graphql/src/mongoData.js" timestamp="1550127856448">
         <mark key="'" line="23" column="2" />
@@ -143,11 +149,10 @@
         <mark key="^" line="2" column="6" />
       </file>
       <file name="E:/ss_code/gatsby-hello-world/package.json" timestamp="1550131989946" />
-      <file name="E:/ss_code/graphql/src/jwtConfig.js" timestamp="1550127311761">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="^" line="0" column="35" />
-        <mark key="." line="0" column="6" />
+      <file name="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" timestamp="1550054331942">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="55" />
       </file>
       <file name="$USER_HOME$/.spf13-vim-3/file/v2rayConfig" timestamp="1549853895690">
         <mark key="[" line="6" column="0" />
@@ -155,20 +160,40 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="E:/ss_code/express-jwt-example/middlewares/auth.js" timestamp="1550040992368">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="13" />
+      </file>
       <file name="internal/inspector_async_hook.js" timestamp="1550108010558">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/api/index.js" timestamp="1549953792336">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="44" />
       </file>
       <file name="E:/ss_code/graphql-mongodb-example/dist/index.js" timestamp="1550047491878" />
       <file name="E:/ss_code/react-redux-jwt-authentication-example/src/_helpers/fake-backend.js" timestamp="1550025272815" />
       <file name="vm:1680" timestamp="1550109087998">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550037094259">
-        <mark key="'" line="59" column="31" />
-        <mark key="[" line="21" column="5" />
-        <mark key="]" line="21" column="27" />
+      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550113980157">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="76" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550198299280">
+        <mark key="'" line="9" column="5" />
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="9" column="20" />
         <mark key="." line="6" column="18" />
         <mark key="^" line="5" column="14" />
+      </file>
+      <file name="E:/ss_code/express-jwt-example/controllers/user.js" timestamp="1550028551664">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="14" column="58" />
       </file>
       <file name="E:/ss_code/graphql/src/server.js" timestamp="1550127341578">
         <mark key="'" line="6" column="0" />
@@ -180,17 +205,21 @@
       <file name="vm:1729" timestamp="1550109178397">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/ss_code/graphql-mongodb-example/src/index.js" timestamp="1550047518703">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="23" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/api/menu.js" timestamp="1549955555693">
         <mark key="'" line="5" column="13" />
         <mark key="[" line="5" column="13" />
         <mark key="]" line="5" column="26" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/Program Files/MongoDB/Server/4.0/bin/mongod.cfg" timestamp="1549966221729">
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="12" />
+      <file name="E:/code/CSHXEventSite/FEOM/vue.config.js" timestamp="1549940704465">
+        <mark key="'" line="126" column="23" />
+        <mark key="[" line="126" column="23" />
+        <mark key="]" line="126" column="35" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/api/login.js" timestamp="1550133761400">
         <mark key="'" line="2" column="16" />
@@ -232,6 +261,16 @@
         <mark key="^" line="2" column="28" />
         <mark key="." line="2" column="16" />
       </file>
+      <file name="/Dummy.txt" timestamp="1550200479509">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/api/common/index.js" timestamp="1549955839165">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="2" column="14" />
+        <mark key="]" line="2" column="34" />
+      </file>
       <file name="$USER_HOME$/.spf13-vim-3/cachetxt" timestamp="1549853868729">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="28" column="13" />
@@ -254,6 +293,11 @@
         <mark key="." line="6" column="41" />
         <mark key="^" line="6" column="40" />
       </file>
+      <file name="E:/code/CSHXEventSite/FEOM/src/api/menuManage/index.js" timestamp="1549955487830">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="22" column="41" />
+      </file>
       <file name="vm:1709" timestamp="1550126127034">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -262,27 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="E:/ss_code/graphql-mongodb-example/package.json" />
-      <jump line="28" column="5" filename="E:/ss_code/graphql-mongodb-example/package.json" />
-      <jump line="8" column="36" filename="E:/ss_code/graphql/package.json" />
-      <jump line="4" column="2" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="3" column="3" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="22" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="0" column="13" filename="E:/ss_code/graphql/src/db/user.js" />
-      <jump line="3" column="15" filename="E:/ss_code/graphql/src/db/user.js" />
-      <jump line="5" column="15" filename="E:/ss_code/graphql/src/db/user.js" />
-      <jump line="2" column="6" filename="E:/ss_code/graphql/src/db/user.js" />
-      <jump line="0" column="25" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="23" column="8" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="4" column="9" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="10" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="11" column="77" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="7" column="23" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="20" column="2" filename="E:/ss_code/graphql/src/mongoData.js" />
-      <jump line="23" column="18" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="49" column="25" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="26" column="4" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="1" column="9" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="1" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="44" column="6" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
       <jump line="69" column="10" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
@@ -346,7 +369,6 @@
       <jump line="5" column="9" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="19" column="20" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="7" column="19" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="6" column="8" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="3" column="37" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
@@ -358,72 +380,86 @@
       <jump line="17" column="53" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="9" column="0" filename="E:/ss_code/react-hooks-demo/src/App.js" />
       <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
-      <jump line="1" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="4" column="30" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="25" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
       <jump line="23" column="23" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="9" column="5" filename="E:/ss_code/react-hooks-demo/package.json" />
+      <jump line="100" column="0" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="15" column="14" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="160" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="17" column="9" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="23" column="17" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="148" column="25" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="154" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="21" column="2" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="46" column="3" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="76" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="153" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="0" column="40" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="158" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="136" column="17" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="18" column="2" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="43" column="3" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="73" column="6" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="123" column="27" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" />
+      <jump line="8" column="38" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="31" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="1" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="14" column="13" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>sdfsf</text>
+        <text>, forward</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqc29ud2VidG9rZW5cPg==</text>
+        <text encoding="base64">XDxBcG9sbG9MaW5rXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>{ uri: &quot;/sdfsf&quot; }</text>
+        <text encoding="base64">KG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogIGRlYnVnZ2VyCiAgb3BlcmF0aW9uLnNldENvbnRleHQoKHsgaGVhZGVycyA9IHt9IH0pID0+IHsKICAgIHJldHVybiAoewogICAgICBoZWFkZXJzOiB7CiAgICAgICAgLi4uaGVhZGVycywKICAgICAgICBBdXRob3JpemF0aW9uOiBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndG9rZW4nKSB8fCBudWxsLAogICAgICB9CiAgICB9KQogIH0pOwogIHJldHVybiBmb3J3YXJkKG9wZXJhdGlvbik7Cn0=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Cn0pCg==</text>
+        <text encoding="base64">ICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsaW5rLAo=</text>
+        <text encoding="base64">ICB1cmk6ICIvYXBpIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsaW5rOiBjcmVhdGVIdHRwTGluayh7IHVyaTogIi9ncmFwaHFsIiB9KSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgQXBvbGxvTGluaywgZnJvbSB9IGZyb20gJ2Fwb2xsby1saW5rJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjYWNoZTogbmV3IEluTWVtb3J5Q2FjaGUoKQo=</text>
+        <text encoding="base64">Y29uc3QgYXV0aE1pZGRsZXdhcmUgPSBuZXcgQXBvbGxvTGluaygob3BlcmF0aW9uLCBmb3J3YXJkKSA9PiB7CiAgZGVidWdnZXIKICBvcGVyYXRpb24uc2V0Q29udGV4dCgoeyBoZWFkZXJzID0ge30gfSkgPT4gewogICAgcmV0dXJuICh7CiAgICAgIGhlYWRlcnM6IHsKICAgICAgICAuLi5oZWFkZXJzLAogICAgICAgIEF1dGhvcml6YXRpb246IGxvY2FsU3RvcmFnZS5nZXRJdGVtKCd0b2tlbicpIHx8IG51bGwsCiAgICAgIH0KICAgIH0pCiAgfSk7CiAgcmV0dXJuIGZvcndhcmQob3BlcmF0aW9uKTsKfSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBoZWFkZXJzOiB7CiAgICBBdXRob3JpemF0aW9uOiAnQmVhcmVyIGV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUpwWkNJNklqRXlNeUlzSW1saGRDSTZNVFUxTURBek9EUXlNQ3dpWlhod0lqb3hOVFV3TWpFeE1qSXdmUS40NDI1eUdLTHU5emhFdk1UYXRHLTZNVVlQVWlzTnNiZkgwYjFJZm1DeWdnJwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlSHR0cExpbmsgfSBmcm9tICdhcG9sbG8tbGluay1odHRwJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBheGlvcy5wb3N0KCcvYXBpJywgewogICAgcXVlcnk6IGBxdWVyeSB7CiAgICAgIGFsbFVzZXIgewogICAgICAgIG5hbWUKICAgICAgICBpZAogICAgICB9CiAgICB9YAogIH0pLnRoZW4ocmVzID0+IHsKICAgIGNvbnNvbGUubG9nKHJlcykKICB9KQo=</text>
+        <text encoding="base64">Y29uc3QgbGluayA9IGNyZWF0ZUh0dHBMaW5rKHsKICB1cmk6ICcvYXBpJywKfSkKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlSHR0cExpbmsgfSBmcm9tICJhcG9sbG8tbGluay1odHRwIgo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgY2xpZW50ID0gbmV3IEFwb2xsb0NsaWVudCh7Cn0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICBsaW5rLAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqc29ud2VidG9rZW5cPg==</last-search>
+      <last-search encoding="base64">XDxBcG9sbG9MaW5rXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqc29ud2VidG9rZW5cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxBcG9sbG9MaW5rXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFNjaGVtYVw+</entry>
-        <entry encoding="base64">XDxncmFwaHFsRXhwcmVzc1w+</entry>
-        <entry encoding="base64">XDxNb25nb0NsaWVudFw+</entry>
-        <entry encoding="base64">XDxQb3N0c1w+</entry>
-        <entry encoding="base64">XDxwcmVwYXJlXD4=</entry>
-        <entry encoding="base64">XDxib2R5UGFyc2VyXD4=</entry>
-        <entry>MongoClient</entry>
-        <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry encoding="base64">XDxCZWFyZXJcPg==</entry>
         <entry>ind</entry>
@@ -436,6 +472,14 @@
         <entry>babel</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
+        <entry>export</entry>
+        <entry encoding="base64">XDxIdHRwTGlua1w+</entry>
+        <entry>headers</entry>
+        <entry encoding="base64">XDxoZWFkZXJzXD4=</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0SGFuZGxlclw+</entry>
+        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVIdHRwTGlua1w+</entry>
+        <entry encoding="base64">XDxBcG9sbG9MaW5rXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -445,8 +489,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
