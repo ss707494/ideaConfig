@@ -9,12 +9,12 @@
         <mark key="]" line="4" column="40" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/store/modules/global.js" timestamp="1550210519267" />
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/components/add/index.vue" timestamp="1550214610862">
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/components/add/index.vue" timestamp="1550217762720">
         <mark key="'" line="156" column="24" />
-        <mark key="[" line="170" column="48" />
-        <mark key="]" line="170" column="50" />
-        <mark key="." line="170" column="50" />
-        <mark key="^" line="170" column="50" />
+        <mark key="[" line="170" column="47" />
+        <mark key="]" line="170" column="72" />
+        <mark key="." line="170" column="72" />
+        <mark key="^" line="170" column="72" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/setupProxy.js" timestamp="1550037500798">
         <mark key="'" line="3" column="82" />
@@ -449,7 +449,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>'123'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRDYXJkTGlzdFw+</text>
