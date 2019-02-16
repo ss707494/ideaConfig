@@ -2,7 +2,6 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateDebugToolWindow" />
   <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateFindToolWindow" />
   <action id="ActivateMavenProjectsToolWindow">
@@ -11,12 +10,6 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="alt 1" />
     <keyboard-shortcut first-keystroke="home" second-keystroke="1" />
-  </action>
-  <action id="ChooseDebugConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f10" />
-  </action>
-  <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt f9" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />

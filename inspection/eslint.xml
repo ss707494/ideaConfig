@@ -701,6 +701,7 @@
   <inspection_tool class="StrutsValidatorFormInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="StrutsValidatorInspection" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="StubBasedPsiElementBaseGetParent" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="Stylelint" enabled="true" level="ERROR" enabled_by_default="true" />
   <inspection_tool class="SubstringZero" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="SuspiciousMethodCalls" enabled="false" level="WARNING" enabled_by_default="false">
     <option name="REPORT_CONVERTIBLE_METHOD_CALLS" value="true" />
@@ -732,6 +733,7 @@
   <inspection_tool class="TrivialMethodReference" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TryFinallyCanBeTryWithResources" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TryWithIdenticalCatches" enabled="false" level="WARNING" enabled_by_default="false" />
+  <inspection_tool class="TsLint" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="TypeCustomizer" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeParameterExtendsObject" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="TypeParameterHidesVisibleType" enabled="false" level="WARNING" enabled_by_default="false" />
