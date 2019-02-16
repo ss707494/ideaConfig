@@ -217,7 +217,6 @@
         <mark key="]" line="36" column="28" />
         <mark key="." line="36" column="14" />
       </file>
-      <file name="$USER_HOME$/.spf13-vim-3/app/AHK Script Manager/scripts/CapsLock.ahk" timestamp="1549375291139" />
       <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1548999836776">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="2" column="9" />
@@ -377,13 +376,14 @@
       <last-offset />
       <last-pattern>忙</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry>忙</entry>
       </history-search>
       <history-cmd>
+        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
