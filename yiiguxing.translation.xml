@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="剩余" />
       <item value="示例" />
       <item value="评论" />
       <item value="翻译" />
@@ -50,7 +51,6 @@
       <item value="form Data" />
       <item value="Expected an assignment or function call and instead saw an expression." />
       <item value="destructuring" />
-      <item value="form Component" />
     </histories>
     <option name="languageScores">
       <map>
