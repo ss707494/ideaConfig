@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="过度" />
+      <item value="fuzzy" />
+      <item value="模糊" />
+      <item value="侧面" />
+      <item value="正确" />
       <item value="剩余" />
       <item value="示例" />
       <item value="评论" />
@@ -46,16 +51,11 @@
       <item value="无权限" />
       <item value="省份" />
       <item value="论坛" />
-      <item value="origin" />
-      <item value="原始" />
-      <item value="form Data" />
-      <item value="Expected an assignment or function call and instead saw an expression." />
-      <item value="destructuring" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="89" />
+        <entry key="CHINESE" value="89" />
+        <entry key="ENGLISH" value="90" />
       </map>
     </option>
   </component>
