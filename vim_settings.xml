@@ -19,6 +19,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="71" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/assets/styles/functions/_px2vw.scss" timestamp="1550558165354">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="1" />
+      </file>
       <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/start.sh" timestamp="1550555204059">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="6" />
@@ -26,12 +31,12 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550544903416">
-        <mark key="'" line="20" column="40" />
-        <mark key="[" line="20" column="24" />
-        <mark key="]" line="20" column="41" />
-        <mark key="." line="20" column="24" />
-        <mark key="^" line="12" column="37" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550560714087">
+        <mark key="'" line="32" column="27" />
+        <mark key="[" line="27" column="5" />
+        <mark key="]" line="27" column="5" />
+        <mark key="." line="27" column="5" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/store/modules/global.js" timestamp="1550555842493">
         <mark key="'" line="46" column="4" />
@@ -43,8 +48,21 @@
       <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
         <mark key="'" line="2" column="7" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/TextareaShowNumber/index.scss" timestamp="1550455984263">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550556114147">
         <mark key="'" line="63" column="31" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" timestamp="1550560603897">
+        <mark key="'" line="73" column="2" />
+        <mark key="[" line="134" column="16" />
+        <mark key="]" line="135" column="20" />
+        <mark key="^" line="135" column="20" />
+        <mark key="." line="135" column="20" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/config/env.js" timestamp="1550552519774">
         <mark key="'" line="92" column="36" />
@@ -54,17 +72,23 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="37" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550553430817">
-        <mark key="'" line="13" column="113" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="13" column="129" />
-        <mark key="." line="9" column="0" />
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550564499932">
+        <mark key="'" line="12" column="54" />
+        <mark key="[" line="12" column="47" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="56" />
+        <mark key="." line="12" column="56" />
       </file>
-      <file name="E:/ss_code/graphql/package.json" timestamp="1550556146803">
-        <mark key="'" line="8" column="31" />
-        <mark key="[" line="8" column="31" />
-        <mark key="]" line="8" column="59" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" timestamp="1550563991724">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql/package.json" timestamp="1550564274741">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="40" column="3" />
         <mark key="^" line="8" column="30" />
         <mark key="." line="7" column="14" />
       </file>
@@ -92,18 +116,38 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="37" />
       </file>
-      <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" timestamp="1550556148119">
-        <mark key="'" line="8" column="42" />
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="43" />
-        <mark key="." line="8" column="14" />
+      <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" timestamp="1550564281287">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="40" column="3" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" timestamp="1550469906665">
-        <mark key="'" line="24" column="43" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" timestamp="1550563431830">
+        <mark key="'" line="12" column="28" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="E:/code/N-31Mechinery/BE/N-31Mechinery/N-31Mechinery.api/dist/index.html" timestamp="1550555667190" />
+      <file name="D:/coder/N-31Brands/FE/src/components/InputShowNumber/index.scss" timestamp="1550474720223">
+        <mark key="[" line="4" column="11" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" timestamp="1550563607091">
+        <mark key="'" line="63" column="63" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="55" column="16" />
+        <mark key="." line="48" column="18" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550555899139">
         <mark key="'" line="5" column="4" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550483774788">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="17" column="190" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/scripts/build.js" timestamp="1550552588336">
         <mark key="'" line="4" column="0" />
@@ -120,9 +164,10 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550555687972">
+      <file name="/Dummy.txt" timestamp="1550564938033">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="6" />
+        <mark key="]" line="0" column="8" />
+        <mark key="." line="0" column="8" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" timestamp="1550542932016">
         <mark key="'" line="0" column="27" />
@@ -159,7 +204,19 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/ss_code/fontconversion/sever/start.sh" timestamp="1550548107234" />
+      <file name="E:/code/N-31Mechinery/FE/src/components/Form/index.scss" timestamp="1550564017848">
+        <mark key="[" line="2" column="22" />
+        <mark key="]" line="2" column="22" />
+        <mark key="^" line="2" column="22" />
+        <mark key="." line="2" column="22" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" timestamp="1550563584674">
+        <mark key="'" line="106" column="21" />
+        <mark key="[" line="106" column="15" />
+        <mark key="]" line="106" column="22" />
+        <mark key="^" line="92" column="18" />
+        <mark key="." line="106" column="15" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550547025446">
         <mark key="'" line="28" column="20" />
         <mark key="[" line="36" column="0" />
@@ -167,69 +224,14 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="46" column="1" />
       </file>
+      <file name="E:/ss_code/graphql/.gitignore" timestamp="1550564948492">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="5" />
+        <mark key="." line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="12" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.scss" />
-      <jump line="116" column="0" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.scss" />
-      <jump line="93" column="12" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.scss" />
-      <jump line="102" column="2" filename="E:/ss_code/ant-design-pro/src/models/menu.js" />
-      <jump line="4" column="39" filename="E:/ss_code/ant-design-pro/src/models/menu.js" />
-      <jump line="75" column="4" filename="E:/ss_code/ant-design-pro/package.json" />
-      <jump line="12" column="20" filename="E:/ss_code/react-hooks-demo/src/App.js" />
-      <jump line="3" column="27" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
-      <jump line="6" column="14" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
-      <jump line="11" column="85" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
-      <jump line="2" column="7" filename="E:/ss_code/ant-design-pro/config/config.js" />
-      <jump line="143" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
-      <jump line="181" column="11" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
-      <jump line="81" column="16" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="139" column="18" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="134" column="4" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="109" column="18" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="2" column="9" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/router.js" />
-      <jump line="129" column="25" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="13" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" />
-      <jump line="193" column="11" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
-      <jump line="2" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" />
-      <jump line="80" column="50" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
-      <jump line="92" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
-      <jump line="99" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="98" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="45" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="50" column="50" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="100" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="49" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="105" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="33" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" />
-      <jump line="23" column="36" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="0" column="0" filename="E:/code/N-31Mechinery/FE/src/api/form/index.js" />
-      <jump line="152" column="6" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="2" column="16" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="52" column="9" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="48" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="24" column="20" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="51" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="153" column="47" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
-      <jump line="4" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" />
-      <jump line="104" column="7" filename="E:/code/N-31Mechinery/FE/src/components/Form/index.vue" />
-      <jump line="106" column="10" filename="E:/code/N-31Mechinery/FE/src/components/Form/index.vue" />
-      <jump line="51" column="4" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="29" column="12" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="33" column="27" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="40" column="30" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="41" column="24" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="10" column="28" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="11" column="38" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="13" column="26" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="12" column="31" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
-      <jump line="0" column="27" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" />
-      <jump line="13" column="25" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="172" column="31" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="196" column="32" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="243" column="32" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="53" column="12" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="0" column="0" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/ajax.js" />
-      <jump line="28" column="24" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
       <jump line="239" column="16" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
       <jump line="50" column="15" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="18" column="0" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
@@ -241,7 +243,6 @@
       <jump line="131" column="4" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
       <jump line="20" column="6" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
       <jump line="2" column="14" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
-      <jump line="20" column="40" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="6" column="23" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
       <jump line="109" column="17" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
       <jump line="164" column="15" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" />
@@ -268,63 +269,123 @@
       <jump line="32" column="22" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" />
       <jump line="5" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" />
       <jump line="8" column="31" filename="E:/ss_code/graphql/package.json" />
-      <jump line="8" column="42" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
+      <jump line="1" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="4" column="25" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="15" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="0" column="0" filename="E:/code/N-31Mechinery/FE/src/assets/styles/functions/_px2vw.scss" />
+      <jump line="13" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="14" column="24" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="4" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="21" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="36" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="37" column="23" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="28" column="15" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="12" column="39" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="9" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="2" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="10" column="22" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="44" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="19" column="34" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="20" column="36" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="21" column="95" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="32" column="27" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="5" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="73" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
+      <jump line="39" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="32" column="1" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="36" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="37" column="20" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="28" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="15" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="34" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="23" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="29" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="21" column="38" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="22" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="26" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="33" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="11" column="38" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="30" column="40" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="32" column="29" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="102" column="36" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="107" column="6" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="48" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="46" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="17" column="6" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" />
+      <jump line="40" column="26" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="27" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" />
+      <jump line="12" column="28" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" />
+      <jump line="113" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="132" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="135" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="5" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" />
+      <jump line="137" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="9" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" />
+      <jump line="115" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="109" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="106" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="16" column="46" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="63" column="63" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="0" column="1" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" />
+      <jump line="8" column="54" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
+      <jump line="13" column="0" filename="E:/ss_code/graphql/package.json" />
+      <jump line="13" column="2" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
+      <jump line="7" column="6" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="12" column="54" filename="E:/ss_code/graphql/src/schema.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnBtIHJ1biBiYWJlbCAmJg==</text>
+        <text>distPath</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text encoding="base64">XDxhdWRpdFN0YXR1c1w+</text>
       </register>
       <register name="0" type="4">
-        <text>cross-env NODE_ENV=production</text>
+        <text>distPath</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJ2VudnZ2dnZ2dnZ2JywgcHJvY2Vzcy5lbnYuTk9ERV9FTlYpCg==</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBiYWJlbC9jbGkiOiAiXjcuMi4zIiwKICAgICJAYmFiZWwvY29yZSI6ICJeNy4yLjIiLAogICAgIkBiYWJlbC9ub2RlIjogIl43LjIuMiIsCiAgICAiQGJhYmVsL3ByZXNldC1lbnYiOiAiXjcuMy4xIiwKICAgICJAYmFiZWwvcHJlc2V0LWVzMjAxNyI6ICJeNy4wLjAtYmV0YS41MyIsCiAgICAiQGJhYmVsL3JlZ2lzdGVyIjogIl43LjAuMCIsCiAgICAiYmFiZWwtcGx1Z2luLWR5bmFtaWMtaW1wb3J0LW5vZGUiOiAiXjIuMi4wIiwKICAgICJiYWJlbC1wbHVnaW4tc3ludGF4LWFzeW5jLWZ1bmN0aW9ucyI6ICJeNi4xMy4wIiwKICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlZ2VuZXJhdG9yIjogIl42LjIwLjAiLAogICAgImNyb3NzLWVudiI6ICJeNS4yLjAiCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImFwb2xsby1zZXJ2ZXItZXhwcmVzcyI6ICJeMi40LjAiLAogICAgImJjcnlwdCI6ICJeMy4wLjQiLAogICAgImJvZHktcGFyc2VyIjogIl4xLjE4LjMiLAogICAgImV4cHJlc3MiOiAiXjQuMTYuNCIsCiAgICAiZXhwcmVzcy1ncmFwaHFsIjogIl4wLjcuMSIsCiAgICAiZXhwcmVzcy1qd3QiOiAiXjUuMy4xIiwKICAgICJncmFwaHFsIjogIl4xNC4wLjIiLAogICAgImdyYXBocWwtdG9vbHMiOiAiXjQuMC40IiwKICAgICJqc29ud2VidG9rZW4iOiAiXjguNC4wIiwKICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAogICAgIm1vbmdvZGIiOiAiXjMuMS4xMyIsCiAgICAibm9kZW1vbiI6ICJeMS4xOC4xMCIKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHJvY2Vzcy5lbnYuTk9ERV9FTlYgPSAncHJvZHVjdGlvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAidXNlQnVpbHRJbnMiOiAiZW50cnkiLAo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggOHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJzeW50YXgtYXN5bmMtZnVuY3Rpb25zIiwKICAgICJ0cmFuc2Zvcm0tcmVnZW5lcmF0b3IiLAo=</text>
+        <text encoding="base64">ICAgICAgPEJ1dHRvbiBjbGFzcz0ic3VibWl0IgogICAgICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICAgICAgQGNsaWNrPSJzdWJtaXQiCiAgICAgICAgICAgICAgOmxvYWRpbmc9ImlzTG9hZGluZyIKICAgICAgPszhvbsKICAgICAgPC9CdXR0b24+CiAgICAgIDwhLS0gPEJ1dHRvbiBAY2xpY2s9ImNhbmNlbCI+yKHP+zwvQnV0dG9uPiAtLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzPSJjYXJkX19hZGQtYnRuIgogICAgICAgICAgICAgICAgQGNsaWNrPSJnb3RvQWRkIgogICAgICAgID6yztW51qS8/snqx+sKICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiIsCiAgICB7CiAgICAgICJ0YXJnZXRzIjogewogICAgICAgICJicm93c2VycyI6IFsKICAgICAgICAgICJsYXN0IDIgdmVyc2lvbnMiLAogICAgICAgICAgIklFID49IDkiCiAgICAgICAgXQogICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bm9odXAgbm9kZSBzZXJ2ZXIuanMgJgo=</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIG1hcmdpbi10b3A6IDhweDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search encoding="base64">XDxhdWRpdFN0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern encoding="base64">XDxhdWRpdFN0YXR1c1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2dpblw+</entry>
-        <entry encoding="base64">XDxjaGVja0xvZ2luXD4=</entry>
         <entry encoding="base64">XDxnb1RvUGFnZVw+</entry>
         <entry encoding="base64">XDxjb3VudEJ0blw+</entry>
         <entry encoding="base64">XDxnb1RvTG9naW5cPg==</entry>
@@ -343,6 +404,8 @@
         <entry>node</entry>
         <entry>prod</entry>
         <entry>title</entry>
+        <entry>foot</entry>
+        <entry encoding="base64">XDxhdWRpdFN0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -352,8 +415,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
