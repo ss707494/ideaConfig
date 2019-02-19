@@ -13,9 +13,10 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="71" />
       </file>
-      <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/start.sh" timestamp="1550548369579">
-        <mark key="[" line="2" column="11" />
-        <mark key="]" line="2" column="17" />
+      <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/start.sh" timestamp="1550548381387">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="29" />
         <mark key="^" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
@@ -87,15 +88,22 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="17" column="190" />
       </file>
+      <file name="E:/ss_code/graphql/.babelrc" timestamp="1550549425466">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="5" column="29" />
+        <mark key="^" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+      </file>
       <file name="/Dummy.txt" timestamp="1550546371021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
       </file>
-      <file name="E:/ss_code/graphql/dist/start.sh" timestamp="1550548275580">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="16" />
+      <file name="E:/ss_code/graphql/dist/start.sh" timestamp="1550548387582">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="29" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
       <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1550544808614">
@@ -109,11 +117,11 @@
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/src/start.sh" timestamp="1550548280694">
+      <file name="E:/ss_code/graphql/src/start.sh" timestamp="1550548399917">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/components/Form/index.scss" timestamp="1550546071473">
         <mark key="[" line="2" column="21" />
@@ -137,10 +145,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="20" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
-      <jump line="187" column="4" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
-      <jump line="113" column="20" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
-      <jump line="305" column="4" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="308" column="19" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="6" column="21" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
       <jump line="309" column="11" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
@@ -237,49 +241,53 @@
       <jump line="2" column="0" filename="E:/code/CSHXEventSite/FEOM/src/assets/styles/variables/_boxShadow.scss" />
       <jump line="0" column="0" filename="E:/ss_code/graphql/dist/start.sh" />
       <jump line="0" column="0" filename="E:/ss_code/graphql/src/start.sh" />
+      <jump line="2" column="0" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/start.sh" />
+      <jump line="2" column="0" filename="E:/ss_code/graphql/dist/start.sh" />
+      <jump line="2" column="9" filename="E:/ss_code/graphql/.babelrc" />
+      <jump line="3" column="6" filename="E:/ss_code/graphql/.babelrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJWYWx1ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyEgL2Jpbi9iYXNoCgpub2h1cCBub2RlIHNlcnZlci5qcyAmCg==</text>
+      <register name="0" type="4">
+        <text>@babel/preset-env</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyEgL2Jpbi9iYXNoCgpleHBvcnQgTERfTElCUkFSWV9QQVRIPS9vcHQvZ2xpYmMtMi4xNC9saWI6JExEX0xJQlJBUllfUEFUSApub2h1cCBub2RlIGluZGV4LmpzICYK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IExEX0xJQlJBUllfUEFUSD0vb3B0L2dsaWJjLTIuMTQvbGliOiRMRF9MSUJSQVJZX1BBVEgK</text>
+        <text encoding="base64">ICAgICJAYmFiZWwvcHJlc2V0LWVudiIsCiAgICB7CiAgICAgICJ0YXJnZXRzIjogewogICAgICAgICJicm93c2VycyI6IFsKICAgICAgICAgICJsYXN0IDIgdmVyc2lvbnMiLAogICAgICAgICAgIklFID49IDkiCiAgICAgICAgXQogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii90b3BpY3MiPlRvcGljczwvTGluaz4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">bm9odXAgbm9kZSBzZXJ2ZXIuanMgJgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RvcGljcyIgY29tcG9uZW50PXtUb3BpY3N9IC8+Cg==</text>
+        <text encoding="base64">IyEgL2Jpbi9iYXNoCgpleHBvcnQgTERfTElCUkFSWV9QQVRIPS9vcHQvZ2xpYmMtMi4xNC9saWI6JExEX0xJQlJBUllfUEFUSApub2h1cCBub2RlIGluZGV4LmpzICYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IExEX0xJQlJBUllfUEFUSD0vb3B0L2dsaWJjLTIuMTQvbGliOiRMRF9MSUJSQVJZX1BBVEgK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii90b3BpY3MiPlRvcGljczwvTGluaz4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTphY2NlcHQ9ImFjY2VwdCItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RvcGljcyIgY29tcG9uZW50PXtUb3BpY3N9IC8+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -320,8 +328,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
