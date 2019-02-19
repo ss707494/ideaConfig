@@ -81,6 +81,12 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/router.js" timestamp="1550484997978">
+        <mark key="'" line="2" column="9" />
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="2" column="15" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/index.vue" timestamp="1550453640248" />
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" timestamp="1550469906665">
         <mark key="'" line="24" column="43" />
       </file>
@@ -96,6 +102,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="&lt;97eefd2b-926a-45d7-b030-dd9f1908df66&gt;/usr/ss707494/fontconversion/sever/index.js" timestamp="1550485521162" />
       <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550483774788">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -105,6 +112,7 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550453572728">
         <mark key="'" line="32" column="22" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/UploadVideo/index.vue" timestamp="1550457469774" />
       <file name="/Dummy.txt" timestamp="1550484468515">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
@@ -158,7 +166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
       <jump line="293" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
       <jump line="28" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
       <jump line="81" column="22" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
@@ -258,6 +265,7 @@
       <jump line="6" column="14" filename="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" />
       <jump line="11" column="85" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
       <jump line="2" column="7" filename="E:/ss_code/ant-design-pro/config/config.js" />
+      <jump line="2" column="9" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -270,7 +278,7 @@
         <text encoding="base64">XDxwYWdlUm91dGVzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>item.label</text>
+        <text>ucenter</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -300,7 +308,7 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9udC13ZWlnaHQ6IDQwMDsK</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -340,9 +348,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
