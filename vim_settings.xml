@@ -163,10 +163,9 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550453572728">
         <mark key="'" line="32" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550546342056">
+      <file name="/Dummy.txt" timestamp="1550546371021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" timestamp="1550542932016">
         <mark key="'" line="0" column="27" />
@@ -199,11 +198,6 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1550484270182">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.scss" timestamp="1550459794508">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="65" column="0" />
@@ -222,11 +216,12 @@
         <mark key="." line="40" column="17" />
         <mark key="^" line="40" column="17" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550483752012">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550547025446">
+        <mark key="'" line="28" column="20" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="46" column="1" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1550461371900">
         <mark key="'" line="170" column="10" />
@@ -343,7 +338,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJWYWx1ZVw+</text>
@@ -352,31 +347,31 @@
         <text encoding="base64">ICAgIGJveC1zaGFkb3c6IDAgMXB4IDNweCByZ2JhKDAsMCwwLDAuMTIpLCAwIDFweCAycHggcmdiYSgwLDAsMCwwLjI0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLTphY2NlcHQ9ImFjY2VwdCItLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICdAL2FwaScK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgPExpbmsgdG89Ii90b3BpY3MiPlRvcGljczwvTGluaz4KICAgICAgICAgICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGdldEVUaWNrZXRVcmwoKSB7CiAgICAgIAogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL3RvcGljcyIgY29tcG9uZW50PXtUb3BpY3N9IC8+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBheGlvcy5nZXQoJy9hcGkvcGMvY2FyZC9FVGlja2V0VXJsJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2xkZmtqc2xka2ZqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTphY2NlcHQ9ImFjY2VwdCItLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPG1haW4gdi1pZj0iaXNFZGl0Ij4KICAgICAgICA8QnV0dG9uIDpsb2FkaW5nPSJ1cGxvYWRTdGF0dXMgPT09IDEiCiAgICAgICAgPgogICAgICAgICAgPHRlbXBsYXRlIHYtaWY9InVwbG9hZFN0YXR1cyA9PT0gMSI+CiAgICAgICAgICAgIMnPtKvW0AogICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICAgIDx0ZW1wbGF0ZSB2LWVsc2U+CiAgICAgICAgICAgIHt7bXVsdGlwbGVUeHR9fQogICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L0J1dHRvbj4KICAgICAgPC9tYWluPgo=</text>
+        <text encoding="base64">aW1wb3J0IGFwaSBmcm9tICdAL2FwaScK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOnR5cGU9ImRyYWcgPyAnZHJhZycgOiAnc2VsZWN0JyIK</text>
+        <text encoding="base64">ICAgIGdldEVUaWNrZXRVcmwoKSB7CiAgICAgIAogICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
