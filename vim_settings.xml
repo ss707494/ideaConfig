@@ -23,10 +23,16 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
         <mark key="'" line="4" column="13" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" timestamp="1550539192381">
-        <mark key="'" line="2" column="0" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" timestamp="1550540422905">
+        <mark key="'" line="4" column="13" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="33" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/components/Form/index.vue" timestamp="1550541545608">
+        <mark key="'" line="106" column="10" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1550481171384">
         <mark key="'" line="130" column="8" />
@@ -62,15 +68,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550540066321">
-        <mark key="'" line="50" column="4" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550540094035">
+        <mark key="'" line="51" column="16" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="52" column="6" />
         <mark key="." line="50" column="0" />
         <mark key="^" line="23" column="8" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/store/modules/global.js" timestamp="1550539985602">
-        <mark key="'" line="152" column="6" />
+      <file name="E:/code/N-31Mechinery/FE/src/store/modules/global.js" timestamp="1550540130931">
+        <mark key="'" line="153" column="47" />
         <mark key="[" line="129" column="19" />
         <mark key="]" line="129" column="26" />
         <mark key="." line="129" column="19" />
@@ -131,6 +137,13 @@
         <mark key="'" line="2" column="14" />
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="39" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" timestamp="1550542838665">
+        <mark key="'" line="12" column="31" />
+        <mark key="[" line="33" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="6" />
+        <mark key="^" line="234" column="23" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/UploadFile/index.scss" timestamp="1550474133912">
         <mark key="'" line="20" column="8" />
@@ -194,20 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="8" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.scss" />
-      <jump line="174" column="0" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="158" column="26" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="155" column="6" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="126" column="25" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="128" column="28" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="125" column="33" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="127" column="19" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="177" column="16" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="191" column="13" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="193" column="65" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="178" column="19" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="75" column="4" filename="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" />
-      <jump line="1" column="33" filename="D:/coder/N-31Brands/FE/src/components/InputShowNumber/index.vue" />
       <jump line="25" column="31" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
       <jump line="170" column="20" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/components/add/index.vue" />
       <jump line="26" column="65" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
@@ -291,64 +290,77 @@
       <jump line="2" column="16" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
       <jump line="52" column="9" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="48" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="51" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="24" column="20" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="50" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="51" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
+      <jump line="153" column="47" filename="E:/code/N-31Mechinery/FE/src/store/modules/global.js" />
+      <jump line="4" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" />
+      <jump line="104" column="7" filename="E:/code/N-31Mechinery/FE/src/components/Form/index.vue" />
+      <jump line="106" column="10" filename="E:/code/N-31Mechinery/FE/src/components/Form/index.vue" />
+      <jump line="51" column="4" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="3" column="5" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="29" column="12" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="33" column="27" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="40" column="30" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="41" column="24" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="10" column="28" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="11" column="38" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="13" column="26" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
+      <jump line="12" column="31" filename="E:/code/N-31Mechinery/FE/src/components/UploadFile/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>V</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2dpbk91dFw+</text>
+        <text encoding="base64">XDxjYWxjVmFsdWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAY2xpY2s9ImxvZ2luT3V0Igo=</text>
+      <register name="0" type="4">
+        <text>afterRead</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsb2dpbk91dCgpIHsKICAgIHRoaXMubG9nb3V0KCkKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJ2dvVG9Mb2dpbicsCg==</text>
+        <text encoding="base64">ICAgICAgc2xkZmtqc2xka2ZqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPG1haW4gdi1pZj0iaXNFZGl0Ij4KICAgICAgICA8QnV0dG9uIDpsb2FkaW5nPSJ1cGxvYWRTdGF0dXMgPT09IDEiCiAgICAgICAgPgogICAgICAgICAgPHRlbXBsYXRlIHYtaWY9InVwbG9hZFN0YXR1cyA9PT0gMSI+CiAgICAgICAgICAgIMnPtKvW0AogICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICAgIDx0ZW1wbGF0ZSB2LWVsc2U+CiAgICAgICAgICAgIHt7bXVsdGlwbGVUeHR9fQogICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8L0J1dHRvbj4KICAgICAgPC9tYWluPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEJhc2ljTGF5b3V0IGZyb20gJ0AvYXBwcy9tZWNoaW5lcnkvbGF5b3V0L0Jhc2ljTGF5b3V0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgOnR5cGU9ImRyYWcgPyAnZHJhZycgOiAnc2VsZWN0JyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPC9zbG90Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJhc2ljTGF5b3V0LAo=</text>
+        <text encoding="base64">ICAgICAgPHNsb3Q+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFVwbG9hZCBmcm9tICd2YW50L2xpYi91cGxvYWRlcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFVwbG9hZCwK</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2dpbk91dFw+</last-search>
+      <last-search encoding="base64">XDxjYWxjVmFsdWVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2dpbk91dFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjVmFsdWVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlVHlwZXNcPg==</entry>
         <entry>filetype</entry>
         <entry>debugger</entry>
         <entry encoding="base64">XDxtYXhUaWNrZXRDb3V0XD4=</entry>
@@ -368,6 +380,7 @@
         <entry>action</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry encoding="base64">XDxsb2dpbk91dFw+</entry>
+        <entry encoding="base64">XDxjYWxjVmFsdWVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
