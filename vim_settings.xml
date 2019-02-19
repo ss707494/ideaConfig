@@ -134,11 +134,12 @@
         <mark key="^" line="4" column="12" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" timestamp="1550563607091">
-        <mark key="'" line="63" column="63" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="55" column="16" />
-        <mark key="." line="48" column="18" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" timestamp="1550565759433">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="31" />
+        <mark key="." line="27" column="31" />
+        <mark key="^" line="27" column="45" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550555899139">
         <mark key="'" line="5" column="4" />
@@ -164,7 +165,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550564938033">
+      <file name="/Dummy.txt" timestamp="1550565811403">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="8" />
         <mark key="." line="0" column="8" />
@@ -210,12 +211,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" timestamp="1550563584674">
-        <mark key="'" line="106" column="21" />
-        <mark key="[" line="106" column="15" />
-        <mark key="]" line="106" column="22" />
-        <mark key="^" line="92" column="18" />
-        <mark key="." line="106" column="15" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" timestamp="1550565782923">
+        <mark key="'" line="90" column="8" />
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="23" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/App.js" timestamp="1550547025446">
         <mark key="'" line="28" column="20" />
@@ -232,10 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="16" filename="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/upload.vue" />
-      <jump line="50" column="15" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="18" column="0" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
-      <jump line="21" column="0" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
       <jump line="17" column="0" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
       <jump line="23" column="2" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
       <jump line="22" column="13" filename="E:/code/N-31Mechinery/FE/src/api/common/index.js" />
@@ -332,49 +328,53 @@
       <jump line="13" column="2" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
       <jump line="7" column="6" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="12" column="54" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="27" column="37" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="25" column="39" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
+      <jump line="46" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
+      <jump line="90" column="8" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>distPath</text>
+        <text>tel:</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhdWRpdFN0YXR1c1w+</text>
       </register>
-      <register name="0" type="4">
-        <text>distPath</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjMzMzMzMzOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LkRTX1N0b3JlCg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBiYWJlbC9jbGkiOiAiXjcuMi4zIiwKICAgICJAYmFiZWwvY29yZSI6ICJeNy4yLjIiLAogICAgIkBiYWJlbC9ub2RlIjogIl43LjIuMiIsCiAgICAiQGJhYmVsL3ByZXNldC1lbnYiOiAiXjcuMy4xIiwKICAgICJAYmFiZWwvcHJlc2V0LWVzMjAxNyI6ICJeNy4wLjAtYmV0YS41MyIsCiAgICAiQGJhYmVsL3JlZ2lzdGVyIjogIl43LjAuMCIsCiAgICAiYmFiZWwtcGx1Z2luLWR5bmFtaWMtaW1wb3J0LW5vZGUiOiAiXjIuMi4wIiwKICAgICJiYWJlbC1wbHVnaW4tc3ludGF4LWFzeW5jLWZ1bmN0aW9ucyI6ICJeNi4xMy4wIiwKICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlZ2VuZXJhdG9yIjogIl42LjIwLjAiLAogICAgImNyb3NzLWVudiI6ICJeNS4yLjAiCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImFwb2xsby1zZXJ2ZXItZXhwcmVzcyI6ICJeMi40LjAiLAogICAgImJjcnlwdCI6ICJeMy4wLjQiLAogICAgImJvZHktcGFyc2VyIjogIl4xLjE4LjMiLAogICAgImV4cHJlc3MiOiAiXjQuMTYuNCIsCiAgICAiZXhwcmVzcy1ncmFwaHFsIjogIl4wLjcuMSIsCiAgICAiZXhwcmVzcy1qd3QiOiAiXjUuMy4xIiwKICAgICJncmFwaHFsIjogIl4xNC4wLjIiLAogICAgImdyYXBocWwtdG9vbHMiOiAiXjQuMC40IiwKICAgICJqc29ud2VidG9rZW4iOiAiXjguNC4wIiwKICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAogICAgIm1vbmdvZGIiOiAiXjMuMS4xMyIsCiAgICAibm9kZW1vbiI6ICJeMS4xOC4xMCIKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LkRTX1N0b3JlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggOHB4Owo=</text>
+        <text encoding="base64">ICAiZGV2RGVwZW5kZW5jaWVzIjogewogICAgIkBiYWJlbC9jbGkiOiAiXjcuMi4zIiwKICAgICJAYmFiZWwvY29yZSI6ICJeNy4yLjIiLAogICAgIkBiYWJlbC9ub2RlIjogIl43LjIuMiIsCiAgICAiQGJhYmVsL3ByZXNldC1lbnYiOiAiXjcuMy4xIiwKICAgICJAYmFiZWwvcHJlc2V0LWVzMjAxNyI6ICJeNy4wLjAtYmV0YS41MyIsCiAgICAiQGJhYmVsL3JlZ2lzdGVyIjogIl43LjAuMCIsCiAgICAiYmFiZWwtcGx1Z2luLWR5bmFtaWMtaW1wb3J0LW5vZGUiOiAiXjIuMi4wIiwKICAgICJiYWJlbC1wbHVnaW4tc3ludGF4LWFzeW5jLWZ1bmN0aW9ucyI6ICJeNi4xMy4wIiwKICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLXJlZ2VuZXJhdG9yIjogIl42LjIwLjAiLAogICAgImNyb3NzLWVudiI6ICJeNS4yLjAiCiAgfSwKICAiZGVwZW5kZW5jaWVzIjogewogICAgImFwb2xsby1zZXJ2ZXItZXhwcmVzcyI6ICJeMi40LjAiLAogICAgImJjcnlwdCI6ICJeMy4wLjQiLAogICAgImJvZHktcGFyc2VyIjogIl4xLjE4LjMiLAogICAgImV4cHJlc3MiOiAiXjQuMTYuNCIsCiAgICAiZXhwcmVzcy1ncmFwaHFsIjogIl4wLjcuMSIsCiAgICAiZXhwcmVzcy1qd3QiOiAiXjUuMy4xIiwKICAgICJncmFwaHFsIjogIl4xNC4wLjIiLAogICAgImdyYXBocWwtdG9vbHMiOiAiXjQuMC40IiwKICAgICJqc29ud2VidG9rZW4iOiAiXjguNC4wIiwKICAgICJsb2Rhc2giOiAiXjQuMTcuMTEiLAogICAgIm1vbmdvZGIiOiAiXjMuMS4xMyIsCiAgICAibm9kZW1vbiI6ICJeMS4xOC4xMCIKICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEJ1dHRvbiBjbGFzcz0ic3VibWl0IgogICAgICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICAgICAgQGNsaWNrPSJzdWJtaXQiCiAgICAgICAgICAgICAgOmxvYWRpbmc9ImlzTG9hZGluZyIKICAgICAgPszhvbsKICAgICAgPC9CdXR0b24+CiAgICAgIDwhLS0gPEJ1dHRvbiBAY2xpY2s9ImNhbmNlbCI+yKHP+zwvQnV0dG9uPiAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzPSJjYXJkX19hZGQtYnRuIgogICAgICAgICAgICAgICAgQGNsaWNrPSJnb3RvQWRkIgogICAgICAgID6yztW51qS8/snqx+sKICAgICAgICA8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgIHBhZGRpbmc6IDIwcHggOHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPEJ1dHRvbiBjbGFzcz0ic3VibWl0IgogICAgICAgICAgICAgIHR5cGU9InByaW1hcnkiCiAgICAgICAgICAgICAgQGNsaWNrPSJzdWJtaXQiCiAgICAgICAgICAgICAgOmxvYWRpbmc9ImlzTG9hZGluZyIKICAgICAgPszhvbsKICAgICAgPC9CdXR0b24+CiAgICAgIDwhLS0gPEJ1dHRvbiBAY2xpY2s9ImNhbmNlbCI+yKHP+zwvQnV0dG9uPiAtLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8QnV0dG9uIGNsYXNzPSJjYXJkX19hZGQtYnRuIgogICAgICAgICAgICAgICAgQGNsaWNrPSJnb3RvQWRkIgogICAgICAgID6yztW51qS8/snqx+sKICAgICAgICA8L0J1dHRvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgIG1hcmdpbi10b3A6IDhweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -415,8 +415,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
