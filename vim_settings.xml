@@ -79,6 +79,13 @@
         <mark key="^" line="12" column="56" />
         <mark key="." line="12" column="56" />
       </file>
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550628023661">
+        <mark key="'" line="41" column="62" />
+        <mark key="[" line="41" column="59" />
+        <mark key="]" line="41" column="63" />
+        <mark key="^" line="40" column="18" />
+        <mark key="." line="41" column="59" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" timestamp="1550563991724">
         <mark key="'" line="0" column="1" />
         <mark key="[" line="10" column="0" />
@@ -178,10 +185,10 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550572806268">
+      <file name="/Dummy.txt" timestamp="1550627692620">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="." line="0" column="8" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/components/EmptyList/index.vue" timestamp="1550569750582">
         <mark key="'" line="69" column="31" />
@@ -254,9 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="22" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" />
-      <jump line="5" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" />
-      <jump line="8" column="31" filename="E:/ss_code/graphql/package.json" />
       <jump line="1" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="4" column="25" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
       <jump line="15" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
@@ -354,19 +358,22 @@
       <jump line="2" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" />
       <jump line="11" column="30" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
       <jump line="60" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
+      <jump line="8" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="40" column="15" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="41" column="62" filename="E:/ss_code/graphql/src/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>4344</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXRhXD4=</text>
+        <text>44</text>
       </register>
       <register name="0" type="4">
-        <text>#F39307</text>
+        <text>4460</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwhLS1wb3NpdGlvbjogcmVsYXRpdmU7LS0+CiAgICA8IS0tdG9wOiAtMTIwcHg7LS0+Cg==</text>
@@ -396,19 +403,18 @@
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXRhXD4=</last-search>
+      <last-search>44</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXRhXD4=</last-pattern>
+      <last-pattern>44</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vuex</entry>
         <entry>action</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry encoding="base64">XDxsb2dpbk91dFw+</entry>
@@ -428,6 +434,7 @@
         <entry encoding="base64">XDxyb3V0ZXJcPg==</entry>
         <entry encoding="base64">XDxmb3JtVGlwXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>44</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -436,9 +443,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
