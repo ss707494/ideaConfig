@@ -9,6 +9,9 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
         <mark key="'" line="4" column="13" />
       </file>
+      <file name="/fragment.js" timestamp="1550630514788">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/company/index.vue" timestamp="1550567883497">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="23" column="0" />
@@ -31,6 +34,19 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/setupProxy.js" timestamp="1550632220410">
+        <mark key="'" line="3" column="55" />
+        <mark key="[" line="3" column="52" />
+        <mark key="]" line="3" column="56" />
+        <mark key="." line="3" column="52" />
+      </file>
+      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550630406985">
+        <mark key="'" line="2" column="28" />
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="11" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550626037908">
         <mark key="'" line="51" column="28" />
         <mark key="[" line="27" column="24" />
@@ -48,14 +64,12 @@
       <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
         <mark key="'" line="2" column="7" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/TextareaShowNumber/index.scss" timestamp="1550455984263">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="1" />
-        <mark key="." line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550556114147">
-        <mark key="'" line="63" column="31" />
+      <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550631494888">
+        <mark key="'" line="72" column="24" />
+        <mark key="[" line="71" column="27" />
+        <mark key="]" line="71" column="34" />
+        <mark key="^" line="71" column="34" />
+        <mark key="." line="71" column="34" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" timestamp="1550560603897">
         <mark key="'" line="73" column="2" />
@@ -72,19 +86,19 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="37" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550564499932">
-        <mark key="'" line="12" column="54" />
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="56" />
-        <mark key="." line="12" column="56" />
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550631739864">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="58" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="7" column="35" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550628023661">
-        <mark key="'" line="41" column="62" />
-        <mark key="[" line="41" column="59" />
-        <mark key="]" line="41" column="63" />
-        <mark key="^" line="40" column="18" />
-        <mark key="." line="41" column="59" />
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550631806879">
+        <mark key="'" line="11" column="32" />
+        <mark key="[" line="37" column="19" />
+        <mark key="]" line="37" column="30" />
+        <mark key="^" line="37" column="30" />
+        <mark key="." line="37" column="30" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" timestamp="1550563991724">
         <mark key="'" line="0" column="1" />
@@ -92,10 +106,10 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/package.json" timestamp="1550564274741">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="40" column="3" />
+      <file name="E:/ss_code/graphql/package.json" timestamp="1550628918346">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="33" column="5" />
+        <mark key="]" line="33" column="15" />
         <mark key="^" line="8" column="30" />
         <mark key="." line="7" column="14" />
       </file>
@@ -123,6 +137,12 @@
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="37" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1550630571088">
+        <mark key="[" line="6" column="54" />
+        <mark key="]" line="6" column="54" />
+        <mark key="." line="6" column="54" />
+        <mark key="^" line="6" column="54" />
+      </file>
       <file name="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" timestamp="1550564281287">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="13" column="0" />
@@ -141,12 +161,6 @@
         <mark key="." line="9" column="32" />
         <mark key="^" line="9" column="32" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/components/InputShowNumber/index.scss" timestamp="1550474720223">
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" timestamp="1550569786095">
         <mark key="'" line="4" column="26" />
         <mark key="[" line="4" column="22" />
@@ -154,17 +168,14 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="25" />
       </file>
+      <file name="/JavaScript Console" timestamp="1550631813276">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550555899139">
         <mark key="'" line="5" column="4" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550483774788">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="17" column="190" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/scripts/build.js" timestamp="1550552588336">
-        <mark key="'" line="4" column="0" />
+      <file name="E:/ss_code/react-hooks-demo/scripts/build.js" timestamp="1550629178800">
+        <mark key="'" line="103" column="65" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="36" />
       </file>
@@ -185,7 +196,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550627692620">
+      <file name="/Dummy.txt" timestamp="1550628028226">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -217,10 +228,20 @@
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="E:/ss_code/graphql/src/common/pathConfig.js" timestamp="1550631736160">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.html" timestamp="1550555912509">
         <mark key="[" line="8" column="9" />
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1550484270182">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="E:/ss_code/graphql/src/start.sh" timestamp="1550548399917">
         <mark key="'" line="0" column="0" />
@@ -253,43 +274,8 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="46" column="1" />
       </file>
-      <file name="E:/ss_code/graphql/.gitignore" timestamp="1550564948492">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="3" column="5" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="4" column="25" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="15" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="0" column="0" filename="E:/code/N-31Mechinery/FE/src/assets/styles/functions/_px2vw.scss" />
-      <jump line="13" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="14" column="24" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="4" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="21" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="36" column="13" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="37" column="23" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="28" column="15" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="12" column="39" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="9" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="2" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="10" column="22" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="44" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="19" column="34" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="20" column="36" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="21" column="95" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="32" column="27" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" />
-      <jump line="5" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="73" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" />
-      <jump line="39" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="32" column="1" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
-      <jump line="36" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="37" column="20" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
-      <jump line="28" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="15" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="34" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="23" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="29" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="21" column="38" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
@@ -322,7 +308,6 @@
       <jump line="8" column="54" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
       <jump line="13" column="0" filename="E:/ss_code/graphql/package.json" />
       <jump line="13" column="2" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
-      <jump line="7" column="6" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="12" column="54" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="27" column="37" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="25" column="39" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
@@ -358,66 +343,93 @@
       <jump line="2" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.vue" />
       <jump line="11" column="30" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
       <jump line="60" column="2" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
-      <jump line="8" column="0" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="40" column="15" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="41" column="62" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="24" column="35" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="2" column="28" filename="E:/ss_code/graphql/src/control/user.js" />
+      <jump line="33" column="5" filename="E:/ss_code/graphql/package.json" />
+      <jump line="72" column="35" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
+      <jump line="91" column="25" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
+      <jump line="94" column="17" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
+      <jump line="108" column="11" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
+      <jump line="103" column="65" filename="E:/ss_code/react-hooks-demo/scripts/build.js" />
+      <jump line="18" column="4" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="17" column="42" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="26" column="27" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="4" column="26" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="21" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="35" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="40" column="4" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="2" column="7" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="42" column="57" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="39" column="4" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="2" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="72" column="24" filename="E:/ss_code/react-hooks-demo/config/paths.js" />
+      <jump line="13" column="44" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="11" column="6" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="14" column="78" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="8" column="6" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="6" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="8" column="26" filename="E:/ss_code/graphql/src/common/pathConfig.js" />
+      <jump line="7" column="66" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="5" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="8" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="7" column="9" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="11" column="32" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="3" column="55" filename="E:/ss_code/react-hooks-demo/src/setupProxy.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>4344</text>
+        <text>4000</text>
       </register>
       <register name="/" type="4">
-        <text>44</text>
+        <text encoding="base64">XDxkaXN0UGF0aFw+</text>
       </register>
       <register name="0" type="4">
-        <text>4460</text>
+        <text>resolveApp</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDwhLS1wb3NpdGlvbjogcmVsYXRpdmU7LS0+CiAgICA8IS0tdG9wOiAtMTIwcHg7LS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxzbG90IG5hbWU9ImZvcm1UaXAiPjwvc2xvdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0LWluZGVudDogMjhweDsK</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IHNjaGVtYVBhdGggPSByZXNvbHZlQXBwKGAke2Rpc3RQYXRofS9zY2hlbWFgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzbG90IG5hbWU9ImZvcm1UaXAiPjwvc2xvdD4K</text>
+        <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIMzY17DVuc67o6gyN6lPo6mjurOjuebP3raoOcjLo6zH68rkyOvIy8r9uvOjrNLAtM7M7tC01bnJzNDFz6Kho6OoyOfI9LOsuf05yMujrNDo1vew7Le9yfO6y6OpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgILHq17zVuc67o7qzo7nmz962qDPIy6Osx+vK5MjryMvK/brzo6zSwLTOzO7QtNW5yczQxc+ioaOjqMjnyPSzrLn9M8jLo6zQ6Nb3sOy3vcnzusujqQo=</text>
+        <text encoding="base64">Y29uc3QgZGlzdFBhdGggPSBwcm9jZXNzLmVudi5OT0RFX0VOViA9PT0gJ3Byb2R1Y3Rpb24nPyAnZGlzdCcgOiAnc3JjJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Y29uc3QgYXBwRGlyZWN0b3J5ID0gZnMucmVhbHBhdGhTeW5jKHByb2Nlc3MuY3dkKCkpOwpjb25zdCByZXNvbHZlQXBwID0gcmVsYXRpdmVQYXRoID0+IHBhdGgucmVzb2x2ZShhcHBEaXJlY3RvcnksIHJlbGF0aXZlUGF0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>44</last-search>
+      <last-search encoding="base64">XDxkaXN0UGF0aFw+</last-search>
       <last-offset />
-      <last-pattern>44</last-pattern>
+      <last-pattern encoding="base64">XDxkaXN0UGF0aFw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>action</entry>
-        <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
-        <entry encoding="base64">XDxsb2dpbk91dFw+</entry>
         <entry encoding="base64">XDxjYWxjVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
@@ -435,6 +447,9 @@
         <entry encoding="base64">XDxmb3JtVGlwXD4=</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry>44</entry>
+        <entry>build</entry>
+        <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxkaXN0UGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -443,9 +458,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
