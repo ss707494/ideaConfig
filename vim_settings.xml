@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/offer/index.vue" timestamp="1550455511007">
+        <mark key="'" line="1" column="15" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/components/add/index.vue" timestamp="1550481755919">
         <mark key="'" line="171" column="10" />
         <mark key="[" line="170" column="36" />
@@ -16,6 +19,9 @@
         <mark key="]" line="11" column="25" />
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="39" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
+        <mark key="'" line="4" column="13" />
       </file>
       <file name="/fragment.js" timestamp="1550630514788">
         <mark key="[" line="0" column="0" />
@@ -102,6 +108,12 @@
         <mark key="." line="10" column="35" />
         <mark key="^" line="10" column="35" />
       </file>
+      <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
+        <mark key="'" line="2" column="7" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" timestamp="1550644249602">
+        <mark key="'" line="40" column="5" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550631494888">
         <mark key="'" line="72" column="24" />
         <mark key="[" line="71" column="27" />
@@ -109,12 +121,20 @@
         <mark key="^" line="71" column="34" />
         <mark key="." line="71" column="34" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1550644142908">
+        <mark key="'" line="6" column="6" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="13" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.scss" timestamp="1550560603897">
         <mark key="'" line="73" column="2" />
         <mark key="[" line="134" column="16" />
         <mark key="]" line="135" column="20" />
         <mark key="^" line="135" column="20" />
         <mark key="." line="135" column="20" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/config/env.js" timestamp="1550552519774">
+        <mark key="'" line="92" column="36" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" timestamp="1550539835820">
         <mark key="'" line="33" column="0" />
@@ -218,6 +238,9 @@
       <file name="/JavaScript Console" timestamp="1550631813276">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550555899139">
+        <mark key="'" line="5" column="4" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/scripts/build.js" timestamp="1550629178800">
         <mark key="'" line="103" column="65" />
         <mark key="[" line="4" column="0" />
@@ -230,6 +253,9 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="68" column="18" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550555887603">
+        <mark key="'" line="32" column="22" />
+      </file>
       <file name="E:/ss_code/graphql/.babelrc" timestamp="1550552017479">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="5" column="0" />
@@ -241,6 +267,12 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/components/EmptyList/index.vue" timestamp="1550569750582">
+        <mark key="'" line="69" column="31" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" timestamp="1550542932016">
+        <mark key="'" line="0" column="27" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/components/UploadFile/index.vue" timestamp="1550474093399">
         <mark key="'" line="75" column="4" />
@@ -256,6 +288,9 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
+      <file name="E:/ss_code/ant-design-pro/src/models/menu.js" timestamp="1550483399771">
+        <mark key="'" line="4" column="39" />
+      </file>
       <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" timestamp="1550633151023">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -266,8 +301,8 @@
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="39" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/index.js" timestamp="1550640731672">
-        <mark key="'" line="0" column="15" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/index.js" timestamp="1550642775164">
+        <mark key="'" line="5" column="19" />
         <mark key="[" line="0" column="27" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
@@ -300,6 +335,13 @@
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/i18n/index.js" timestamp="1550646402969">
+        <mark key="'" line="2" column="13" />
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="E:/ss_code/graphql/src/start.sh" timestamp="1550548399917">
         <mark key="'" line="0" column="0" />
@@ -354,13 +396,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
-      <jump line="109" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
-      <jump line="106" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
-      <jump line="16" column="46" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="63" column="63" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="0" column="1" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" />
-      <jump line="8" column="54" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
       <jump line="13" column="0" filename="E:/ss_code/graphql/package.json" />
       <jump line="13" column="2" filename="&lt;048d648c-38b9-420c-bee4-a9883a6034e1&gt;/usr/ss707494/react-hooks-mongodb-graphql/package.json" />
       <jump line="12" column="54" filename="E:/ss_code/graphql/src/schema.js" />
@@ -454,19 +489,26 @@
       <jump line="22" column="68" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="26" column="0" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="19" column="37" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="5" column="19" filename="E:/ss_code/react-hooks-demo/src/views/index.js" />
+      <jump line="6" column="6" filename="E:/ss_code/react-hooks-demo/package.json" />
+      <jump line="28" column="2" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" />
+      <jump line="29" column="12" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" />
+      <jump line="39" column="5" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" />
+      <jump line="40" column="5" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" />
+      <jump line="2" column="13" filename="E:/code/N-31Mechinery/FE/src/i18n/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PFJvdXRlIHsuLi5wcm9wc30ga2V5PXtwcm9wcy5wYXRofS8+</text>
+        <text>zh-CN</text>
       </register>
       <register name="/" type="4">
-        <text>exa</text>
+        <text>jss</text>
       </register>
       <register name="0" type="4">
-        <text>props.layout</text>
+        <text>material</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9Sb3V0ZXI+Cg==</text>
@@ -496,19 +538,18 @@
         <text encoding="base64">ICBSb3V0ZXMK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>exa</last-search>
+      <last-search>jss</last-search>
       <last-offset />
-      <last-pattern>exa</last-pattern>
+      <last-pattern>jss</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVDaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDxhamF4XD4=</entry>
         <entry>accept</entry>
         <entry encoding="base64">XDxhY2NlcHRcPg==</entry>
@@ -528,6 +569,7 @@
         <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
         <entry encoding="base64">XDxkaXN0UGF0aFw+</entry>
         <entry>exa</entry>
+        <entry>jss</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -537,8 +579,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
