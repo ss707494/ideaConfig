@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/offer/index.vue" timestamp="1550455511007">
-        <mark key="'" line="1" column="15" />
-      </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
-        <mark key="'" line="4" column="13" />
-      </file>
       <file name="/fragment.js" timestamp="1550630514788">
         <mark key="[" line="0" column="0" />
       </file>
@@ -61,9 +55,6 @@
         <mark key="." line="129" column="19" />
         <mark key="^" line="129" column="18" />
       </file>
-      <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
-        <mark key="'" line="2" column="7" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550631494888">
         <mark key="'" line="72" column="24" />
         <mark key="[" line="71" column="27" />
@@ -77,9 +68,6 @@
         <mark key="]" line="135" column="20" />
         <mark key="^" line="135" column="20" />
         <mark key="." line="135" column="20" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/config/env.js" timestamp="1550552519774">
-        <mark key="'" line="92" column="36" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" timestamp="1550539835820">
         <mark key="'" line="33" column="0" />
@@ -105,6 +93,11 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" timestamp="1550633104969">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="111" column="1" />
       </file>
       <file name="E:/ss_code/graphql/package.json" timestamp="1550628918346">
         <mark key="'" line="33" column="5" />
@@ -171,9 +164,6 @@
       <file name="/JavaScript Console" timestamp="1550631813276">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550555899139">
-        <mark key="'" line="5" column="4" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/scripts/build.js" timestamp="1550629178800">
         <mark key="'" line="103" column="65" />
         <mark key="[" line="4" column="0" />
@@ -186,9 +176,6 @@
         <mark key="." line="60" column="0" />
         <mark key="^" line="68" column="18" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550555887603">
-        <mark key="'" line="32" column="22" />
-      </file>
       <file name="E:/ss_code/graphql/.babelrc" timestamp="1550552017479">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="5" column="0" />
@@ -196,16 +183,10 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550628028226">
+      <file name="/Dummy.txt" timestamp="1550632970318">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
-      </file>
-      <file name="E:/code/N-31Mechinery/FE/src/components/EmptyList/index.vue" timestamp="1550569750582">
-        <mark key="'" line="69" column="31" />
-      </file>
-      <file name="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" timestamp="1550542932016">
-        <mark key="'" line="0" column="27" />
       </file>
       <file name="E:/ss_code/graphql/dist/start.sh" timestamp="1550548387582">
         <mark key="'" line="2" column="0" />
@@ -214,8 +195,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="16" />
       </file>
-      <file name="E:/ss_code/ant-design-pro/src/models/menu.js" timestamp="1550483399771">
-        <mark key="'" line="4" column="39" />
+      <file name="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" timestamp="1550633151023">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="92" column="1" />
       </file>
       <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1550544808614">
         <mark key="'" line="2" column="14" />
@@ -276,10 +259,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="10" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="29" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="21" column="38" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
-      <jump line="22" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="26" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="33" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
       <jump line="11" column="38" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" />
@@ -376,6 +355,10 @@
       <jump line="7" column="9" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="11" column="32" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="3" column="55" filename="E:/ss_code/react-hooks-demo/src/setupProxy.js" />
+      <jump line="23" column="17" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_client.json" />
+      <jump line="21" column="13" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/.spf13-vim-3/file/v2ray_server.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -387,8 +370,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkaXN0UGF0aFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>resolveApp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ewogICJvdXRib3VuZCI6IHsKICAgICJzdHJlYW1TZXR0aW5ncyI6IG51bGwsCiAgICAidGFnIjogbnVsbCwKICAgICJwcm90b2NvbCI6ICJmcmVlZG9tIiwKICAgICJtdXgiOiBudWxsLAogICAgInNldHRpbmdzIjogbnVsbAogIH0sCiAgImxvZyI6IHsKICAgICJhY2Nlc3MiOiAiL3Zhci9sb2cvdjJyYXkvYWNjZXNzLmxvZyIsCiAgICAibG9nbGV2ZWwiOiAiaW5mbyIsCiAgICAiZXJyb3IiOiAiL3Zhci9sb2cvdjJyYXkvZXJyb3IubG9nIgogIH0sCiAgIm91dGJvdW5kRGV0b3VyIjogW3sKICAgICJ0YWciOiAiYmxvY2tlZCIsCiAgICAicHJvdG9jb2wiOiAiYmxhY2tob2xlIiwKICAgICJzZXR0aW5ncyI6IG51bGwKICB9XSwKICAiaW5ib3VuZHMiOiBbewogICAgInN0cmVhbVNldHRpbmdzIjogewogICAgICAibmV0d29yayI6ICJrY3AiLAogICAgICAia2NwU2V0dGluZ3MiOiB7CiAgICAgICAgInVwbGlua0NhcGFjaXR5IjogMTUsCiAgICAgICAgImRvd25saW5rQ2FwYWNpdHkiOiAxMDAsCiAgICAgICAgInJlYWRCdWZmZXJTaXplIjogMiwKICAgICAgICAibXR1IjogMTM1MCwKICAgICAgICAiaGVhZGVyIjogewogICAgICAgICAgInJlcXVlc3QiOiBudWxsLAogICAgICAgICAgInR5cGUiOiAibm9uZSIsCiAgICAgICAgICAicmVzcG9uc2UiOiBudWxsCiAgICAgICAgfSwKICAgICAgICAidHRpIjogNTAsCiAgICAgICAgImNvbmdlc3Rpb24iOiBmYWxzZSwKICAgICAgICAid3JpdGVCdWZmZXJTaXplIjogMgogICAgICB9LAogICAgICAid3NTZXR0aW5ncyI6IG51bGwsCiAgICAgICJ0Y3BTZXR0aW5ncyI6IG51bGwsCiAgICAgICJ0bHNTZXR0aW5ncyI6IHt9LAogICAgICAic2VjdXJpdHkiOiAiIgogICAgfSwKICAgICJzZXR0aW5ncyI6IHsKICAgICAgImlwIjogbnVsbCwKICAgICAgInVkcCI6IHRydWUsCiAgICAgICJjbGllbnRzIjogW3sKICAgICAgICAiYWx0ZXJJZCI6IDEwMCwKICAgICAgICAic2VjdXJpdHkiOiAiYWVzLTEyOC1nY20iLAogICAgICAgICJpZCI6ICJlMmIzOTg2OS03ZTllLTQxMWItYTU2MS0wMDkwNDQxOWJlZDkiCiAgICAgIH1dLAogICAgICAiYXV0aCI6IG51bGwKICAgIH0sCiAgICAicHJvdG9jb2wiOiAidm1lc3MiLAogICAgInBvcnQiOiA0NDc3LAogICAgImxpc3RlbiI6IG51bGwKICB9LHsKICAgICJwb3J0IjogNDQ3NCwgLy8gU1MKICAgICJwcm90b2NvbCI6ICJzaGFkb3dzb2NrcyIsCiAgICAic2V0dGluZ3MiOiB7CiAgICAgICJtZXRob2QiOiAiYWVzLTEyOC1nY20iLAogICAgICAicGFzc3dvcmQiOiAic3MxMjM0NTYiCiAgICB9CiAgfV0sCiAgImluYm91bmREZXRvdXIiOiBudWxsLAogICJyb3V0aW5nIjogewogICAgInNldHRpbmdzIjogewogICAgICAicnVsZXMiOiBbewogICAgICAgICJpcCI6IFsKICAgICAgICAgICIwLjAuMC4wLzgiLAogICAgICAgICAgIjEwLjAuMC4wLzgiLAogICAgICAgICAgIjEwMC42NC4wLjAvMTAiLAogICAgICAgICAgIjEyNy4wLjAuMC84IiwKICAgICAgICAgICIxNjkuMjU0LjAuMC8xNiIsCiAgICAgICAgICAiMTcyLjE2LjAuMC8xMiIsCiAgICAgICAgICAiMTkyLjAuMC4wLzI0IiwKICAgICAgICAgICIxOTIuMC4yLjAvMjQiLAogICAgICAgICAgIjE5Mi4xNjguMC4wLzE2IiwKICAgICAgICAgICIxOTguMTguMC4wLzE1IiwKICAgICAgICAgICIxOTguNTEuMTAwLjAvMjQiLAogICAgICAgICAgIjIwMy4wLjExMy4wLzI0IiwKICAgICAgICAgICI6OjEvMTI4IiwKICAgICAgICAgICJmYzAwOjovNyIsCiAgICAgICAgICAiZmU4MDo6LzEwIgogICAgICAgIF0sCiAgICAgICAgImRvbWFpbiI6IG51bGwsCiAgICAgICAgInR5cGUiOiAiZmllbGQiLAogICAgICAgICJwb3J0IjogbnVsbCwKICAgICAgICAib3V0Ym91bmRUYWciOiAiYmxvY2tlZCIKICAgICAgfV0sCiAgICAgICJkb21haW5TdHJhdGVneSI6IG51bGwKICAgIH0sCiAgICAic3RyYXRlZ3kiOiAicnVsZXMiCiAgfSwKICAiZG5zIjogbnVsbAp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHBhdGggZnJvbSAncGF0aCcK</text>
@@ -458,8 +441,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
