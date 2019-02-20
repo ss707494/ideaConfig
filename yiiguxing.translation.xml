@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="layout" />
       <item value="exact" />
       <item value="过度" />
       <item value="fuzzy" />
@@ -50,12 +51,11 @@
       <item value="auth" />
       <item value="autho" />
       <item value="无权限" />
-      <item value="省份" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
       </map>
     </option>
   </component>

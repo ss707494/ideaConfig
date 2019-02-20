@@ -319,12 +319,12 @@
         <mark key="]" line="130" column="26" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1550641484032">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="25" column="0" />
+      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1550642716605">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="19" column="117" />
+        <mark key="]" line="19" column="121" />
+        <mark key="." line="19" column="121" />
+        <mark key="^" line="19" column="121" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/Login/index.js" timestamp="1550640574640">
         <mark key="[" line="4" column="1" />
@@ -354,7 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="4" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/components/formSeria/index.scss" />
       <jump line="115" column="0" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
       <jump line="109" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
       <jump line="106" column="21" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.scss" />
@@ -454,19 +453,20 @@
       <jump line="21" column="15" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="22" column="68" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="26" column="0" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="19" column="37" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>, { Component }</text>
+        <text encoding="base64">PFJvdXRlIHsuLi5wcm9wc30ga2V5PXtwcm9wcy5wYXRofS8+</text>
       </register>
       <register name="/" type="4">
         <text>exa</text>
       </register>
       <register name="0" type="4">
-        <text>props</text>
+        <text>props.layout</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPC9Sb3V0ZXI+Cg==</text>
