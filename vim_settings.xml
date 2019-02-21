@@ -100,6 +100,9 @@
         <mark key="." line="24" column="5" />
         <mark key="^" line="24" column="5" />
       </file>
+      <file name="internal/async_hooks.js" timestamp="1550727596713">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/coder/N-31Brands/FE/src/components/InputShowNumber/index.scss" timestamp="1550474720223">
         <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="12" />
@@ -256,11 +259,12 @@
         <mark key="^" line="22" column="18" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/src/common/error.js" timestamp="1550720975153">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="2" column="9" />
-        <mark key="^" line="2" column="9" />
-        <mark key="." line="2" column="9" />
+      <file name="E:/ss_code/graphql/src/common/error.js" timestamp="1550727689600">
+        <mark key="'" line="1" column="15" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/common/en.js" timestamp="1550647877216">
         <mark key="'" line="1" column="2" />
@@ -268,6 +272,12 @@
         <mark key="]" line="2" column="14" />
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
+      </file>
+      <file name="vm:1681" timestamp="1550727606815">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/config/paths.js" timestamp="1550631494888">
         <mark key="'" line="72" column="24" />
@@ -288,16 +298,22 @@
         <mark key="^" line="135" column="20" />
         <mark key="." line="135" column="20" />
       </file>
+      <file name="vm:1688" timestamp="1550727615079">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/layout/MenuLayout/index.vue" timestamp="1550539835820">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="37" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550721638004">
-        <mark key="'" line="32" column="6" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="14" />
-        <mark key="." line="32" column="0" />
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1550727739159">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="24" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/router.js" timestamp="1550538959551">
         <mark key="'" line="2" column="9" />
@@ -334,7 +350,7 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550721621307">
+      <file name="/JavaScript Console" timestamp="1550727703428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550716559300">
@@ -404,8 +420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="39" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
-      <jump line="25" column="0" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="2" column="26" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="3" column="38" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="21" column="35" filename="E:/ss_code/graphql/src/schema.js" />
@@ -500,28 +514,36 @@
       <jump line="46" column="4" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="7" column="0" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="8" column="9" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="39" column="21" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="35" column="0" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="31" column="4" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="32" column="6" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="1" column="15" filename="E:/ss_code/graphql/src/common/error.js" />
+      <jump line="39" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="40" column="4" filename="E:/ss_code/graphql/src/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jy9hcGkqJywg</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTd2l0Y2hcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcC51c2UoJy9ob21lJywgZnVuY3Rpb24ocmVxLCByZXMpIHsKICAgICAgcmVzLnNlbmRGaWxlKHJlc29sdmVBcHAoJ2J1aWxkL2luZGV4Lmh0bWwnKSkKICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGFwcC51c2UoZXJyb3JIYW5kbGUpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      </register>
+      <register name="4" type="4">
         <text>function(err, req, res) {
       if (err.name === 'UnauthorizedError') {
         res.status(401).send('invalid token...');
@@ -532,26 +554,20 @@
       }
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhvYmopCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Y29uc3QgSG9tZSA9ICgpID0+ICgKICAgIDxkaXY+CiAgICAgIDxoMj5ob21lPC9oMj4KICAgIDwvZGl2PgopCgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8Um91dGUgcGF0aD0iL2hvbWUiCiAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudD17SG9tZX0KICAgICAgICAgICAgICAvPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2hpc3RvcnknCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhwcm9wcykK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHt9IGZyb20gJ2hpc3RvcnknCg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
