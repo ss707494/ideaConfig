@@ -16,6 +16,11 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/App.css" timestamp="1550640155368">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/store/modules/global.js" timestamp="1550646534554">
         <mark key="'" line="46" column="4" />
         <mark key="[" line="46" column="4" />
@@ -101,12 +106,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="36" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" timestamp="1550626114421">
-        <mark key="'" line="60" column="2" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="61" column="21" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="68" column="18" />
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" timestamp="1550711838454">
+        <mark key="'" line="15" column="14" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="^" line="12" column="49" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/eslint-config-react-app/index.js" timestamp="1550650694261">
         <mark key="'" line="241" column="22" />
@@ -201,12 +206,12 @@
         <mark key="^" line="2" column="35" />
         <mark key="." line="2" column="35" />
       </file>
-      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550654851386">
-        <mark key="'" line="10" column="10" />
-        <mark key="[" line="14" column="19" />
-        <mark key="]" line="15" column="11" />
-        <mark key="." line="15" column="11" />
-        <mark key="^" line="15" column="11" />
+      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550711126486">
+        <mark key="'" line="8" column="48" />
+        <mark key="[" line="8" column="17" />
+        <mark key="]" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="^" line="8" column="33" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/public/index.html" timestamp="1550650865558">
         <mark key="[" line="14" column="61" />
@@ -214,12 +219,12 @@
         <mark key="^" line="15" column="89" />
         <mark key="." line="15" column="89" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/component/Message/index.js" timestamp="1550659735382">
-        <mark key="'" line="13" column="20" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="5" column="13" />
+      <file name="E:/ss_code/react-hooks-demo/src/component/Message/index.js" timestamp="1550659792557">
+        <mark key="'" line="11" column="20" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="3" column="13" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/common/en.js" timestamp="1550647877216">
         <mark key="'" line="1" column="2" />
@@ -280,7 +285,7 @@
         <mark key="]" line="40" column="3" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1550654880814">
+      <file name="/JavaScript Console" timestamp="1550711157592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/hooks/demo1.js" timestamp="1550651262660">
@@ -297,10 +302,17 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" timestamp="1550647870859">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="6" column="4" />
+      <file name="/Dummy.txt" timestamp="1550711854919">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" timestamp="1550711732115">
+        <mark key="'" line="28" column="2" />
+        <mark key="[" line="28" column="2" />
+        <mark key="]" line="28" column="17" />
+        <mark key="^" line="31" column="54" />
+        <mark key="." line="31" column="54" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/index.js" timestamp="1550642775164">
         <mark key="'" line="5" column="19" />
@@ -308,6 +320,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.html" timestamp="1550555912509">
+        <mark key="[" line="8" column="9" />
+        <mark key="]" line="8" column="9" />
+        <mark key="." line="8" column="9" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/common/token.js" timestamp="1550655013649">
         <mark key="'" line="2" column="57" />
@@ -331,13 +348,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="5" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" />
-      <jump line="2" column="13" filename="E:/code/N-31Mechinery/FE/src/i18n/index.js" />
-      <jump line="17" column="10" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" />
-      <jump line="20" column="15" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" />
-      <jump line="1" column="6" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" />
-      <jump line="3" column="7" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.js" />
-      <jump line="0" column="0" filename="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" />
       <jump line="6" column="26" filename="E:/code/N-31Mechinery/FE/package.json" />
       <jump line="62" column="14" filename="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" />
       <jump line="8" column="17" filename="E:/code/N-31Mechinery/FE/src/i18n/index.js" />
@@ -368,7 +378,6 @@
       <jump line="1" column="13" filename="E:/ss_code/react-hooks-demo/src/api/login.js" />
       <jump line="29" column="5" filename="E:/ss_code/graphql/package.json" />
       <jump line="1" column="9" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="8" column="11" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="11" column="0" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="9" column="0" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="14" column="4" filename="E:/ss_code/graphql/src/control/user.js" />
@@ -431,49 +440,57 @@
       <jump line="128" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="13" column="20" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
       <jump line="125" column="9" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="8" column="48" filename="E:/ss_code/graphql/src/control/user.js" />
+      <jump line="7" column="3" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
+      <jump line="12" column="16" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
+      <jump line="29" column="14" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
+      <jump line="30" column="50" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
+      <jump line="28" column="2" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
+      <jump line="18" column="12" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
+      <jump line="15" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>num1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb21wXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gc2V0T3BlbihmYWxzZSl9Cg==</text>
+      <register name="0" type="4">
+        <text>$t('common.applicationNotes.num1')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3NsZGtqZmRzbGtmanNsa2pmJ30KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gc2V0T3BlbihmYWxzZSl9CiAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17NjAwMH0K</text>
+        <text encoding="base64">CmNvbnN0IE1lc3NhZ2UgPSBwcm9wcyA9PiA8U25hY2tiYXIgb3Blbj17dHJ1ZX0vPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Y29tcC8+Ki99Cg==</text>
+        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3NsZGtqZmRzbGtmanNsa2pmJ30KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gc2V0T3BlbihmYWxzZSl9CiAgICAgICAgLz4K</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3Nsa2RmamxrZHNqZid9CiAgICAgICAgPjwvU25hY2tiYXI+</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17NjAwMH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8Y29tcC8+Ki99Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3Nsa2RmamxrZHNqZid9CiAgICAgICAgPjwvU25hY2tiYXI+</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc3VibWl0ID0gYXN5bmMgKGRhdGEpID0+IHsKICBjb25zdCB7IGRhdGE6IHJlcyB9ID0gYXdhaXQgYXBpLmxvZ2luKGRhdGEpCiAgaWYgKHJlcy5kYXRhKSB7CiAgICBzZXRUb2tlbihyZXMudG9rZW4pCiAgICBkZWJ1Z2dlcgogIH0gZWxzZSB7CgogIH0KfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -513,9 +530,9 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>vs</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
