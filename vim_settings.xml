@@ -22,11 +22,6 @@
         <mark key="." line="21" column="37" />
         <mark key="^" line="21" column="37" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/App.css" timestamp="1550640155368">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/src/apollo/demo.js" timestamp="1550715707181">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -53,12 +48,12 @@
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
         <mark key="'" line="30" column="43" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" timestamp="1550741269962">
+      <file name="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" timestamp="1550741400210">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="7" column="50" />
-        <mark key="]" line="7" column="50" />
-        <mark key="^" line="7" column="47" />
-        <mark key="." line="7" column="50" />
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="4" column="16" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="16" />
       </file>
       <file name="E:/ss_code/graphql/src/schema.js" timestamp="1550735493256">
         <mark key="'" line="6" column="9" />
@@ -158,12 +153,12 @@
         <mark key="[" line="241" column="22" />
         <mark key="]" line="241" column="27" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/router.js" timestamp="1550716608379">
-        <mark key="'" line="11" column="42" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="6" />
+      <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/router.js" timestamp="1550742239729">
+        <mark key="'" line="11" column="43" />
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="44" />
         <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
+        <mark key="." line="11" column="32" />
       </file>
       <file name="E:/ss_code/graphql/dist/start.sh" timestamp="1550548387582">
         <mark key="'" line="2" column="0" />
@@ -401,11 +396,6 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550731424549">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/src/common/context/index.js" timestamp="1550740813083">
         <mark key="'" line="22" column="2" />
         <mark key="[" line="12" column="15" />
@@ -439,11 +429,6 @@
       <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1550738098908">
         <mark key="'" line="1456" column="23" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.html" timestamp="1550555912509">
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="9" />
-        <mark key="." line="8" column="9" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/src/common/token.js" timestamp="1550655013649">
         <mark key="'" line="2" column="57" />
         <mark key="[" line="0" column="0" />
@@ -466,8 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="19" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
-      <jump line="15" column="23" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="18" column="0" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="21" column="14" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
       <jump line="35" column="0" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
@@ -566,19 +549,21 @@
       <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" />
       <jump line="1" column="0" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" />
       <jump line="3" column="24" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/index.js" />
+      <jump line="14" column="47" filename="E:/code/N-31Mechinery/FE/src/common/plugins/injector/router.js" />
+      <jump line="11" column="43" filename="E:/code/N-31Mechinery/FE/src/common/plugins/injector/router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>ldkjf</text>
+        <text>/checkLogin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcG9sbG9Qcm92aWRlclw+</text>
       </register>
       <register name="0" type="4">
-        <text>Demo1</text>
+        <text>/getUserInfo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IEJ1dHRvbiBmcm9tICdAbWF0ZXJpYWwtdWkvY29yZS9CdXR0b24nCg==</text>
@@ -611,7 +596,7 @@
 }</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -652,8 +637,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
