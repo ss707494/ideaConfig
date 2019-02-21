@@ -154,8 +154,8 @@
         <mark key="]" line="130" column="26" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/Login/index.js" timestamp="1550659751868">
-        <mark key="'" line="125" column="9" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/Login/index.js" timestamp="1550713510950">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="125" column="0" />
         <mark key="]" line="125" column="0" />
         <mark key="." line="125" column="0" />
@@ -219,12 +219,12 @@
         <mark key="^" line="15" column="89" />
         <mark key="." line="15" column="89" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/component/Message/index.js" timestamp="1550659792557">
-        <mark key="'" line="11" column="20" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="13" />
+      <file name="E:/ss_code/react-hooks-demo/src/component/Message/index.js" timestamp="1550713399585">
+        <mark key="'" line="10" column="4" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="18" />
+        <mark key="^" line="10" column="18" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/common/en.js" timestamp="1550647877216">
         <mark key="'" line="1" column="2" />
@@ -269,7 +269,7 @@
         <mark key="[" line="2" column="9" />
         <mark key="]" line="2" column="15" />
       </file>
-      <file name="E:/code/N-31Mechinery/FE/config/host.js" timestamp="1550555493318">
+      <file name="E:/code/N-31Mechinery/FE/config/host.js" timestamp="1550712529173">
         <mark key="'" line="2" column="14" />
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="38" />
@@ -284,6 +284,13 @@
         <mark key="[" line="13" column="0" />
         <mark key="]" line="40" column="3" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/index.js" timestamp="1550713344912">
+        <mark key="'" line="8" column="17" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="29" />
+        <mark key="." line="5" column="29" />
+        <mark key="^" line="5" column="29" />
       </file>
       <file name="/JavaScript Console" timestamp="1550711157592">
         <mark key="[" line="0" column="0" />
@@ -302,7 +309,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550711854919">
+      <file name="/Dummy.txt" timestamp="1550711942979">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
@@ -339,20 +346,15 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1550642716605">
-        <mark key="'" line="19" column="37" />
-        <mark key="[" line="19" column="117" />
-        <mark key="]" line="19" column="121" />
-        <mark key="." line="19" column="121" />
-        <mark key="^" line="19" column="121" />
+      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1550713466529">
+        <mark key="'" line="8" column="42" />
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="31" column="14" />
+        <mark key="^" line="31" column="14" />
+        <mark key="." line="31" column="14" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="26" filename="E:/code/N-31Mechinery/FE/package.json" />
-      <jump line="62" column="14" filename="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" />
-      <jump line="8" column="17" filename="E:/code/N-31Mechinery/FE/src/i18n/index.js" />
-      <jump line="0" column="7" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" />
-      <jump line="3" column="4" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
       <jump line="17" column="5" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.js" />
       <jump line="12" column="19" filename="E:/code/N-31Mechinery/FE/src/i18n/index.js" />
       <jump line="80" column="28" filename="E:/code/N-31Mechinery/FE/src/components/UploadMobile/index.vue" />
@@ -428,13 +430,8 @@
       <jump line="65" column="2" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="58" column="4" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="6" column="0" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
-      <jump line="7" column="9" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
       <jump line="45" column="9" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="16" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
-      <jump line="17" column="7" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
-      <jump line="14" column="4" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
-      <jump line="53" column="10" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
-      <jump line="10" column="10" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
       <jump line="129" column="13" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="62" column="10" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
       <jump line="128" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
@@ -448,61 +445,70 @@
       <jump line="28" column="2" filename="E:/code/N-31Mechinery/FE/src/i18n/langs/common/zh-CN.js" />
       <jump line="18" column="12" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
       <jump line="15" column="14" filename="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/add/index.vue" />
+      <jump line="14" column="4" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="2" column="14" filename="E:/code/N-31Mechinery/FE/config/host.js" />
+      <jump line="7" column="9" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="3" column="6" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="8" column="17" filename="E:/ss_code/react-hooks-demo/src/index.js" />
+      <jump line="5" column="0" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="17" column="7" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="53" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="10" column="4" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="8" column="42" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>num1</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wXD4=</text>
+        <text encoding="base64">XDxjcmVhdE1lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$t('common.applicationNotes.num1')</text>
+        <text>MessageContext</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB7Y29tcH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmNvbnN0IE1lc3NhZ2UgPSBwcm9wcyA9PiA8U25hY2tiYXIgb3Blbj17dHJ1ZX0vPgo=</text>
+        <text encoding="base64">ICAgIFByb3ZpZGVyOiBwcm9wcyA9PiA8TWVzc2FnZUNvbnRleHQuUHJvdmlkZXI+PC9NZXNzYWdlQ29udGV4dC5Qcm92aWRlcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3NsZGtqZmRzbGtmanNsa2pmJ30KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gc2V0T3BlbihmYWxzZSl9CiAgICAgICAgLz4K</text>
+        <text encoding="base64">ZXhwb3J0IGxldCBzaG93TWVzc2FnZSAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17NjAwMH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8Y29tcC8+Ki99Cg==</text>
+        <text encoding="base64">CmNvbnN0IE1lc3NhZ2UgPSBwcm9wcyA9PiA8U25hY2tiYXIgb3Blbj17dHJ1ZX0vPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3Nsa2RmamxrZHNqZid9CiAgICAgICAgPjwvU25hY2tiYXI+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3NsZGtqZmRzbGtmanNsa2pmJ30KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgb25DbG9zZT17KCkgPT4gc2V0T3BlbihmYWxzZSl9CiAgICAgICAgLz4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17NjAwMH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8Y29tcC8+Ki99Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICA8U25hY2tiYXIgb3Blbj17b3Blbn0KICAgICAgICAgICAgICAgICAgYXV0b0hpZGVEdXJhdGlvbj17MTAwMH0KICAgICAgICAgICAgICAgICAgbWVzc2FnZT17J3Nsa2RmamxrZHNqZid9CiAgICAgICAgPjwvU25hY2tiYXI+</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wXD4=</last-search>
+      <last-search encoding="base64">XDxjcmVhdE1lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdE1lc3NhZ2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>44</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxkaXN0UGF0aFw+</entry>
         <entry>exa</entry>
@@ -522,6 +528,7 @@
         <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
         <entry encoding="base64">XDxnZXRUb2tlblw+</entry>
         <entry encoding="base64">XDxjb21wXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdE1lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -531,8 +538,8 @@
         <entry>sp</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
