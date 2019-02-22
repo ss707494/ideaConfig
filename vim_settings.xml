@@ -21,12 +21,11 @@
         <mark key="]" line="3" column="56" />
         <mark key="." line="3" column="52" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1550806042892">
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1550816771415">
         <mark key="'" line="17" column="6" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="6" />
-        <mark key="." line="17" column="6" />
-        <mark key="^" line="17" column="6" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/ucenter/index.vue" timestamp="1550715025398">
         <mark key="'" line="21" column="32" />
@@ -74,6 +73,11 @@
       </file>
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
         <mark key="'" line="30" column="43" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/common/mapping/modules/userStatus.js" timestamp="1550816534599">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="30" column="2" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" timestamp="1550743920485">
         <mark key="'" line="1" column="0" />
@@ -293,8 +297,8 @@
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="17" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1550815483888">
-        <mark key="'" line="229" column="4" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" timestamp="1550816510623">
+        <mark key="'" line="139" column="65" />
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
         <mark key="." line="241" column="0" />
@@ -448,10 +452,10 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550815332043">
-        <mark key="[" line="0" column="6" />
-        <mark key="]" line="0" column="6" />
-        <mark key="." line="0" column="6" />
+      <file name="/Dummy.txt" timestamp="1550816822369">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/common/context/index.js" timestamp="1550743865560">
         <mark key="'" line="26" column="2" />
@@ -514,13 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="11" filename="E:/ss_code/react-hooks-demo/src/views/Home/index.js" />
-      <jump line="7" column="6" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/index.js" />
-      <jump line="25" column="3" filename="E:/ss_code/react-hooks-demo/src/views/index.js" />
-      <jump line="6" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Home/index.js" />
-      <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/index.js" />
-      <jump line="4" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="21" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="19" column="27" filename="E:/ss_code/react-hooks-demo/src/views/User/index.js" />
       <jump line="7" column="43" filename="E:/ss_code/react-hooks-demo/src/views/User/index.js" />
       <jump line="27" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/index.js" />
@@ -614,61 +611,67 @@
       <jump line="164" column="26" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
       <jump line="80" column="16" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
       <jump line="171" column="29" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" />
+      <jump line="123" column="18" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="135" column="49" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="136" column="49" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="137" column="49" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="178" column="37" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="139" column="65" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/card/index.vue" />
+      <jump line="17" column="0" filename="D:/coder/N-31Brands/FE/src/common/mapping/modules/userStatus.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">zO2809akvP4g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWFpbFw+</text>
+        <text encoding="base64">XDxTdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1heFRpY2tldENvdXQgPSByZXMK</text>
+        <text encoding="base64">CmV4cG9ydCBjb25zdCBhdWRpdFN0YXR1cyA9IFt7CiAgbGFiZWw6ICe0/cnzussnLAogIHZhbHVlOiAwLAogIGNvbnN0YW50czogJ1VOQVVESVRFRCcKfSwgewogIGxhYmVsOiAnyfO6y82ouf0nLAogIHZhbHVlOiAxLAogIGNvbnN0YW50czogJ0FVRElURUQnCn0sIHsKICBsYWJlbDogJ8nzusu+3L74JywKICB2YWx1ZTogMiwKICBjb25zdGFudHM6ICdSRUpFQ1RFRCcKfV0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1heFRpY2tldENvdXQgPSAzCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgTm9NYXRjaCA9ICgpID0+ICgKICAgIDxkaXY+CiAgICAgIDxoMj40MDQ8L2gyPgogICAgPC9kaXY+Cik7Cgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAge1sKICAgICAgICA8ZGl2IGtleT17MTIzfT5hc2RmPC9kaXY+LAogICAgICAgIDxkaXYga2V5PXsxMjM0NH0+c2xka2pma2RmajwvZGl2PgogICAgICBdfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgTm9NYXRjaCA9ICgpID0+ICgKICAgIDxkaXY+CiAgICAgIDxoMj40MDQ8L2gyPgogICAgPC9kaXY+Cik7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgQWJvdXQgPSAoKSA9PiAoCiAgICA8ZGl2PgogICAgICA8aDI+QWJvdXQ8L2gyPgogICAgPC9kaXY+CikKCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvYWJvdXQiCiAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtBYm91dH0KICAgICAgICAgIC8+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLm1heFRpY2tldENvdXQgPSAzCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgTm9NYXRjaCA9ICgpID0+ICgKICAgIDxkaXY+CiAgICAgIDxoMj40MDQ8L2gyPgogICAgPC9kaXY+Cik7Cgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAge1sKICAgICAgICA8ZGl2IGtleT17MTIzfT5hc2RmPC9kaXY+LAogICAgICAgIDxkaXYga2V5PXsxMjM0NH0+c2xka2pma2RmajwvZGl2PgogICAgICBdfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgTm9NYXRjaCA9ICgpID0+ICgKICAgIDxkaXY+CiAgICAgIDxoMj40MDQ8L2gyPgogICAgPC9kaXY+Cik7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgPFJvdXRlIHBhdGg9eycvbG9naW4nfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50PXt3aXRoU3R5bGVzKHN0eWxlcykoU2lnbkluKX0KLz4KCg==</text>
+        <text encoding="base64">Y29uc3QgQWJvdXQgPSAoKSA9PiAoCiAgICA8ZGl2PgogICAgICA8aDI+QWJvdXQ8L2gyPgogICAgPC9kaXY+CikKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvYWJvdXQiCiAgICAgICAgICAgICAgICAgY29tcG9uZW50PXtBYm91dH0KICAgICAgICAgIC8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWFpbFw+</last-search>
+      <last-search encoding="base64">XDxTdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWFpbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxTdGF0dXNcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21wXD4=</entry>
         <entry encoding="base64">XDxjcmVhdE1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxzaG93TWVzc2FnZVw+</entry>
         <entry encoding="base64">XDxtZXNzYWdlT2JqXD4=</entry>
@@ -688,6 +691,7 @@
         <entry encoding="base64">XDx0YWJsZVBhc3NpbmdcPg==</entry>
         <entry encoding="base64">XDxydWxlc1w+</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
+        <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
