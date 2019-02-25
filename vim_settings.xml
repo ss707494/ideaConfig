@@ -657,7 +657,7 @@
         <text encoding="base64">ICAgICAgurzW3crQu+HS6dPrvbHA+MLD087StdCtu+EgvMPEz8rQu+HVudK10K274SDO97CyytC74dW50NDStdCtu+Eg1tC5+rvh0um+xrXqwarDyyBVRkkgQ2hpbmEgQ2x1YgogICAgICC6vNbdufq8yrKpwMDW0NDEIMnPuqO74dW50dC+v9S6IMnPuqO12rb+uaTStbTz0ae5+rzKu+HVubL60rXR0L6/1Logyc+6o7bUzeK+rcOztPPRp7vh1bm+rbzD0+u53MDtz7UK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -665,7 +665,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxncWxcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -699,8 +699,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
