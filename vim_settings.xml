@@ -90,35 +90,34 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551084598484">
+      <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551088955863">
         <mark key="'" line="1" column="9" />
-        <mark key="[" line="22" column="10" />
-        <mark key="]" line="22" column="13" />
-        <mark key="." line="22" column="13" />
-        <mark key="^" line="22" column="13" />
+        <mark key="[" line="22" column="14" />
+        <mark key="]" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+        <mark key="^" line="22" column="18" />
       </file>
       <file name="internal/async_hooks.js" timestamp="1550727596713">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551087558115">
-        <mark key="'" line="14" column="8" />
-        <mark key="[" line="52" column="8" />
-        <mark key="]" line="52" column="11" />
-        <mark key="." line="52" column="11" />
-        <mark key="^" line="52" column="11" />
+      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551088866331">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="13" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551087690745">
+      <file name="/JavaScript Console" timestamp="1551088868777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" timestamp="1550646856488">
         <mark key="'" line="62" column="14" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551087604776">
-        <mark key="'" line="4" column="9" />
+      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551089160760">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="6" column="8" />
         <mark key="]" line="6" column="9" />
         <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="11" />
+        <mark key="^" line="6" column="9" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.gql" timestamp="1551066551810">
         <mark key="[" line="0" column="0" />
@@ -188,13 +187,18 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1551089115384">
+        <mark key="'" line="12" column="16" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="16" />
+      </file>
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/ApolloServer.d.ts" timestamp="1550735280646">
         <mark key="'" line="23" column="29" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="E:/code/Corp2018_Static/corp/webpack.config.js" />
-      <jump line="193" column="10" filename="E:/code/Corp2018_Static/corp/webpack.config.js" />
       <jump line="2" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
       <jump line="12" column="9" filename="E:/code/Corp2018_Static/corp/package.json" />
       <jump line="194" column="4" filename="E:/code/Corp2018_Static/corp/webpack.config.js" />
@@ -276,7 +280,6 @@
       <jump line="108" column="27" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="28" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="8" column="6" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
-      <jump line="4" column="9" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="46" column="28" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="96" column="37" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="18" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
@@ -293,56 +296,54 @@
       <jump line="17" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="95" column="12" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="94" column="23" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="4" column="0" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
+      <jump line="52" column="11" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="51" column="16" filename="E:/ss_code/graphql/src/schema/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>res.result.ok</text>
+        <text>User</text>
       </register>
       <register name="/" type="4">
         <text>debu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChvcGVyYXRpb24udmFyaWFibGVzKSB7CiAgICAgIG9wZXJhdGlvbi52YXJpYWJsZXMgPSBKU09OLnBhcnNlKEpTT04uc3RyaW5naWZ5KG9wZXJhdGlvbi52YXJpYWJsZXMpLCBvbWl0VHlwZW5hbWUpCiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>user</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxSZWRpcmVjdCBleGFjdAogICAgICAgICAgICAgICAgICAgIGZyb209Ii8iCiAgICAgICAgICAgICAgICAgICAgdG89Ii9ob21lIgogICAgICAgICAgLz4K</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGlkOiBlZGl0RGF0YS5pZCwKICAgICAgICAgICAgICAgICAgICAuLi5lZGl0VHlwZS5yZWR1Y2UoKGksIGUpID0+ICh7CiAgICAgICAgICAgICAgICAgICAgICAuLi5pLAogICAgICAgICAgICAgICAgICAgICAgW2VdOiBlZGl0RGF0YVtlXQogICAgICAgICAgICAgICAgICAgIH0pLCB7fSkKICAgICAgICAgICAgICAgICAgfQ==</text>
+        <text>{
+        ...user
+      }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlT21pdFR5cGVuYW1lTGluaygpIHsKICByZXR1cm4gbmV3IEFwb2xsb0xpbmsoKG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogICAgaWYgKG9wZXJhdGlvbi52YXJpYWJsZXMpIHsKICAgICAgb3BlcmF0aW9uLnZhcmlhYmxlcyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0aW9uLnZhcmlhYmxlcyksIG9taXRUeXBlbmFtZSkKICAgIH0KCiAgICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pCiAgfSkKfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGlkOiBlZGl0RGF0YS5pZCwKICAgICAgICAgICAgICAgICAgICAuLi5lZGl0VHlwZS5yZWR1Y2UoKGksIGUpID0+ICh7CiAgICAgICAgICAgICAgICAgICAgICAuLi5pLAogICAgICAgICAgICAgICAgICAgICAgW2VdOiBlZGl0RGF0YVtlXQogICAgICAgICAgICAgICAgICAgIH0pLCB7fSkKICAgICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcGVyYXRpb24pCiAgZGVidWdnZXIK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlT21pdFR5cGVuYW1lTGluaygpIHsKICByZXR1cm4gbmV3IEFwb2xsb0xpbmsoKG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogICAgaWYgKG9wZXJhdGlvbi52YXJpYWJsZXMpIHsKICAgICAgb3BlcmF0aW9uLnZhcmlhYmxlcyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0aW9uLnZhcmlhYmxlcyksIG9taXRUeXBlbmFtZSkKICAgIH0KCiAgICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pCiAgfSkKfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>{
-          user {
-            name
-            id
-            auth
-            message
-          }
-        }</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcGVyYXRpb24pCiAgZGVidWdnZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ3FsIH0gZnJvbSAnYXBvbGxvLWJvb3N0Jwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlT21pdFR5cGVuYW1lTGluaygpIHsKICByZXR1cm4gbmV3IEFwb2xsb0xpbmsoKG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogICAgaWYgKG9wZXJhdGlvbi52YXJpYWJsZXMpIHsKICAgICAgb3BlcmF0aW9uLnZhcmlhYmxlcyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0aW9uLnZhcmlhYmxlcyksIG9taXRUeXBlbmFtZSkKICAgIH0KCiAgICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pCiAgfSkKfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
@@ -384,8 +385,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
