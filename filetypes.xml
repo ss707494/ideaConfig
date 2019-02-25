@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="ahk" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
