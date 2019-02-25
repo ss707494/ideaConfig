@@ -9,14 +9,6 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
         <mark key="'" line="4" column="13" />
       </file>
-      <file name="/fragment.js" timestamp="1550826186931">
-        <mark key="[" line="0" column="9" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
-      <file name="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" timestamp="1551063524697">
-        <mark key="'" line="41" column="4" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" timestamp="1551086750360">
         <mark key="'" line="73" column="6" />
       </file>
@@ -41,25 +33,81 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.js" timestamp="1550647623576">
         <mark key="'" line="17" column="5" />
       </file>
-      <file name="/GraphQL Fragment (index.js:2545).graphql" timestamp="1551066670401">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/TableRow/index.d.ts" timestamp="1550805045422">
         <mark key="'" line="0" column="34" />
       </file>
       <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
         <mark key="'" line="2" column="7" />
       </file>
+      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
+        <mark key="'" line="30" column="43" />
+      </file>
+      <file name="/GraphQL.variables.json" timestamp="1551066958043">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" timestamp="1550647113944">
+        <mark key="[" line="1" column="14" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1551086805162">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="internal/async_hooks.js" timestamp="1550727596713">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551088866331">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="51" column="13" />
+        <mark key="]" line="51" column="17" />
+        <mark key="." line="51" column="13" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551089160760">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="9" />
+        <mark key="." line="6" column="9" />
+        <mark key="^" line="6" column="9" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1551066566272">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1551080945433">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="17" />
+      </file>
+      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/ApolloServer.d.ts" timestamp="1550735280646">
+        <mark key="'" line="23" column="29" />
+      </file>
+      <file name="/fragment.js" timestamp="1550826186931">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
+      <file name="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" timestamp="1551063524697">
+        <mark key="'" line="41" column="4" />
+      </file>
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551091388959">
+        <mark key="'" line="109" column="40" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="." line="112" column="0" />
+        <mark key="^" line="105" column="46" />
+      </file>
+      <file name="/GraphQL Fragment (index.js:2545).graphql" timestamp="1551066670401">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" timestamp="1551085834474">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="23" />
         <mark key="." line="4" column="23" />
-      </file>
-      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
-        <mark key="'" line="30" column="43" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" timestamp="1550644249602">
         <mark key="'" line="40" column="5" />
@@ -77,18 +125,12 @@
       <file name="E:/ss_code/react-hooks-demo/scripts/start.js" timestamp="1551059830047">
         <mark key="'" line="3" column="12" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1551066958043">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/code/N-31Mechinery/FE/src/i18n/langs/en.js" timestamp="1550647113944">
-        <mark key="[" line="1" column="14" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1551086805162">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="7" column="0" />
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" timestamp="1551091527435">
+        <mark key="'" line="807" column="4" />
+        <mark key="[" line="806" column="18" />
+        <mark key="]" line="806" column="18" />
+        <mark key="^" line="806" column="18" />
+        <mark key="." line="806" column="18" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551088955863">
         <mark key="'" line="1" column="9" />
@@ -97,27 +139,18 @@
         <mark key="." line="22" column="18" />
         <mark key="^" line="22" column="18" />
       </file>
-      <file name="internal/async_hooks.js" timestamp="1550727596713">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551088866331">
-        <mark key="'" line="51" column="16" />
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="17" />
-        <mark key="." line="51" column="13" />
+      <file name="E:/code/Corp2018_Static/Static/corp/apps/scenario/bigevent/index.html" timestamp="1551090712413">
+        <mark key="'" line="488" column="63" />
+        <mark key="[" line="492" column="83" />
+        <mark key="]" line="492" column="85" />
+        <mark key="." line="492" column="85" />
+        <mark key="^" line="492" column="85" />
       </file>
       <file name="/JavaScript Console" timestamp="1551088868777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" timestamp="1550646856488">
         <mark key="'" line="62" column="14" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551089160760">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="9" />
-        <mark key="." line="6" column="9" />
-        <mark key="^" line="6" column="9" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.gql" timestamp="1551066551810">
         <mark key="[" line="0" column="0" />
@@ -128,7 +161,7 @@
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550555887603">
         <mark key="'" line="32" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551082758109">
+      <file name="/Dummy.txt" timestamp="1551090645285">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -142,17 +175,8 @@
       <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/lib/index.d.ts" timestamp="1551086748767">
         <mark key="'" line="13" column="4" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1551066566272">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="E:/ss_code/ant-design-pro/src/models/menu.js" timestamp="1550483399771">
         <mark key="'" line="4" column="39" />
-      </file>
-      <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1551080945433">
-        <mark key="'" line="1" column="48" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="49" />
-        <mark key="." line="1" column="17" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1550738098908">
         <mark key="'" line="1456" column="23" />
@@ -194,34 +218,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/ApolloServer.d.ts" timestamp="1550735280646">
-        <mark key="'" line="23" column="29" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="12" column="9" filename="E:/code/Corp2018_Static/corp/package.json" />
-      <jump line="194" column="4" filename="E:/code/Corp2018_Static/corp/webpack.config.js" />
-      <jump line="56" column="29" filename="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" />
-      <jump line="21" column="4" filename="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" />
-      <jump line="39" column="4" filename="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" />
-      <jump line="41" column="4" filename="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" />
-      <jump line="16" column="16" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="4" column="18" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="6" column="23" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="9" column="6" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.scss" />
-      <jump line="7" column="12" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="40" column="21" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="35" column="46" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="38" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="39" column="10" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="50" column="9" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="46" column="17" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="51" column="9" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="47" column="20" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="52" column="9" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="48" column="15" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
-      <jump line="53" column="9" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
       <jump line="49" column="18" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
       <jump line="45" column="41" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
       <jump line="44" column="6" filename="E:/code/Corp2018_Static/corp/src/apps/actives/usermeeting/components/Partner/index.vue" />
@@ -299,66 +297,85 @@
       <jump line="4" column="0" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="52" column="11" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="51" column="16" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="34" column="36" filename="E:/code/Corp2018_Static/Static/corp/apps/scenario/bigevent/index.html" />
+      <jump line="491" column="0" filename="E:/code/Corp2018_Static/Static/corp/apps/scenario/bigevent/index.html" />
+      <jump line="492" column="40" filename="E:/code/Corp2018_Static/Static/corp/apps/scenario/bigevent/index.html" />
+      <jump line="488" column="63" filename="E:/code/Corp2018_Static/Static/corp/apps/scenario/bigevent/index.html" />
+      <jump line="63" column="63" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="58" column="53" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="60" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="71" column="40" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="72" column="40" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="88" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="109" column="40" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="844" column="4" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="791" column="21" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="800" column="13" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="813" column="37" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="826" column="29" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="839" column="35" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="851" column="37" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="857" column="1" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="786" column="25" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="790" column="25" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="802" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="807" column="4" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>3px solid #336e9a</text>
       </register>
       <register name="/" type="4">
-        <text>debu</text>
+        <text>c-table1-3</text>
       </register>
-      <register name="0" type="4">
-        <text>user</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci1yaWdodDogM3B4IHNvbGlkICMzMzZlOWE7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT6xqMP7se21pcno1sM8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPsax1tbJ6NbDPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT6159fTxrHJ6NbDPC9saT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+1qe4tsno1sM8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPsno1sPTxbvdPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT62qbe/yejWwzwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+1fe8r8LbzsTJ6NbDPC9saT4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+yNWzzLncwO3J6NbDPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT7NqNaqtszQxcno1sM8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPs2o1qrTyrz+yejWwzwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+u+HS6dfKwc/J6NbDPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT649sjL1tDQxMno1sM8L2xpPgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT7E2sjdseC8rTwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+xKO/6dGh1PE8L2xpPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIDxSZWRpcmVjdCBleGFjdAogICAgICAgICAgICAgICAgICAgIGZyb209Ii8iCiAgICAgICAgICAgICAgICAgICAgdG89Ii9ob21lIgogICAgICAgICAgLz4K</text>
       </register>
-      <register name="2" type="4">
+      <register name="7" type="4">
         <text>{
         ...user
       }</text>
       </register>
-      <register name="3" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ewogICAgICAgICAgICAgICAgICAgIGlkOiBlZGl0RGF0YS5pZCwKICAgICAgICAgICAgICAgICAgICAuLi5lZGl0VHlwZS5yZWR1Y2UoKGksIGUpID0+ICh7CiAgICAgICAgICAgICAgICAgICAgICAuLi5pLAogICAgICAgICAgICAgICAgICAgICAgW2VdOiBlZGl0RGF0YVtlXQogICAgICAgICAgICAgICAgICAgIH0pLCB7fSkKICAgICAgICAgICAgICAgICAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlT21pdFR5cGVuYW1lTGluaygpIHsKICByZXR1cm4gbmV3IEFwb2xsb0xpbmsoKG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogICAgaWYgKG9wZXJhdGlvbi52YXJpYWJsZXMpIHsKICAgICAgb3BlcmF0aW9uLnZhcmlhYmxlcyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0aW9uLnZhcmlhYmxlcyksIG9taXRUeXBlbmFtZSkKICAgIH0KCiAgICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pCiAgfSkKfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcGVyYXRpb24pCiAgZGVidWdnZXIK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlT21pdFR5cGVuYW1lTGluaygpIHsKICByZXR1cm4gbmV3IEFwb2xsb0xpbmsoKG9wZXJhdGlvbiwgZm9yd2FyZCkgPT4gewogICAgaWYgKG9wZXJhdGlvbi52YXJpYWJsZXMpIHsKICAgICAgb3BlcmF0aW9uLnZhcmlhYmxlcyA9IEpTT04ucGFyc2UoSlNPTi5zdHJpbmdpZnkob3BlcmF0aW9uLnZhcmlhYmxlcyksIG9taXRUeXBlbmFtZSkKICAgIH0KCiAgICByZXR1cm4gZm9yd2FyZChvcGVyYXRpb24pCiAgfSkKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>debu</last-search>
+      <last-search>c-table1-3</last-search>
       <last-offset />
-      <last-pattern>debu</last-pattern>
+      <last-pattern>c-table1-3</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93RWRpdFw+</entry>
-        <entry encoding="base64">XDxEaWFsb2dcPg==</entry>
-        <entry encoding="base64">XDxtYWtlRXhlY3V0YWJsZVNjaGVtYVw+</entry>
-        <entry encoding="base64">XDxhbGxVc2VyXD4=</entry>
         <entry>port</entry>
         <entry encoding="base64">XDxjb250ZW50QmFzZVw+</entry>
         <entry encoding="base64">XDxlbnRyaWVzXD4=</entry>
@@ -375,6 +392,10 @@
         <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
         <entry>debu</entry>
+        <entry>智慧邀约</entry>
+        <entry>blue</entry>
+        <entry>table</entry>
+        <entry>c-table1-3</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -383,8 +404,8 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
-        <entry>vs</entry>
         <entry>action QuickList.ss</entry>
+        <entry>vs</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
