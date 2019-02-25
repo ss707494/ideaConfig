@@ -387,6 +387,12 @@
         <mark key="^" line="12" column="139" />
         <mark key="." line="12" column="139" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/config/host.local.js" timestamp="1551080945433">
+        <mark key="'" line="1" column="48" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="1" column="17" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1550738098908">
         <mark key="'" line="1456" column="23" />
       </file>
@@ -407,6 +413,13 @@
         <mark key="]" line="12" column="20" />
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1551081434556">
+        <mark key="'" line="240" column="30" />
+        <mark key="[" line="259" column="22" />
+        <mark key="]" line="259" column="22" />
+        <mark key="." line="259" column="22" />
+        <mark key="^" line="240" column="65" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/common/token.js" timestamp="1550655013649">
         <mark key="'" line="2" column="57" />
@@ -453,19 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="28" column="6" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="17" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="13" column="17" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="1" column="52" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="43" column="6" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="35" column="20" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="42" column="22" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="37" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="48" column="18" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="49" column="15" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="5" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="18" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="2" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="15" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="36" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
@@ -553,64 +553,75 @@
       <jump line="29" column="45" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="94" column="40" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="105" column="77" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="170" column="4" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="36" column="54" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="2" column="14" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
+      <jump line="285" column="45" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="1" column="48" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
+      <jump line="261" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="282" column="14" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="242" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="243" column="8" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="246" column="12" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="288" column="24" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="289" column="25" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="244" column="30" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>editData</text>
+        <text encoding="base64">e2F9IDxici8+</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0RGF0YVw+</text>
+        <text encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>editData</text>
+        <text encoding="base64">IG5hbWU6ICcxMjMnLCB2YWx1ZTogMTIg</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text encoding="base64">T2JqZWN0LmtleXMoZGF0YSkubWFwKGUgPT4gKHsKICAgICAgICBuYW1lOiBlLAogICAgICAgIHZhbHVlOiBkYXRhW2VdCiAgICAgIH0pKQ==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>{
                     
                   }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB1cGRhdGVVc2VyKHsgdmFyaWFibGVzOiB7IGlkOiBlZGl0RGF0YS5pZCwgYXV0aDogZWRpdERhdGEuYXV0aCB9IH0pfQogICAgICAgICAgICAgICAgICA+c2F2ZTwvQnV0dG9uPgo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxNdXRhdGlvbiA+CiAgICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gdXBkYXRlVXNlcih7IHZhcmlhYmxlczogeyBpZDogZWRpdERhdGEuaWQsIGF1dGg6IGVkaXREYXRhLmF1dGggfSB9KX0KICAgICAgICAgICAgICAgICAgPnNhdmU8L0J1dHRvbj4KICAgICAgICAgICAgICAgIDwvTXV0YXRpb24+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gdXBkYXRlVXNlcih7IHZhcmlhYmxlczogeyBpZDogZWRpdERhdGEuaWQsIGF1dGg6IGVkaXREYXRhLmF1dGggfSB9KX0KICAgICAgICAgICAgICAgID5zYXZlPC9CdXR0b24+Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICB0ZXN0OiAvXC4oZ3JhcGhxbHxncWwpJC8sCiAgICAgICAgICBleGNsdWRlOiAvbm9kZV9tb2R1bGVzLywKICAgICAgICAgIGxvYWRlcjogJ2dyYXBocWwtdGFnL2xvYWRlcicsCiAgICAgICAgfSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>action QuickList.ss</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0RGF0YVw+</last-search>
+      <last-search encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0RGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YWJsZUJvZHlzXD4=</entry>
-        <entry encoding="base64">XDxtYXhUaWNrZXRDb3V0XD4=</entry>
         <entry encoding="base64">XDx0YWJsZVBhc3NpbmdcPg==</entry>
         <entry encoding="base64">XDxydWxlc1w+</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
@@ -629,6 +640,8 @@
         <entry encoding="base64">XDx1cGRhdGVVc2VyQXV0aFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
         <entry encoding="base64">XDxlZGl0RGF0YVw+</entry>
+        <entry encoding="base64">XDxFY2hhcnRzXD4=</entry>
+        <entry encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -638,9 +651,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
-        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
