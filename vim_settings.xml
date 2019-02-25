@@ -170,6 +170,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="13" column="23" />
       </file>
+      <file name="E:/code/Corp2018_Static/corp/package.json" timestamp="1551062648509">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="12" />
+        <mark key="." line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/list/index.vue" timestamp="1550569786095">
         <mark key="'" line="4" column="26" />
         <mark key="[" line="4" column="22" />
@@ -476,7 +482,7 @@
         <mark key="^" line="20" column="5" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551062412316">
+      <file name="/Dummy.txt" timestamp="1551062627857">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="." line="0" column="5" />
@@ -531,6 +537,12 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="E:/code/Corp2018_Static/.gitignore" timestamp="1551062747517">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1550814805098">
         <mark key="'" line="16" column="16" />
@@ -647,7 +659,7 @@
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>user: editData</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>babel</text>
@@ -688,7 +700,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -729,8 +741,8 @@
         <entry>sp</entry>
         <entry>action RecentFiles</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
