@@ -38,17 +38,12 @@
         <mark key="^" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="E:/code/Corp2018_Static/corp/webpack.config.js" timestamp="1551063482546">
-        <mark key="'" line="194" column="4" />
-        <mark key="[" line="193" column="10" />
-        <mark key="]" line="193" column="13" />
-      </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551085219729">
-        <mark key="'" line="28" column="9" />
-        <mark key="[" line="30" column="37" />
-        <mark key="]" line="31" column="11" />
-        <mark key="." line="31" column="11" />
-        <mark key="^" line="31" column="11" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551085940913">
+        <mark key="'" line="96" column="37" />
+        <mark key="[" line="17" column="19" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550715842508">
         <mark key="'" line="8" column="48" />
@@ -111,12 +106,10 @@
       <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
         <mark key="'" line="2" column="7" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" timestamp="1550828660744">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" timestamp="1551085834474">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="23" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
         <mark key="'" line="30" column="43" />
@@ -284,12 +277,12 @@
       <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" timestamp="1550646856488">
         <mark key="'" line="62" column="14" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551078733661">
-        <mark key="'" line="5" column="4" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="14" />
-        <mark key="^" line="5" column="29" />
+      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551085931760">
+        <mark key="'" line="4" column="9" />
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
+        <mark key="^" line="8" column="12" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/login/router.js" timestamp="1550716559300">
         <mark key="'" line="6" column="4" />
@@ -466,11 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="20" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="112" column="52" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" />
-      <jump line="27" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="98" column="44" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="107" column="93" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="44" column="0" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="23" column="36" filename="E:/ss_code/graphql/src/schema/user.js" />
@@ -551,7 +539,6 @@
       <jump line="303" column="109" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="290" column="36" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="285" column="20" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
-      <jump line="94" column="40" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="35" column="45" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="102" column="22" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="36" column="8" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
@@ -566,55 +553,68 @@
       <jump line="105" column="24" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="108" column="27" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="28" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="8" column="6" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
+      <jump line="4" column="9" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
+      <jump line="46" column="28" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="94" column="28" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="95" column="12" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="96" column="37" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>``</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0RGF0YVw+</text>
+        <text encoding="base64">XDx1cGRhdGVVc2VyXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>columns</text>
+        <text>allUser</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>{
+          user {
+            name
+            id
+            auth
+            message
+          }
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPC9NdXRhdGlvbj4K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ3FsIH0gZnJvbSAnYXBvbGxvLWJvb3N0Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICApfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
+        <text encoding="base64">ICAgICAgPC9NdXRhdGlvbj4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPE11dGF0aW9uIG11dGF0aW9uPXt1cGRhdGVVc2VyQXV0aH0KICAgICAgPgogICAgICAgIHsodXBkYXRlVXNlckF1dGgsIHsgZGF0YSB9KSA9PiAoCiAgICAgICAgICAgIDw+Cg==</text>
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gdXBkYXRlVXNlckF1dGgoeyB2YXJpYWJsZXM6IHsgaWQ6IGVkaXREYXRhLmlkLCBhdXRoOiBlZGl0RGF0YS5hdXRoIH0gfSl9CiAgICAgICAgICAgICAgICA+c2F2ZUF1dGg8L0J1dHRvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ZWRpdFR5cGUucmVkdWNlKChpLCBlKSA9PiAoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uaSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtlXTogZWRpdERhdGFbZV0KICAgICAgICAgICAgICAgICAgICAgICAgICB9KSwge30pIH0gfSk=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPE11dGF0aW9uIG11dGF0aW9uPXt1cGRhdGVVc2VyQXV0aH0KICAgICAgPgogICAgICAgIHsodXBkYXRlVXNlckF1dGgsIHsgZGF0YSB9KSA9PiAoCiAgICAgICAgICAgIDw+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gdXBkYXRlVXNlckF1dGgoeyB2YXJpYWJsZXM6IHsgaWQ6IGVkaXREYXRhLmlkLCBhdXRoOiBlZGl0RGF0YS5hdXRoIH0gfSl9CiAgICAgICAgICAgICAgICA+c2F2ZUF1dGg8L0J1dHRvbj4K</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZWRpdFR5cGUucmVkdWNlKChpLCBlKSA9PiAoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uaSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtlXTogZWRpdERhdGFbZV0KICAgICAgICAgICAgICAgICAgICAgICAgICB9KSwge30pIH0gfSk=</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0RGF0YVw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0RGF0YVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVVc2VyXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -633,13 +633,13 @@
         <entry>graph</entry>
         <entry>graphql</entry>
         <entry>babel</entry>
-        <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
         <entry encoding="base64">XDxFY2hhcnRzXD4=</entry>
         <entry encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</entry>
         <entry>fileList</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyQXV0aFw+</entry>
         <entry encoding="base64">XDxzZXRFZGl0XD4=</entry>
         <entry encoding="base64">XDxlZGl0RGF0YVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -650,8 +650,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
