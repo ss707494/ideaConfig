@@ -43,12 +43,12 @@
         <mark key="[" line="193" column="10" />
         <mark key="]" line="193" column="13" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551081624954">
-        <mark key="'" line="105" column="77" />
-        <mark key="[" line="105" column="77" />
-        <mark key="]" line="105" column="88" />
-        <mark key="." line="105" column="88" />
-        <mark key="^" line="105" column="88" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551085219729">
+        <mark key="'" line="28" column="9" />
+        <mark key="[" line="30" column="37" />
+        <mark key="]" line="31" column="11" />
+        <mark key="." line="31" column="11" />
+        <mark key="^" line="31" column="11" />
       </file>
       <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1550715842508">
         <mark key="'" line="8" column="48" />
@@ -227,7 +227,7 @@
         <mark key="^" line="28" column="20" />
         <mark key="." line="28" column="20" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1550814756045">
+      <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551084598484">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="22" column="10" />
         <mark key="]" line="22" column="13" />
@@ -278,7 +278,7 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551073746683">
+      <file name="/JavaScript Console" timestamp="1551084512634">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" timestamp="1550646856488">
@@ -414,10 +414,10 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1551082615676">
-        <mark key="'" line="285" column="20" />
-        <mark key="[" line="286" column="68" />
-        <mark key="]" line="286" column="68" />
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1551084275730">
+        <mark key="'" line="102" column="22" />
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="28" />
         <mark key="^" line="286" column="90" />
         <mark key="." line="286" column="68" />
       </file>
@@ -466,14 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="4" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="36" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="38" column="2" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="54" column="59" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="53" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="63" column="22" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="46" column="18" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="2" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="9" column="20" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="112" column="52" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="2" column="0" filename="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" />
@@ -486,7 +478,6 @@
       <jump line="45" column="6" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="53" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="87" column="2" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="86" column="14" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/scripts/start.js" />
       <jump line="3" column="12" filename="E:/ss_code/react-hooks-demo/scripts/start.js" />
       <jump line="71" column="3" filename="E:/ss_code/react-hooks-demo/package.json" />
@@ -536,16 +527,10 @@
       <jump line="5" column="4" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="106" column="18" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="104" column="29" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="17" column="25" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="83" column="26" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="84" column="6" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="85" column="24" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="103" column="36" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="109" column="92" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="28" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="29" column="45" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="94" column="40" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="105" column="77" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="170" column="4" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="36" column="54" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="2" column="14" filename="D:/coder/N-31Brands/FE/config/host.local.js" />
@@ -566,66 +551,75 @@
       <jump line="303" column="109" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="290" column="36" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
       <jump line="285" column="20" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="94" column="40" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="35" column="45" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="102" column="22" filename="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" />
+      <jump line="36" column="8" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="58" column="20" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="84" column="26" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="86" column="10" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="120" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="17" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="92" column="40" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="29" column="45" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="91" column="32" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="105" column="24" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="108" column="27" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="28" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>'轻工', '纺织', '汽车', '消费电子'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>fileList</text>
+        <text encoding="base64">XDxlZGl0RGF0YVw+</text>
       </register>
       <register name="0" type="4">
-        <text>轻工</text>
+        <text>columns</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgSW5kdXN0cnlPYmogPSAK</text>
+        <text encoding="base64">ICAgICAgPC9NdXRhdGlvbj4K</text>
       </register>
-      <register name="3" type="4">
-        <text>, {
-          name: '其他',
-          value: i.other
-        }]</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICApfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAuLi5pLAo=</text>
+        <text encoding="base64">ICAgICAgPE11dGF0aW9uIG11dGF0aW9uPXt1cGRhdGVVc2VyQXV0aH0KICAgICAgPgogICAgICAgIHsodXBkYXRlVXNlckF1dGgsIHsgZGF0YSB9KSA9PiAoCiAgICAgICAgICAgIDw+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-        other: 
-      }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxCdXR0b24gb25DbGljaz17KCkgPT4gdXBkYXRlVXNlckF1dGgoeyB2YXJpYWJsZXM6IHsgaWQ6IGVkaXREYXRhLmlkLCBhdXRoOiBlZGl0RGF0YS5hdXRoIH0gfSl9CiAgICAgICAgICAgICAgICA+c2F2ZUF1dGg8L0J1dHRvbj4K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">T2JqZWN0LmtleXMoZGF0YSkubWFwKGUgPT4gKHsKICAgICAgICBuYW1lOiBlLAogICAgICAgIHZhbHVlOiBkYXRhW2VdCiAgICAgIH0pKQ==</text>
+        <text encoding="base64">ZWRpdFR5cGUucmVkdWNlKChpLCBlKSA9PiAoewogICAgICAgICAgICAgICAgICAgICAgICAgICAgLi4uaSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtlXTogZWRpdERhdGFbZV0KICAgICAgICAgICAgICAgICAgICAgICAgICB9KSwge30pIH0gfSk=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>fileList</last-search>
+      <last-search encoding="base64">XDxlZGl0RGF0YVw+</last-search>
       <last-offset />
-      <last-pattern>fileList</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0RGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxydWxlc1w+</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
         <entry encoding="base64">XDxTdGF0dXNcPg==</entry>
         <entry encoding="base64">XDxzaG93RWRpdFw+</entry>
@@ -639,12 +633,13 @@
         <entry>graph</entry>
         <entry>graphql</entry>
         <entry>babel</entry>
-        <entry encoding="base64">XDx1cGRhdGVVc2VyQXV0aFw+</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
-        <entry encoding="base64">XDxlZGl0RGF0YVw+</entry>
         <entry encoding="base64">XDxFY2hhcnRzXD4=</entry>
         <entry encoding="base64">XDxjYWxjU3RhdGlzdGljc1w+</entry>
         <entry>fileList</entry>
+        <entry encoding="base64">XDx1cGRhdGVVc2VyQXV0aFw+</entry>
+        <entry encoding="base64">XDxzZXRFZGl0XD4=</entry>
+        <entry encoding="base64">XDxlZGl0RGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -655,8 +650,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
       <history-input />
