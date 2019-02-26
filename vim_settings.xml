@@ -91,7 +91,13 @@
       <file name="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" timestamp="1551063524697">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551153676566" />
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551155417811">
+        <mark key="'" line="88" column="88" />
+        <mark key="[" line="221" column="65" />
+        <mark key="]" line="221" column="65" />
+        <mark key="^" line="221" column="65" />
+        <mark key="." line="221" column="65" />
+      </file>
       <file name="/GraphQL Fragment (index.js:2545).graphql" timestamp="1551066670401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -208,9 +214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="474" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="802" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="1158" column="5" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="794" column="4" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="792" column="12" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="840" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
@@ -308,46 +311,49 @@
       <jump line="168" column="129" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
       <jump line="287" column="36" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
       <jump line="495" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="167" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="87" column="56" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="88" column="88" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>e[1]</text>
       </register>
       <register name="/" type="4">
         <text>智慧大会集锦</text>
       </register>
       <register name="0" type="4">
-        <text>e1.split('^')[1]</text>
+        <text>['普通邀约', '定向邀约', '会员邀约', '渠道邀约']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDgwcHg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBsZWZ0OiAtMjBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0iZSBpbiBbJ8bVzajR+9S8JywgJ7aoz/LR+9S8JywgJ7vh1LHR+9S8JywgJ8f+tcDR+9S8J10iPnt7ZX19PC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogNzVweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0iZSBpbiBbJ8bVzajR+9S8JywgJ7aoz/LR+9S8JywgJ7vh1LHR+9S8JywgJ8f+tcDR+9S8J10iPnt7ZX19PC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmMtdGFibGUzLTEgLm1pZGRsZS1ib3ggPiBkaXY6bnRoLW9mLXR5cGUoMSkgewogICAgd2lkdGg6IDcwcHg7Cn0K</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDgwcHg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBsZWZ0OiAtMjBweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB3aWR0aDogNzVweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmMtdGFibGUzLTEgLm1pZGRsZS1ib3ggPiBkaXY6bnRoLW9mLXR5cGUoMSkgewogICAgd2lkdGg6IDcwcHg7Cn0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjLXRhYmxlMy0xIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+yv2+3Txicj6xqLHtPC9wPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJnbHlwaGljb24gZ2x5cGhpY29uLXRyaWFuZ2xlLWJvdHRvbSIgc3R5bGU9ImNvbG9yOiMwQUExRTU7Ij48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWlkZGxlLWJveCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHYtZm9yPSIoZSxpKSBpbiBbWyeyzrvhyMvNs7zGJywgJ7aptaXNs7zGJywgJ77GterK/b7dzbO8xicsICe2zNDFt6LLzc2zvMYnLCAnx6m1pbfWzvYnLCAnt9a74bOht9bO9icsICeyzrvh1d+31s72JywgJ9fUtqjS5bfWzvYnXSwgWyewtLfW1+mx6sept6LLzdDFz6InLCAnss674cjL0NDOqrHqx6knLCAnzajRtsK8t9bX6brNserHqScsICe328u/serHqScsICe74dSxt9a8trHqx6knXV0iIDprZXk9ImkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxtYWluPjwvbWFpbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSB2LWZvcj0iZTEgaW4gZSI+e3tlMX19PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc2VjdGlvbj4KCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08dWw+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+ss674cjLzbO8xjwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+tqm1pc2zvMY8L2xpPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8IS0tPGxpPr7GterK/b7dzbO8xjwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+tszQxbeiy83Ns7zGPC9saT4tLT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxsaT7HqbW9t9bO9jwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+t9a74bOht9bO9jwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+ss674dXft9bO9jwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08bGk+19S2qNLlt9bO9jwvbGk+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08L3VsPi0tPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImMtdGFibGUzLWVhciI+z+48YnI+xL88YnI+udw8YnI+wO08YnI+zOU8YnI+z7U8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD48L3A+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action QuickList.ss</text>
