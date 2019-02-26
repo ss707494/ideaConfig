@@ -91,13 +91,7 @@
       <file name="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" timestamp="1551063524697">
         <mark key="'" line="41" column="4" />
       </file>
-      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551149881697">
-        <mark key="'" line="143" column="52" />
-        <mark key="[" line="235" column="92" />
-        <mark key="]" line="235" column="92" />
-        <mark key="." line="235" column="92" />
-        <mark key="^" line="235" column="171" />
-      </file>
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551153676566" />
       <file name="/GraphQL Fragment (index.js:2545).graphql" timestamp="1551066670401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="13" />
@@ -125,13 +119,7 @@
       <file name="E:/ss_code/react-hooks-demo/scripts/start.js" timestamp="1551059830047">
         <mark key="'" line="3" column="12" />
       </file>
-      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" timestamp="1551152282356">
-        <mark key="'" line="1262" column="0" />
-        <mark key="[" line="742" column="0" />
-        <mark key="]" line="742" column="0" />
-        <mark key="^" line="747" column="15" />
-        <mark key="." line="742" column="0" />
-      </file>
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" timestamp="1551153303554" />
       <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551088955863">
         <mark key="'" line="1" column="9" />
         <mark key="[" line="22" column="14" />
@@ -220,10 +208,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="787" column="1" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="791" column="1" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="796" column="12" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="162" column="38" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
       <jump line="474" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
       <jump line="802" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="1158" column="5" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
@@ -320,19 +304,23 @@
       <jump line="731" column="16" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="1194" column="12" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="1262" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="245" column="25" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="168" column="129" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="287" column="36" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
+      <jump line="495" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>77</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>.c-channel2-table</text>
+        <text>智慧大会集锦</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LmMtdGFibGUzLTEgLm1pZGRsZS1ib3ggPiBkaXY6bGFzdC1vZi10eXBlIHsK</text>
+      <register name="0" type="4">
+        <text>e1.split('^')[1]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiAxMDgwcHg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICBsZWZ0OiAtMjBweDsK</text>
@@ -362,19 +350,18 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW10sCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>.c-channel2-table</last-search>
+      <last-search>智慧大会集锦</last-search>
       <last-offset />
-      <last-pattern>.c-channel2-table</last-pattern>
+      <last-pattern>智慧大会集锦</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LmMtdGFibGUxLTEgPiBzcGFuLCAuYy10YWJsZTEtMiBzcGFuLCAuYy10YWJsZTEtMyBzcGFuLCAuYy10YWJsZTEtNCBzcGFuLCAuYy10YWJsZTItMSBzcGFuLCAuYy10YWJsZTItMiBzcGFuLCAuYy10YWJsZTItMyBzcGFuLCAuYy10YWJsZTMtMSBzcGFu</entry>
         <entry encoding="base64">ICAgIHdpZHRoOiA5MHB4Ow==</entry>
         <entry>.c-table1-1 ul li</entry>
         <entry>96</entry>
@@ -394,6 +381,7 @@
         <entry encoding="base64">LmMtdGFibGU0ID4gLmdseXBoaWNvbi10cmlhbmdsZS1ib3R0b20=</entry>
         <entry>1077</entry>
         <entry>.c-channel2-table</entry>
+        <entry>智慧大会集锦</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -402,10 +390,10 @@
         <entry>action ActivateRunToolWindow</entry>
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
-        <entry>action QuickList.ss</entry>
         <entry>vs</entry>
         <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
