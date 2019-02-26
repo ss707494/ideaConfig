@@ -3,12 +3,36 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/offer/index.vue" timestamp="1550455511007">
+        <mark key="'" line="1" column="15" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
+        <mark key="'" line="4" column="13" />
+      </file>
       <file name="E:/code/FECodeReview/src/examples/select.vue" timestamp="1551162473123" />
+      <file name="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" timestamp="1551175508765">
+        <mark key="'" line="156" column="4" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/src/index.ts" timestamp="1551086750360">
+        <mark key="'" line="73" column="6" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551171952168">
         <mark key="'" line="103" column="33" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="." line="94" column="0" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/index.js" timestamp="1550647623576">
+        <mark key="'" line="17" column="5" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/TableRow/index.d.ts" timestamp="1550805045422">
+        <mark key="'" line="0" column="34" />
+      </file>
+      <file name="E:/ss_code/ant-design-pro/config/config.js" timestamp="1550484703350">
+        <mark key="'" line="2" column="7" />
+      </file>
+      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
+        <mark key="'" line="30" column="43" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1551165840418" />
       <file name="/GraphQL.variables.json" timestamp="1551066958043">
@@ -63,12 +87,21 @@
         <mark key="]" line="1" column="49" />
         <mark key="." line="1" column="17" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1551175450101">
+        <mark key="'" line="16" column="9" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/views/Login/index.js" timestamp="1551167929130">
         <mark key="'" line="45" column="3" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="62" column="20" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/ApolloServer.d.ts" timestamp="1550735280646">
+        <mark key="'" line="23" column="29" />
+      </file>
+      <file name="E:/code/Corp2018_Static/corp/webpack.dev.conf.js" timestamp="1551063524697">
+        <mark key="'" line="41" column="4" />
       </file>
       <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" timestamp="1551162877131">
         <mark key="'" line="39" column="0" />
@@ -84,14 +117,26 @@
         <mark key="." line="4" column="23" />
       </file>
       <file name="E:/code/ZhongfeiMice/FE/package.json" timestamp="1551159514205" />
+      <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/package.json" timestamp="1550644249602">
+        <mark key="'" line="40" column="5" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/package.json" timestamp="1550646815657">
+        <mark key="'" line="6" column="26" />
+      </file>
       <file name="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/index.html" timestamp="1551163087866">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
         <mark key="^" line="248" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" timestamp="1551172270636">
-        <mark key="'" line="1351" column="0" />
+      <file name="E:/ss_code/react-hooks-demo/config/env.js" timestamp="1550552519774">
+        <mark key="'" line="92" column="36" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/scripts/start.js" timestamp="1551059830047">
+        <mark key="'" line="3" column="12" />
+      </file>
+      <file name="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" timestamp="1551174197432">
+        <mark key="'" line="1334" column="4" />
         <mark key="[" line="1352" column="13" />
         <mark key="]" line="1352" column="14" />
         <mark key="^" line="1352" column="14" />
@@ -113,6 +158,9 @@
       <file name="/JavaScript Console" timestamp="1551167792534">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/common/plugins/injector/view/iview.js" timestamp="1550646856488">
+        <mark key="'" line="62" column="14" />
+      </file>
       <file name="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" timestamp="1551163373828">
         <mark key="'" line="661" column="0" />
         <mark key="[" line="353" column="24" />
@@ -120,10 +168,28 @@
         <mark key="." line="353" column="23" />
         <mark key="^" line="353" column="23" />
       </file>
+      <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/router/index.js" timestamp="1550555887603">
+        <mark key="'" line="32" column="22" />
+      </file>
       <file name="/Dummy.txt" timestamp="1551166720354">
         <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/src/components/EmptyList/index.vue" timestamp="1550569750582">
+        <mark key="'" line="69" column="31" />
+      </file>
+      <file name="E:/code/N-31Mechinery/FE/node_modules/iview/src/components/upload/index.js" timestamp="1550542932016">
+        <mark key="'" line="0" column="27" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-boost/lib/index.d.ts" timestamp="1551086748767">
+        <mark key="'" line="13" column="4" />
+      </file>
+      <file name="E:/ss_code/ant-design-pro/src/models/menu.js" timestamp="1550483399771">
+        <mark key="'" line="4" column="39" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1550738098908">
+        <mark key="'" line="1456" column="23" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/dataBoard/data/index.vue" timestamp="1551165387049">
         <mark key="'" line="102" column="22" />
@@ -145,22 +211,13 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="16" />
       </file>
+      <file name="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" timestamp="1551178843884">
+        <mark key="'" line="158" column="85" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="61" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="163" column="323" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="164" column="145" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="96" column="24" filename="E:/code/Corp2018_Static/corp/src/apps/interact/zhibo/index.html" />
-      <jump line="165" column="169" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="552" column="6" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="29" column="40" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/index.html" />
-      <jump line="126" column="40" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="39" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.html" />
-      <jump line="1242" column="5" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="0" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" />
-      <jump line="692" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
-      <jump line="291" column="4" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" />
-      <jump line="64" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" />
       <jump line="310" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" />
       <jump line="641" column="22" filename="E:/code/Corp2018_Static/corp/src/apps/cfccloud/solution/c-channel2.css" />
       <jump line="1333" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
@@ -247,6 +304,20 @@
       <jump line="1303" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="1311" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
       <jump line="1351" column="0" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="1334" column="4" filename="E:/code/Corp2018_Static/corp/src/apps/scenario/bigevent/index.css" />
+      <jump line="16" column="9" filename="D:/coder/N-31Brands/FE/src/components/Form/index.vue" />
+      <jump line="248" column="34" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="276" column="30" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="281" column="16" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="5" column="19" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="27" column="20" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="109" column="19" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="152" column="11" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="156" column="4" filename="D:/coder/N-31Brands/FE/src/components/Upload/index.vue" />
+      <jump line="169" column="70" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="155" column="20" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="157" column="69" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="158" column="85" filename="D:/coder/N-31Brands/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -256,7 +327,7 @@
         <text>68</text>
       </register>
       <register name="/" type="4">
-        <text>c-channel2-table</text>
+        <text encoding="base64">XDxmb3JtVHlwZURhdGFcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmMtdGFibGU0IHsKICAgIGZsb2F0OiBsZWZ0OwogICAgd2lkdGg6IDEwNjhweDsKICAgIGhlaWdodDogODRweDsKICAgIGJvcmRlcjozcHggc29saWQgcmdiYSg1MSwxMTEsMTU0LDEpOwogICAgbWFyZ2luLXRvcDogNXB4OwogICAgZGlzcGxheTogZmxleDsKICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cn0K</text>
@@ -298,20 +369,18 @@
         }`</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search>c-channel2-table</last-search>
+      <last-search encoding="base64">XDxmb3JtVHlwZURhdGFcPg==</last-search>
       <last-offset />
-      <last-pattern>c-channel2-table</last-pattern>
+      <last-pattern encoding="base64">XDxmb3JtVHlwZURhdGFcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">LmMtdGFibGUzLTEgLm1pZGRsZS1ib3ggPiBkaXY6bGFzdC1vZi10eXBl</entry>
-        <entry encoding="base64">Lm1pZGRsZS1ib3ggPiBkaXY6bGFzdC1vZi10eXBl</entry>
         <entry encoding="base64">LmMtdGFibGU0ID4gLmdseXBoaWNvbi10cmlhbmdsZS1ib3R0b20=</entry>
         <entry>1077</entry>
         <entry>智慧大会集锦</entry>
@@ -330,6 +399,8 @@
         <entry>nth-of-type</entry>
         <entry encoding="base64">Jg==</entry>
         <entry>c-channel2-table</entry>
+        <entry encoding="base64">XDx2YWx1ZVw+</entry>
+        <entry encoding="base64">XDxmb3JtVHlwZURhdGFcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -339,9 +410,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
