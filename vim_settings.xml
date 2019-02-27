@@ -6,6 +6,12 @@
       <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/offer/index.vue" timestamp="1550455511007">
         <mark key="'" line="1" column="15" />
       </file>
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/msite/mixins/checkItemRepeat.js" timestamp="1551262337722">
+        <mark key="'" line="6" column="10" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="71" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/src/apps/mechinery/containers/card/update/index.vue" timestamp="1550469819417">
         <mark key="'" line="4" column="13" />
       </file>
@@ -52,6 +58,13 @@
       <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/filterbar/index.vue" timestamp="1551255742085">
         <mark key="'" line="39" column="14" />
       </file>
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addclass/index.vue" timestamp="1551262299989">
+        <mark key="'" line="63" column="68" />
+        <mark key="[" line="69" column="65" />
+        <mark key="]" line="69" column="68" />
+        <mark key="." line="69" column="68" />
+        <mark key="^" line="69" column="68" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/TableRow/index.d.ts" timestamp="1550805045422">
         <mark key="'" line="0" column="34" />
       </file>
@@ -71,6 +84,13 @@
       </file>
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/types.d.ts" timestamp="1550735292678">
         <mark key="'" line="30" column="43" />
+      </file>
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/adddate/index.vue" timestamp="1551262278929">
+        <mark key="'" line="106" column="45" />
+        <mark key="[" line="64" column="64" />
+        <mark key="]" line="64" column="67" />
+        <mark key="." line="64" column="67" />
+        <mark key="^" line="64" column="67" />
       </file>
       <file name="/Dummy.txt" timestamp="1551257084337">
         <mark key="[" line="0" column="0" />
@@ -92,6 +112,9 @@
       <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-client/ApolloClient.d.ts" timestamp="1551235451485">
         <mark key="'" line="43" column="58" />
       </file>
+      <file name="/GraphQL.result.json" timestamp="1551259477231">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Mechinery/FE/package.json" timestamp="1550646815657">
         <mark key="'" line="6" column="26" />
       </file>
@@ -101,16 +124,23 @@
       <file name="E:/ss_code/react-hooks-demo/node_modules/apollo-client/core/watchQueryOptions.d.ts" timestamp="1551235458956">
         <mark key="'" line="14" column="17" />
       </file>
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/member/mixins/checkItemRepeat.js" timestamp="1551262351832">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/node_modules/react/cjs/react.development.js" timestamp="1550738098908">
         <mark key="'" line="1456" column="23" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/config/env.js" timestamp="1550552519774">
         <mark key="'" line="92" column="36" />
       </file>
-      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" timestamp="1551255767416">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="15" column="25" />
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" timestamp="1551262317489">
+        <mark key="'" line="68" column="9" />
+        <mark key="[" line="73" column="65" />
+        <mark key="]" line="73" column="68" />
+        <mark key="." line="73" column="68" />
+        <mark key="^" line="73" column="68" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/scripts/start.js" timestamp="1551059830047">
         <mark key="'" line="3" column="12" />
@@ -123,38 +153,24 @@
       <file name="D:/coder/N-31Brands/FE/src/components/Form/index.vue" timestamp="1551179326995">
         <mark key="'" line="30" column="18" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1551259471348">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/filterbar/filterItem.vue" timestamp="1551255714612">
         <mark key="'" line="40" column="70" />
       </file>
       <file name="E:/ss_code/graphql/node_modules/apollo-server-core/dist/ApolloServer.d.ts" timestamp="1550735280646">
         <mark key="'" line="23" column="29" />
       </file>
+      <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" timestamp="1551262330745">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="71" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="34" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
-      <jump line="12" column="9" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
-      <jump line="81" column="16" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="74" column="35" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="73" column="59" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="71" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="72" column="46" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="70" column="37" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="43" column="58" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-client/ApolloClient.d.ts" />
-      <jump line="14" column="17" filename="E:/ss_code/react-hooks-demo/node_modules/apollo-client/core/watchQueryOptions.d.ts" />
-      <jump line="56" column="11" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="2" column="19" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="12" column="16" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
-      <jump line="36" column="22" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="34" column="16" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="68" column="36" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="78" column="53" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="37" column="19" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
-      <jump line="66" column="48" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="76" column="45" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="38" column="61" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="0" column="0" filename="E:/ss_code/graphql-mongodb-example/src/start.js" />
-      <jump line="0" column="18" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="7" column="19" filename="E:/ss_code/graphql/src/common/objectId.js" />
       <jump line="77" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="24" column="4" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="52" column="8" filename="E:/ss_code/graphql/src/schema/user.js" />
@@ -231,65 +247,84 @@
       <jump line="1" column="9" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="14" column="0" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="20" column="8" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
+      <jump line="28" column="40" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="2" column="4" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" />
+      <jump line="66" column="12" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="95" column="25" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="10" column="47" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" />
+      <jump line="11" column="11" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" />
+      <jump line="7" column="30" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" />
+      <jump line="52" column="6" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="130" column="15" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="132" column="15" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="9" column="27" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="10" column="55" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="11" column="10" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="79" column="8" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="55" column="6" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="67" column="65" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="73" column="65" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="64" column="64" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/adddate/index.vue" />
+      <jump line="48" column="6" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/adddate/index.vue" />
+      <jump line="106" column="45" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/adddate/index.vue" />
+      <jump line="63" column="68" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addclass/index.vue" />
+      <jump line="68" column="9" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/containers/home/components/addscene/index.vue" />
+      <jump line="6" column="0" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/schedule/mixins/checkItemRepeat.js" />
+      <jump line="6" column="10" filename="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/msite/mixins/checkItemRepeat.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>.trim</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVVc2VyXD4=</text>
+        <text encoding="base64">XDxlZGl0ZGF0YVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4gdXNlckYK</text>
+        <text encoding="base64">ICAgICAgICAgIGlmKGl0ZW1ba2V5XSAmJiB2YWx1ZSAmJiBpdGVtW2tleV0udHJpbSgpID09PSB2YWx1ZS50cmltKCkpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lCiAgICAgICAgaWQKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICBpZAogICAgICAgIG5hbWUKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmKGl0ZW1ba2V5XSA9PT0gdmFsdWUpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpZAogIG5hbWUKICBtZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZAogICAgICAgIG5hbWUKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICBuYW1lCiAgICAgICAgaWQKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icGFnZS13aXNkb20tYmxvY2staG9ub3JzIj4KICAgICAgICA8ZGl2IGNsYXNzPSJwYWdlLXdpc2RvbS1ibG9jay1ob25vcnMtcGljIj4KICAgICAgICAgIDxzZWN0aW9uPgogICAgICAgICAgICA8aW1nIHNyYz0iIgogICAgICAgICAgICAgICAgIGFsdD0iIgogICAgICAgICAgICA+CiAgICAgICAgICAgIAogICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICBpZAogICAgICAgIG5hbWUKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQ==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICBpZAogIG5hbWUKICBtZXNzYWdlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZAogICAgICAgIG5hbWUKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC1tb3otYm9yZGVyLXJhZGl1cy1ib3R0b21sZWZ0OjRweDsK</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icGFnZS13aXNkb20tYmxvY2staG9ub3JzIj4KICAgICAgICA8ZGl2IGNsYXNzPSJwYWdlLXdpc2RvbS1ibG9jay1ob25vcnMtcGljIj4KICAgICAgICAgIDxzZWN0aW9uPgogICAgICAgICAgICA8aW1nIHNyYz0iIgogICAgICAgICAgICAgICAgIGFsdD0iIgogICAgICAgICAgICA+CiAgICAgICAgICAgIAogICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVVc2VyXD4=</last-search>
+      <last-search encoding="base64">XDxlZGl0ZGF0YVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVVc2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlZGl0ZGF0YVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JtVHlwZVw+</entry>
-        <entry encoding="base64">XDwzMWh1aXlpXD4=</entry>
-        <entry>下载</entry>
-        <entry>id</entry>
-        <entry encoding="base64">XDx0ZXN0XD4=</entry>
         <entry encoding="base64">XDxjbGllbnRcPg==</entry>
         <entry encoding="base64">XDxfaWRcPg==</entry>
         <entry>idb</entry>
@@ -305,6 +340,11 @@
         <entry encoding="base64">XDxmaWx0ZXJJdGVtXD4=</entry>
         <entry encoding="base64">XDxzaG93QWRkU2NlbmVEaWdcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
+        <entry encoding="base64">XDxjaGVja0l0ZW1SZXBlYXRcPg==</entry>
+        <entry encoding="base64">XDxjaGVja1JlcGV0Q05cPg==</entry>
+        <entry encoding="base64">XDxmb3JtXD4=</entry>
+        <entry encoding="base64">XDx0YWdzXD4=</entry>
+        <entry encoding="base64">XDxlZGl0ZGF0YVw+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
