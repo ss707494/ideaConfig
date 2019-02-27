@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="31会议荣誉资质" />
       <item value="columns" />
       <item value="colum" />
       <item value="clum" />
@@ -50,11 +51,10 @@
       <item value="管理" />
       <item value="菜单" />
       <item value="contrast" />
-      <item value="比较" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="94" />
+        <entry key="CHINESE" value="95" />
         <entry key="ENGLISH" value="95" />
       </map>
     </option>
