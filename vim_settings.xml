@@ -68,6 +68,12 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="63" column="0" />
       </file>
+      <file name="E:/ss_code/graphql/src/schema/user.gql" timestamp="1551346976723">
+        <mark key="'" line="25" column="3" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" timestamp="1551085834474">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="23" />
@@ -104,6 +110,13 @@
         <mark key="[" line="151" column="0" />
         <mark key="]" line="153" column="12" />
       </file>
+      <file name="E:/ss_code/graphql/src/schema.js" timestamp="1551347991541">
+        <mark key="'" line="15" column="106" />
+        <mark key="[" line="15" column="70" />
+        <mark key="]" line="15" column="107" />
+        <mark key="." line="15" column="70" />
+        <mark key="^" line="15" column="84" />
+      </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/plugins/injector/axios.js" timestamp="1551325057516">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="12" column="0" />
@@ -118,8 +131,10 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/utils/message.js" timestamp="1551341987180">
-        <mark key="'" line="31" column="5" />
+      <file name="E:/ss_code/graphql/package.json" timestamp="1551347417587">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="31" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" timestamp="1551341253709">
         <mark key="'" line="180" column="31" />
@@ -152,12 +167,13 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551345763724">
-        <mark key="'" line="3" column="0" />
+      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551346949268">
+        <mark key="'" line="2" column="20" />
         <mark key="[" line="3" column="0" />
-        <mark key="]" line="27" column="3" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551345438728">
+      <file name="/JavaScript Console" timestamp="1551347995613">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551345962688">
@@ -172,11 +188,12 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/mapping/modules/moduleType.js" timestamp="1551334683808">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="E:/ss_code/graphql/.babelrc" timestamp="1551346433987">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="18" />
+      <file name="E:/ss_code/graphql/.babelrc" timestamp="1551347590596">
+        <mark key="'" line="15" column="4" />
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="22" column="25" />
+        <mark key="." line="22" column="25" />
+        <mark key="^" line="15" column="20" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/api/common/index.js" timestamp="1551319120927">
         <mark key="'" line="16" column="0" />
@@ -307,22 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="35" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="176" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="195" column="42" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="47" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="1" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="7" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="11" column="5" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="51" column="46" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="3" column="5" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="10" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="14" column="45" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="30" column="45" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="165" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="150" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="153" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
       <jump line="152" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
       <jump line="17" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/api/contractor/login/index.js" />
       <jump line="29" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
@@ -407,46 +408,62 @@
       <jump line="9" column="43" filename="E:/ss_code/react-hooks-demo/graphql.config.json" />
       <jump line="19" column="0" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
       <jump line="25" column="8" filename="E:/ss_code/react-hooks-demo/src/gql/user.graphql" />
+      <jump line="2" column="20" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="11" column="36" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="9" column="20" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="10" column="6" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="17" column="36" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="24" column="3" filename="E:/ss_code/graphql/src/schema/user.gql" />
+      <jump line="13" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="18" column="32" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="7" column="7" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="19" column="4" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="14" column="8" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="22" column="18" filename="E:/ss_code/graphql/package.json" />
+      <jump line="15" column="4" filename="E:/ss_code/graphql/.babelrc" />
+      <jump line="4" column="0" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="16" column="68" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="15" column="106" filename="E:/ss_code/graphql/src/schema.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>http://--graphql-server--/path-to-schema-json-or-introspection-endpoint</text>
+        <text>`./schema/${e}`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbEltZ1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAuLi4gdXNlckYK</text>
+      <register name="0" type="4">
+        <text>resolveApp(`${distPath}/schema/${e}`)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lCiAgICAgICAgaWQKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgaW1wb3J0U2NoZW1hIH0gZnJvbSAnZ3JhcGhxbC1pbXBvcnQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgImZpbGUiOiAiZ3JhcGhxbC5zY2hlbWEuanNvbiIsCg==</text>
+        <text encoding="base64">ICAgICJpbXBvcnQtZ3JhcGhxbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dHlwZSBVc2VyIHsKICBpZDogU3RyaW5nCiAgbmFtZTogU3RyaW5nCiAgYXV0aDogU3RyaW5nCiAgbWVzc2FnZTogU3RyaW5nCn0KCmlucHV0IFVzZXJJbnB1dCB7CiAgaWQ6IFN0cmluZwogIG5hbWU6IFN0cmluZwogIGF1dGg6IFN0cmluZwogIG1lc3NhZ2U6IFN0cmluZwp9Cgp0eXBlIFF1ZXJ5IHsKICB1c2VyOiBbVXNlcl0KICBhbGxVc2VyOiBbVXNlcl0KICBvbmVVc2VyKGlkOiBTdHJpbmchKTogVXNlcgp9Cgp0eXBlIE11dGF0aW9uIHsKICB1cGRhdGVVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCiAgdXBkYXRlVXNlckF1dGgoaWQ6IFN0cmluZyEsIGF1dGg6IFN0cmluZyEpOiBTdHJpbmcKICBhZGRVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCn0K</text>
+        <text encoding="base64">ICBzY2hlbWFzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coc2NoZW1hRmlsZXMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dHlwZSBVc2VyIHsKICAgIGlkOiBTdHJpbmcKICAgIG5hbWU6IFN0cmluZwogICAgYXV0aDogU3RyaW5nCiAgICBtZXNzYWdlOiBTdHJpbmcKfQoK</text>
+        <text encoding="base64">ICB0eXBlIFVzZXIgewogICAgaWQ6IFN0cmluZwogICAgbmFtZTogU3RyaW5nCiAgICBhdXRoOiBTdHJpbmcKICAgIG1lc3NhZ2U6IFN0cmluZwogIH0KICAKICBpbnB1dCBVc2VySW5wdXQgewogICAgaWQ6IFN0cmluZwogICAgbmFtZTogU3RyaW5nCiAgICBhdXRoOiBTdHJpbmcKICAgIG1lc3NhZ2U6IFN0cmluZwogIH0KICAKICB0eXBlIFF1ZXJ5IHsKICAgIHVzZXI6IFtVc2VyXQogICAgYWxsVXNlcjogW1VzZXJdCiAgICBvbmVVc2VyKGlkOiBTdHJpbmchKTogVXNlcgogIH0KICAKICB0eXBlIE11dGF0aW9uIHsKICAgIHVwZGF0ZVVzZXIodXNlcjogVXNlcklucHV0ISk6IFVzZXIKICAgIHVwZGF0ZVVzZXJBdXRoKGlkOiBTdHJpbmchLCBhdXRoOiBTdHJpbmchKTogU3RyaW5nCiAgICBhZGRVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHlwZSBNdXRhdGlvbiB7CiAgIyBUaGUgaWQgb2YgdGhlIG9iamVjdC4KICBpZDogSUQhCn0KCiMgQW4gb2JqZWN0IHdpdGggYW4gSUQKaW50ZXJmYWNlIE5vZGUgewogICMgVGhlIGlkIG9mIHRoZSBvYmplY3QuCiAgaWQ6IElEIQp9CgojIEluZm9ybWF0aW9uIGFib3V0IHBhZ2luYXRpb24gaW4gYSBjb25uZWN0aW9uLgp0eXBlIFBhZ2VJbmZvIHsKICAjIFdoZW4gcGFnaW5hdGluZyBmb3J3YXJkcywgYXJlIHRoZXJlIG1vcmUgaXRlbXM/CiAgaGFzTmV4dFBhZ2U6IEJvb2xlYW4hCgogICMgV2hlbiBwYWdpbmF0aW5nIGJhY2t3YXJkcywgYXJlIHRoZXJlIG1vcmUgaXRlbXM/CiAgaGFzUHJldmlvdXNQYWdlOiBCb29sZWFuIQoKICAjIFdoZW4gcGFnaW5hdGluZyBiYWNrd2FyZHMsIHRoZSBjdXJzb3IgdG8gY29udGludWUuCiAgc3RhcnRDdXJzb3I6IFN0cmluZwoKICAjIFdoZW4gcGFnaW5hdGluZyBmb3J3YXJkcywgdGhlIGN1cnNvciB0byBjb250aW51ZS4KICBlbmRDdXJzb3I6IFN0cmluZwp9Cgp0eXBlIFF1ZXJ5IHsKICAjIEZldGNoZXMgYW4gb2JqZWN0IGdpdmVuIGl0cyBJRAogIG5vZGUoCiAgICAjIFRoZSBJRCBvZiBhbiBvYmplY3QKICAgIGlkOiBJRCEKICApOiBOb2RlCn0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lCiAgICAgICAgaWQKICAgICAgICBhdXRoCiAgICAgICAgbWVzc2FnZQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgImZpbGUiOiAiZ3JhcGhxbC5zY2hlbWEuanNvbiIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lyZWxlc3NHZXRDb2RlKHsgcGhvbmU6IHRoaXMuZm9ybURhdGEucGhvbmUgfSkK</text>
+        <text encoding="base64">dHlwZSBVc2VyIHsKICBpZDogU3RyaW5nCiAgbmFtZTogU3RyaW5nCiAgYXV0aDogU3RyaW5nCiAgbWVzc2FnZTogU3RyaW5nCn0KCmlucHV0IFVzZXJJbnB1dCB7CiAgaWQ6IFN0cmluZwogIG5hbWU6IFN0cmluZwogIGF1dGg6IFN0cmluZwogIG1lc3NhZ2U6IFN0cmluZwp9Cgp0eXBlIFF1ZXJ5IHsKICB1c2VyOiBbVXNlcl0KICBhbGxVc2VyOiBbVXNlcl0KICBvbmVVc2VyKGlkOiBTdHJpbmchKTogVXNlcgp9Cgp0eXBlIE11dGF0aW9uIHsKICB1cGRhdGVVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCiAgdXBkYXRlVXNlckF1dGgoaWQ6IFN0cmluZyEsIGF1dGg6IFN0cmluZyEpOiBTdHJpbmcKICBhZGRVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCn0K</text>
       </register>
       <register name=":" type="4">
         <text>action SelectInProjectView</text>
