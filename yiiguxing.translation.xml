@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="register" />
+      <item value="注册" />
+      <item value="regist" />
       <item value="exhibitor" />
       <item value="contractor" />
       <item value="31会议荣誉资质" />
@@ -48,14 +51,11 @@
       <item value="展开" />
       <item value="ambiguously" />
       <item value="cancel" />
-      <item value="cancle" />
-      <item value="manage" />
-      <item value="管理" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="95" />
-        <entry key="ENGLISH" value="95" />
+        <entry key="CHINESE" value="96" />
+        <entry key="ENGLISH" value="96" />
       </map>
     </option>
   </component>
