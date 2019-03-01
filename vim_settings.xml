@@ -46,9 +46,6 @@
         <mark key="^" line="33" column="19" />
         <mark key="." line="33" column="19" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/vue.config.js" timestamp="1551322903446">
-        <mark key="'" line="68" column="16" />
-      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/router.js" timestamp="1551324823327">
         <mark key="'" line="2" column="9" />
         <mark key="[" line="2" column="9" />
@@ -160,7 +157,7 @@
         <mark key="^" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.js" timestamp="1551320022328">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.js" timestamp="1551403743044">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="15" />
@@ -173,7 +170,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551347995613">
+      <file name="/JavaScript Console" timestamp="1551348028585">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551345962688">
@@ -181,12 +178,6 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="0" />
-      </file>
-      <file name="E:/code/CSHXEventSite/FE/src/common/utils/loading.js" timestamp="1551341029790">
-        <mark key="'" line="51" column="15" />
-      </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/mapping/modules/moduleType.js" timestamp="1551334683808">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="E:/ss_code/graphql/.babelrc" timestamp="1551347590596">
         <mark key="'" line="15" column="4" />
@@ -231,9 +222,6 @@
         <mark key="]" line="24" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/GetAuthCode/index.vue" timestamp="1551342957557">
-        <mark key="'" line="4" column="12" />
-      </file>
       <file name="E:/code/N-31Schedule/HYSchedule.Web/ScheduleSite/src/apps/member/mixins/checkItemRepeat.js" timestamp="1551316446226">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
@@ -268,10 +256,10 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551344206379">
-        <mark key="'" line="2" column="39" />
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="19" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551403869861">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="2" column="40" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="19" />
       </file>
@@ -324,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
       <jump line="17" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/api/contractor/login/index.js" />
       <jump line="29" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
       <jump line="45" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
@@ -424,6 +411,7 @@
       <jump line="4" column="0" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="16" column="68" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="15" column="106" filename="E:/ss_code/graphql/src/schema.js" />
+      <jump line="2" column="15" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,7 +424,7 @@
         <text encoding="base64">XDxlbWFpbEltZ1w+</text>
       </register>
       <register name="0" type="4">
-        <text>resolveApp(`${distPath}/schema/${e}`)</text>
+        <text>https://qdmice.31huiyi.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgaW1wb3J0U2NoZW1hIH0gZnJvbSAnZ3JhcGhxbC1pbXBvcnQnCg==</text>
@@ -466,7 +454,7 @@
         <text encoding="base64">dHlwZSBVc2VyIHsKICBpZDogU3RyaW5nCiAgbmFtZTogU3RyaW5nCiAgYXV0aDogU3RyaW5nCiAgbWVzc2FnZTogU3RyaW5nCn0KCmlucHV0IFVzZXJJbnB1dCB7CiAgaWQ6IFN0cmluZwogIG5hbWU6IFN0cmluZwogIGF1dGg6IFN0cmluZwogIG1lc3NhZ2U6IFN0cmluZwp9Cgp0eXBlIFF1ZXJ5IHsKICB1c2VyOiBbVXNlcl0KICBhbGxVc2VyOiBbVXNlcl0KICBvbmVVc2VyKGlkOiBTdHJpbmchKTogVXNlcgp9Cgp0eXBlIE11dGF0aW9uIHsKICB1cGRhdGVVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCiAgdXBkYXRlVXNlckF1dGgoaWQ6IFN0cmluZyEsIGF1dGg6IFN0cmluZyEpOiBTdHJpbmcKICBhZGRVc2VyKHVzZXI6IFVzZXJJbnB1dCEpOiBVc2VyCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -507,9 +495,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
