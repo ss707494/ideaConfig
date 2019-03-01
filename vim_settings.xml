@@ -35,10 +35,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="126" column="17" />
       </file>
-      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1551425784731">
-        <mark key="'" line="2" column="26" />
-        <mark key="[" line="2" column="26" />
-        <mark key="]" line="2" column="37" />
+      <file name="E:/ss_code/graphql/src/control/user.js" timestamp="1551433034382">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="10" column="77" />
+        <mark key="]" line="10" column="77" />
+        <mark key="." line="10" column="77" />
+        <mark key="^" line="11" column="76" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/App.css" timestamp="1550640155368">
         <mark key="[" line="0" column="0" />
@@ -165,7 +167,7 @@
         <mark key="^" line="43" column="8" />
         <mark key="." line="43" column="8" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551431630914">
+      <file name="/JavaScript Console" timestamp="1551432740556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551345962688">
@@ -179,12 +181,12 @@
         <mark key="[" line="16" column="0" />
         <mark key="]" line="17" column="57" />
       </file>
-      <file name="E:/ss_code/graphql/src/common/tokenHandle.js" timestamp="1551431728647">
-        <mark key="'" line="26" column="4" />
-        <mark key="[" line="26" column="23" />
-        <mark key="]" line="26" column="22" />
-        <mark key="." line="26" column="22" />
-        <mark key="^" line="26" column="22" />
+      <file name="E:/ss_code/graphql/src/common/tokenHandle.js" timestamp="1551432816007">
+        <mark key="'" line="29" column="31" />
+        <mark key="[" line="29" column="31" />
+        <mark key="]" line="29" column="43" />
+        <mark key="." line="31" column="52" />
+        <mark key="^" line="31" column="52" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1551345360975">
         <mark key="[" line="0" column="0" />
@@ -290,16 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="26" filename="E:/ss_code/graphql/src/control/user.js" />
-      <jump line="98" column="15" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="23" column="3" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="0" column="4" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="27" column="47" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="6" column="4" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="3" column="21" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="89" column="4" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="90" column="25" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="31" column="12" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="104" column="10" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="33" column="28" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="123" column="17" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
@@ -373,7 +365,6 @@
       <jump line="99" column="0" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="20" column="10" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="21" column="25" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
-      <jump line="17" column="6" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="16" column="45" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="75" column="0" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
       <jump line="18" column="4" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
@@ -383,13 +374,24 @@
       <jump line="28" column="24" filename="E:/ss_code/graphql/src/schema.js" />
       <jump line="45" column="4" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="6" column="0" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="25" column="23" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="1" column="0" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="24" column="24" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="8" column="0" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="9" column="9" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="25" column="34" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="26" column="4" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="27" column="28" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="17" column="23" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="25" column="0" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="30" column="8" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="28" column="10" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="31" column="0" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="35" column="8" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="33" column="10" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="39" column="6" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="29" column="31" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
+      <jump line="10" column="0" filename="E:/ss_code/graphql/src/control/user.js" />
+      <jump line="11" column="4" filename="E:/ss_code/graphql/src/control/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -408,45 +410,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>script</text>
       </register>
-      <register name="0" type="4">
-        <text>tokenHandle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHRva2VuID0gYEJlYXJlciAke2pzb253ZWJ0b2tlbi5zaWduKHJlcS5ib2R5LCBzZWNyZXQsIHsgZXhwaXJlc0luOiA2MCAqIDYwIH0pfWAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlY29kZWQK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">KHJlcSwgcmVzLCBuZXh0KSA9PiB7CiAgICAgIGlmIChyZXEuaGVhZGVycyAmJiByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uKSB7CiAgICAgICAgY29uc3QgcGFydHMgPSByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uLnNwbGl0KCcgJyk7CiAgICAgICAgaWYgKHBhcnRzLmxlbmd0aCA9PSAyKSB7CiAgICAgICAgICB2YXIgc2NoZW1lID0gcGFydHNbMF07CiAgICAgICAgICB2YXIgY3JlZGVudGlhbHMgPSBwYXJ0c1sxXTsKCiAgICAgICAgICBpZiAoL15CZWFyZXIkL2kudGVzdChzY2hlbWUpKSB7CiAgICAgICAgICAgIHRva2VuID0gY3JlZGVudGlhbHM7CiAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBpZiAoY3JlZGVudGlhbHNSZXF1aXJlZCkgewogICAgICAgICAgICAgIHJldHVybiBuZXh0KG5ldyBVbmF1dGhvcml6ZWRFcnJvcignY3JlZGVudGlhbHNfYmFkX3NjaGVtZScsIHsgbWVzc2FnZTogJ0Zvcm1hdCBpcyBBdXRob3JpemF0aW9uOiBCZWFyZXIgW3Rva2VuXScgfSkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHJldHVybiBuZXh0KCk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0KICAgICAgICB9IGVsc2UgewogICAgICAgICAgcmV0dXJuIG5leHQobmV3IFVuYXV0aG9yaXplZEVycm9yKCdjcmVkZW50aWFsc19iYWRfZm9ybWF0JywgeyBtZXNzYWdlOiAnRm9ybWF0IGlzIEF1dGhvcml6YXRpb246IEJlYXJlciBbdG9rZW5dJyB9KSk7CiAgICAgICAgfQogICAgICB9CiAgICAgIG5leHQoKQogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIG5leHQobnVsbCwgZGVjb2RlZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBzY2hlbWUgPSBwYXJ0c1swXTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBuZXh0KCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>else {
-      callback(null, decoded);
-    }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbmV4dChuZXcgVW5hdXRob3JpemVkRXJyb3IoJ2ludmFsaWRfdG9rZW4nLCBlcnIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpZiAocmVxLmhlYWRlcnMgJiYgcmVxLmhlYWRlcnMuYXV0aG9yaXphdGlvbikgewoKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGNvbnN0IHBhcnRzID0gcmVxLmhlYWRlcnMuYXV0aG9yaXphdGlvbi5zcGxpdCgnICcpOwogICAgaWYgKHBhcnRzLmxlbmd0aCAhPT0gMikgewogICAgICByZXR1cm4gbmV4dChuZXcgVW5hdXRob3JpemVkRXJyb3IoJ2NyZWRlbnRpYWxzX2JhZF9zY2hlbWUnLCB7IG1lc3NhZ2U6ICdGb3JtYXQgaXMgQXV0aG9yaXphdGlvbjogQmVhcmVyIFt0b2tlbl0nIH0pKTsKICAgIH0KICAgIGNvbnN0IHNjaGVtZSA9IHBhcnRzWzBdOwogICAgY29uc3QgY3JlZGVudGlhbHMgPSBwYXJ0c1sxXTsKICAgIGp3dC52ZXJpZnkoY3JlZGVudGlhbHMsIHNlY3JldCwgb3B0aW9ucywgZnVuY3Rpb24oZXJyLCBkZWNvZGVkKSB7CiAgICAgIGlmIChlcnIpIHsKICAgICAgICBjYWxsYmFjayhuZXcgVW5hdXRob3JpemVkRXJyb3IoJ2ludmFsaWRfdG9rZW4nLCBlcnIpKTsKICAgICAgfSBlbHNlIHsKICAgICAgICBjYWxsYmFjayhudWxsLCBkZWNvZGVkKTsKICAgICAgfQogICAgfSk7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbmV4dChuZXcgVW5hdXRob3JpemVkRXJyb3IoJ2ludmFsaWRfdG9rZW4nLCBlcnIpKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRlY29kZWQpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -488,8 +488,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
