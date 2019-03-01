@@ -158,18 +158,23 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/api/form/index.js" timestamp="1551323479831" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/Home/index.js" timestamp="1551412441482">
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.js" timestamp="1551409354362">
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="46" />
       </file>
-      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551411425771">
-        <mark key="'" line="25" column="20" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-        <mark key="^" line="29" column="24" />
+      <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551412359793">
+        <mark key="'" line="11" column="61" />
+        <mark key="[" line="43" column="8" />
+        <mark key="]" line="43" column="8" />
+        <mark key="^" line="43" column="8" />
+        <mark key="." line="43" column="8" />
       </file>
-      <file name="/JavaScript Console" timestamp="1551411357678">
+      <file name="/JavaScript Console" timestamp="1551412365465">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551345962688">
@@ -276,8 +281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/GetAuthCode/index.vue" />
-      <jump line="37" column="22" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
       <jump line="0" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
       <jump line="97" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
       <jump line="96" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
@@ -372,59 +375,63 @@
       <jump line="79" column="17" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="61" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
       <jump line="5" column="32" filename="E:/ss_code/react-hooks-demo/src/component/ApolloQuery/index.js" />
+      <jump line="0" column="0" filename="E:/ss_code/graphql/src/schema/user.graphql" />
+      <jump line="24" column="73" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="25" column="10" filename="E:/ss_code/graphql/src/schema/user.js" />
+      <jump line="43" column="13" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="0" column="18" filename="E:/ss_code/graphql/src/schema/user.js" />
       <jump line="11" column="61" filename="E:/ss_code/graphql/src/schema/user.js" />
-      <jump line="0" column="0" filename="E:/ss_code/graphql/src/schema/user.graphql" />
-      <jump line="25" column="20" filename="E:/ss_code/graphql/src/schema/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>, { useState, useEffect }</text>
       </register>
       <register name="/" type="4">
-        <text>add</text>
+        <text encoding="base64">XDxpZFRvT2JqXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>refetch</text>
+        <text>_id</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFkZFVzZXIodXNlcjogVXNlcklucHV0ISk6IFVzZXIK</text>
+      <register name="1" type="4">
+        <text>{
+          id: 
+        }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFkZFVzZXI6IGFzeW5jICguLi5hcmcpID0+IHsKICAgICAgY29uc3QgWywgeyB1c2VyIH0sIHsgZGIgfV0gPSBhcmcKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZGIuY29sbGVjdGlvbigndXNlcicpLmluc2VydE9uZSh7IC4uLnVzZXIgfSkKICAgICAgLy8gY29uc29sZS5sb2cocmVzKQogICAgICByZXR1cm4gewogICAgICAgIC4uLnVzZXIsCiAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGFkZFVzZXIodXNlcjogVXNlcklucHV0ISk6IFVzZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgIGFkZFVzZXI6IGFzeW5jICguLi5hcmcpID0+IHsKICAgICAgY29uc3QgWywgeyB1c2VyIH0sIHsgZGIgfV0gPSBhcmcKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZGIuY29sbGVjdGlvbigndXNlcicpLmluc2VydE9uZSh7IC4uLnVzZXIgfSkKICAgICAgLy8gY29uc29sZS5sb2cocmVzKQogICAgICByZXR1cm4gewogICAgICAgIC4uLnVzZXIsCiAgICAgIH0KICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdXBkYXRlPXsoY2FjaGUsIHsgZGF0YSB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgYWxsID0gY2FjaGUucmVhZFF1ZXJ5KHsgcXVlcnk6IGFsbFVzZXIgfSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjYWNoZSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQogICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCiAgICAgICAgICAgICAgICAgICAgY2FjaGUud3JpdGVRdWVyeSh7CiAgICAgICAgICAgICAgICAgICAgICBxdWVyeTogYWxsVXNlciwKICAgICAgICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlcjogW10KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICB9fQo=</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgdXBkYXRlPXsoY2FjaGUsIHsgZGF0YSB9KSA9PiB7CiAgICAgICAgICAgICAgICAgICAgY29uc3QgYWxsID0gY2FjaGUucmVhZFF1ZXJ5KHsgcXVlcnk6IGFsbFVzZXIgfSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjYWNoZSkKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKQogICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyCiAgICAgICAgICAgICAgICAgICAgY2FjaGUud3JpdGVRdWVyeSh7CiAgICAgICAgICAgICAgICAgICAgICBxdWVyeTogYWxsVXNlciwKICAgICAgICAgICAgICAgICAgICAgIGRhdGE6IHsKICAgICAgICAgICAgICAgICAgICAgICAgdXNlcjogW10KICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICB9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0by5uYW1lID09PSAnZXhoaWJpdG9yLmxvZ2luJyAmJiBqc0Nvb2tpZS5nZXQoJ0xvZ2luR3VpZEtleScpKSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdnbG9iYWwvZ2V0VXNlckluZm8nKQogICAgfQo=</text>
+        <text encoding="base64">ICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgIGlmICh0by5uYW1lID09PSAnZXhoaWJpdG9yLmxvZ2luJyAmJiBqc0Nvb2tpZS5nZXQoJ0xvZ2luR3VpZEtleScpKSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IHN0b3JlLmRpc3BhdGNoKCdnbG9iYWwvZ2V0VXNlckluZm8nKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action SelectInProjectView</text>
       </register>
     </registers>
     <search>
-      <last-search>add</last-search>
+      <last-search encoding="base64">XDxpZFRvT2JqXD4=</last-search>
       <last-offset />
-      <last-pattern>add</last-pattern>
+      <last-pattern encoding="base64">XDxpZFRvT2JqXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -448,8 +455,8 @@
         <entry encoding="base64">XDx1c2VyU2NoZW1hXD4=</entry>
         <entry encoding="base64">XDxzdGF0ZVw+</entry>
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
-        <entry encoding="base64">XDxpZFRvT2JqXD4=</entry>
         <entry>add</entry>
+        <entry encoding="base64">XDxpZFRvT2JqXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -459,9 +466,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
+        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />

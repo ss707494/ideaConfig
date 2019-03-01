@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="trailing" />
+      <item value="trail" />
+      <item value="stra" />
+      <item value="strai" />
+      <item value="strail" />
       <item value="wireless" />
       <item value="register" />
       <item value="注册" />
@@ -46,15 +51,10 @@
       <item value="single" />
       <item value="refresh" />
       <item value="platform" />
-      <item value="平台" />
-      <item value="验证码" />
-      <item value="辅助" />
-      <item value="展开" />
-      <item value="ambiguously" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="96" />
+        <entry key="CHINESE" value="97" />
         <entry key="ENGLISH" value="97" />
       </map>
     </option>
