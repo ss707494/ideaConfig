@@ -122,7 +122,7 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1551662345181">
+      <file name="/GraphQL.variables.json" timestamp="1551665343094">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" timestamp="1551429134161">
@@ -211,7 +211,7 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/index.vue" timestamp="1551663597933">
         <mark key="'" line="1" column="12" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1551662368028">
+      <file name="/GraphQL.result.json" timestamp="1551665347179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/login/index.vue" timestamp="1551338617448">
@@ -244,8 +244,8 @@
         <mark key="[" line="95" column="0" />
         <mark key="]" line="97" column="22" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551663788862">
-        <mark key="'" line="95" column="24" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551665114061">
+        <mark key="'" line="157" column="20" />
         <mark key="[" line="171" column="0" />
         <mark key="]" line="184" column="6" />
       </file>
@@ -419,9 +419,6 @@
       <jump line="3" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
       <jump line="4" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
       <jump line="5" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.vue" />
-      <jump line="96" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="114" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="157" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
       <jump line="1" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/index.vue" />
       <jump line="52" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
       <jump line="95" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
@@ -442,6 +439,9 @@
       <jump line="8" column="9" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Unauthorized/index.vue" />
       <jump line="10" column="36" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Unauthorized/index.vue" />
       <jump line="39" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="96" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
+      <jump line="114" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
+      <jump line="157" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,7 +463,7 @@
         <text encoding="base64">ZmFsc2UgJiYg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxvd1Zpc2l0ZVw+</text>
+        <text encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</text>
       </register>
       <register name="0" type="4">
         <text>-btn</text>
@@ -500,11 +500,11 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxvd1Zpc2l0ZVw+</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxvd1Zpc2l0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -523,11 +523,11 @@
         <entry encoding="base64">XDxqc29ud2VidG9rZW5cPg==</entry>
         <entry>script</entry>
         <entry encoding="base64">XDxzZWNyZXRcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</entry>
         <entry>tips</entry>
         <entry encoding="base64">XDx1bmF1dGhvcml6ZWRUaXBcPg==</entry>
         <entry encoding="base64">XDxzaG93VGlwYnRuXD4=</entry>
         <entry encoding="base64">XDxhbGxvd1Zpc2l0ZVw+</entry>
+        <entry encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
