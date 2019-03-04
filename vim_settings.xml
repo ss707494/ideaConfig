@@ -189,6 +189,11 @@
         <mark key="[" line="104" column="26" />
         <mark key="]" line="104" column="27" />
       </file>
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.js" timestamp="1551662643259">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="38" />
+      </file>
       <file name="E:/ss_code/graphql/src/schema/user.js" timestamp="1551412359793">
         <mark key="'" line="11" column="61" />
         <mark key="[" line="43" column="8" />
@@ -266,12 +271,12 @@
         <mark key="]" line="8" column="9" />
         <mark key="." line="8" column="9" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551405361086">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="39" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551662648824">
+        <mark key="'" line="4" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="42" />
         <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="E:/ss_code/graphql-mongodb-example/src/start.js" timestamp="1551344044878">
         <mark key="[" line="7" column="0" />
@@ -333,9 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="35" filename="E:/ss_code/graphql/node_modules/express-jwt/lib/index.js" />
-      <jump line="25" column="0" filename="E:/ss_code/graphql/src/schema.js" />
-      <jump line="76" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" />
       <jump line="83" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" />
       <jump line="87" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" />
       <jump line="91" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" />
@@ -433,6 +435,9 @@
       <jump line="34" column="36" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="5" column="9" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="23" column="0" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="3" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.js" />
+      <jump line="3" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
+      <jump line="4" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -456,8 +461,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzZWNyZXRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>jwt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBkZXZTZXJ2ZXI6ICdodHRwczovL3FkbWljZS4zMWh1aXlpLmNvbScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2VjcmV0IH0gZnJvbSAnLi9qd3RDb25maWcnCg==</text>
@@ -487,7 +492,7 @@
         <text encoding="base64">ICAgIG5leHQobnVsbCwgZGVjb2RlZCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
@@ -528,9 +533,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>action RecentFiles</entry>
         <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
