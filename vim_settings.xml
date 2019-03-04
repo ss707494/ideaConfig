@@ -23,11 +23,12 @@
       <file name="/a.dummy" timestamp="1551410825853">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" timestamp="1551682889671">
-        <mark key="'" line="131" column="22" />
-        <mark key="[" line="131" column="22" />
-        <mark key="]" line="131" column="37" />
-        <mark key="." line="5" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" timestamp="1551685104879">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="11" column="31" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551681772736">
         <mark key="'" line="17" column="2" />
@@ -105,11 +106,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="70" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" timestamp="1551682078617">
-        <mark key="'" line="60" column="34" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" timestamp="1551685505909">
+        <mark key="'" line="41" column="41" />
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="48" />
+        <mark key="." line="60" column="48" />
+        <mark key="^" line="60" column="48" />
       </file>
       <file name="E:/ss_code/graphql/src/server.js" timestamp="1551434990206">
         <mark key="'" line="22" column="0" />
@@ -208,10 +210,10 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551679417983">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
+      <file name="/Dummy.txt" timestamp="1551685604824">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="/GraphQL.result.json" timestamp="1551665347179">
         <mark key="[" line="0" column="0" />
@@ -248,18 +250,19 @@
         <mark key="." line="100" column="0" />
         <mark key="^" line="99" column="17" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" timestamp="1551682821080">
-        <mark key="'" line="165" column="6" />
-        <mark key="[" line="165" column="0" />
-        <mark key="]" line="167" column="7" />
-        <mark key="." line="165" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" timestamp="1551685411062">
+        <mark key="'" line="25" column="42" />
+        <mark key="[" line="212" column="18" />
+        <mark key="]" line="212" column="21" />
+        <mark key="." line="212" column="21" />
+        <mark key="^" line="212" column="21" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551662648824">
-        <mark key="'" line="4" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="42" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551685297103">
+        <mark key="'" line="3" column="21" />
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="22" />
         <mark key="^" line="3" column="18" />
-        <mark key="." line="4" column="0" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="E:/ss_code/react-hooks-demo/graphql.config.json" timestamp="1551345881029">
         <mark key="'" line="9" column="43" />
@@ -299,10 +302,10 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="30" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" timestamp="1551682401496">
-        <mark key="'" line="149" column="4" />
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="111" column="37" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" timestamp="1551684442024">
+        <mark key="'" line="145" column="0" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="145" column="22" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/common/enums/common.js" timestamp="1551334672144">
         <mark key="'" line="82" column="13" />
@@ -337,106 +340,106 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="279" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="299" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="113" column="1" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.scss" />
-      <jump line="126" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.scss" />
-      <jump line="69" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="73" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="66" column="18" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="184" column="15" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="229" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="99" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="98" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="239" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="155" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="285" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="310" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="62" column="15" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="183" column="59" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="90" column="9" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="145" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="129" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="53" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="95" column="38" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="121" column="51" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="70" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="90" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="48" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
-      <jump line="57" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
-      <jump line="158" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="13" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="17" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="24" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="27" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="260" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="278" column="55" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="99" column="18" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
-      <jump line="121" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="226" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="13" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Unauthorized/index.vue" />
-      <jump line="184" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="141" column="17" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="118" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="124" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="145" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" />
-      <jump line="11" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="45" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="56" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="162" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="148" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="87" column="9" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="58" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="165" column="35" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="54" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="110" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="23" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="17" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" />
-      <jump line="15" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="88" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="175" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="190" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="191" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="7" column="18" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="18" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" />
-      <jump line="14" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="150" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="109" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="61" column="34" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" />
-      <jump line="108" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="13" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="8" column="15" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="111" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="142" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="25" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" />
+      <jump line="69" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="131" column="22" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="188" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="142" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="149" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
       <jump line="189" column="18" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
       <jump line="8" column="34" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="149" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
-      <jump line="19" column="3" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="46" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="46" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="50" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="111" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="130" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="5" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="12" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="14" column="34" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="49" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="51" column="34" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="131" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="111" column="9" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="91" column="53" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="110" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="11" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="22" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="32" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" />
-      <jump line="36" column="47" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="48" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
-      <jump line="55" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="69" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="165" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
-      <jump line="131" column="22" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="101" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="7" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="24" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="10" column="27" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="62" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="154" column="25" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="26" column="28" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="147" column="17" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="155" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="143" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="176" column="27" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="8" column="46" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="15" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="150" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="109" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="111" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="165" column="35" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="53" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="107" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="179" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="58" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="179" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="173" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="13" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="19" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="164" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="25" column="43" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="151" column="22" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="172" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="182" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="181" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="184" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="47" column="48" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="20" column="42" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="168" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="165" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="169" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="108" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="123" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="127" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="124" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="7" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="7" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="21" column="48" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="21" column="48" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="114" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="187" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="208" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="188" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="145" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/login/index.vue" />
+      <jump line="158" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="167" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="149" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" />
+      <jump line="102" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="139" column="9" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="187" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="194" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="189" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="27" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="191" column="27" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="198" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="211" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="213" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="207" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="52" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="209" column="28" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="225" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="83" column="38" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="226" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="85" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="227" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="216" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="234" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="97" column="38" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="235" column="28" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="99" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="236" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="18" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="26" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="98" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="103" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="144" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="148" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="172" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="14" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="167" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="175" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="268" column="71" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="25" column="42" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
+      <jump line="2" column="15" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
+      <jump line="3" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
+      <jump line="60" column="45" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" />
+      <jump line="41" column="41" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,74 +458,74 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>phone</text>
+        <text>多语言方法</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YWxpZGF0ZVJ1bGVzXD4=</text>
+        <text encoding="base64">XDxwYXR0ZXJuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>this.errorStatue</text>
+        <text>this.pattern</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7e3ZhbGlkYXRlUnVsZXMucGhvbmUuZXJyb3JNc2d9fQo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBtb2RlbDogJ3Bob25lJywKICAgICAgICAgIGxhYmVsOiB0aGlzLiR0KCfK1rv6usUnKSwKICAgICAgICAgIHR5cGU6ICd0ZXh0JywKICAgICAgICAgIHBhdHRlcm46IGNvZGVSZWdleC5wYXR0ZXJuLAogICAgICAgICAgZXJyb3I6ICdwaG9uZScsCiAgICAgICAgICBlcnJvck1zZzogY29kZVJlZ2V4Lm1lc3NhZ2UsCiAgICAgICAgICBzdWZmaXg6IG51bGwKICAgICAgICB9LAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBhdHRlcm46IHBob25lUmVnZXgucGF0dGVybiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnc2xrZGpmZHNsa2ZqJykK</text>
+        <text encoding="base64">ICAgIGZvcm1JdGVtcygpIHsKICAgICAgcmV0dXJuIFsKICAgICAgICB7CiAgICAgICAgICBtb2RlbDogJ3Bob25lJywKICAgICAgICAgIGxhYmVsOiB0aGlzLiR0KCfK1rv6usUnKSwKICAgICAgICAgIHR5cGU6ICd0ZXh0JywKICAgICAgICAgIHBhdHRlcm46IHBob25lUmVnZXgucGF0dGVybiwKICAgICAgICAgIGVycm9yOiAncGhvbmUnLAogICAgICAgICAgZXJyb3JNc2c6IHBob25lUmVnZXgubWVzc2FnZSwKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIG1vZGVsOiAncGFzc3dvcmQnLAogICAgICAgICAgbGFiZWw6IHRoaXMuJHQoJ8PcwusnKSwKICAgICAgICAgIHR5cGU6ICdwYXNzd29yZCcsCiAgICAgICAgICBwYXR0ZXJuOiBwYXNzd29yZFJlZ2V4LnBhdHRlcm4sCiAgICAgICAgICBlcnJvcjogJ3Bhc3N3b3JkJywKICAgICAgICAgIGVycm9yTXNnOiBwYXNzd29yZFJlZ2V4Lm1lc3NhZ2UsCiAgICAgICAgfQogICAgICBdCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wYXR0ZXJuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBjb25zdCByZXMgPSBhd2FpdCBzdG9yZS5kaXNwYXRjaCgnZ2xvYmFsL2dldFVzZXJJbmZvJykK</text>
+        <text encoding="base64">ICAgICAgdmFsaWRhdGVSdWxlcywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyC4/NDC0+/R1Lu3vrMKICBzdG9yZS5kaXNwYXRjaCgnZ2xvYmFsL2NoYW5nZUxhbmd1YWdlJywgdG8ucXVlcnkubGFuZykK</text>
+        <text encoding="base64">aW1wb3J0IHsgdmFsaWRhdGVSdWxlcyB9IGZyb20gJ0AvY29tbW9uL2xpYnMvdmFsaWRhdGUnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzd29yZDogZmFsc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YWxpZGF0ZVJ1bGVzXD4=</last-search>
+      <last-search encoding="base64">XDxwYXR0ZXJuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YWxpZGF0ZVJ1bGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXR0ZXJuXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWNyZXRcPg==</entry>
-        <entry>tips</entry>
-        <entry encoding="base64">XDx1bmF1dGhvcml6ZWRUaXBcPg==</entry>
-        <entry encoding="base64">XDxzaG93VGlwYnRuXD4=</entry>
-        <entry encoding="base64">XDxhbGxvd1Zpc2l0ZVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVVc2VySW5mb1w+</entry>
-        <entry>showBooth</entry>
-        <entry encoding="base64">XDxzaG93Qm9vdGhcPg==</entry>
-        <entry encoding="base64">XDxpc1Nob3dCb290aFw+</entry>
-        <entry encoding="base64">XDxmb3JtUGFnZVR5cGVcPg==</entry>
-        <entry encoding="base64">XDx1c2VySWRlbnRpZnlcPg==</entry>
         <entry encoding="base64">XDxtZW51XD4=</entry>
         <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry encoding="base64">XDxmb3JtSXRlbXNcPg==</entry>
-        <entry encoding="base64">XDxwaG9uZVJlZ2V4XD4=</entry>
         <entry>test</entry>
-        <entry encoding="base64">XDxmb3JtSXRlbXNTaG93XD4=</entry>
         <entry>passw</entry>
         <entry encoding="base64">XDxlcnJvclN0YXR1ZVw+</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVJ1bGVzXD4=</entry>
+        <entry encoding="base64">XDxmb3JtSXRlbXNTaG93XD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVw+</entry>
+        <entry>click</entry>
+        <entry encoding="base64">XDxnZXRDb2RlXD4=</entry>
+        <entry encoding="base64">XDxnZXRDb2RlSGFuZFw+</entry>
+        <entry encoding="base64">XDxwaG9uZVZlcmlmeVw+</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFJlZ2V4XD4=</entry>
+        <entry encoding="base64">XDxwaG9uZVJlZ2V4XD4=</entry>
+        <entry encoding="base64">XDx3aXJlbGVzc0dldENvZGVcPg==</entry>
+        <entry encoding="base64">XDxjb2RlUmVnZXhcPg==</entry>
+        <entry>emai</entry>
+        <entry>loginData</entry>
+        <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -532,9 +535,9 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
       </history-cmd>
       <history-expr />
       <history-input />
