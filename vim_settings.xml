@@ -68,7 +68,7 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="7" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" timestamp="1551678107235">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" timestamp="1551679400864">
         <mark key="'" line="57" column="8" />
         <mark key="[" line="56" column="19" />
         <mark key="]" line="56" column="19" />
@@ -129,12 +129,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="18" column="25" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" timestamp="1551670863635">
-        <mark key="'" line="145" column="20" />
-        <mark key="[" line="155" column="19" />
-        <mark key="]" line="155" column="23" />
-        <mark key="." line="155" column="23" />
-        <mark key="^" line="155" column="23" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" timestamp="1551678867634">
+        <mark key="'" line="278" column="55" />
+        <mark key="[" line="285" column="36" />
+        <mark key="]" line="285" column="53" />
+        <mark key="." line="285" column="53" />
+        <mark key="^" line="285" column="53" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/store/modules/user.js" timestamp="1551424440458">
         <mark key="'" line="65" column="47" />
@@ -322,13 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="24" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="8" column="0" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="9" column="9" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="25" column="34" filename="E:/ss_code/graphql/src/server.js" />
-      <jump line="26" column="4" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
-      <jump line="17" column="23" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
-      <jump line="25" column="0" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="31" column="0" filename="E:/ss_code/graphql/src/common/tokenHandle.js" />
       <jump line="11" column="10" filename="E:/ss_code/graphql/src/control/user.js" />
       <jump line="10" column="0" filename="E:/ss_code/graphql/src/control/user.js" />
@@ -422,6 +415,13 @@
       <jump line="90" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
       <jump line="48" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
       <jump line="57" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
+      <jump line="158" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="13" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="17" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="24" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="27" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="260" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="278" column="55" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -440,37 +440,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>'操作失败,请稍后重试'</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtZW51XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzaG93RXJyb3JNc2cocmVzPy5tc2cpCg==</text>
+      <register name="0" type="4">
+        <text>this.$t('请等候上传完成')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgID4gZGl2IHsKICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgID4gZGl2IHsKICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwvc2VjdGlvbj4K</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
