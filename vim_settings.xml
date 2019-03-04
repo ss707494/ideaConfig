@@ -135,6 +135,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="22" column="35" />
       </file>
+      <file name="/GraphQL.variables.json" timestamp="1551662345181">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" timestamp="1551429134161">
         <mark key="'" line="34" column="12" />
         <mark key="[" line="34" column="12" />
@@ -208,12 +211,12 @@
         <mark key="." line="34" column="34" />
         <mark key="^" line="33" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551435022377">
+      <file name="/Dummy.txt" timestamp="1551435053169">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="/GraphQL.result.json" timestamp="1551345360975">
+      <file name="/GraphQL.result.json" timestamp="1551662368028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/code/CSHXEventSite/FE/src/apps/m/containers/login/index.vue" timestamp="1551338617448">
@@ -492,7 +495,7 @@
       <last-offset />
       <last-pattern encoding="base64">XDxzZWNyZXRcPg==</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -525,8 +528,8 @@
         <entry>sp</entry>
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
