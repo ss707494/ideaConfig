@@ -9,7 +9,7 @@
         <mark key="^" line="43" column="14" />
         <mark key="." line="43" column="14" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" timestamp="1551757032869">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" timestamp="1551769541150">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="141" column="51" />
         <mark key="]" line="141" column="51" />
@@ -95,10 +95,15 @@
         <mark key="." line="38" column="28" />
         <mark key="^" line="37" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551756334070">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" timestamp="1551769831289">
+        <mark key="'" line="19" column="16" />
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="34" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1551757355494">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/index.vue" timestamp="1551749031140">
         <mark key="[" line="3" column="0" />
@@ -106,11 +111,11 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" timestamp="1551756031792">
-        <mark key="'" line="34" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="57" />
-        <mark key="." line="89" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" timestamp="1551769546094">
+        <mark key="'" line="8" column="25" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/InputShowNumber/index.vue" timestamp="1551687156764">
         <mark key="'" line="11" column="8" />
@@ -147,12 +152,19 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="35" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" timestamp="1551689325964">
-        <mark key="'" line="42" column="9" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" timestamp="1551769572294">
+        <mark key="'" line="38" column="14" />
         <mark key="[" line="2" column="23" />
         <mark key="]" line="2" column="23" />
         <mark key="." line="2" column="23" />
         <mark key="^" line="2" column="23" />
+      </file>
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.scss" timestamp="1551770176543">
+        <mark key="'" line="32" column="6" />
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
+        <mark key="^" line="29" column="12" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" timestamp="1551685505909">
         <mark key="'" line="41" column="41" />
@@ -210,15 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
-      <jump line="4" column="52" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
-      <jump line="7" column="25" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
-      <jump line="85" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
-      <jump line="9" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" />
-      <jump line="16" column="62" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
-      <jump line="12" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
-      <jump line="59" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
-      <jump line="13" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
       <jump line="15" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
       <jump line="42" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
       <jump line="246" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" />
@@ -310,6 +313,15 @@
       <jump line="184" column="47" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
       <jump line="54" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
       <jump line="57" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/index.scss" />
+      <jump line="109" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" />
+      <jump line="15" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" />
+      <jump line="8" column="25" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/add.vue" />
+      <jump line="38" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" />
+      <jump line="8" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
+      <jump line="20" column="18" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
+      <jump line="19" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
+      <jump line="29" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.scss" />
+      <jump line="32" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -328,49 +340,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#E7001C</text>
+        <text>68</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxZU1hYR1w+</text>
+        <text>city-cascader__label</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYXVkaXQtc3RhdHVzLTInOiBbU1RBVFVTLllTSkosIFNUQVRVUy5aU0pKXS5pbmNsdWRlcyhwYXJhbXMucm93LlN0YXR1cyksCg==</text>
+      <register name="0" type="4">
+        <text>city-cascader__desc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiAjQjgwRTI4Owo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogIzc0QzM0QzsK</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ6ICcqJzsKICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgIG1hcmdpbi1yaWdodDogNHB4OwogICAgbGluZS1oZWlnaHQ6IDE7CiAgICBmb250LWZhbWlseTogU2ltU3VuOwogICAgZm9udC1zaXplOiAxNHB4OwogICAgY29sb3I6ICNlZDQwMTQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxlZnQ6IC02OHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICY6YWZ0ZXIgewogICAgICBjb250ZW50OiAnICc7CiAgICAgIGxlZnQ6IC0xNXB4OwogICAgICB0b3A6IDVweDsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB3aWR0aDogNnB4OwogICAgICBoZWlnaHQ6IDZweDsKICAgICAgYm9yZGVyLXJhZGl1czogNTAlOwogICAgICBiYWNrZ3JvdW5kOiAjNzRDMzRDOwogICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLTxBZGRDYXJkLS0+CiAgICAgICAgPCEtLXYtbW9kZWw9ImZvcm1WaXNpYmxlIi0tPgogICAgICAgIDwhLS06ZGF0YT0iZm9ybUZpbGVkcyItLT4KICAgICAgICA8IS0tOmZvcm1zPSJjdXJyZW50Q2FyZCItLT4KICAgICAgICA8IS0tOmVkaXQ9ImlzRWRpdCItLT4KICAgICAgICA8IS0tOnBhZ2VDb2RlPSJwYWdlQ29kZSItLT4KICAgICAgICA8IS0tQHN1Y2Nlc3M9ImVkaXRTdWNjZXNzIi0tPgogICAgICAgIDwhLS1AY2FuY2VsPSJzZXRTaG93QXNpZGUodHJ1ZSkiLS0+CiAgICAgIDwhLS0mZ3Q7PC9BZGRDYXJkPi0tPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0Q2FyZEZpbGVkcyB9IGZyb20gJ0AvYXBpL2Zvcm0nCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5pc0VkaXQgJiYgdGhpcy5pZCkgewogICAgICAgIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldENhcmREZXRhaWwoewogICAgICAgICAgICBldmVudElkOiB0aGlzLmV2ZW50SWQsCiAgICAgICAgICAgIHBhZ2VDb2RlOiB0aGlzLnBhZ2VDb2RlLAogICAgICAgICAgICBsYW5nVHlwZTogdGhpcy5sYW5nLAogICAgICAgICAgICBpZDogdGhpcy5pZCwKICAgICAgICAgIH0pLnRoZW4ocmVzID0+IHsKICAgICAgICAgICAgY29uc3Qgb2JqID0ge30KICAgICAgICAgICAgb2JqLkpvaW5JZCA9IHRoaXMuaWQKICAgICAgICAgICAgcmVzLkZpZWxkRGF0YS5mb3JFYWNoKGNpdGVtID0+IHsKICAgICAgICAgICAgICBvYmpbY2l0ZW0uRmllbGROYW1lXSA9IGNpdGVtLkZpZWxkVmFsdWUKICAgICAgICAgICAgICBpZiAoY2l0ZW0uRmllbGROYW1lID09PSBTVEFUVVNfRklFTERfSUQpIHsKICAgICAgICAgICAgICAgIG9iai5TdGF0dXMgPSBjaXRlbS5GaWVsZFZhbHVlCiAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KQogICAgICAgICAgICB0aGlzLmN1cnJlbnRDYXJkID0gb2JqCiAgICAgICAgICB9KQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGJhY2tWaWV3Q2FyZCgpIHsKICAgICAgdGhpcy52aWV3c1Zpc2libGUgPSBmYWxzZQogICAgICB0aGlzLnNldFNob3dBc2lkZSh0cnVlKQogICAgfSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjQjgwRTI4Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgYmFja2dyb3VuZDogIzc0QzM0QzsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgICY6YWZ0ZXIgewogICAgICBjb250ZW50OiAnICc7CiAgICAgIGxlZnQ6IC0xNXB4OwogICAgICB0b3A6IDVweDsKICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICB3aWR0aDogNnB4OwogICAgICBoZWlnaHQ6IDZweDsKICAgICAgYm9yZGVyLXJhZGl1czogNTAlOwogICAgICBiYWNrZ3JvdW5kOiAjNzRDMzRDOwogICAgfQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxZU1hYR1w+</last-search>
+      <last-search>city-cascader__label</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxZU1hYR1w+</last-pattern>
+      <last-pattern>city-cascader__label</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
@@ -378,10 +390,7 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0VkaXRcPg==</entry>
         <entry encoding="base64">XDx0YWJsZVRpdGxlc1w+</entry>
-        <entry encoding="base64">XDxiYWNrVmlld0NhcmRcPg==</entry>
-        <entry encoding="base64">XDxlZGl0U3VjY2Vzc1w+</entry>
         <entry encoding="base64">XDx0YWJsZUJvZHlcPg==</entry>
         <entry encoding="base64">XDxtYXhUaWNrZXRDb3V0XD4=</entry>
         <entry encoding="base64">XDxpc1Nob3dJbWdcPg==</entry>
@@ -398,6 +407,9 @@
         <entry encoding="base64">XDxnZXRDYXJkRGV0YWlsXD4=</entry>
         <entry>status</entry>
         <entry encoding="base64">XDxZU1hYR1w+</entry>
+        <entry encoding="base64">XDxiYWNrVmlld0NhcmRcPg==</entry>
+        <entry encoding="base64">XDxlZGl0U3VjY2Vzc1w+</entry>
+        <entry>city-cascader__label</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -409,8 +421,8 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
