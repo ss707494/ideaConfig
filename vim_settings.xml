@@ -221,11 +221,11 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="34" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551877194407">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551877837767">
         <mark key="'" line="143" column="10" />
-        <mark key="[" line="150" column="11" />
-        <mark key="]" line="150" column="11" />
-        <mark key="." line="150" column="11" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
         <mark key="^" line="148" column="25" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" timestamp="1551840283864">
@@ -408,32 +408,32 @@
       <register name="0" type="4">
         <text>jsonp</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cmVzMiA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlczIpCiAgICAgICAgICAgIGRlYnVnZ2VyCiAgICAgICAgICB9</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlZml4OiAnanNvbnAnLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5ocmVmID0gJ2hvbWUnCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">cmVzMiA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlczIpCiAgICAgICAgICAgIGRlYnVnZ2VyCiAgICAgICAgICB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb21taXQoJ3VwZGF0ZVVzZXJJbmZvJywgeyAuLi5yZXMuVXNlckluZm8gfSkKICAgICAgICBjb21taXQoJ3VwZGF0ZUlzTG9naW4nLCB0cnVlKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlczEpCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsb2NhdGlvbi5ocmVmID0gJ2hvbWUnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb21taXQoJ3VwZGF0ZVVzZXJJbmZvJywgeyAuLi5yZXMuVXNlckluZm8gfSkKICAgICAgICBjb21taXQoJ3VwZGF0ZUlzTG9naW4nLCB0cnVlKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBNb2JpbGVPckVtYWlsOiByZXMuVXNlckluZm8uTW9iaWxlIHx8IHJlcy5Vc2VySW5mby5FbWFpbCwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlczEpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGpzb25wKCkK</text>
+        <text encoding="base64">ICAgICAgICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBNb2JpbGVPckVtYWlsOiByZXMuVXNlckluZm8uTW9iaWxlIHx8IHJlcy5Vc2VySW5mby5FbWFpbCwK</text>
       </register>
       <register name=":" type="4">
         <text>action RecentFiles</text>
