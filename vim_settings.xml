@@ -141,10 +141,10 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551839817496">
-        <mark key="'" line="89" column="24" />
-        <mark key="[" line="89" column="24" />
-        <mark key="]" line="89" column="49" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551844647039">
+        <mark key="'" line="89" column="4" />
+        <mark key="[" line="89" column="4" />
+        <mark key="]" line="89" column="11" />
         <mark key="^" line="89" column="68" />
         <mark key="." line="89" column="68" />
       </file>
@@ -158,9 +158,10 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" timestamp="1551838965105">
         <mark key="'" line="7" column="14" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551842525418">
-        <mark key="[" line="5" column="7" />
-        <mark key="]" line="5" column="6" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" timestamp="1551844075025">
+        <mark key="'" line="4" column="14" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="38" />
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
@@ -188,24 +189,18 @@
         <mark key="." line="173" column="22" />
         <mark key="^" line="173" column="22" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" timestamp="1551835315413">
-        <mark key="'" line="100" column="6" />
-        <mark key="[" line="100" column="21" />
-        <mark key="]" line="100" column="21" />
-        <mark key="." line="100" column="21" />
-        <mark key="^" line="77" column="5" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" timestamp="1551844761280">
+        <mark key="'" line="91" column="7" />
+        <mark key="[" line="24" column="33" />
+        <mark key="]" line="24" column="40" />
+        <mark key="." line="24" column="40" />
+        <mark key="^" line="24" column="40" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/iview/src/components/form/form-item.vue" timestamp="1551843267670">
         <mark key="'" line="245" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
-      <jump line="5" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/company/index.vue" />
-      <jump line="3" column="61" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/company/router.js" />
-      <jump line="17" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/card/router.js" />
-      <jump line="46" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
-      <jump line="28" column="38" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/card/router.js" />
       <jump line="39" column="46" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/card/router.js" />
       <jump line="3" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/index.vue" />
       <jump line="26" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.vue" />
@@ -219,7 +214,6 @@
       <jump line="90" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/components/MenuLayout/index.vue" />
       <jump line="107" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/components/MenuLayout/index.vue" />
       <jump line="0" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="99" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
       <jump line="100" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
       <jump line="1" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" />
       <jump line="151" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
@@ -279,7 +273,6 @@
       <jump line="7" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" />
       <jump line="2" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" />
       <jump line="1" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/libs/validate.js" />
-      <jump line="89" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
       <jump line="20" column="40" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
       <jump line="257" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
       <jump line="279" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" />
@@ -300,6 +293,14 @@
       <jump line="78" column="16" filename="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/iview/src/components/form/form-item.vue" />
       <jump line="103" column="73" filename="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/iview/src/components/form/form-item.vue" />
       <jump line="245" column="28" filename="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/iview/src/components/form/form-item.vue" />
+      <jump line="4" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/config/host.local.js" />
+      <jump line="117" column="30" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="99" column="72" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="98" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="24" column="39" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="55" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="89" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
+      <jump line="91" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -318,34 +319,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>exhibitor</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1JlcXVpcmVkXD4=</text>
+        <text encoding="base64">XDxtYXBHZXR0ZXJzXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb2RlOiBmYWxzZSwK</text>
+      <register name="0" type="4">
+        <text>platform</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51c2VySWRlbnRpZnkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIHBhdHRlcm46IHBhc3N3b3JkUmVnZXgucGF0dGVybiwKICAgICAgICAgIC8vIGVycm9yOiAncGFzc3dvcmQnLAogICAgICAgICAgLy8gZXJyb3JNc2c6IHBhc3N3b3JkUmVnZXgubWVzc2FnZSwK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXF1aXJlZDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHBhdHRlcm46IHBhc3N3b3JkUmVnZXgucGF0dGVybiwKICAgICAgICAgIC8vIGVycm9yOiAncGFzc3dvcmQnLAogICAgICAgICAgLy8gZXJyb3JNc2c6IHBhc3N3b3JkUmVnZXgubWVzc2FnZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlZDogdHJ1ZSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuYW1lOiAnZXhoaWJpdG9yLmNhcmQuYWRkJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBuYW1lOiAnZXhoaWJpdG9yLmNhcmQuYWRkJywK</text>
@@ -358,9 +359,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1JlcXVpcmVkXD4=</last-search>
+      <last-search encoding="base64">XDxtYXBHZXR0ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1JlcXVpcmVkXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBHZXR0ZXJzXD4=</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
@@ -368,13 +369,10 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtZW51TGlzdFw+</entry>
-        <entry>filter</entry>
         <entry encoding="base64">XDxlZGl0XD4=</entry>
         <entry>jointype</entry>
         <entry encoding="base64">XDxwdXNoXD4=</entry>
         <entry encoding="base64">XDxtYXBTdGF0ZVw+</entry>
-        <entry encoding="base64">XDxtYXBHZXR0ZXJzXD4=</entry>
         <entry>push</entry>
         <entry encoding="base64">XDxwbGFudEZvcm1cPg==</entry>
         <entry encoding="base64">XDxwbGF0Zm9ybVw+</entry>
@@ -388,6 +386,9 @@
         <entry>prop</entry>
         <entry encoding="base64">XDxwcm9wXD4=</entry>
         <entry encoding="base64">XDxpc1JlcXVpcmVkXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
+        <entry>get</entry>
+        <entry encoding="base64">XDxtYXBHZXR0ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
