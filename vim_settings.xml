@@ -89,10 +89,10 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551793074956">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+      <file name="/Dummy.txt" timestamp="1551793141097">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
       </file>
       <file name="D:/coder/N-31Brands/FE/src/common/plugins/injector/router.js" timestamp="1551780269476">
         <mark key="'" line="27" column="0" />
@@ -314,7 +314,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmZpbHRlcihpdGVtID0+IGl0ZW0ucm9sZS5pbmNsdWRlcyh0aGlzLnVzZXJJZGVudGlmeSkp</text>
+        <text>多级联动 下拉框</text>
       </register>
       <register name="/" type="4">
         <text>filter</text>
