@@ -27,12 +27,12 @@
         <mark key="^" line="282" column="30" />
         <mark key="." line="325" column="22" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" timestamp="1551837775797">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="43" />
-        <mark key="." line="27" column="40" />
-        <mark key="^" line="27" column="40" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" timestamp="1551851871572">
+        <mark key="'" line="33" column="37" />
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="33" />
+        <mark key="." line="33" column="33" />
+        <mark key="^" line="33" column="33" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/company/router.js" timestamp="1551791467024">
         <mark key="'" line="2" column="9" />
@@ -41,17 +41,12 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/login/index.vue" timestamp="1551778541194">
-        <mark key="'" line="184" column="0" />
-        <mark key="[" line="184" column="0" />
-        <mark key="]" line="184" column="35" />
-        <mark key="." line="178" column="0" />
-      </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551835350364">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551851585220">
         <mark key="'" line="42" column="12" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="34" column="55" />
+        <mark key="]" line="34" column="61" />
+        <mark key="." line="34" column="61" />
+        <mark key="^" line="34" column="61" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/view.vue" timestamp="1551838022771">
         <mark key="'" line="143" column="13" />
@@ -63,24 +58,12 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" timestamp="1551842839678">
         <mark key="'" line="20" column="9" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.scss" timestamp="1551791090239">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="147" column="17" />
-      </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" timestamp="1551836785562">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" timestamp="1551851430860">
         <mark key="'" line="1" column="10" />
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="55" />
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
-      </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/components/add/index.vue" timestamp="1551789724316">
-        <mark key="'" line="81" column="20" />
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Linkage/index.scss" timestamp="1551772550463">
         <mark key="'" line="0" column="1" />
@@ -89,7 +72,7 @@
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551840285433">
+      <file name="/Dummy.txt" timestamp="1551851624561">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -201,8 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="46" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/card/router.js" />
-      <jump line="3" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/index.vue" />
       <jump line="26" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.vue" />
       <jump line="120" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.scss" />
       <jump line="4" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.scss" />
@@ -215,7 +196,6 @@
       <jump line="107" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/components/MenuLayout/index.vue" />
       <jump line="0" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
       <jump line="100" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
-      <jump line="1" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" />
       <jump line="151" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="26" column="52" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="307" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
@@ -224,7 +204,6 @@
       <jump line="262" column="29" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
       <jump line="250" column="24" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
       <jump line="4" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/visitor/containers/index.vue" />
-      <jump line="22" column="27" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="212" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="23" column="17" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="129" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
@@ -301,6 +280,10 @@
       <jump line="55" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
       <jump line="89" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
       <jump line="91" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" />
+      <jump line="1" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" />
+      <jump line="153" column="2" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="22" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
+      <jump line="33" column="37" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -319,13 +302,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>exhibitor</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYXBHZXR0ZXJzXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>platform</text>
+        <text>info.Status === 1</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy51c2VySWRlbnRpZnkpCg==</text>
@@ -399,8 +382,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
