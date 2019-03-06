@@ -222,12 +222,11 @@
         <mark key="^" line="101" column="18" />
         <mark key="." line="101" column="18" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551881906117">
-        <mark key="'" line="143" column="137" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="^" line="149" column="19" />
-        <mark key="." line="151" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551882816413">
+        <mark key="'" line="149" column="12" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="152" column="0" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/register/index.vue" timestamp="1551840283864">
         <mark key="'" line="262" column="73" />
@@ -284,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="157" column="11" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="159" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="70" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="63" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
@@ -384,6 +382,7 @@
       <jump line="188" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" />
       <jump line="58" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" />
       <jump line="11" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/UploadFile/index.vue" />
+      <jump line="149" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -414,25 +413,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1pdCgndXBkYXRlVXNlckluZm8nLCB7IC4uLnJlcy5Vc2VySW5mbyB9KQogICAgICAgICAgY29tbWl0KCd1cGRhdGVJc0xvZ2luJywgdHJ1ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGxvY2F0aW9uLmhyZWYgPSAnaG9tZScK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy4kcmVmcy5mb3JtQ29tcG9uZW50LiRyZWZzLmZvcm0udmFsaWRhdGUoKQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0sIChfLCBkYXRhMikgPT4gewogICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhMikKICAgICAgICAgICAgZGVidWdnZXIK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCAoXywgZGF0YTIpID0+IHsKICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YTIpCiAgICAgICAgICAgIGRlYnVnZ2VyCiAgICAgICAgICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">Lgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy4kcmVmcy5mb3JtQ29tcG9uZW50LiRyZWZzLmZvcm0udmFsaWRhdGUoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
