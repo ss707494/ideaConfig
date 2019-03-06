@@ -52,7 +52,7 @@
         <mark key="]" line="184" column="35" />
         <mark key="." line="178" column="0" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551791487415">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551835350364">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -120,10 +120,11 @@
         <mark key="." line="24" column="21" />
         <mark key="^" line="24" column="21" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" timestamp="1551790333279">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" timestamp="1551836647703">
+        <mark key="[" line="45" column="12" />
+        <mark key="]" line="46" column="13" />
+        <mark key="." line="46" column="13" />
+        <mark key="^" line="46" column="13" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Linkage/index.vue" timestamp="1551786073884">
         <mark key="'" line="105" column="39" />
@@ -187,7 +188,7 @@
         <mark key="." line="173" column="22" />
         <mark key="^" line="173" column="22" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" timestamp="1551792765568">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/layout/MenuLayout/index.vue" timestamp="1551835315413">
         <mark key="'" line="100" column="6" />
         <mark key="[" line="100" column="21" />
         <mark key="]" line="100" column="21" />
@@ -350,7 +351,7 @@
         <text encoding="base64">ICAgIHRoaXMuZm9ybVBhZ2VUeXBlID0gdGhpcy5pbmZvLkpvaW5UeXBlID09PSAxMCA/IGZvcm1QYWdlVHlwZSgpIDogZm9ybVBhZ2VUeXBlRXhoaWJpdG9yKCkK</text>
       </register>
       <register name=":" type="4">
-        <text>action RecentFiles</text>
+        <text>action QuickList.ss</text>
       </register>
     </registers>
     <search>
@@ -360,7 +361,7 @@
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -394,9 +395,9 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
+        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
