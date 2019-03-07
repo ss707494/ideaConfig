@@ -12,11 +12,6 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/vue-select/src/index.js" timestamp="1551859417330">
         <mark key="'" line="4" column="17" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/VueSelect/index.vue" timestamp="1551859597212">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/router.js" timestamp="1551851585220">
         <mark key="'" line="42" column="12" />
         <mark key="[" line="34" column="55" />
@@ -24,8 +19,8 @@
         <mark key="." line="34" column="61" />
         <mark key="^" line="34" column="61" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551927546240">
-        <mark key="'" line="114" column="28" />
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1551941908429">
+        <mark key="'" line="21" column="21" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/index.scss" timestamp="1551881024429">
         <mark key="'" line="82" column="4" />
@@ -91,10 +86,12 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/components/InputItem/index.vue" timestamp="1551838965105">
         <mark key="'" line="7" column="14" />
       </file>
-      <file name="E:/ss_code/graphql/src/server.js" timestamp="1551929012663">
-        <mark key="'" line="33" column="49" />
+      <file name="E:/ss_code/graphql/src/server.js" timestamp="1551938652230">
+        <mark key="'" line="18" column="42" />
+        <mark key="[" line="18" column="42" />
+        <mark key="]" line="18" column="48" />
       </file>
-      <file name="/GraphQL.variables.json" timestamp="1551928722037">
+      <file name="/GraphQL.variables.json" timestamp="1551941144841">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/ss_code/graphql/dist/schema.js" timestamp="1551927219593">
@@ -177,6 +174,13 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/contractor/containers/home/index.vue" timestamp="1551860498236">
         <mark key="'" line="34" column="28" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/index.js" timestamp="1551942192701">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="23" />
+        <mark key="." line="0" column="8" />
+      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/company/index.vue" timestamp="1551880441396">
         <mark key="'" line="1" column="10" />
         <mark key="[" line="1" column="40" />
@@ -184,8 +188,12 @@
         <mark key="." line="1" column="55" />
         <mark key="^" line="1" column="55" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551926003298">
+      <file name="E:/ss_code/react-hooks-demo/src/gql/user.graphql" timestamp="1551938768398">
         <mark key="'" line="12" column="15" />
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="24" column="7" />
+        <mark key="^" line="24" column="7" />
+        <mark key="." line="24" column="7" />
       </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/VueSelect/index.js" timestamp="1551859567859">
         <mark key="'" line="0" column="0" />
@@ -194,8 +202,8 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="27" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551929260561">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1551929271561">
+        <mark key="[" line="0" column="6" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
@@ -223,7 +231,7 @@
         <mark key="^" line="101" column="18" />
         <mark key="." line="101" column="18" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551882969556">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551938901037">
         <mark key="'" line="149" column="12" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -243,8 +251,8 @@
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
-      <file name="E:/ss_code/react-hooks-demo/graphql.config.json" timestamp="1551873528954">
-        <mark key="'" line="26" column="52" />
+      <file name="E:/ss_code/react-hooks-demo/graphql.config.json" timestamp="1551938528472">
+        <mark key="'" line="27" column="31" />
         <mark key="[" line="26" column="24" />
         <mark key="]" line="26" column="53" />
         <mark key="." line="26" column="24" />
@@ -272,6 +280,13 @@
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
       </file>
+      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1551942010140">
+        <mark key="'" line="15" column="14" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="8" column="14" />
+      </file>
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/node_modules/iview/src/components/form/form-item.vue" timestamp="1551865745618">
         <mark key="'" line="162" column="58" />
         <mark key="[" line="240" column="0" />
@@ -287,14 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="0" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="178" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="76" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="93" column="6" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="1" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
-      <jump line="38" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.scss" />
-      <jump line="14" column="14" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Unauthorized/index.vue" />
       <jump line="33" column="75" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="336" column="21" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="361" column="32" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
@@ -303,7 +310,6 @@
       <jump line="281" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="258" column="10" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="308" column="20" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
-      <jump line="27" column="14" filename="E:/ss_code/react-hooks-demo/graphql.config.json" />
       <jump line="26" column="52" filename="E:/ss_code/react-hooks-demo/graphql.config.json" />
       <jump line="212" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
       <jump line="246" column="7" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/BasicFormPage/index.vue" />
@@ -387,6 +393,15 @@
       <jump line="33" column="49" filename="E:/ss_code/graphql/src/server.js" />
       <jump line="327" column="24" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
       <jump line="329" column="23" filename="E:/ss_code/react-hooks-demo/config/webpack.config.js" />
+      <jump line="27" column="31" filename="E:/ss_code/react-hooks-demo/graphql.config.json" />
+      <jump line="18" column="42" filename="E:/ss_code/graphql/src/server.js" />
+      <jump line="8" column="21" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="9" column="4" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="19" column="35" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="5" column="14" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="21" column="21" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="15" column="14" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="9" column="8" filename="E:/ss_code/react-hooks-demo/src/views/User/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -405,49 +420,49 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>shema</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFwaHFsXD4=</text>
+        <text encoding="base64">XDxzdHlsZWRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>copySchema</text>
+        <text>props</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgKCkgPT4gd3JhcHBlckFwb2xsbyh3cmFwcGVyQ29udGV4dCgoCikpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb25zdCBzY2hlbWFzID0gYXdhaXQgUHJvbWlzZS5hbGwoc2NoZW1hRmlsZXMubWFwKGUgPT4gaW1wb3J0U2NoZW1hKHJlc29sdmVBcHAoYCR7ZGlzdFBhdGh9L3NjaGVtYS8ke2V9YCkpKSkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbW1pdCgndXBkYXRlVXNlckluZm8nLCB7IC4uLnJlcy5Vc2VySW5mbyB9KQogICAgICAgICAgY29tbWl0KCd1cGRhdGVJc0xvZ2luJywgdHJ1ZSkK</text>
+        <text encoding="base64">ICAgIDw+CiAgICAgIDxSb3V0ZXIgaGlzdG9yeT17aGlzdG9yeX0+CiAgICAgICAgPFN3aXRjaD4KICAgICAgICAgIHtyb3V0ZXN9CiAgICAgICAgICA8Um91dGUgY29tcG9uZW50PXtOb01hdGNofS8+CiAgICAgICAgPC9Td2l0Y2g+CiAgICAgIDwvUm91dGVyPgogICAgICA8IENyZWF0ZU1lc3NhZ2VPYmovPgogICAgPC8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8vIGxvY2F0aW9uLmhyZWYgPSAnaG9tZScK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAvLyBjb25zdCBzY2hlbWFzID0gYXdhaXQgUHJvbWlzZS5hbGwoc2NoZW1hRmlsZXMubWFwKGUgPT4gaW1wb3J0U2NoZW1hKHJlc29sdmVBcHAoYCR7ZGlzdFBhdGh9L3NjaGVtYS8ke2V9YCkpKSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1pdCgndXBkYXRlVXNlckluZm8nLCB7IC4uLnJlcy5Vc2VySW5mbyB9KQogICAgICAgICAgY29tbWl0KCd1cGRhdGVJc0xvZ2luJywgdHJ1ZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIGxvY2F0aW9uLmhyZWYgPSAnaG9tZScK</text>
       </register>
       <register name=":" type="4">
-        <text>action SelectInProjectView</text>
+        <text>action RecentFiles</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFwaHFsXD4=</last-search>
+      <last-search encoding="base64">XDxzdHlsZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFwaHFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdHlsZWRcPg==</last-pattern>
       <last-replace>:</last-replace>
       <last-substitute encoding="base64">ID0=</last-substitute>
       <last-dir>1</last-dir>
@@ -455,8 +470,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93XD4=</entry>
-        <entry encoding="base64">XDxvcmlnaW5EYXRhXD4=</entry>
         <entry>编辑</entry>
         <entry>mapac</entry>
         <entry encoding="base64">XDxnZXRVc2VySW5mb1w+</entry>
@@ -475,6 +488,8 @@
         <entry encoding="base64">XDx1cGRhdGVVc2VyXD4=</entry>
         <entry>graphql</entry>
         <entry encoding="base64">XDxncmFwaHFsXD4=</entry>
+        <entry encoding="base64">XDw0NDYwXD4=</entry>
+        <entry encoding="base64">XDxzdHlsZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action ToggleBookmark</entry>
@@ -486,8 +501,8 @@
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
         <entry>action QuickList.ss</entry>
-        <entry>action RecentFiles</entry>
         <entry>action SelectInProjectView</entry>
+        <entry>action RecentFiles</entry>
       </history-cmd>
       <history-expr />
       <history-input />
