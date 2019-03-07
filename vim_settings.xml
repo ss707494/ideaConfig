@@ -111,6 +111,7 @@
         <mark key="." line="1" column="15" />
         <mark key="^" line="1" column="15" />
       </file>
+      <file name="E:/ss_code/graphql/package.json" timestamp="1551924240912" />
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/user.js" timestamp="1551778236761">
         <mark key="'" line="159" column="18" />
         <mark key="[" line="117" column="14" />
@@ -193,8 +194,8 @@
         <mark key="." line="164" column="14" />
         <mark key="^" line="164" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551881148574">
-        <mark key="[" line="0" column="1" />
+      <file name="/Dummy.txt" timestamp="1551882917125">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
       </file>
@@ -222,7 +223,8 @@
         <mark key="^" line="101" column="18" />
         <mark key="." line="101" column="18" />
       </file>
-      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551882816413">
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/components/views/index.vue" timestamp="1551862365458" />
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" timestamp="1551882969556">
         <mark key="'" line="149" column="12" />
         <mark key="[" line="152" column="0" />
         <mark key="]" line="152" column="0" />
@@ -251,6 +253,7 @@
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/components/UploadFile/index.vue" timestamp="1551881268860">
         <mark key="'" line="11" column="31" />
       </file>
+      <file name="E:/ss_code/graphql/src/start.sh" timestamp="1551924217529" />
       <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/mapping/modules/formType.js" timestamp="1551789580959">
         <mark key="'" line="95" column="14" />
         <mark key="[" line="95" column="14" />
@@ -283,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="70" column="23" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="63" column="4" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
       <jump line="29" column="19" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/cityCascader/index.vue" />
@@ -383,6 +385,7 @@
       <jump line="58" column="26" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/Form/index.vue" />
       <jump line="11" column="31" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/components/UploadFile/index.vue" />
       <jump line="149" column="12" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
+      <jump line="134" column="33" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/store/modules/global.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -481,8 +484,8 @@
         <entry>.action SelectInProjectView</entry>
         <entry>vs</entry>
         <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
-        <entry>action QuickList.ss</entry>
         <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
         <entry>action SelectInProjectView</entry>
       </history-cmd>
       <history-expr />
