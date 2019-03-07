@@ -2,11 +2,12 @@
   <action id="Vcs.UpdateProject" />
   <action id="Javascript.Linters.EsLint.Fix" />
   <action id="OpenEditorInOppositeTabGroup" />
-  <action id="ShowFilePath" />
-  <action id="Cmd.RunCmdShell" />
+  <action id="WebDeployment.BrowseServers" />
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction" />
+  <action id="Cmd.RunCmdShell" />
   <action id="Unsplit" />
   <action id="NextSplitter" />
   <action id="RunJsbtTask" />
   <action id="XDebugger.NewWatch" />
+  <action id="ShowFilePath" />
 </list>
