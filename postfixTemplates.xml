@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.intellij.lang.javascript.template.postfix.JSParenthesizedPostfixTemplate#.par" key=".parss" provider="builtin.js" builtin="com.intellij.lang.javascript.template.postfix.JSParenthesizedPostfixTemplate#.par" />
+  </component>
+</application>

@@ -1,0 +1,397 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" timestamp="1552025563309">
+        <mark key="'" line="6" column="13" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" timestamp="1552144756980">
+        <mark key="'" line="16" column="34" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="35" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" timestamp="1552039129248">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="37" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" timestamp="1552035667791">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/component/Message/index.js" timestamp="1552040025518">
+        <mark key="'" line="11" column="8" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="14" />
+        <mark key="." line="11" column="14" />
+        <mark key="^" line="11" column="14" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/component/BasicLayout/index.js" timestamp="1552033671169">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="0" column="12" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="2" column="17" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1552034772786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/context/index.js" timestamp="1552038756687">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/common/login.js" timestamp="1552024688960">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="5" column="11" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" timestamp="1552016154902">
+        <mark key="'" line="13" column="34" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/containers/login/index.vue" timestamp="1552010523952">
+        <mark key="'" line="78" column="48" />
+      </file>
+      <file name="/GraphQL.result.json" timestamp="1552144741579">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/TestHooks/index.js" timestamp="1552036144656">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="51" />
+      </file>
+      <file name="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" timestamp="1552034395273">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="111" column="7" />
+        <mark key="." line="110" column="0" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/index.js" timestamp="1552024845760">
+        <mark key="'" line="21" column="52" />
+        <mark key="[" line="21" column="47" />
+        <mark key="]" line="21" column="53" />
+        <mark key="^" line="21" column="46" />
+        <mark key="." line="21" column="47" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/package.json" timestamp="1552032780560">
+        <mark key="'" line="6" column="6" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" timestamp="1552036163162">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="42" />
+      </file>
+      <file name="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" timestamp="1552023347467">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="25" />
+        <mark key="." line="82" column="18" />
+        <mark key="^" line="82" column="18" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/component/BasicLayout/style.js" timestamp="1552030055305">
+        <mark key="'" line="2" column="17" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" timestamp="1552038552006">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="11" column="26" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/Box/Box.js" timestamp="1552032819335">
+        <mark key="'" line="11" column="65" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/Routers.js" timestamp="1552028739522">
+        <mark key="'" line="6" column="22" />
+      </file>
+      <file name="E:/ss_code/react-hooks-demo/src/views/Login/index.js" timestamp="1552030079868">
+        <mark key="'" line="14" column="15" />
+        <mark key="[" line="120" column="1" />
+        <mark key="]" line="120" column="1" />
+        <mark key="." line="120" column="1" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="8" column="18" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
+      <jump line="12" column="30" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
+      <jump line="7" column="38" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
+      <jump line="64" column="16" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.vue" />
+      <jump line="5" column="45" filename="D:/coder/N-31Brands/FE/src/components/HeadNav/index.vue" />
+      <jump line="82" column="21" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="63" column="14" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="61" column="9" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="10" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="13" column="34" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.vue" />
+      <jump line="11" column="0" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="81" column="73" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="82" column="18" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="12" column="23" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/BasicLayout/index.scss" />
+      <jump line="109" column="4" filename="D:/coder/N-31Brands/FE/src/apps/brand/layout/MenuLayout/index.scss" />
+      <jump line="116" column="40" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="60" column="6" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="61" column="6" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="0" column="0" filename="E:/ss_code/react-hooks-demo/src/common/login.js" />
+      <jump line="50" column="0" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="8" column="13" filename="E:/ss_code/react-hooks-demo/src/common/login.js" />
+      <jump line="108" column="40" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="15" column="32" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="55" column="13" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="11" column="0" filename="E:/ss_code/react-hooks-demo/src/common/login.js" />
+      <jump line="5" column="2" filename="E:/ss_code/react-hooks-demo/src/common/login.js" />
+      <jump line="14" column="20" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="57" column="6" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="5" column="34" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="18" column="11" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="22" column="38" filename="E:/ss_code/react-hooks-demo/src/views/index.js" />
+      <jump line="21" column="52" filename="E:/ss_code/react-hooks-demo/src/views/index.js" />
+      <jump line="6" column="13" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/apps/exhibitor/containers/card/table.vue" />
+      <jump line="3" column="9" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="3" column="0" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="11" column="0" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="15" column="0" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="7" column="2" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="16" column="13" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="8" column="0" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="17" column="23" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="12" column="5" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="3" column="21" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="6" column="22" filename="E:/ss_code/react-hooks-demo/src/Routers.js" />
+      <jump line="5" column="13" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="14" column="15" filename="E:/ss_code/react-hooks-demo/src/views/Login/index.js" />
+      <jump line="2" column="17" filename="E:/ss_code/react-hooks-demo/src/component/BasicLayout/style.js" />
+      <jump line="2" column="23" filename="E:/ss_code/react-hooks-demo/src/component/BasicLayout/index.js" />
+      <jump line="1" column="0" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/style.js" />
+      <jump line="8" column="18" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="1" column="61" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="16" column="12" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="19" column="12" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="15" column="47" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="20" column="29" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="21" column="20" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="13" column="10" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="6" column="57" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="7" column="6" filename="E:/ss_code/react-hooks-demo/package.json" />
+      <jump line="6" column="6" filename="E:/ss_code/react-hooks-demo/package.json" />
+      <jump line="13" column="64" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/Box/Box.js" />
+      <jump line="11" column="65" filename="E:/ss_code/react-hooks-demo/node_modules/@material-ui/core/Box/Box.js" />
+      <jump line="12" column="25" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="2" column="48" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="26" column="10" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="11" column="9" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="106" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
+      <jump line="110" column="8" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
+      <jump line="108" column="0" filename="E:/code/ZhongfeiMice_UserCenter/FE/src/common/plugins/injector/axios.js" />
+      <jump line="8" column="15" filename="E:/ss_code/react-hooks-demo/src/common/context/index.js" />
+      <jump line="1" column="0" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/index.js" />
+      <jump line="5" column="0" filename="E:/ss_code/react-hooks-demo/src/views/TestHooks/demo.js" />
+      <jump line="38" column="8" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="87" column="37" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="88" column="21" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="27" column="2" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="2" column="11" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="12" column="0" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="10" column="7" filename="E:/ss_code/react-hooks-demo/src/component/MenuLayout/index.js" />
+      <jump line="28" column="0" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="1" column="9" filename="E:/ss_code/react-hooks-demo/src/common/context/index.js" />
+      <jump line="11" column="0" filename="E:/ss_code/react-hooks-demo/src/common/context/index.js" />
+      <jump line="35" column="6" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="5" column="9" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="45" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="24" column="6" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="4" column="11" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="6" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="17" column="50" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="26" column="11" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="40" column="0" filename="E:/ss_code/react-hooks-demo/src/views/User/List/index.js" />
+      <jump line="17" column="34" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="37" column="6" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="33" column="2" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="34" column="11" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="39" column="0" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="29" column="2" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="13" column="0" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+      <jump line="16" column="34" filename="E:/ss_code/react-hooks-demo/src/common/apolloCLient.js" />
+      <jump line="11" column="8" filename="E:/ss_code/react-hooks-demo/src/component/Message/index.js" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>a</text>
+      </register>
+      <register name="e" type="4">
+        <keys>
+          <key char="73" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="44" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="106" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="-" type="4">
+        <text>:</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxzaG93TWVzc2FnZVw+</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2hvd01lc3NhZ2U6ICh7IG1lc3NhZ2UsIG9wZW4gPSB0cnVlIH0pID0+IHsKICAgICAgICBzZXRNZXNzYWdlKG1lc3NhZ2UpCiAgICAgICAgc2V0T3BlbihvcGVuKQogICAgICB9Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgLy8gZGVidWdnZXIKICAgICAgLy8gY29uc3QgW3sgc2hvd01lc3NhZ2U6IHNob3dNZXNzYWdlMSB9XSA9IHVzZUN1c3RvbUNvbnRleHQoKQogICAgICAvLyBzaG93TWVzc2FnZTEoeyBtZXNzYWdlOiAndGVzdOivt+mHjeaWsOeZu+W9lScgfSkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAvLyBkZWJ1Z2dlcgogIC8vIGNvbnN0IFt7IHNob3dNZXNzYWdlOiBzaG93TWVzc2FnZTEgfV0gPSB1c2VDdXN0b21Db250ZXh0KCkKICAvLyBzaG93TWVzc2FnZTEoeyBtZXNzYWdlOiAndGVzdOivt+mHjeaWsOeZu+W9lScgfSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBzaG93TWVzc2FnZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB1c2VDdXN0b21Db250ZXh0KCkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgY2xpZW50IH0gZnJvbSAnQC9jb21tb24vYXBvbGxvQ0xpZW50Jwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNsaWVudAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>action SelectInProjectView</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxzaG93TWVzc2FnZVw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxzaG93TWVzc2FnZVw+</last-pattern>
+      <last-replace>:</last-replace>
+      <last-substitute encoding="base64">XDxzdHlsZWRcPg==</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>his</entry>
+        <entry>sum</entry>
+        <entry encoding="base64">XDxzdW1iaXRcPg==</entry>
+        <entry>sumbi</entry>
+        <entry>sub</entry>
+        <entry encoding="base64">XDxsb2dpblw+</entry>
+        <entry>}</entry>
+        <entry encoding="base64">XDxNZW51TGlzdFw+</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDxtYXRlcmlhbFw+</entry>
+        <entry encoding="base64">XDxCdXR0b25cPg==</entry>
+        <entry encoding="base64">XDxQYXBlclw+</entry>
+        <entry encoding="base64">XDxzZXRDb250ZXh0XD4=</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxDcmVhdGVNZXNzYWdlT2JqXD4=</entry>
+        <entry encoding="base64">XDxjbGllbnRcPg==</entry>
+        <entry>let</entry>
+        <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
+        <entry encoding="base64">XDx1c2VDdXN0b21Db250ZXh0XD4=</entry>
+        <entry encoding="base64">XDxzaG93TWVzc2FnZVw+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>action ToggleBookmark</entry>
+        <entry>action ShowBookmarks</entry>
+        <entry>action GotoAction</entry>
+        <entry>action ActivateRunToolWindow</entry>
+        <entry>sp</entry>
+        <entry>.action SelectInProjectView</entry>
+        <entry encoding="base64">JzwsJz5zLyA9LzovZw==</entry>
+        <entry>vs</entry>
+        <entry>action RecentFiles</entry>
+        <entry>action QuickList.ss</entry>
+        <entry>action SelectInProjectView</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

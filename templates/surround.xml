@@ -1,0 +1,22 @@
+<templateSet group="surround">
+  <template name="Y" value="'$SELECTION$'" description="'   '" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="S" value="&quot;$SELECTION$&quot;" description="&quot; &quot;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="p" value="($SELECTION$)" description="()" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="d" value="{$SELECTION$}" description="{}" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
